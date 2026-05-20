@@ -1,0 +1,13 @@
+[project]
+name = "prompt-library"
+version = "0.1.0"
+description = "A dedicated prompt library for image generation prompts"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+prompt-library = "prompt_library.cli:main"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"

@@ -1,0 +1,60 @@
+{
+  "wildcard_library": {
+    "subject": ["cyberpunk courier", "street mage", "corporate spy", "wandering monk"],
+    "lighting": ["neon rim light", "soft rain reflections", "golden hour backlight", "harsh fluorescent overhead"],
+    "camera": ["85mm portrait lens", "35mm wide angle", "50mm standard lens", "135mm telephoto"],
+    "style_modifier": ["cinematic", "photorealistic", "anime style", "oil painting"],
+    "mood": ["melancholic", "energetic", "mysterious", "serene"]
+  },
+  "prompt_identifiers": [
+    {
+      "identifier": "character_portrait_001",
+      "concept": "cinematic character portrait in a neon alley",
+      "wildcard_refs": ["subject", "lighting"],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A {subject} standing in a neon-lit alley, {lighting}, highly detailed portrait.",
+          "negative_template": "blurry, low quality, deformed hands, extra fingers",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "{subject}, neon alley, {lighting}, portrait, highly detailed, sharp focus",
+          "negative_template": "blurry, lowres, bad anatomy, deformed",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "booru-tags",
+          "syntax_family": "booru-tags",
+          "positive_template": "{subject}, alley, neon lights, {lighting}, portrait, looking at viewer, detailed face, masterpiece, best quality",
+          "negative_template": "lowres, bad anatomy, bad hands, text, watermark, signature",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "landscape_sunset_001",
+      "concept": "dramatic mountain landscape at sunset",
+      "wildcard_refs": ["camera", "style_modifier", "mood"],
+      "style_variations": [
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "({style_modifier}:1.2), dramatic mountain range at sunset, {camera}, {mood} atmosphere, volumetric clouds, god rays, ultra detailed, 8k resolution",
+          "negative_template": "(worst quality:1.4), (low quality:1.4), (normal quality:1.2), lowres, bad anatomy, bad hands",
+          "negative_prompt_strategy": "weighted"
+        },
+        {
+          "identifier": "lisp-like",
+          "syntax_family": "lisp-like",
+          "positive_template": "(landscape (subject \"mountain range\") (time \"sunset\") (camera \"{camera}\") (mood \"{mood}\") (style \"{style_modifier}\") (details \"volumetric clouds, god rays, ultra detailed\"))",
+          "negative_template": "(negative (quality \"low\") (anatomy \"bad\"))",
+          "negative_prompt_strategy": "structured"
+        }
+      ]
+    }
+  ]
+}

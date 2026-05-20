@@ -1,0 +1,54 @@
+{
+  "wildcards": {
+    "subject": {
+      "status": "active",
+      "notes": "Character/subject types for portrait prompts",
+      "values": [
+        {"value": "cyberpunk courier", "weight": 1.0},
+        {"value": "street mage", "weight": 1.0},
+        {"value": "corporate spy", "weight": 1.0},
+        {"value": "wandering monk", "weight": 1.0}
+      ]
+    },
+    "lighting": {
+      "status": "active",
+      "notes": "Lighting conditions and effects",
+      "values": [
+        {"value": "neon rim light", "weight": 1.0},
+        {"value": "soft rain reflections", "weight": 1.0},
+        {"value": "golden hour backlight", "weight": 1.0},
+        {"value": "harsh fluorescent overhead", "weight": 1.0}
+      ]
+    },
+    "camera": {
+      "status": "active",
+      "notes": "Camera lens specifications",
+      "values": [
+        {"value": "85mm portrait lens", "weight": 1.0},
+        {"value": "35mm wide angle", "weight": 1.0},
+        {"value": "50mm standard lens", "weight": 1.0},
+        {"value": "135mm telephoto", "weight": 1.0}
+      ]
+    },
+    "style_modifier": {
+      "status": "active",
+      "notes": "Art style modifiers",
+      "values": [
+        {"value": "cinematic", "weight": 1.0},
+        {"value": "photorealistic", "weight": 1.0},
+        {"value": "anime style", "weight": 1.0},
+        {"value": "oil painting", "weight": 1.0}
+      ]
+    },
+    "mood": {
+      "status": "active",
+      "notes": "Atmospheric mood descriptors",
+      "values": [
+        {"value": "melancholic", "weight": 1.0},
+        {"value": "energetic", "weight": 1.0},
+        {"value": "mysterious", "weight": 1.0},
+        {"value": "serene", "weight": 1.0}
+      ]
+    }
+  }
+}

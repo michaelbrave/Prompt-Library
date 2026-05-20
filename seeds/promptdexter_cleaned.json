@@ -1,0 +1,1684 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "serene_mountain_vista_scene_000",
+      "concept": "Serene mountain vista scene of an adventurous man standing triumphantly atop a rugged Himalayan peak at dawn",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Serene mountain vista scene of an adventurous man standing triumphantly atop a rugged Himalayan peak at dawn\nSubject: rugged man in his 30s with a short beard, windswept hair, and determined expression\nClothing: lightweight hiking jacket, cargo pants, sturdy trekking boots, backpack slung over one shoulder\nAction: standing with arms outstretched, gazing at the horizon, exuding a sense of accomplishment\nEnvironment: snow-capped Himalayan peaks under a clear sky, misty valleys below, prayer flags fluttering in the wind\nCamera: wide-angle shot from a low perspective, capturing the vast scale of the mountains\nLighting: golden hour sunrise casting warm orange glows and long shadows across rocky terrain\nStyle Details: hyper-realistic adventure photography with crisp details, dramatic depth, and epic natural beauty",
+        "date_added": "2026-05-20T14:51:31.095832",
+        "source_file": "promptdexter.txt",
+        "source_index": 0,
+        "structured_fields": {
+          "Subject": "rugged man in his 30s with a short beard, windswept hair, and determined expression",
+          "Clothing": "lightweight hiking jacket, cargo pants, sturdy trekking boots, backpack slung over one shoulder",
+          "Action": "standing with arms outstretched, gazing at the horizon, exuding a sense of accomplishment",
+          "Environment": "snow-capped Himalayan peaks under a clear sky, misty valleys below, prayer flags fluttering in the wind",
+          "Camera": "wide-angle shot from a low perspective, capturing the vast scale of the mountains",
+          "Lighting": "golden hour sunrise casting warm orange glows and long shadows across rocky terrain",
+          "Style Details": "hyper-realistic adventure photography with crisp details, dramatic depth, and epic natural beauty"
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Serene mountain vista scene of an adventurous man standing triumphantly atop a rugged Himalayan peak at dawn\nSubject: rugged man in his 30s with a short beard, windswept hair, and determined expression\nClothing: lightweight hiking jacket, cargo pants, sturdy trekking boots, backpack slung over one shoulder\nAction: standing with arms outstretched, gazing at the horizon, exuding a sense of accomplishment\nEnvironment: snow-capped Himalayan peaks under a clear sky, misty valleys below, prayer flags fluttering in the wind\nCamera: wide-angle shot from a low perspective, capturing the vast scale of the mountains\nLighting: golden hour sunrise casting warm orange glows and long shadows across rocky terrain\nStyle Details: hyper-realistic adventure photography with crisp details, dramatic depth, and epic natural beauty",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "rugged man in his 30s with a short beard, windswept hair, and determined expression, lightweight hiking jacket, cargo pants, sturdy trekking boots, backpack slung over one shoulder, standing with arms outstretched, gazing at the horizon, exuding a sense of accomplishment, snow-capped Himalayan peaks under a clear sky, misty valleys below, prayer flags fluttering in the wind, wide-angle shot from a low perspective, capturing the vast scale of the mountains, golden hour sunrise casting warm orange glows and long shadows across rocky terrain, hyper-realistic adventure photography with crisp details, dramatic depth, and epic natural beauty",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "rugged man in his 30s with a short beard, windswept hair, and determined expression wearing lightweight hiking jacket, cargo pants, sturdy trekking boots, backpack slung over one shoulder standing with arms outstretched, gazing at the horizon, exuding a sense of accomplishment in snow-capped Himalayan peaks under a clear sky, misty valleys below, prayer flags fluttering in the wind. wide-angle shot from a low perspective, capturing the vast scale of the mountains. with golden hour sunrise casting warm orange glows and long shadows across rocky terrain. hyper-realistic adventure photography with crisp details, dramatic depth, and epic natural beauty",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(hyper-realistic adventure photography with crisp details, dramatic depth, and epic natural beauty:1.2), (rugged man in his 30s with a short beard, windswept hair, and determined expression:1.1), lightweight hiking jacket, cargo pants, sturdy trekking boots, backpack slung over one shoulder, standing with arms outstretched, gazing at the horizon, exuding a sense of accomplishment, snow-capped Himalayan peaks under a clear sky, misty valleys below, prayer flags fluttering in the wind, wide-angle shot from a low perspective, capturing the vast scale of the mountains, golden hour sunrise casting warm orange glows and long shadows across rocky terrain",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "food_photography_shot_of_001",
+      "concept": "Food photography shot of a chilled strawberry shake with creamy vibrant appeal and refreshing summer indulgence",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Food photography shot of a chilled strawberry shake with creamy vibrant appeal and refreshing summer indulgence\nSubject: tall frosted glass of thick strawberry milkshake topped with whipped cream, fresh strawberries, and colorful sprinkles\nAction: shake with condensation droplets on the glass, a striped paper straw inserted, and soft cream swirling at the top\nEnvironment: bright caf\u00e9 counter setting with a pastel background, subtle ice cream parlor atmosphere, and a sunny summery mood\nCamera: close-up three-quarter angle, tight composition focused on the glass texture and toppings, premium commercial food photography framing\nLighting: cool soft light with warm highlights, glistening dew on the glass, vibrant pink tones, and a refreshing icy glow\nObjects: metal milkshake cup in background, fresh strawberries, whipped cream swirl, colorful straw, and scattered sprinkles\nStyle Details: ultra-realistic professional food photography, creamy texture detail, vibrant berry colors, glossy condensation, and polished dessert advertisement aesthetic",
+        "date_added": "2026-05-20T14:51:31.096008",
+        "source_file": "promptdexter.txt",
+        "source_index": 1,
+        "structured_fields": {
+          "Subject": "tall frosted glass of thick strawberry milkshake topped with whipped cream, fresh strawberries, and colorful sprinkles",
+          "Action": "shake with condensation droplets on the glass, a striped paper straw inserted, and soft cream swirling at the top",
+          "Environment": "bright caf\u00e9 counter setting with a pastel background, subtle ice cream parlor atmosphere, and a sunny summery mood",
+          "Camera": "close-up three-quarter angle, tight composition focused on the glass texture and toppings, premium commercial food photography framing",
+          "Lighting": "cool soft light with warm highlights, glistening dew on the glass, vibrant pink tones, and a refreshing icy glow",
+          "Objects": "metal milkshake cup in background, fresh strawberries, whipped cream swirl, colorful straw, and scattered sprinkles",
+          "Style Details": "ultra-realistic professional food photography, creamy texture detail, vibrant berry colors, glossy condensation, and polished dessert advertisement aesthetic"
+        },
+        "field_keys_present": [
+          "Subject",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Objects",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Food photography shot of a chilled strawberry shake with creamy vibrant appeal and refreshing summer indulgence\nSubject: tall frosted glass of thick strawberry milkshake topped with whipped cream, fresh strawberries, and colorful sprinkles\nAction: shake with condensation droplets on the glass, a striped paper straw inserted, and soft cream swirling at the top\nEnvironment: bright caf\u00e9 counter setting with a pastel background, subtle ice cream parlor atmosphere, and a sunny summery mood\nCamera: close-up three-quarter angle, tight composition focused on the glass texture and toppings, premium commercial food photography framing\nLighting: cool soft light with warm highlights, glistening dew on the glass, vibrant pink tones, and a refreshing icy glow\nObjects: metal milkshake cup in background, fresh strawberries, whipped cream swirl, colorful straw, and scattered sprinkles\nStyle Details: ultra-realistic professional food photography, creamy texture detail, vibrant berry colors, glossy condensation, and polished dessert advertisement aesthetic",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "tall frosted glass of thick strawberry milkshake topped with whipped cream, fresh strawberries, and colorful sprinkles, shake with condensation droplets on the glass, a striped paper straw inserted, and soft cream swirling at the top, bright caf\u00e9 counter setting with a pastel background, subtle ice cream parlor atmosphere, and a sunny summery mood, close-up three-quarter angle, tight composition focused on the glass texture and toppings, premium commercial food photography framing, cool soft light with warm highlights, glistening dew on the glass, vibrant pink tones, and a refreshing icy glow, metal milkshake cup in background, fresh strawberries, whipped cream swirl, colorful straw, and scattered sprinkles, ultra-realistic professional food photography, creamy texture detail, vibrant berry colors, glossy condensation, and polished dessert advertisement aesthetic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "tall frosted glass of thick strawberry milkshake topped with whipped cream, fresh strawberries, and colorful sprinkles shake with condensation droplets on the glass, a striped paper straw inserted, and soft cream swirling at the top in bright caf\u00e9 counter setting with a pastel background, subtle ice cream parlor atmosphere, and a sunny summery mood. close-up three-quarter angle, tight composition focused on the glass texture and toppings, premium commercial food photography framing. with cool soft light with warm highlights, glistening dew on the glass, vibrant pink tones, and a refreshing icy glow. ultra-realistic professional food photography, creamy texture detail, vibrant berry colors, glossy condensation, and polished dessert advertisement aesthetic",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(ultra-realistic professional food photography, creamy texture detail, vibrant berry colors, glossy condensation, and polished dessert advertisement aesthetic:1.2), (tall frosted glass of thick strawberry milkshake topped with whipped cream, fresh strawberries, and colorful sprinkles:1.1), shake with condensation droplets on the glass, a striped paper straw inserted, and soft cream swirling at the top, bright caf\u00e9 counter setting with a pastel background, subtle ice cream parlor atmosphere, and a sunny summery mood, close-up three-quarter angle, tight composition focused on the glass texture and toppings, premium commercial food photography framing, cool soft light with warm highlights, glistening dew on the glass, vibrant pink tones, and a refreshing icy glow, metal milkshake cup in background, fresh strawberries, whipped cream swirl, colorful straw, and scattered sprinkles",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "food_photography_shot_of_002",
+      "concept": "Food photography shot of steaming ramen bowl with rich umami broth appeal and slurpy noodle comfort",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Food photography shot of steaming ramen bowl with rich umami broth appeal and slurpy noodle comfort\nSubject: deep bowl of tonkotsu ramen with glossy pork broth, tangled wheat noodles, soft boiled egg halved, chashu pork slices, green onions, and nori sheets\nAction: chopsticks lifting glossy noodles with broth dripping, steam rising thickly from the hot surface\nEnvironment: cozy ramen shop counter setting with a dark wooden tray, blurred neon sign background, and intimate late-night atmosphere\nCamera: close-up three-quarter angle, tight dynamic composition focused on the noodle lift, premium editorial food photography framing\nLighting: warm low overhead light, steam glow, highlights on broth surface and egg yolk, moody savory contrast\nObjects: black ceramic bowl, pink ginger slices, bamboo chopsticks, chili oil drizzle, sesame seeds, and soy sauce bottle\nStyle Details: ultra-realistic professional food photography, steamy broth texture detail, authentic Japanese styling, deep warm tones, and polished ramen shop presentation",
+        "date_added": "2026-05-20T14:51:31.096057",
+        "source_file": "promptdexter.txt",
+        "source_index": 2,
+        "structured_fields": {
+          "Subject": "deep bowl of tonkotsu ramen with glossy pork broth, tangled wheat noodles, soft boiled egg halved, chashu pork slices, green onions, and nori sheets",
+          "Action": "chopsticks lifting glossy noodles with broth dripping, steam rising thickly from the hot surface",
+          "Environment": "cozy ramen shop counter setting with a dark wooden tray, blurred neon sign background, and intimate late-night atmosphere",
+          "Camera": "close-up three-quarter angle, tight dynamic composition focused on the noodle lift, premium editorial food photography framing",
+          "Lighting": "warm low overhead light, steam glow, highlights on broth surface and egg yolk, moody savory contrast",
+          "Objects": "black ceramic bowl, pink ginger slices, bamboo chopsticks, chili oil drizzle, sesame seeds, and soy sauce bottle",
+          "Style Details": "ultra-realistic professional food photography, steamy broth texture detail, authentic Japanese styling, deep warm tones, and polished ramen shop presentation"
+        },
+        "field_keys_present": [
+          "Subject",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Objects",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Food photography shot of steaming ramen bowl with rich umami broth appeal and slurpy noodle comfort\nSubject: deep bowl of tonkotsu ramen with glossy pork broth, tangled wheat noodles, soft boiled egg halved, chashu pork slices, green onions, and nori sheets\nAction: chopsticks lifting glossy noodles with broth dripping, steam rising thickly from the hot surface\nEnvironment: cozy ramen shop counter setting with a dark wooden tray, blurred neon sign background, and intimate late-night atmosphere\nCamera: close-up three-quarter angle, tight dynamic composition focused on the noodle lift, premium editorial food photography framing\nLighting: warm low overhead light, steam glow, highlights on broth surface and egg yolk, moody savory contrast\nObjects: black ceramic bowl, pink ginger slices, bamboo chopsticks, chili oil drizzle, sesame seeds, and soy sauce bottle\nStyle Details: ultra-realistic professional food photography, steamy broth texture detail, authentic Japanese styling, deep warm tones, and polished ramen shop presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "deep bowl of tonkotsu ramen with glossy pork broth, tangled wheat noodles, soft boiled egg halved, chashu pork slices, green onions, and nori sheets, chopsticks lifting glossy noodles with broth dripping, steam rising thickly from the hot surface, cozy ramen shop counter setting with a dark wooden tray, blurred neon sign background, and intimate late-night atmosphere, close-up three-quarter angle, tight dynamic composition focused on the noodle lift, premium editorial food photography framing, warm low overhead light, steam glow, highlights on broth surface and egg yolk, moody savory contrast, black ceramic bowl, pink ginger slices, bamboo chopsticks, chili oil drizzle, sesame seeds, and soy sauce bottle, ultra-realistic professional food photography, steamy broth texture detail, authentic Japanese styling, deep warm tones, and polished ramen shop presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "deep bowl of tonkotsu ramen with glossy pork broth, tangled wheat noodles, soft boiled egg halved, chashu pork slices, green onions, and nori sheets chopsticks lifting glossy noodles with broth dripping, steam rising thickly from the hot surface in cozy ramen shop counter setting with a dark wooden tray, blurred neon sign background, and intimate late-night atmosphere. close-up three-quarter angle, tight dynamic composition focused on the noodle lift, premium editorial food photography framing. with warm low overhead light, steam glow, highlights on broth surface and egg yolk, moody savory contrast. ultra-realistic professional food photography, steamy broth texture detail, authentic Japanese styling, deep warm tones, and polished ramen shop presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(ultra-realistic professional food photography, steamy broth texture detail, authentic Japanese styling, deep warm tones, and polished ramen shop presentation:1.2), (deep bowl of tonkotsu ramen with glossy pork broth, tangled wheat noodles, soft boiled egg halved, chashu pork slices, green onions, and nori sheets:1.1), chopsticks lifting glossy noodles with broth dripping, steam rising thickly from the hot surface, cozy ramen shop counter setting with a dark wooden tray, blurred neon sign background, and intimate late-night atmosphere, close-up three-quarter angle, tight dynamic composition focused on the noodle lift, premium editorial food photography framing, warm low overhead light, steam glow, highlights on broth surface and egg yolk, moody savory contrast, black ceramic bowl, pink ginger slices, bamboo chopsticks, chili oil drizzle, sesame seeds, and soy sauce bottle",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "gorgeous_bridal_photography_portrait_003",
+      "concept": "Gorgeous bridal photography portrait of a shy yet stunning bride glancing coyly over her shoulder with a delicate blush.",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Gorgeous bridal photography portrait of a shy yet stunning bride glancing coyly over her shoulder with a delicate blush.\nSubject: breathtaking young bride with flawless porcelain skin, long wavy hair partially veiled, soft shy expression with downcast eyes and subtle smile.\nClothing: luxurious fitted white silk gown with lace bodice, off-shoulder sleeves, and flowing tulle skirt, elegant veil cascading down.\nAccessories: diamond drop earrings, pearl bracelet, holding a bouquet of white peonies and roses.\nAction: turning head slightly away in shy pose, one hand gently lifting veil, gazing back demurely.\nEnvironment: blooming garden terrace at golden hour with soft-focus flowers and misty background.\nCamera: close-up portrait from side angle, 85mm lens, shallow depth of field blurring background.\nLighting: warm golden sunlight creating rim light glow around hair and shoulders, soft shadows enhancing delicate features.\nStyle Details: ultra-realistic cinematic bridal photography, high-detail 8K, dreamy romantic atmosphere, flawless skin texture, timeless elegance.",
+        "date_added": "2026-05-20T14:51:31.096102",
+        "source_file": "promptdexter.txt",
+        "source_index": 3,
+        "structured_fields": {
+          "Subject": "breathtaking young bride with flawless porcelain skin, long wavy hair partially veiled, soft shy expression with downcast eyes and subtle smile.",
+          "Clothing": "luxurious fitted white silk gown with lace bodice, off-shoulder sleeves, and flowing tulle skirt, elegant veil cascading down.",
+          "Accessories": "diamond drop earrings, pearl bracelet, holding a bouquet of white peonies and roses.",
+          "Action": "turning head slightly away in shy pose, one hand gently lifting veil, gazing back demurely.",
+          "Environment": "blooming garden terrace at golden hour with soft-focus flowers and misty background.",
+          "Camera": "close-up portrait from side angle, 85mm lens, shallow depth of field blurring background.",
+          "Lighting": "warm golden sunlight creating rim light glow around hair and shoulders, soft shadows enhancing delicate features.",
+          "Style Details": "ultra-realistic cinematic bridal photography, high-detail 8K, dreamy romantic atmosphere, flawless skin texture, timeless elegance."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Accessories",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Gorgeous bridal photography portrait of a shy yet stunning bride glancing coyly over her shoulder with a delicate blush.\nSubject: breathtaking young bride with flawless porcelain skin, long wavy hair partially veiled, soft shy expression with downcast eyes and subtle smile.\nClothing: luxurious fitted white silk gown with lace bodice, off-shoulder sleeves, and flowing tulle skirt, elegant veil cascading down.\nAccessories: diamond drop earrings, pearl bracelet, holding a bouquet of white peonies and roses.\nAction: turning head slightly away in shy pose, one hand gently lifting veil, gazing back demurely.\nEnvironment: blooming garden terrace at golden hour with soft-focus flowers and misty background.\nCamera: close-up portrait from side angle, 85mm lens, shallow depth of field blurring background.\nLighting: warm golden sunlight creating rim light glow around hair and shoulders, soft shadows enhancing delicate features.\nStyle Details: ultra-realistic cinematic bridal photography, high-detail 8K, dreamy romantic atmosphere, flawless skin texture, timeless elegance.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "breathtaking young bride with flawless porcelain skin, long wavy hair partially veiled, soft shy expression with downcast eyes and subtle smile., luxurious fitted white silk gown with lace bodice, off-shoulder sleeves, and flowing tulle skirt, elegant veil cascading down., turning head slightly away in shy pose, one hand gently lifting veil, gazing back demurely., blooming garden terrace at golden hour with soft-focus flowers and misty background., close-up portrait from side angle, 85mm lens, shallow depth of field blurring background., warm golden sunlight creating rim light glow around hair and shoulders, soft shadows enhancing delicate features., ultra-realistic cinematic bridal photography, high-detail 8K, dreamy romantic atmosphere, flawless skin texture, timeless elegance., diamond drop earrings, pearl bracelet, holding a bouquet of white peonies and roses.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "breathtaking young bride with flawless porcelain skin, long wavy hair partially veiled, soft shy expression with downcast eyes and subtle smile. wearing luxurious fitted white silk gown with lace bodice, off-shoulder sleeves, and flowing tulle skirt, elegant veil cascading down. turning head slightly away in shy pose, one hand gently lifting veil, gazing back demurely. in blooming garden terrace at golden hour with soft-focus flowers and misty background.. close-up portrait from side angle, 85mm lens, shallow depth of field blurring background.. with warm golden sunlight creating rim light glow around hair and shoulders, soft shadows enhancing delicate features.. ultra-realistic cinematic bridal photography, high-detail 8K, dreamy romantic atmosphere, flawless skin texture, timeless elegance.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(ultra-realistic cinematic bridal photography, high-detail 8K, dreamy romantic atmosphere, flawless skin texture, timeless elegance.:1.2), (breathtaking young bride with flawless porcelain skin, long wavy hair partially veiled, soft shy expression with downcast eyes and subtle smile.:1.1), luxurious fitted white silk gown with lace bodice, off-shoulder sleeves, and flowing tulle skirt, elegant veil cascading down., turning head slightly away in shy pose, one hand gently lifting veil, gazing back demurely., blooming garden terrace at golden hour with soft-focus flowers and misty background., close-up portrait from side angle, 85mm lens, shallow depth of field blurring background., warm golden sunlight creating rim light glow around hair and shoulders, soft shadows enhancing delicate features., diamond drop earrings, pearl bracelet, holding a bouquet of white peonies and roses.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "vibrant_tropical_paradise_scene_004",
+      "concept": "Vibrant tropical paradise scene of a relaxed man strolling along a pristine beach in Phuket, Thailand, at sunset",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Vibrant tropical paradise scene of a relaxed man strolling along a pristine beach in Phuket, Thailand, at sunset\nSubject: fit man in his late 20s with sun-kissed skin, casual smile, and tousled hair\nClothing: loose white linen shirt billowing in the breeze, khaki shorts, flip-flops sinking into sand\nAction: walking barefoot along the shoreline, gazing at the ocean waves with a sense of freedom\nEnvironment: powdery white sand beach, turquoise waves gently lapping, lush green palm jungle backdrop, distant islands on horizon\nCamera: medium tracking shot from side angle, emphasizing relaxed stride and endless horizon\nLighting: warm sunset hues of orange and pink bathing the scene, golden reflections on water\nStyle Details: vivid travel photography aesthetic with high saturation, sharp focus, and idyllic vacation mood",
+        "date_added": "2026-05-20T14:51:31.096138",
+        "source_file": "promptdexter.txt",
+        "source_index": 4,
+        "structured_fields": {
+          "Subject": "fit man in his late 20s with sun-kissed skin, casual smile, and tousled hair",
+          "Clothing": "loose white linen shirt billowing in the breeze, khaki shorts, flip-flops sinking into sand",
+          "Action": "walking barefoot along the shoreline, gazing at the ocean waves with a sense of freedom",
+          "Environment": "powdery white sand beach, turquoise waves gently lapping, lush green palm jungle backdrop, distant islands on horizon",
+          "Camera": "medium tracking shot from side angle, emphasizing relaxed stride and endless horizon",
+          "Lighting": "warm sunset hues of orange and pink bathing the scene, golden reflections on water",
+          "Style Details": "vivid travel photography aesthetic with high saturation, sharp focus, and idyllic vacation mood"
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Vibrant tropical paradise scene of a relaxed man strolling along a pristine beach in Phuket, Thailand, at sunset\nSubject: fit man in his late 20s with sun-kissed skin, casual smile, and tousled hair\nClothing: loose white linen shirt billowing in the breeze, khaki shorts, flip-flops sinking into sand\nAction: walking barefoot along the shoreline, gazing at the ocean waves with a sense of freedom\nEnvironment: powdery white sand beach, turquoise waves gently lapping, lush green palm jungle backdrop, distant islands on horizon\nCamera: medium tracking shot from side angle, emphasizing relaxed stride and endless horizon\nLighting: warm sunset hues of orange and pink bathing the scene, golden reflections on water\nStyle Details: vivid travel photography aesthetic with high saturation, sharp focus, and idyllic vacation mood",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "fit man in his late 20s with sun-kissed skin, casual smile, and tousled hair, loose white linen shirt billowing in the breeze, khaki shorts, flip-flops sinking into sand, walking barefoot along the shoreline, gazing at the ocean waves with a sense of freedom, powdery white sand beach, turquoise waves gently lapping, lush green palm jungle backdrop, distant islands on horizon, medium tracking shot from side angle, emphasizing relaxed stride and endless horizon, warm sunset hues of orange and pink bathing the scene, golden reflections on water, vivid travel photography aesthetic with high saturation, sharp focus, and idyllic vacation mood",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "fit man in his late 20s with sun-kissed skin, casual smile, and tousled hair wearing loose white linen shirt billowing in the breeze, khaki shorts, flip-flops sinking into sand walking barefoot along the shoreline, gazing at the ocean waves with a sense of freedom in powdery white sand beach, turquoise waves gently lapping, lush green palm jungle backdrop, distant islands on horizon. medium tracking shot from side angle, emphasizing relaxed stride and endless horizon. with warm sunset hues of orange and pink bathing the scene, golden reflections on water. vivid travel photography aesthetic with high saturation, sharp focus, and idyllic vacation mood",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(vivid travel photography aesthetic with high saturation, sharp focus, and idyllic vacation mood:1.2), (fit man in his late 20s with sun-kissed skin, casual smile, and tousled hair:1.1), loose white linen shirt billowing in the breeze, khaki shorts, flip-flops sinking into sand, walking barefoot along the shoreline, gazing at the ocean waves with a sense of freedom, powdery white sand beach, turquoise waves gently lapping, lush green palm jungle backdrop, distant islands on horizon, medium tracking shot from side angle, emphasizing relaxed stride and endless horizon, warm sunset hues of orange and pink bathing the scene, golden reflections on water",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_stylish_man_leaning_005",
+      "concept": "A stylish man leaning casually against a textured stone wall in an urban setting",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A stylish man leaning casually against a textured stone wall in an urban setting\nSubject: A handsome young man with short dark hair and facial stubble wearing sunglasses.\nClothing: Wearing a navy blue denim shirt over a white t-shirt with bold red text, paired with beige chinos and tan sneakers. Accessories: He wears a black baseball cap, a wristwatch on his left arm, has keys hanging from his belt loop, and hands are in pockets.\nEnvironment: Standing next to large stone blocks of an old building under bright sunlight casting sharp shadows; paved sidewalk background.\nLighting: Strong warm golden hour light creating deep contrast and long dramatic shadows along the wall and floor.\nCamera: Medium shot framed at eye level with a shallow depth of field blurring the darkened doorway behind him.",
+        "date_added": "2026-05-20T14:51:31.096175",
+        "source_file": "promptdexter.txt",
+        "source_index": 5,
+        "structured_fields": {
+          "Subject": "A handsome young man with short dark hair and facial stubble wearing sunglasses.",
+          "Clothing": "Wearing a navy blue denim shirt over a white t-shirt with bold red text, paired with beige chinos and tan sneakers. Accessories: He wears a black baseball cap, a wristwatch on his left arm, has keys hanging from his belt loop, and hands are in pockets.",
+          "Environment": "Standing next to large stone blocks of an old building under bright sunlight casting sharp shadows; paved sidewalk background.",
+          "Lighting": "Strong warm golden hour light creating deep contrast and long dramatic shadows along the wall and floor.",
+          "Camera": "Medium shot framed at eye level with a shallow depth of field blurring the darkened doorway behind him."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Environment",
+          "Lighting",
+          "Camera"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A stylish man leaning casually against a textured stone wall in an urban setting\nSubject: A handsome young man with short dark hair and facial stubble wearing sunglasses.\nClothing: Wearing a navy blue denim shirt over a white t-shirt with bold red text, paired with beige chinos and tan sneakers. Accessories: He wears a black baseball cap, a wristwatch on his left arm, has keys hanging from his belt loop, and hands are in pockets.\nEnvironment: Standing next to large stone blocks of an old building under bright sunlight casting sharp shadows; paved sidewalk background.\nLighting: Strong warm golden hour light creating deep contrast and long dramatic shadows along the wall and floor.\nCamera: Medium shot framed at eye level with a shallow depth of field blurring the darkened doorway behind him.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A handsome young man with short dark hair and facial stubble wearing sunglasses., Wearing a navy blue denim shirt over a white t-shirt with bold red text, paired with beige chinos and tan sneakers. Accessories: He wears a black baseball cap, a wristwatch on his left arm, has keys hanging from his belt loop, and hands are in pockets., Standing next to large stone blocks of an old building under bright sunlight casting sharp shadows; paved sidewalk background., Medium shot framed at eye level with a shallow depth of field blurring the darkened doorway behind him., Strong warm golden hour light creating deep contrast and long dramatic shadows along the wall and floor.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A handsome young man with short dark hair and facial stubble wearing sunglasses. wearing Wearing a navy blue denim shirt over a white t-shirt with bold red text, paired with beige chinos and tan sneakers. Accessories: He wears a black baseball cap, a wristwatch on his left arm, has keys hanging from his belt loop, and hands are in pockets. in Standing next to large stone blocks of an old building under bright sunlight casting sharp shadows; paved sidewalk background.. Medium shot framed at eye level with a shallow depth of field blurring the darkened doorway behind him.. with Strong warm golden hour light creating deep contrast and long dramatic shadows along the wall and floor.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(A handsome young man with short dark hair and facial stubble wearing sunglasses.:1.1), Wearing a navy blue denim shirt over a white t-shirt with bold red text, paired with beige chinos and tan sneakers. Accessories: He wears a black baseball cap, a wristwatch on his left arm, has keys hanging from his belt loop, and hands are in pockets., Standing next to large stone blocks of an old building under bright sunlight casting sharp shadows; paved sidewalk background., Medium shot framed at eye level with a shallow depth of field blurring the darkened doorway behind him., Strong warm golden hour light creating deep contrast and long dramatic shadows along the wall and floor.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_young_man_sitting_006",
+      "concept": "A young man sitting cross-legged on the floor in a futuristic mirrored corridor with vertical light strips",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A young man sitting cross-legged on the floor in a futuristic mirrored corridor with vertical light strips\nSubject: A serious-looking young man wearing a white baseball cap backward and looking directly at the camera, clean-shaven face with short dark hair.\nClothing: Bright red zip-up hoodie over a plain white crew-neck t-shirt, black ripped jeans with large tears on both knees, black sneakers with thick soles, and a simple beaded bracelet on his left wrist.\nEnvironment: An endless mirrored hallway reflecting the subject multiple times in diminishing perspective; walls lined with tall vertical LED light bars emitting cool bright illumination, polished reflective floor creating mirror images of feet and lower legs.\nLighting: Cool-toned ambient lighting from overhead fluorescent tubes reflected through mirrors, high-contrast reflections enhancing depth perception along corridor length, soft shadows under seated figure emphasizing grounded presence within space.\nCamera: Eye-level shot with symmetrical composition centered on subject's face, slight wide-angle distortion visible at edges accentuating infinite tunnel effect created by mirror repetition and converging perspective lines drawing viewer gaze toward center of frame.",
+        "date_added": "2026-05-20T14:51:31.096209",
+        "source_file": "promptdexter.txt",
+        "source_index": 6,
+        "structured_fields": {
+          "Subject": "A serious-looking young man wearing a white baseball cap backward and looking directly at the camera, clean-shaven face with short dark hair.",
+          "Clothing": "Bright red zip-up hoodie over a plain white crew-neck t-shirt, black ripped jeans with large tears on both knees, black sneakers with thick soles, and a simple beaded bracelet on his left wrist.",
+          "Environment": "An endless mirrored hallway reflecting the subject multiple times in diminishing perspective; walls lined with tall vertical LED light bars emitting cool bright illumination, polished reflective floor creating mirror images of feet and lower legs.",
+          "Lighting": "Cool-toned ambient lighting from overhead fluorescent tubes reflected through mirrors, high-contrast reflections enhancing depth perception along corridor length, soft shadows under seated figure emphasizing grounded presence within space.",
+          "Camera": "Eye-level shot with symmetrical composition centered on subject's face, slight wide-angle distortion visible at edges accentuating infinite tunnel effect created by mirror repetition and converging perspective lines drawing viewer gaze toward center of frame."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Environment",
+          "Lighting",
+          "Camera"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A young man sitting cross-legged on the floor in a futuristic mirrored corridor with vertical light strips\nSubject: A serious-looking young man wearing a white baseball cap backward and looking directly at the camera, clean-shaven face with short dark hair.\nClothing: Bright red zip-up hoodie over a plain white crew-neck t-shirt, black ripped jeans with large tears on both knees, black sneakers with thick soles, and a simple beaded bracelet on his left wrist.\nEnvironment: An endless mirrored hallway reflecting the subject multiple times in diminishing perspective; walls lined with tall vertical LED light bars emitting cool bright illumination, polished reflective floor creating mirror images of feet and lower legs.\nLighting: Cool-toned ambient lighting from overhead fluorescent tubes reflected through mirrors, high-contrast reflections enhancing depth perception along corridor length, soft shadows under seated figure emphasizing grounded presence within space.\nCamera: Eye-level shot with symmetrical composition centered on subject's face, slight wide-angle distortion visible at edges accentuating infinite tunnel effect created by mirror repetition and converging perspective lines drawing viewer gaze toward center of frame.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A serious-looking young man wearing a white baseball cap backward and looking directly at the camera, clean-shaven face with short dark hair., Bright red zip-up hoodie over a plain white crew-neck t-shirt, black ripped jeans with large tears on both knees, black sneakers with thick soles, and a simple beaded bracelet on his left wrist., An endless mirrored hallway reflecting the subject multiple times in diminishing perspective; walls lined with tall vertical LED light bars emitting cool bright illumination, polished reflective floor creating mirror images of feet and lower legs., Eye-level shot with symmetrical composition centered on subject's face, slight wide-angle distortion visible at edges accentuating infinite tunnel effect created by mirror repetition and converging perspective lines drawing viewer gaze toward center of frame., Cool-toned ambient lighting from overhead fluorescent tubes reflected through mirrors, high-contrast reflections enhancing depth perception along corridor length, soft shadows under seated figure emphasizing grounded presence within space.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A serious-looking young man wearing a white baseball cap backward and looking directly at the camera, clean-shaven face with short dark hair. wearing Bright red zip-up hoodie over a plain white crew-neck t-shirt, black ripped jeans with large tears on both knees, black sneakers with thick soles, and a simple beaded bracelet on his left wrist. in An endless mirrored hallway reflecting the subject multiple times in diminishing perspective; walls lined with tall vertical LED light bars emitting cool bright illumination, polished reflective floor creating mirror images of feet and lower legs.. Eye-level shot with symmetrical composition centered on subject's face, slight wide-angle distortion visible at edges accentuating infinite tunnel effect created by mirror repetition and converging perspective lines drawing viewer gaze toward center of frame.. with Cool-toned ambient lighting from overhead fluorescent tubes reflected through mirrors, high-contrast reflections enhancing depth perception along corridor length, soft shadows under seated figure emphasizing grounded presence within space.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(A serious-looking young man wearing a white baseball cap backward and looking directly at the camera, clean-shaven face with short dark hair.:1.1), Bright red zip-up hoodie over a plain white crew-neck t-shirt, black ripped jeans with large tears on both knees, black sneakers with thick soles, and a simple beaded bracelet on his left wrist., An endless mirrored hallway reflecting the subject multiple times in diminishing perspective; walls lined with tall vertical LED light bars emitting cool bright illumination, polished reflective floor creating mirror images of feet and lower legs., Eye-level shot with symmetrical composition centered on subject's face, slight wide-angle distortion visible at edges accentuating infinite tunnel effect created by mirror repetition and converging perspective lines drawing viewer gaze toward center of frame., Cool-toned ambient lighting from overhead fluorescent tubes reflected through mirrors, high-contrast reflections enhancing depth perception along corridor length, soft shadows under seated figure emphasizing grounded presence within space.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_cinematic_portrait_of_007",
+      "concept": "A cinematic portrait of a woman standing on blue-painted stone steps in a narrow alleyway bathed in warm golden sunlight",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A cinematic portrait of a woman standing on blue-painted stone steps in a narrow alleyway bathed in warm golden sunlight\nSubject: A young woman with dark hair tied back, smiling gently upward while looking toward the light\nClothing: An off-the-shoulder white blouse with ruffled sleeves and elastic cuffs paired with a flowing black midi skirt, complemented by black low heels\nAction: She stands relaxed on blue stone stairs, one hand lightly touching the wall beside her as she gazes up at blooming flowers above\nEnvironment: A charming cobalt-blue alleyway lined with terracotta pots holding green plants and vibrant pink bougainvillea cascading from balconies, leading toward a distant wooden door under soft sunbeams\nLighting: Warm golden-hour sunlight filters down from the top of the frame, casting gentle highlights on her face and clothing while creating subtle shadows along the walls and steps for depth\nObjects: A sleeping ginger cat rests peacefully on the lower blue stair beside her feet;",
+        "date_added": "2026-05-20T14:51:31.096241",
+        "source_file": "promptdexter.txt",
+        "source_index": 7,
+        "structured_fields": {
+          "Subject": "A young woman with dark hair tied back, smiling gently upward while looking toward the light",
+          "Clothing": "An off-the-shoulder white blouse with ruffled sleeves and elastic cuffs paired with a flowing black midi skirt, complemented by black low heels",
+          "Action": "She stands relaxed on blue stone stairs, one hand lightly touching the wall beside her as she gazes up at blooming flowers above",
+          "Environment": "A charming cobalt-blue alleyway lined with terracotta pots holding green plants and vibrant pink bougainvillea cascading from balconies, leading toward a distant wooden door under soft sunbeams",
+          "Lighting": "Warm golden-hour sunlight filters down from the top of the frame, casting gentle highlights on her face and clothing while creating subtle shadows along the walls and steps for depth",
+          "Objects": "A sleeping ginger cat rests peacefully on the lower blue stair beside her feet;"
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Lighting",
+          "Objects"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A cinematic portrait of a woman standing on blue-painted stone steps in a narrow alleyway bathed in warm golden sunlight\nSubject: A young woman with dark hair tied back, smiling gently upward while looking toward the light\nClothing: An off-the-shoulder white blouse with ruffled sleeves and elastic cuffs paired with a flowing black midi skirt, complemented by black low heels\nAction: She stands relaxed on blue stone stairs, one hand lightly touching the wall beside her as she gazes up at blooming flowers above\nEnvironment: A charming cobalt-blue alleyway lined with terracotta pots holding green plants and vibrant pink bougainvillea cascading from balconies, leading toward a distant wooden door under soft sunbeams\nLighting: Warm golden-hour sunlight filters down from the top of the frame, casting gentle highlights on her face and clothing while creating subtle shadows along the walls and steps for depth\nObjects: A sleeping ginger cat rests peacefully on the lower blue stair beside her feet;",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A young woman with dark hair tied back, smiling gently upward while looking toward the light, An off-the-shoulder white blouse with ruffled sleeves and elastic cuffs paired with a flowing black midi skirt, complemented by black low heels, She stands relaxed on blue stone stairs, one hand lightly touching the wall beside her as she gazes up at blooming flowers above, A charming cobalt-blue alleyway lined with terracotta pots holding green plants and vibrant pink bougainvillea cascading from balconies, leading toward a distant wooden door under soft sunbeams, Warm golden-hour sunlight filters down from the top of the frame, casting gentle highlights on her face and clothing while creating subtle shadows along the walls and steps for depth, A sleeping ginger cat rests peacefully on the lower blue stair beside her feet;",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A young woman with dark hair tied back, smiling gently upward while looking toward the light wearing An off-the-shoulder white blouse with ruffled sleeves and elastic cuffs paired with a flowing black midi skirt, complemented by black low heels She stands relaxed on blue stone stairs, one hand lightly touching the wall beside her as she gazes up at blooming flowers above in A charming cobalt-blue alleyway lined with terracotta pots holding green plants and vibrant pink bougainvillea cascading from balconies, leading toward a distant wooden door under soft sunbeams. with Warm golden-hour sunlight filters down from the top of the frame, casting gentle highlights on her face and clothing while creating subtle shadows along the walls and steps for depth",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(A young woman with dark hair tied back, smiling gently upward while looking toward the light:1.1), An off-the-shoulder white blouse with ruffled sleeves and elastic cuffs paired with a flowing black midi skirt, complemented by black low heels, She stands relaxed on blue stone stairs, one hand lightly touching the wall beside her as she gazes up at blooming flowers above, A charming cobalt-blue alleyway lined with terracotta pots holding green plants and vibrant pink bougainvillea cascading from balconies, leading toward a distant wooden door under soft sunbeams, Warm golden-hour sunlight filters down from the top of the frame, casting gentle highlights on her face and clothing while creating subtle shadows along the walls and steps for depth, A sleeping ginger cat rests peacefully on the lower blue stair beside her feet;",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_a_young_008",
+      "concept": "Portrait of a young woman with long dark hair and expressive eyes posing against a neutral gray background",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Portrait of a young woman with long dark hair and expressive eyes posing against a neutral gray background\nSubject: confident female model with wet-looking dark waves, subtle makeup on her face including defined eyebrows and pink lips\nClothing: black denim jacket worn off one shoulder revealing collarbone paired with light blue jeans cinched by a thin belt featuring silver hardware details like buttons and buckles along the front pockets area of the garment which has visible stitching patterns characteristic of classic styles such as Levi's brand designs known for durability combined comfort fit through relaxed silhouette construction suitable for casual wear occasions\nAction: sitting comfortably while resting her chin gently on hand supporting head weight evenly distributed across arm muscles creating natural curve lines around neck joint connecting shoulder blade region down towards elbow flexion point showing relaxed yet intentional posture conveying calmness confidence simultaneously without tension evident in facial features or body language suggesting ease familiarity with setting environment captured moment\nObjects: wooden skateboard positioned vertically between legs displaying worn deck surface revealing grain texture under soft lighting conditions highlighting red wheels attached via metal trucks secured tightly to board structure indicating readiness use despite current stationary state reflecting youth culture aesthetic preferences among contemporary audiences seeking authenticity individuality within skateboarding subculture communities worldwide today.",
+        "date_added": "2026-05-20T14:51:31.096270",
+        "source_file": "promptdexter.txt",
+        "source_index": 8,
+        "structured_fields": {
+          "Subject": "confident female model with wet-looking dark waves, subtle makeup on her face including defined eyebrows and pink lips",
+          "Clothing": "black denim jacket worn off one shoulder revealing collarbone paired with light blue jeans cinched by a thin belt featuring silver hardware details like buttons and buckles along the front pockets area of the garment which has visible stitching patterns characteristic of classic styles such as Levi's brand designs known for durability combined comfort fit through relaxed silhouette construction suitable for casual wear occasions",
+          "Action": "sitting comfortably while resting her chin gently on hand supporting head weight evenly distributed across arm muscles creating natural curve lines around neck joint connecting shoulder blade region down towards elbow flexion point showing relaxed yet intentional posture conveying calmness confidence simultaneously without tension evident in facial features or body language suggesting ease familiarity with setting environment captured moment",
+          "Objects": "wooden skateboard positioned vertically between legs displaying worn deck surface revealing grain texture under soft lighting conditions highlighting red wheels attached via metal trucks secured tightly to board structure indicating readiness use despite current stationary state reflecting youth culture aesthetic preferences among contemporary audiences seeking authenticity individuality within skateboarding subculture communities worldwide today."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Objects"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of a young woman with long dark hair and expressive eyes posing against a neutral gray background\nSubject: confident female model with wet-looking dark waves, subtle makeup on her face including defined eyebrows and pink lips\nClothing: black denim jacket worn off one shoulder revealing collarbone paired with light blue jeans cinched by a thin belt featuring silver hardware details like buttons and buckles along the front pockets area of the garment which has visible stitching patterns characteristic of classic styles such as Levi's brand designs known for durability combined comfort fit through relaxed silhouette construction suitable for casual wear occasions\nAction: sitting comfortably while resting her chin gently on hand supporting head weight evenly distributed across arm muscles creating natural curve lines around neck joint connecting shoulder blade region down towards elbow flexion point showing relaxed yet intentional posture conveying calmness confidence simultaneously without tension evident in facial features or body language suggesting ease familiarity with setting environment captured moment\nObjects: wooden skateboard positioned vertically between legs displaying worn deck surface revealing grain texture under soft lighting conditions highlighting red wheels attached via metal trucks secured tightly to board structure indicating readiness use despite current stationary state reflecting youth culture aesthetic preferences among contemporary audiences seeking authenticity individuality within skateboarding subculture communities worldwide today.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "confident female model with wet-looking dark waves, subtle makeup on her face including defined eyebrows and pink lips, black denim jacket worn off one shoulder revealing collarbone paired with light blue jeans cinched by a thin belt featuring silver hardware details like buttons and buckles along the front pockets area of the garment which has visible stitching patterns characteristic of classic styles such as Levi's brand designs known for durability combined comfort fit through relaxed silhouette construction suitable for casual wear occasions, sitting comfortably while resting her chin gently on hand supporting head weight evenly distributed across arm muscles creating natural curve lines around neck joint connecting shoulder blade region down towards elbow flexion point showing relaxed yet intentional posture conveying calmness confidence simultaneously without tension evident in facial features or body language suggesting ease familiarity with setting environment captured moment, wooden skateboard positioned vertically between legs displaying worn deck surface revealing grain texture under soft lighting conditions highlighting red wheels attached via metal trucks secured tightly to board structure indicating readiness use despite current stationary state reflecting youth culture aesthetic preferences among contemporary audiences seeking authenticity individuality within skateboarding subculture communities worldwide today.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "confident female model with wet-looking dark waves, subtle makeup on her face including defined eyebrows and pink lips wearing black denim jacket worn off one shoulder revealing collarbone paired with light blue jeans cinched by a thin belt featuring silver hardware details like buttons and buckles along the front pockets area of the garment which has visible stitching patterns characteristic of classic styles such as Levi's brand designs known for durability combined comfort fit through relaxed silhouette construction suitable for casual wear occasions sitting comfortably while resting her chin gently on hand supporting head weight evenly distributed across arm muscles creating natural curve lines around neck joint connecting shoulder blade region down towards elbow flexion point showing relaxed yet intentional posture conveying calmness confidence simultaneously without tension evident in facial features or body language suggesting ease familiarity with setting environment captured moment",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(confident female model with wet-looking dark waves, subtle makeup on her face including defined eyebrows and pink lips:1.1), black denim jacket worn off one shoulder revealing collarbone paired with light blue jeans cinched by a thin belt featuring silver hardware details like buttons and buckles along the front pockets area of the garment which has visible stitching patterns characteristic of classic styles such as Levi's brand designs known for durability combined comfort fit through relaxed silhouette construction suitable for casual wear occasions, sitting comfortably while resting her chin gently on hand supporting head weight evenly distributed across arm muscles creating natural curve lines around neck joint connecting shoulder blade region down towards elbow flexion point showing relaxed yet intentional posture conveying calmness confidence simultaneously without tension evident in facial features or body language suggesting ease familiarity with setting environment captured moment, wooden skateboard positioned vertically between legs displaying worn deck surface revealing grain texture under soft lighting conditions highlighting red wheels attached via metal trucks secured tightly to board structure indicating readiness use despite current stationary state reflecting youth culture aesthetic preferences among contemporary audiences seeking authenticity individuality within skateboarding subculture communities worldwide today.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_lowangle_shot_of_009",
+      "concept": "A low-angle shot of a young man sitting on the edge of a concrete wall against a deep blue sky.",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A low-angle shot of a young man sitting on the edge of a concrete wall against a deep blue sky.\nSubject: A muscular young man with short dark hair and confident, direct eyes looking down at the camera.\nClothing: He wears an oversized white t-shirt featuring a red 'Carhartt' logo and black graphic print above it; paired with light-wash denim shorts that are frayed at the hem, thick ribbed white crew socks pulled up high, and chunky black skate sneakers with large white soles.\nEnvironment: A stark concrete ledge or retaining wall serves as his seat, set against a vast cloudless blue sky with faint wisps of clouds in the background.\nLighting: Bright midday sunlight illuminates him from above, casting sharp shadows on his legs and face while highlighting muscle definition.",
+        "date_added": "2026-05-20T14:51:31.096302",
+        "source_file": "promptdexter.txt",
+        "source_index": 9,
+        "structured_fields": {
+          "Subject": "A muscular young man with short dark hair and confident, direct eyes looking down at the camera.",
+          "Clothing": "He wears an oversized white t-shirt featuring a red 'Carhartt' logo and black graphic print above it; paired with light-wash denim shorts that are frayed at the hem, thick ribbed white crew socks pulled up high, and chunky black skate sneakers with large white soles.",
+          "Environment": "A stark concrete ledge or retaining wall serves as his seat, set against a vast cloudless blue sky with faint wisps of clouds in the background.",
+          "Lighting": "Bright midday sunlight illuminates him from above, casting sharp shadows on his legs and face while highlighting muscle definition."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Environment",
+          "Lighting"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A low-angle shot of a young man sitting on the edge of a concrete wall against a deep blue sky.\nSubject: A muscular young man with short dark hair and confident, direct eyes looking down at the camera.\nClothing: He wears an oversized white t-shirt featuring a red 'Carhartt' logo and black graphic print above it; paired with light-wash denim shorts that are frayed at the hem, thick ribbed white crew socks pulled up high, and chunky black skate sneakers with large white soles.\nEnvironment: A stark concrete ledge or retaining wall serves as his seat, set against a vast cloudless blue sky with faint wisps of clouds in the background.\nLighting: Bright midday sunlight illuminates him from above, casting sharp shadows on his legs and face while highlighting muscle definition.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A muscular young man with short dark hair and confident, direct eyes looking down at the camera., He wears an oversized white t-shirt featuring a red 'Carhartt' logo and black graphic print above it; paired with light-wash denim shorts that are frayed at the hem, thick ribbed white crew socks pulled up high, and chunky black skate sneakers with large white soles., A stark concrete ledge or retaining wall serves as his seat, set against a vast cloudless blue sky with faint wisps of clouds in the background., Bright midday sunlight illuminates him from above, casting sharp shadows on his legs and face while highlighting muscle definition.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A muscular young man with short dark hair and confident, direct eyes looking down at the camera. wearing He wears an oversized white t-shirt featuring a red 'Carhartt' logo and black graphic print above it; paired with light-wash denim shorts that are frayed at the hem, thick ribbed white crew socks pulled up high, and chunky black skate sneakers with large white soles. in A stark concrete ledge or retaining wall serves as his seat, set against a vast cloudless blue sky with faint wisps of clouds in the background.. with Bright midday sunlight illuminates him from above, casting sharp shadows on his legs and face while highlighting muscle definition.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(A muscular young man with short dark hair and confident, direct eyes looking down at the camera.:1.1), He wears an oversized white t-shirt featuring a red 'Carhartt' logo and black graphic print above it; paired with light-wash denim shorts that are frayed at the hem, thick ribbed white crew socks pulled up high, and chunky black skate sneakers with large white soles., A stark concrete ledge or retaining wall serves as his seat, set against a vast cloudless blue sky with faint wisps of clouds in the background., Bright midday sunlight illuminates him from above, casting sharp shadows on his legs and face while highlighting muscle definition.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_black_and_white_010",
+      "concept": "A black and white studio portrait of a mature bald man seated on a stool with clasped hands against a deep black background in dramatic moody lighting.",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A black and white studio portrait of a mature bald man seated on a stool with clasped hands against a deep black background in dramatic moody lighting.\nSubject: Mature bald man with glasses and trimmed beard, wearing dark suit jacket over light shirt and tie.\nAction: Seated on stool with hands clasped in lap.\nEnvironment: Deep black background.\nCamera: Studio portrait composition.\nLighting: Dramatic and moody with strong shadows.\nStyle Details: Black and white.",
+        "date_added": "2026-05-20T14:51:31.096341",
+        "source_file": "promptdexter.txt",
+        "source_index": 10,
+        "structured_fields": {
+          "Subject": "Mature bald man with glasses and trimmed beard, wearing dark suit jacket over light shirt and tie.",
+          "Action": "Seated on stool with hands clasped in lap.",
+          "Environment": "Deep black background.",
+          "Camera": "Studio portrait composition.",
+          "Lighting": "Dramatic and moody with strong shadows.",
+          "Style Details": "Black and white."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A black and white studio portrait of a mature bald man seated on a stool with clasped hands against a deep black background in dramatic moody lighting.\nSubject: Mature bald man with glasses and trimmed beard, wearing dark suit jacket over light shirt and tie.\nAction: Seated on stool with hands clasped in lap.\nEnvironment: Deep black background.\nCamera: Studio portrait composition.\nLighting: Dramatic and moody with strong shadows.\nStyle Details: Black and white.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Mature bald man with glasses and trimmed beard, wearing dark suit jacket over light shirt and tie., Seated on stool with hands clasped in lap., Deep black background., Studio portrait composition., Dramatic and moody with strong shadows., Black and white.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Mature bald man with glasses and trimmed beard, wearing dark suit jacket over light shirt and tie. Seated on stool with hands clasped in lap. in Deep black background.. Studio portrait composition.. with Dramatic and moody with strong shadows.. Black and white.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(Black and white.:1.2), (Mature bald man with glasses and trimmed beard, wearing dark suit jacket over light shirt and tie.:1.1), Seated on stool with hands clasped in lap., Deep black background., Studio portrait composition., Dramatic and moody with strong shadows.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "fashion_illustration_of_a_011",
+      "concept": "Fashion illustration of a person with futuristic yellow and white accessories",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Fashion illustration of a person with futuristic yellow and white accessories\nSubject: short blue-green hair styled in two top buns, large round dark sunglasses resting on the nose, small pouty lips looking upward, pale skin tone visible around face.\nClothing: distressed oversized graphic crop tee featuring faded yellow circle print and peeling texture, layered over long green sleeveless sleeves with paint splatter details; heavy industrial choker collar bearing bold black lettering, gold keychain attached to headphones; waist belt made of thick plastic buckles in bright yellow tones matching overall color scheme.\nAction: head tilted slightly up as if gazing at something above or lost in thought, calm expression despite high-tech gear around neck and arms; hands appear idle but encased in mechanical gauntlets with exposed circuitry panels glowing faintly blue inside wrist guards.\nEnvironment: flat graphic background divided into bold orange-yellow rectangles separated by thin white horizontal lines suggesting a stylized poster design rather than real space.\nCamera: medium close-up framing focusing from mid-thigh up, centered composition emphasizing character's upper body and accessories without including surroundings beyond abstract blocks of color behind them.\nLighting: even studio-style illumination with soft shadows under jawline and along folds of clothing creating depth while maintaining vibrant saturation across yellows greens whites; light appears frontal slightly elevated to highlight facial features and metallic surfaces like earcups and belt hardware.\nStyle Details: semi-realistic digital art style blending anime-inspired character design with gritty urban aesthetic reminiscent of cyberpunk subculture, heavy use of flat colors mixed with textured brushwork effects mimicking spray paint wear-and-tear on garments; strong emphasis on neon yellow as dominant hue against contrasting muted teal sleeves and skin tones.",
+        "date_added": "2026-05-20T14:51:31.096402",
+        "source_file": "promptdexter.txt",
+        "source_index": 11,
+        "structured_fields": {
+          "Subject": "short blue-green hair styled in two top buns, large round dark sunglasses resting on the nose, small pouty lips looking upward, pale skin tone visible around face.",
+          "Clothing": "distressed oversized graphic crop tee featuring faded yellow circle print and peeling texture, layered over long green sleeveless sleeves with paint splatter details; heavy industrial choker collar bearing bold black lettering, gold keychain attached to headphones; waist belt made of thick plastic buckles in bright yellow tones matching overall color scheme.",
+          "Action": "head tilted slightly up as if gazing at something above or lost in thought, calm expression despite high-tech gear around neck and arms; hands appear idle but encased in mechanical gauntlets with exposed circuitry panels glowing faintly blue inside wrist guards.",
+          "Environment": "flat graphic background divided into bold orange-yellow rectangles separated by thin white horizontal lines suggesting a stylized poster design rather than real space.",
+          "Camera": "medium close-up framing focusing from mid-thigh up, centered composition emphasizing character's upper body and accessories without including surroundings beyond abstract blocks of color behind them.",
+          "Lighting": "even studio-style illumination with soft shadows under jawline and along folds of clothing creating depth while maintaining vibrant saturation across yellows greens whites; light appears frontal slightly elevated to highlight facial features and metallic surfaces like earcups and belt hardware.",
+          "Style Details": "semi-realistic digital art style blending anime-inspired character design with gritty urban aesthetic reminiscent of cyberpunk subculture, heavy use of flat colors mixed with textured brushwork effects mimicking spray paint wear-and-tear on garments; strong emphasis on neon yellow as dominant hue against contrasting muted teal sleeves and skin tones."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Fashion illustration of a person with futuristic yellow and white accessories\nSubject: short blue-green hair styled in two top buns, large round dark sunglasses resting on the nose, small pouty lips looking upward, pale skin tone visible around face.\nClothing: distressed oversized graphic crop tee featuring faded yellow circle print and peeling texture, layered over long green sleeveless sleeves with paint splatter details; heavy industrial choker collar bearing bold black lettering, gold keychain attached to headphones; waist belt made of thick plastic buckles in bright yellow tones matching overall color scheme.\nAction: head tilted slightly up as if gazing at something above or lost in thought, calm expression despite high-tech gear around neck and arms; hands appear idle but encased in mechanical gauntlets with exposed circuitry panels glowing faintly blue inside wrist guards.\nEnvironment: flat graphic background divided into bold orange-yellow rectangles separated by thin white horizontal lines suggesting a stylized poster design rather than real space.\nCamera: medium close-up framing focusing from mid-thigh up, centered composition emphasizing character's upper body and accessories without including surroundings beyond abstract blocks of color behind them.\nLighting: even studio-style illumination with soft shadows under jawline and along folds of clothing creating depth while maintaining vibrant saturation across yellows greens whites; light appears frontal slightly elevated to highlight facial features and metallic surfaces like earcups and belt hardware.\nStyle Details: semi-realistic digital art style blending anime-inspired character design with gritty urban aesthetic reminiscent of cyberpunk subculture, heavy use of flat colors mixed with textured brushwork effects mimicking spray paint wear-and-tear on garments; strong emphasis on neon yellow as dominant hue against contrasting muted teal sleeves and skin tones.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "short blue-green hair styled in two top buns, large round dark sunglasses resting on the nose, small pouty lips looking upward, pale skin tone visible around face., distressed oversized graphic crop tee featuring faded yellow circle print and peeling texture, layered over long green sleeveless sleeves with paint splatter details; heavy industrial choker collar bearing bold black lettering, gold keychain attached to headphones; waist belt made of thick plastic buckles in bright yellow tones matching overall color scheme., head tilted slightly up as if gazing at something above or lost in thought, calm expression despite high-tech gear around neck and arms; hands appear idle but encased in mechanical gauntlets with exposed circuitry panels glowing faintly blue inside wrist guards., flat graphic background divided into bold orange-yellow rectangles separated by thin white horizontal lines suggesting a stylized poster design rather than real space., medium close-up framing focusing from mid-thigh up, centered composition emphasizing character's upper body and accessories without including surroundings beyond abstract blocks of color behind them., even studio-style illumination with soft shadows under jawline and along folds of clothing creating depth while maintaining vibrant saturation across yellows greens whites; light appears frontal slightly elevated to highlight facial features and metallic surfaces like earcups and belt hardware., semi-realistic digital art style blending anime-inspired character design with gritty urban aesthetic reminiscent of cyberpunk subculture, heavy use of flat colors mixed with textured brushwork effects mimicking spray paint wear-and-tear on garments; strong emphasis on neon yellow as dominant hue against contrasting muted teal sleeves and skin tones.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "short blue-green hair styled in two top buns, large round dark sunglasses resting on the nose, small pouty lips looking upward, pale skin tone visible around face. wearing distressed oversized graphic crop tee featuring faded yellow circle print and peeling texture, layered over long green sleeveless sleeves with paint splatter details; heavy industrial choker collar bearing bold black lettering, gold keychain attached to headphones; waist belt made of thick plastic buckles in bright yellow tones matching overall color scheme. head tilted slightly up as if gazing at something above or lost in thought, calm expression despite high-tech gear around neck and arms; hands appear idle but encased in mechanical gauntlets with exposed circuitry panels glowing faintly blue inside wrist guards. in flat graphic background divided into bold orange-yellow rectangles separated by thin white horizontal lines suggesting a stylized poster design rather than real space.. medium close-up framing focusing from mid-thigh up, centered composition emphasizing character's upper body and accessories without including surroundings beyond abstract blocks of color behind them.. with even studio-style illumination with soft shadows under jawline and along folds of clothing creating depth while maintaining vibrant saturation across yellows greens whites; light appears frontal slightly elevated to highlight facial features and metallic surfaces like earcups and belt hardware.. semi-realistic digital art style blending anime-inspired character design with gritty urban aesthetic reminiscent of cyberpunk subculture, heavy use of flat colors mixed with textured brushwork effects mimicking spray paint wear-and-tear on garments; strong emphasis on neon yellow as dominant hue against contrasting muted teal sleeves and skin tones.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(semi-realistic digital art style blending anime-inspired character design with gritty urban aesthetic reminiscent of cyberpunk subculture, heavy use of flat colors mixed with textured brushwork effects mimicking spray paint wear-and-tear on garments; strong emphasis on neon yellow as dominant hue against contrasting muted teal sleeves and skin tones.:1.2), (short blue-green hair styled in two top buns, large round dark sunglasses resting on the nose, small pouty lips looking upward, pale skin tone visible around face.:1.1), distressed oversized graphic crop tee featuring faded yellow circle print and peeling texture, layered over long green sleeveless sleeves with paint splatter details; heavy industrial choker collar bearing bold black lettering, gold keychain attached to headphones; waist belt made of thick plastic buckles in bright yellow tones matching overall color scheme., head tilted slightly up as if gazing at something above or lost in thought, calm expression despite high-tech gear around neck and arms; hands appear idle but encased in mechanical gauntlets with exposed circuitry panels glowing faintly blue inside wrist guards., flat graphic background divided into bold orange-yellow rectangles separated by thin white horizontal lines suggesting a stylized poster design rather than real space., medium close-up framing focusing from mid-thigh up, centered composition emphasizing character's upper body and accessories without including surroundings beyond abstract blocks of color behind them., even studio-style illumination with soft shadows under jawline and along folds of clothing creating depth while maintaining vibrant saturation across yellows greens whites; light appears frontal slightly elevated to highlight facial features and metallic surfaces like earcups and belt hardware.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "oil_painting_portrait_of_012",
+      "concept": "Oil painting portrait of a smiling woman holding a banana shaped like a telephone receiver to her ear",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Oil painting portrait of a smiling woman holding a banana shaped like a telephone receiver to her ear\nSubject: A beautiful young woman with blue eyes and rosy cheeks looking upward, wearing pearl earrings\nClothing: She wears a bright yellow blouse that matches the phone color\nAction: Holding the banana-phone gently against her cheek while grinning happily at it.\nEnvironment: Soft cream-colored background suggesting an indoor studio setting.\nLighting: Warm soft lighting highlighting facial features and casting gentle shadows on her face and clothing, creating a cheerful atmosphere typical of 1940s pin-up art style;",
+        "date_added": "2026-05-20T14:51:31.096489",
+        "source_file": "promptdexter.txt",
+        "source_index": 12,
+        "structured_fields": {
+          "Subject": "A beautiful young woman with blue eyes and rosy cheeks looking upward, wearing pearl earrings",
+          "Clothing": "She wears a bright yellow blouse that matches the phone color",
+          "Action": "Holding the banana-phone gently against her cheek while grinning happily at it.",
+          "Environment": "Soft cream-colored background suggesting an indoor studio setting.",
+          "Lighting": "Warm soft lighting highlighting facial features and casting gentle shadows on her face and clothing, creating a cheerful atmosphere typical of 1940s pin-up art style;"
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Lighting"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Oil painting portrait of a smiling woman holding a banana shaped like a telephone receiver to her ear\nSubject: A beautiful young woman with blue eyes and rosy cheeks looking upward, wearing pearl earrings\nClothing: She wears a bright yellow blouse that matches the phone color\nAction: Holding the banana-phone gently against her cheek while grinning happily at it.\nEnvironment: Soft cream-colored background suggesting an indoor studio setting.\nLighting: Warm soft lighting highlighting facial features and casting gentle shadows on her face and clothing, creating a cheerful atmosphere typical of 1940s pin-up art style;",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A beautiful young woman with blue eyes and rosy cheeks looking upward, wearing pearl earrings, She wears a bright yellow blouse that matches the phone color, Holding the banana-phone gently against her cheek while grinning happily at it., Soft cream-colored background suggesting an indoor studio setting., Warm soft lighting highlighting facial features and casting gentle shadows on her face and clothing, creating a cheerful atmosphere typical of 1940s pin-up art style;",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A beautiful young woman with blue eyes and rosy cheeks looking upward, wearing pearl earrings wearing She wears a bright yellow blouse that matches the phone color Holding the banana-phone gently against her cheek while grinning happily at it. in Soft cream-colored background suggesting an indoor studio setting.. with Warm soft lighting highlighting facial features and casting gentle shadows on her face and clothing, creating a cheerful atmosphere typical of 1940s pin-up art style;",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(A beautiful young woman with blue eyes and rosy cheeks looking upward, wearing pearl earrings:1.1), She wears a bright yellow blouse that matches the phone color, Holding the banana-phone gently against her cheek while grinning happily at it., Soft cream-colored background suggesting an indoor studio setting., Warm soft lighting highlighting facial features and casting gentle shadows on her face and clothing, creating a cheerful atmosphere typical of 1940s pin-up art style;",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_lowangle_shot_of_013",
+      "concept": "A low-angle shot of a musician silhouetted against a deep blue night sky.",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A low-angle shot of a musician silhouetted against a deep blue night sky.\nSubject: musician viewed from behind and slightly below, holding an electric guitar glowing with bright white lights along its body and neck.\nClothing: dark clothing silhouetted beneath dramatic lighting.\nLighting: intense glowing highlights from the guitar creating sharp lens flare around the subject's headpiece and outlining the silhouette.\nCamera: low-angle perspective emphasizing the glowing instrument and the figure's dramatic outline.\nStyle Details: grainy film aesthetic, moody concert atmosphere, cinematic nighttime performance style.",
+        "date_added": "2026-05-20T14:51:31.096525",
+        "source_file": "promptdexter.txt",
+        "source_index": 13,
+        "structured_fields": {
+          "Subject": "musician viewed from behind and slightly below, holding an electric guitar glowing with bright white lights along its body and neck.",
+          "Clothing": "dark clothing silhouetted beneath dramatic lighting.",
+          "Lighting": "intense glowing highlights from the guitar creating sharp lens flare around the subject's headpiece and outlining the silhouette.",
+          "Camera": "low-angle perspective emphasizing the glowing instrument and the figure's dramatic outline.",
+          "Style Details": "grainy film aesthetic, moody concert atmosphere, cinematic nighttime performance style."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Lighting",
+          "Camera",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A low-angle shot of a musician silhouetted against a deep blue night sky.\nSubject: musician viewed from behind and slightly below, holding an electric guitar glowing with bright white lights along its body and neck.\nClothing: dark clothing silhouetted beneath dramatic lighting.\nLighting: intense glowing highlights from the guitar creating sharp lens flare around the subject's headpiece and outlining the silhouette.\nCamera: low-angle perspective emphasizing the glowing instrument and the figure's dramatic outline.\nStyle Details: grainy film aesthetic, moody concert atmosphere, cinematic nighttime performance style.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "musician viewed from behind and slightly below, holding an electric guitar glowing with bright white lights along its body and neck., dark clothing silhouetted beneath dramatic lighting., low-angle perspective emphasizing the glowing instrument and the figure's dramatic outline., intense glowing highlights from the guitar creating sharp lens flare around the subject's headpiece and outlining the silhouette., grainy film aesthetic, moody concert atmosphere, cinematic nighttime performance style.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "musician viewed from behind and slightly below, holding an electric guitar glowing with bright white lights along its body and neck. wearing dark clothing silhouetted beneath dramatic lighting.. low-angle perspective emphasizing the glowing instrument and the figure's dramatic outline.. with intense glowing highlights from the guitar creating sharp lens flare around the subject's headpiece and outlining the silhouette.. grainy film aesthetic, moody concert atmosphere, cinematic nighttime performance style.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(grainy film aesthetic, moody concert atmosphere, cinematic nighttime performance style.:1.2), (musician viewed from behind and slightly below, holding an electric guitar glowing with bright white lights along its body and neck.:1.1), dark clothing silhouetted beneath dramatic lighting., low-angle perspective emphasizing the glowing instrument and the figure's dramatic outline., intense glowing highlights from the guitar creating sharp lens flare around the subject's headpiece and outlining the silhouette.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "grainy_blackandwhite_photograph_of_014",
+      "concept": "Grainy black-and-white photograph of a solitary figure slumped on a subway seat inside the car",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Grainy black-and-white photograph of a solitary figure slumped on a subway seat inside the car\nSubject: man wearing a light-colored fedora with the brim tilted down, obscuring his face entirely to create an anonymous silhouette\nClothing: button-down shirt and dark trousers tucked into boots or shoes\nAction: seated in a relaxed posture with arms crossed over lap and legs bent at knees\nEnvironment: interior of subway car with curved window frames visible behind him reflecting faint shapes outside\nLighting: dim ambient lighting casting soft shadows across the seat surface, enhancing moodiness without harsh highlights.",
+        "date_added": "2026-05-20T14:51:31.096568",
+        "source_file": "promptdexter.txt",
+        "source_index": 14,
+        "structured_fields": {
+          "Subject": "man wearing a light-colored fedora with the brim tilted down, obscuring his face entirely to create an anonymous silhouette",
+          "Clothing": "button-down shirt and dark trousers tucked into boots or shoes",
+          "Action": "seated in a relaxed posture with arms crossed over lap and legs bent at knees",
+          "Environment": "interior of subway car with curved window frames visible behind him reflecting faint shapes outside",
+          "Lighting": "dim ambient lighting casting soft shadows across the seat surface, enhancing moodiness without harsh highlights."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Lighting"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Grainy black-and-white photograph of a solitary figure slumped on a subway seat inside the car\nSubject: man wearing a light-colored fedora with the brim tilted down, obscuring his face entirely to create an anonymous silhouette\nClothing: button-down shirt and dark trousers tucked into boots or shoes\nAction: seated in a relaxed posture with arms crossed over lap and legs bent at knees\nEnvironment: interior of subway car with curved window frames visible behind him reflecting faint shapes outside\nLighting: dim ambient lighting casting soft shadows across the seat surface, enhancing moodiness without harsh highlights.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "man wearing a light-colored fedora with the brim tilted down, obscuring his face entirely to create an anonymous silhouette, button-down shirt and dark trousers tucked into boots or shoes, seated in a relaxed posture with arms crossed over lap and legs bent at knees, interior of subway car with curved window frames visible behind him reflecting faint shapes outside, dim ambient lighting casting soft shadows across the seat surface, enhancing moodiness without harsh highlights.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "man wearing a light-colored fedora with the brim tilted down, obscuring his face entirely to create an anonymous silhouette wearing button-down shirt and dark trousers tucked into boots or shoes seated in a relaxed posture with arms crossed over lap and legs bent at knees in interior of subway car with curved window frames visible behind him reflecting faint shapes outside. with dim ambient lighting casting soft shadows across the seat surface, enhancing moodiness without harsh highlights.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(man wearing a light-colored fedora with the brim tilted down, obscuring his face entirely to create an anonymous silhouette:1.1), button-down shirt and dark trousers tucked into boots or shoes, seated in a relaxed posture with arms crossed over lap and legs bent at knees, interior of subway car with curved window frames visible behind him reflecting faint shapes outside, dim ambient lighting casting soft shadows across the seat surface, enhancing moodiness without harsh highlights.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "oil_painting_of_a_015",
+      "concept": "Oil painting of a blonde woman reading outdoors at an outdoor cafe table",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Oil painting of a blonde woman reading outdoors at an outdoor cafe table\nSubject: A fair-skinned woman with voluminous wavy blonde hair tied back in a messy bun, wearing large dark sunglasses and red lipstick\nClothing: She wears a crisp white collared shirt tucked into a black mini skirt, accessorized with a small black bow tie around the neck collar, sheer nude stockings covering her legs down to classic high-heel pumps\nAction: Sitting relaxed on a woven chair holding an open book in both hands while gazing slightly upward toward it with focus and engagement\nEnvironment: Seated at a round light blue tabletop beside another matching table set for coffee or tea nearby; lush pink roses arranged in glass vases sit adjacent to her, adding soft floral contrast against the urban backdrop of blurred windows and distant figures inside what appears like a cafe interior\nCamera: Medium shot composition capturing full figure from knees up with shallow depth-of-field blurring background elements softly behind subject's silhouette\nLighting: Bright daylight illuminates scene creating strong highlights on skin tones, hair strands, table surface while casting deep shadows under chairs and around feet suggesting direct overhead sun exposure typical of afternoon hours in city setting\nStyle Details: Rendered in painterly brushstroke technique mimicking classic impressionistic style reminiscent mid-century European artistry with visible texture layers enhancing realism within stylized execution.",
+        "date_added": "2026-05-20T14:51:31.096672",
+        "source_file": "promptdexter.txt",
+        "source_index": 15,
+        "structured_fields": {
+          "Subject": "A fair-skinned woman with voluminous wavy blonde hair tied back in a messy bun, wearing large dark sunglasses and red lipstick",
+          "Clothing": "She wears a crisp white collared shirt tucked into a black mini skirt, accessorized with a small black bow tie around the neck collar, sheer nude stockings covering her legs down to classic high-heel pumps",
+          "Action": "Sitting relaxed on a woven chair holding an open book in both hands while gazing slightly upward toward it with focus and engagement",
+          "Environment": "Seated at a round light blue tabletop beside another matching table set for coffee or tea nearby; lush pink roses arranged in glass vases sit adjacent to her, adding soft floral contrast against the urban backdrop of blurred windows and distant figures inside what appears like a cafe interior",
+          "Camera": "Medium shot composition capturing full figure from knees up with shallow depth-of-field blurring background elements softly behind subject's silhouette",
+          "Lighting": "Bright daylight illuminates scene creating strong highlights on skin tones, hair strands, table surface while casting deep shadows under chairs and around feet suggesting direct overhead sun exposure typical of afternoon hours in city setting",
+          "Style Details": "Rendered in painterly brushstroke technique mimicking classic impressionistic style reminiscent mid-century European artistry with visible texture layers enhancing realism within stylized execution."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Oil painting of a blonde woman reading outdoors at an outdoor cafe table\nSubject: A fair-skinned woman with voluminous wavy blonde hair tied back in a messy bun, wearing large dark sunglasses and red lipstick\nClothing: She wears a crisp white collared shirt tucked into a black mini skirt, accessorized with a small black bow tie around the neck collar, sheer nude stockings covering her legs down to classic high-heel pumps\nAction: Sitting relaxed on a woven chair holding an open book in both hands while gazing slightly upward toward it with focus and engagement\nEnvironment: Seated at a round light blue tabletop beside another matching table set for coffee or tea nearby; lush pink roses arranged in glass vases sit adjacent to her, adding soft floral contrast against the urban backdrop of blurred windows and distant figures inside what appears like a cafe interior\nCamera: Medium shot composition capturing full figure from knees up with shallow depth-of-field blurring background elements softly behind subject's silhouette\nLighting: Bright daylight illuminates scene creating strong highlights on skin tones, hair strands, table surface while casting deep shadows under chairs and around feet suggesting direct overhead sun exposure typical of afternoon hours in city setting\nStyle Details: Rendered in painterly brushstroke technique mimicking classic impressionistic style reminiscent mid-century European artistry with visible texture layers enhancing realism within stylized execution.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A fair-skinned woman with voluminous wavy blonde hair tied back in a messy bun, wearing large dark sunglasses and red lipstick, She wears a crisp white collared shirt tucked into a black mini skirt, accessorized with a small black bow tie around the neck collar, sheer nude stockings covering her legs down to classic high-heel pumps, Sitting relaxed on a woven chair holding an open book in both hands while gazing slightly upward toward it with focus and engagement, Seated at a round light blue tabletop beside another matching table set for coffee or tea nearby; lush pink roses arranged in glass vases sit adjacent to her, adding soft floral contrast against the urban backdrop of blurred windows and distant figures inside what appears like a cafe interior, Medium shot composition capturing full figure from knees up with shallow depth-of-field blurring background elements softly behind subject's silhouette, Bright daylight illuminates scene creating strong highlights on skin tones, hair strands, table surface while casting deep shadows under chairs and around feet suggesting direct overhead sun exposure typical of afternoon hours in city setting, Rendered in painterly brushstroke technique mimicking classic impressionistic style reminiscent mid-century European artistry with visible texture layers enhancing realism within stylized execution.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A fair-skinned woman with voluminous wavy blonde hair tied back in a messy bun, wearing large dark sunglasses and red lipstick wearing She wears a crisp white collared shirt tucked into a black mini skirt, accessorized with a small black bow tie around the neck collar, sheer nude stockings covering her legs down to classic high-heel pumps Sitting relaxed on a woven chair holding an open book in both hands while gazing slightly upward toward it with focus and engagement in Seated at a round light blue tabletop beside another matching table set for coffee or tea nearby; lush pink roses arranged in glass vases sit adjacent to her, adding soft floral contrast against the urban backdrop of blurred windows and distant figures inside what appears like a cafe interior. Medium shot composition capturing full figure from knees up with shallow depth-of-field blurring background elements softly behind subject's silhouette. with Bright daylight illuminates scene creating strong highlights on skin tones, hair strands, table surface while casting deep shadows under chairs and around feet suggesting direct overhead sun exposure typical of afternoon hours in city setting. Rendered in painterly brushstroke technique mimicking classic impressionistic style reminiscent mid-century European artistry with visible texture layers enhancing realism within stylized execution.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(Rendered in painterly brushstroke technique mimicking classic impressionistic style reminiscent mid-century European artistry with visible texture layers enhancing realism within stylized execution.:1.2), (A fair-skinned woman with voluminous wavy blonde hair tied back in a messy bun, wearing large dark sunglasses and red lipstick:1.1), She wears a crisp white collared shirt tucked into a black mini skirt, accessorized with a small black bow tie around the neck collar, sheer nude stockings covering her legs down to classic high-heel pumps, Sitting relaxed on a woven chair holding an open book in both hands while gazing slightly upward toward it with focus and engagement, Seated at a round light blue tabletop beside another matching table set for coffee or tea nearby; lush pink roses arranged in glass vases sit adjacent to her, adding soft floral contrast against the urban backdrop of blurred windows and distant figures inside what appears like a cafe interior, Medium shot composition capturing full figure from knees up with shallow depth-of-field blurring background elements softly behind subject's silhouette, Bright daylight illuminates scene creating strong highlights on skin tones, hair strands, table surface while casting deep shadows under chairs and around feet suggesting direct overhead sun exposure typical of afternoon hours in city setting",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_hyperrealistic_product_shot_016",
+      "concept": "A hyper-realistic product shot of a futuristic running shoe with iridescent holographic panels and glowing neon accents embedded in the sole.",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A hyper-realistic product shot of a futuristic running shoe with iridescent holographic panels and glowing neon accents embedded in the sole.\nSubject: A sleek, modern athletic sneaker featuring complex layered textures, translucent mesh upper materials, and intricate mechanical detailing on the midsole and heel counter.\nClothing: The shoe sports thick white laces tied neatly at the top; side branding features stylized text reading 'FJ-10' integrated into the geometric panels of the body.\nAction: Floating in a low-angle three-quarter view that highlights its aerodynamic profile, casting a sharp reflection onto a glossy surface below.\nEnvironment: Set against a split-color background with vertical teal stripes on the left and warm orange-gold gradients on the right; small floating digital sparkles hover near the shoe's upper arch to emphasize high-tech atmosphere.\nObjects: Faint holographic UI elements float in mid-air behind the shoe, displaying '1TF 1.100 mon tie' and a directional arrow labeled 'FJ-D25 FUNCTIONS'.\nCamera: Shot with a wide-angle lens emphasizing depth of field; slight motion blur hints at floating movement while maintaining crisp focus on reflective surfaces.\nLighting: Dramatic dual-tone lighting cool cyan from the left, warm amber from the right with strong specular highlights bouncing off glossy materials and creating vibrant internal glows within translucent sections.\nStyle Details: Rendered in a cinematic sci-fi aesthetic with chromatic aberration edges and soft bokeh around background elements; overall tone blends cyberpunk vibrancy with clean product photography precision.",
+        "date_added": "2026-05-20T14:51:31.096782",
+        "source_file": "promptdexter.txt",
+        "source_index": 16,
+        "structured_fields": {
+          "Subject": "A sleek, modern athletic sneaker featuring complex layered textures, translucent mesh upper materials, and intricate mechanical detailing on the midsole and heel counter.",
+          "Clothing": "The shoe sports thick white laces tied neatly at the top; side branding features stylized text reading 'FJ-10' integrated into the geometric panels of the body.",
+          "Action": "Floating in a low-angle three-quarter view that highlights its aerodynamic profile, casting a sharp reflection onto a glossy surface below.",
+          "Environment": "Set against a split-color background with vertical teal stripes on the left and warm orange-gold gradients on the right; small floating digital sparkles hover near the shoe's upper arch to emphasize high-tech atmosphere.",
+          "Objects": "Faint holographic UI elements float in mid-air behind the shoe, displaying '1TF 1.100 mon tie' and a directional arrow labeled 'FJ-D25 FUNCTIONS'.",
+          "Camera": "Shot with a wide-angle lens emphasizing depth of field; slight motion blur hints at floating movement while maintaining crisp focus on reflective surfaces.",
+          "Lighting": "Dramatic dual-tone lighting cool cyan from the left, warm amber from the right with strong specular highlights bouncing off glossy materials and creating vibrant internal glows within translucent sections.",
+          "Style Details": "Rendered in a cinematic sci-fi aesthetic with chromatic aberration edges and soft bokeh around background elements; overall tone blends cyberpunk vibrancy with clean product photography precision."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Objects",
+          "Camera",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A hyper-realistic product shot of a futuristic running shoe with iridescent holographic panels and glowing neon accents embedded in the sole.\nSubject: A sleek, modern athletic sneaker featuring complex layered textures, translucent mesh upper materials, and intricate mechanical detailing on the midsole and heel counter.\nClothing: The shoe sports thick white laces tied neatly at the top; side branding features stylized text reading 'FJ-10' integrated into the geometric panels of the body.\nAction: Floating in a low-angle three-quarter view that highlights its aerodynamic profile, casting a sharp reflection onto a glossy surface below.\nEnvironment: Set against a split-color background with vertical teal stripes on the left and warm orange-gold gradients on the right; small floating digital sparkles hover near the shoe's upper arch to emphasize high-tech atmosphere.\nObjects: Faint holographic UI elements float in mid-air behind the shoe, displaying '1TF 1.100 mon tie' and a directional arrow labeled 'FJ-D25 FUNCTIONS'.\nCamera: Shot with a wide-angle lens emphasizing depth of field; slight motion blur hints at floating movement while maintaining crisp focus on reflective surfaces.\nLighting: Dramatic dual-tone lighting cool cyan from the left, warm amber from the right with strong specular highlights bouncing off glossy materials and creating vibrant internal glows within translucent sections.\nStyle Details: Rendered in a cinematic sci-fi aesthetic with chromatic aberration edges and soft bokeh around background elements; overall tone blends cyberpunk vibrancy with clean product photography precision.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A sleek, modern athletic sneaker featuring complex layered textures, translucent mesh upper materials, and intricate mechanical detailing on the midsole and heel counter., The shoe sports thick white laces tied neatly at the top; side branding features stylized text reading 'FJ-10' integrated into the geometric panels of the body., Floating in a low-angle three-quarter view that highlights its aerodynamic profile, casting a sharp reflection onto a glossy surface below., Set against a split-color background with vertical teal stripes on the left and warm orange-gold gradients on the right; small floating digital sparkles hover near the shoe's upper arch to emphasize high-tech atmosphere., Shot with a wide-angle lens emphasizing depth of field; slight motion blur hints at floating movement while maintaining crisp focus on reflective surfaces., Dramatic dual-tone lighting cool cyan from the left, warm amber from the right with strong specular highlights bouncing off glossy materials and creating vibrant internal glows within translucent sections., Faint holographic UI elements float in mid-air behind the shoe, displaying '1TF 1.100 mon tie' and a directional arrow labeled 'FJ-D25 FUNCTIONS'., Rendered in a cinematic sci-fi aesthetic with chromatic aberration edges and soft bokeh around background elements; overall tone blends cyberpunk vibrancy with clean product photography precision.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A sleek, modern athletic sneaker featuring complex layered textures, translucent mesh upper materials, and intricate mechanical detailing on the midsole and heel counter. wearing The shoe sports thick white laces tied neatly at the top; side branding features stylized text reading 'FJ-10' integrated into the geometric panels of the body. Floating in a low-angle three-quarter view that highlights its aerodynamic profile, casting a sharp reflection onto a glossy surface below. in Set against a split-color background with vertical teal stripes on the left and warm orange-gold gradients on the right; small floating digital sparkles hover near the shoe's upper arch to emphasize high-tech atmosphere.. Shot with a wide-angle lens emphasizing depth of field; slight motion blur hints at floating movement while maintaining crisp focus on reflective surfaces.. with Dramatic dual-tone lighting cool cyan from the left, warm amber from the right with strong specular highlights bouncing off glossy materials and creating vibrant internal glows within translucent sections.. Rendered in a cinematic sci-fi aesthetic with chromatic aberration edges and soft bokeh around background elements; overall tone blends cyberpunk vibrancy with clean product photography precision.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(Rendered in a cinematic sci-fi aesthetic with chromatic aberration edges and soft bokeh around background elements; overall tone blends cyberpunk vibrancy with clean product photography precision.:1.2), (A sleek, modern athletic sneaker featuring complex layered textures, translucent mesh upper materials, and intricate mechanical detailing on the midsole and heel counter.:1.1), The shoe sports thick white laces tied neatly at the top; side branding features stylized text reading 'FJ-10' integrated into the geometric panels of the body., Floating in a low-angle three-quarter view that highlights its aerodynamic profile, casting a sharp reflection onto a glossy surface below., Set against a split-color background with vertical teal stripes on the left and warm orange-gold gradients on the right; small floating digital sparkles hover near the shoe's upper arch to emphasize high-tech atmosphere., Shot with a wide-angle lens emphasizing depth of field; slight motion blur hints at floating movement while maintaining crisp focus on reflective surfaces., Dramatic dual-tone lighting cool cyan from the left, warm amber from the right with strong specular highlights bouncing off glossy materials and creating vibrant internal glows within translucent sections., Faint holographic UI elements float in mid-air behind the shoe, displaying '1TF 1.100 mon tie' and a directional arrow labeled 'FJ-D25 FUNCTIONS'.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "an_upwardlooking_urban_portrait_017",
+      "concept": "An upward-looking urban portrait of a young man standing between towering apartment buildings under a clear blue sky",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "An upward-looking urban portrait of a young man standing between towering apartment buildings under a clear blue sky\nSubject: bald head with light stubble and calm expression gazing slightly up, wearing bright yellow over-ear headphones around his neck\nClothing: unbuttoned denim jacket worn open over a white graphic t-shirt featuring bold black text reading 'GARUSINA' along with illustrative artwork\nAction: standing still in an upward-facing pose holding a green plastic bottle labeled 'Lemon Tea' loosely in one hand near chest level, shoulders relaxed and turned slightly to the side\nEnvironment: tall residential buildings loom above on both sides creating a canyon-like effect between them, narrow view of blue sky with faint clouds at top center frame\nCamera: wide-angle low angle shot looking up from below subject emphasizing height contrast, slight fish-eye distortion evident in building lines curving outward toward edges\nLighting: warm golden sunlight bathing scene especially highlighting right side buildings and casting soft shadows on left facade suggesting late afternoon or early evening time of day.",
+        "date_added": "2026-05-20T14:51:31.096882",
+        "source_file": "promptdexter.txt",
+        "source_index": 17,
+        "structured_fields": {
+          "Subject": "bald head with light stubble and calm expression gazing slightly up, wearing bright yellow over-ear headphones around his neck",
+          "Clothing": "unbuttoned denim jacket worn open over a white graphic t-shirt featuring bold black text reading 'GARUSINA' along with illustrative artwork",
+          "Action": "standing still in an upward-facing pose holding a green plastic bottle labeled 'Lemon Tea' loosely in one hand near chest level, shoulders relaxed and turned slightly to the side",
+          "Environment": "tall residential buildings loom above on both sides creating a canyon-like effect between them, narrow view of blue sky with faint clouds at top center frame",
+          "Camera": "wide-angle low angle shot looking up from below subject emphasizing height contrast, slight fish-eye distortion evident in building lines curving outward toward edges",
+          "Lighting": "warm golden sunlight bathing scene especially highlighting right side buildings and casting soft shadows on left facade suggesting late afternoon or early evening time of day."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Environment",
+          "Camera",
+          "Lighting"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An upward-looking urban portrait of a young man standing between towering apartment buildings under a clear blue sky\nSubject: bald head with light stubble and calm expression gazing slightly up, wearing bright yellow over-ear headphones around his neck\nClothing: unbuttoned denim jacket worn open over a white graphic t-shirt featuring bold black text reading 'GARUSINA' along with illustrative artwork\nAction: standing still in an upward-facing pose holding a green plastic bottle labeled 'Lemon Tea' loosely in one hand near chest level, shoulders relaxed and turned slightly to the side\nEnvironment: tall residential buildings loom above on both sides creating a canyon-like effect between them, narrow view of blue sky with faint clouds at top center frame\nCamera: wide-angle low angle shot looking up from below subject emphasizing height contrast, slight fish-eye distortion evident in building lines curving outward toward edges\nLighting: warm golden sunlight bathing scene especially highlighting right side buildings and casting soft shadows on left facade suggesting late afternoon or early evening time of day.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "bald head with light stubble and calm expression gazing slightly up, wearing bright yellow over-ear headphones around his neck, unbuttoned denim jacket worn open over a white graphic t-shirt featuring bold black text reading 'GARUSINA' along with illustrative artwork, standing still in an upward-facing pose holding a green plastic bottle labeled 'Lemon Tea' loosely in one hand near chest level, shoulders relaxed and turned slightly to the side, tall residential buildings loom above on both sides creating a canyon-like effect between them, narrow view of blue sky with faint clouds at top center frame, wide-angle low angle shot looking up from below subject emphasizing height contrast, slight fish-eye distortion evident in building lines curving outward toward edges, warm golden sunlight bathing scene especially highlighting right side buildings and casting soft shadows on left facade suggesting late afternoon or early evening time of day.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "bald head with light stubble and calm expression gazing slightly up, wearing bright yellow over-ear headphones around his neck wearing unbuttoned denim jacket worn open over a white graphic t-shirt featuring bold black text reading 'GARUSINA' along with illustrative artwork standing still in an upward-facing pose holding a green plastic bottle labeled 'Lemon Tea' loosely in one hand near chest level, shoulders relaxed and turned slightly to the side in tall residential buildings loom above on both sides creating a canyon-like effect between them, narrow view of blue sky with faint clouds at top center frame. wide-angle low angle shot looking up from below subject emphasizing height contrast, slight fish-eye distortion evident in building lines curving outward toward edges. with warm golden sunlight bathing scene especially highlighting right side buildings and casting soft shadows on left facade suggesting late afternoon or early evening time of day.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(bald head with light stubble and calm expression gazing slightly up, wearing bright yellow over-ear headphones around his neck:1.1), unbuttoned denim jacket worn open over a white graphic t-shirt featuring bold black text reading 'GARUSINA' along with illustrative artwork, standing still in an upward-facing pose holding a green plastic bottle labeled 'Lemon Tea' loosely in one hand near chest level, shoulders relaxed and turned slightly to the side, tall residential buildings loom above on both sides creating a canyon-like effect between them, narrow view of blue sky with faint clouds at top center frame, wide-angle low angle shot looking up from below subject emphasizing height contrast, slight fish-eye distortion evident in building lines curving outward toward edges, warm golden sunlight bathing scene especially highlighting right side buildings and casting soft shadows on left facade suggesting late afternoon or early evening time of day.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_cinematic_portrait_of_018",
+      "concept": "A cinematic portrait of a young woman with voluminous wavy brown hair and fair skin sitting on grass in an outdoor park setting",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A cinematic portrait of a young woman with voluminous wavy brown hair and fair skin sitting on grass in an outdoor park setting\nClothing: wearing a white floral dress with pink flowers, ruffled sleeves, and spaghetti straps\nLighting: bathed in warm golden hour sunlight hitting her from the side, creating soft highlights through her curls and lens flares\nEnvironment: blurred green forest background with bokeh light spots and grassy ground\nCamera: shallow depth of field portrait shot emphasizing subject against out-of-focus nature backdrop.",
+        "date_added": "2026-05-20T14:51:31.096961",
+        "source_file": "promptdexter.txt",
+        "source_index": 18,
+        "structured_fields": {
+          "Clothing": "wearing a white floral dress with pink flowers, ruffled sleeves, and spaghetti straps",
+          "Lighting": "bathed in warm golden hour sunlight hitting her from the side, creating soft highlights through her curls and lens flares",
+          "Environment": "blurred green forest background with bokeh light spots and grassy ground",
+          "Camera": "shallow depth of field portrait shot emphasizing subject against out-of-focus nature backdrop."
+        },
+        "field_keys_present": [
+          "Clothing",
+          "Lighting",
+          "Environment",
+          "Camera"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A cinematic portrait of a young woman with voluminous wavy brown hair and fair skin sitting on grass in an outdoor park setting\nClothing: wearing a white floral dress with pink flowers, ruffled sleeves, and spaghetti straps\nLighting: bathed in warm golden hour sunlight hitting her from the side, creating soft highlights through her curls and lens flares\nEnvironment: blurred green forest background with bokeh light spots and grassy ground\nCamera: shallow depth of field portrait shot emphasizing subject against out-of-focus nature backdrop.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "wearing a white floral dress with pink flowers, ruffled sleeves, and spaghetti straps, blurred green forest background with bokeh light spots and grassy ground, shallow depth of field portrait shot emphasizing subject against out-of-focus nature backdrop., bathed in warm golden hour sunlight hitting her from the side, creating soft highlights through her curls and lens flares",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "wearing wearing a white floral dress with pink flowers, ruffled sleeves, and spaghetti straps in blurred green forest background with bokeh light spots and grassy ground. shallow depth of field portrait shot emphasizing subject against out-of-focus nature backdrop.. with bathed in warm golden hour sunlight hitting her from the side, creating soft highlights through her curls and lens flares",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "wearing a white floral dress with pink flowers, ruffled sleeves, and spaghetti straps, blurred green forest background with bokeh light spots and grassy ground, shallow depth of field portrait shot emphasizing subject against out-of-focus nature backdrop., bathed in warm golden hour sunlight hitting her from the side, creating soft highlights through her curls and lens flares",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "highdefinition_black_and_white_019",
+      "concept": "High-definition black and white portrait of a muscular man with wet skin standing in dramatic shadow",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "High-definition black and white portrait of a muscular man with wet skin standing in dramatic shadow\nSubject: young male model featuring highly defined abs, broad shoulders, thick neck, and short dark wavy hair slicked back by moisture\nClothing: wearing loose-fitting athletic shorts at the waist only, showing no shirt to highlight upper body definition\nAction: head tilted slightly downward with an intense focused gaze looking down toward his chest or abdomen area while standing in profile view facing left side of frame\nLighting: strong directional spotlight from top-right casting deep shadows across face and torso creating high contrast chiaroscuro effect that emphasizes every muscle contour through sweat highlights on skin surface.",
+        "date_added": "2026-05-20T14:51:31.097047",
+        "source_file": "promptdexter.txt",
+        "source_index": 19,
+        "structured_fields": {
+          "Subject": "young male model featuring highly defined abs, broad shoulders, thick neck, and short dark wavy hair slicked back by moisture",
+          "Clothing": "wearing loose-fitting athletic shorts at the waist only, showing no shirt to highlight upper body definition",
+          "Action": "head tilted slightly downward with an intense focused gaze looking down toward his chest or abdomen area while standing in profile view facing left side of frame",
+          "Lighting": "strong directional spotlight from top-right casting deep shadows across face and torso creating high contrast chiaroscuro effect that emphasizes every muscle contour through sweat highlights on skin surface."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Lighting"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "High-definition black and white portrait of a muscular man with wet skin standing in dramatic shadow\nSubject: young male model featuring highly defined abs, broad shoulders, thick neck, and short dark wavy hair slicked back by moisture\nClothing: wearing loose-fitting athletic shorts at the waist only, showing no shirt to highlight upper body definition\nAction: head tilted slightly downward with an intense focused gaze looking down toward his chest or abdomen area while standing in profile view facing left side of frame\nLighting: strong directional spotlight from top-right casting deep shadows across face and torso creating high contrast chiaroscuro effect that emphasizes every muscle contour through sweat highlights on skin surface.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "young male model featuring highly defined abs, broad shoulders, thick neck, and short dark wavy hair slicked back by moisture, wearing loose-fitting athletic shorts at the waist only, showing no shirt to highlight upper body definition, head tilted slightly downward with an intense focused gaze looking down toward his chest or abdomen area while standing in profile view facing left side of frame, strong directional spotlight from top-right casting deep shadows across face and torso creating high contrast chiaroscuro effect that emphasizes every muscle contour through sweat highlights on skin surface.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "young male model featuring highly defined abs, broad shoulders, thick neck, and short dark wavy hair slicked back by moisture wearing wearing loose-fitting athletic shorts at the waist only, showing no shirt to highlight upper body definition head tilted slightly downward with an intense focused gaze looking down toward his chest or abdomen area while standing in profile view facing left side of frame. with strong directional spotlight from top-right casting deep shadows across face and torso creating high contrast chiaroscuro effect that emphasizes every muscle contour through sweat highlights on skin surface.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(young male model featuring highly defined abs, broad shoulders, thick neck, and short dark wavy hair slicked back by moisture:1.1), wearing loose-fitting athletic shorts at the waist only, showing no shirt to highlight upper body definition, head tilted slightly downward with an intense focused gaze looking down toward his chest or abdomen area while standing in profile view facing left side of frame, strong directional spotlight from top-right casting deep shadows across face and torso creating high contrast chiaroscuro effect that emphasizes every muscle contour through sweat highlights on skin surface.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "monochrome_closeup_profile_of_020",
+      "concept": "Monochrome close-up profile of a woman's face with soft, cinematic lighting highlighting skin texture and delicate features",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Monochrome close-up profile of a woman's face with soft, cinematic lighting highlighting skin texture and delicate features\nSubject: young woman in side view, large expressive eye with long dark lashes looking upward, defined nose, glossy lips slightly parted, fine facial pores visible on cheekbone\nHair: wispy bangs framing forehead, loose strands falling along jawline and neck\nLighting: dramatic rim light illuminating right profile while left side fades into deep shadow, creating high contrast and sculpted form against black background\nStyle Details: hyper-realistic portrait with fine detail rendering reminiscent of a film noir still or editorial fashion photography.",
+        "date_added": "2026-05-20T14:51:31.097120",
+        "source_file": "promptdexter.txt",
+        "source_index": 20,
+        "structured_fields": {
+          "Subject": "young woman in side view, large expressive eye with long dark lashes looking upward, defined nose, glossy lips slightly parted, fine facial pores visible on cheekbone",
+          "Hair": "wispy bangs framing forehead, loose strands falling along jawline and neck",
+          "Lighting": "dramatic rim light illuminating right profile while left side fades into deep shadow, creating high contrast and sculpted form against black background",
+          "Style Details": "hyper-realistic portrait with fine detail rendering reminiscent of a film noir still or editorial fashion photography."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Hair",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Monochrome close-up profile of a woman's face with soft, cinematic lighting highlighting skin texture and delicate features\nSubject: young woman in side view, large expressive eye with long dark lashes looking upward, defined nose, glossy lips slightly parted, fine facial pores visible on cheekbone\nHair: wispy bangs framing forehead, loose strands falling along jawline and neck\nLighting: dramatic rim light illuminating right profile while left side fades into deep shadow, creating high contrast and sculpted form against black background\nStyle Details: hyper-realistic portrait with fine detail rendering reminiscent of a film noir still or editorial fashion photography.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "young woman in side view, large expressive eye with long dark lashes looking upward, defined nose, glossy lips slightly parted, fine facial pores visible on cheekbone, dramatic rim light illuminating right profile while left side fades into deep shadow, creating high contrast and sculpted form against black background, hyper-realistic portrait with fine detail rendering reminiscent of a film noir still or editorial fashion photography., wispy bangs framing forehead, loose strands falling along jawline and neck",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "young woman in side view, large expressive eye with long dark lashes looking upward, defined nose, glossy lips slightly parted, fine facial pores visible on cheekbone. with dramatic rim light illuminating right profile while left side fades into deep shadow, creating high contrast and sculpted form against black background. hyper-realistic portrait with fine detail rendering reminiscent of a film noir still or editorial fashion photography.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(hyper-realistic portrait with fine detail rendering reminiscent of a film noir still or editorial fashion photography.:1.2), (young woman in side view, large expressive eye with long dark lashes looking upward, defined nose, glossy lips slightly parted, fine facial pores visible on cheekbone:1.1), dramatic rim light illuminating right profile while left side fades into deep shadow, creating high contrast and sculpted form against black background, wispy bangs framing forehead, loose strands falling along jawline and neck",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_charcoal_and_pencil_021",
+      "concept": "A charcoal and pencil portrait sketch on textured paper",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A charcoal and pencil portrait sketch on textured paper\nSubject: A woman with dark, tousled hair framing her face, featuring defined eyebrows, heavy eyeliner, full lips, and a direct, serious gaze toward the viewer\nClothing: She wears a loose-fitting black tank top or camisole that hangs softly against her shoulders\nAction: Her right hand gently touches the side of her neck near her collarbone in a contemplative pose.\nStyle Details: The artwork utilizes expressive sketch lines with strong contrast between dark ink and soft pencil shading, leaving parts of the background lightly sketched to suggest form rather than define it completely.",
+        "date_added": "2026-05-20T14:51:31.097199",
+        "source_file": "promptdexter.txt",
+        "source_index": 21,
+        "structured_fields": {
+          "Subject": "A woman with dark, tousled hair framing her face, featuring defined eyebrows, heavy eyeliner, full lips, and a direct, serious gaze toward the viewer",
+          "Clothing": "She wears a loose-fitting black tank top or camisole that hangs softly against her shoulders",
+          "Action": "Her right hand gently touches the side of her neck near her collarbone in a contemplative pose.",
+          "Style Details": "The artwork utilizes expressive sketch lines with strong contrast between dark ink and soft pencil shading, leaving parts of the background lightly sketched to suggest form rather than define it completely."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Action",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A charcoal and pencil portrait sketch on textured paper\nSubject: A woman with dark, tousled hair framing her face, featuring defined eyebrows, heavy eyeliner, full lips, and a direct, serious gaze toward the viewer\nClothing: She wears a loose-fitting black tank top or camisole that hangs softly against her shoulders\nAction: Her right hand gently touches the side of her neck near her collarbone in a contemplative pose.\nStyle Details: The artwork utilizes expressive sketch lines with strong contrast between dark ink and soft pencil shading, leaving parts of the background lightly sketched to suggest form rather than define it completely.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A woman with dark, tousled hair framing her face, featuring defined eyebrows, heavy eyeliner, full lips, and a direct, serious gaze toward the viewer, She wears a loose-fitting black tank top or camisole that hangs softly against her shoulders, Her right hand gently touches the side of her neck near her collarbone in a contemplative pose., The artwork utilizes expressive sketch lines with strong contrast between dark ink and soft pencil shading, leaving parts of the background lightly sketched to suggest form rather than define it completely.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A woman with dark, tousled hair framing her face, featuring defined eyebrows, heavy eyeliner, full lips, and a direct, serious gaze toward the viewer wearing She wears a loose-fitting black tank top or camisole that hangs softly against her shoulders Her right hand gently touches the side of her neck near her collarbone in a contemplative pose.. The artwork utilizes expressive sketch lines with strong contrast between dark ink and soft pencil shading, leaving parts of the background lightly sketched to suggest form rather than define it completely.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(The artwork utilizes expressive sketch lines with strong contrast between dark ink and soft pencil shading, leaving parts of the background lightly sketched to suggest form rather than define it completely.:1.2), (A woman with dark, tousled hair framing her face, featuring defined eyebrows, heavy eyeliner, full lips, and a direct, serious gaze toward the viewer:1.1), She wears a loose-fitting black tank top or camisole that hangs softly against her shoulders, Her right hand gently touches the side of her neck near her collarbone in a contemplative pose.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "digital_illustration_of_a_022",
+      "concept": "Digital illustration of a stylized young woman with short dark bob hair and large round glasses",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Digital illustration of a stylized young woman with short dark bob hair and large round glasses\nSubject: youthful face with soft features, expressive eyes peering over thick black frames, wearing small orange circular earrings and a delicate gold pendant necklace on a thin choker strap\nClothing: fitted burnt-orange long-sleeve top adorned with subtle geometric patterns in darker tones, cropped hemline revealing midriff.\nEnvironment: warm glowing orange backdrop suggesting fire or sunset ambiance, softly blurred to emphasize subject.\nLighting: soft directional glow from behind and above creating gentle highlights on face and shoulders, enhancing depth and mood\nStyle Details: smooth digital rendering with anime-inspired proportions, clean lines, vibrant saturated colors, polished finish typical of modern 3D character art.",
+        "date_added": "2026-05-20T14:51:31.097272",
+        "source_file": "promptdexter.txt",
+        "source_index": 22,
+        "structured_fields": {
+          "Subject": "youthful face with soft features, expressive eyes peering over thick black frames, wearing small orange circular earrings and a delicate gold pendant necklace on a thin choker strap",
+          "Clothing": "fitted burnt-orange long-sleeve top adorned with subtle geometric patterns in darker tones, cropped hemline revealing midriff.",
+          "Environment": "warm glowing orange backdrop suggesting fire or sunset ambiance, softly blurred to emphasize subject.",
+          "Lighting": "soft directional glow from behind and above creating gentle highlights on face and shoulders, enhancing depth and mood",
+          "Style Details": "smooth digital rendering with anime-inspired proportions, clean lines, vibrant saturated colors, polished finish typical of modern 3D character art."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Environment",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Digital illustration of a stylized young woman with short dark bob hair and large round glasses\nSubject: youthful face with soft features, expressive eyes peering over thick black frames, wearing small orange circular earrings and a delicate gold pendant necklace on a thin choker strap\nClothing: fitted burnt-orange long-sleeve top adorned with subtle geometric patterns in darker tones, cropped hemline revealing midriff.\nEnvironment: warm glowing orange backdrop suggesting fire or sunset ambiance, softly blurred to emphasize subject.\nLighting: soft directional glow from behind and above creating gentle highlights on face and shoulders, enhancing depth and mood\nStyle Details: smooth digital rendering with anime-inspired proportions, clean lines, vibrant saturated colors, polished finish typical of modern 3D character art.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "youthful face with soft features, expressive eyes peering over thick black frames, wearing small orange circular earrings and a delicate gold pendant necklace on a thin choker strap, fitted burnt-orange long-sleeve top adorned with subtle geometric patterns in darker tones, cropped hemline revealing midriff., warm glowing orange backdrop suggesting fire or sunset ambiance, softly blurred to emphasize subject., soft directional glow from behind and above creating gentle highlights on face and shoulders, enhancing depth and mood, smooth digital rendering with anime-inspired proportions, clean lines, vibrant saturated colors, polished finish typical of modern 3D character art.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "youthful face with soft features, expressive eyes peering over thick black frames, wearing small orange circular earrings and a delicate gold pendant necklace on a thin choker strap wearing fitted burnt-orange long-sleeve top adorned with subtle geometric patterns in darker tones, cropped hemline revealing midriff. in warm glowing orange backdrop suggesting fire or sunset ambiance, softly blurred to emphasize subject.. with soft directional glow from behind and above creating gentle highlights on face and shoulders, enhancing depth and mood. smooth digital rendering with anime-inspired proportions, clean lines, vibrant saturated colors, polished finish typical of modern 3D character art.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(smooth digital rendering with anime-inspired proportions, clean lines, vibrant saturated colors, polished finish typical of modern 3D character art.:1.2), (youthful face with soft features, expressive eyes peering over thick black frames, wearing small orange circular earrings and a delicate gold pendant necklace on a thin choker strap:1.1), fitted burnt-orange long-sleeve top adorned with subtle geometric patterns in darker tones, cropped hemline revealing midriff., warm glowing orange backdrop suggesting fire or sunset ambiance, softly blurred to emphasize subject., soft directional glow from behind and above creating gentle highlights on face and shoulders, enhancing depth and mood",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "digital_photo_of_a_023",
+      "concept": "Digital photo of a fluffy white cat lounging on an orange beach chair under bright sunlight",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Digital photo of a fluffy white cat lounging on an orange beach chair under bright sunlight\nSubject: large long-haired white Persian-style feline with paws resting forward and wearing brown aviator sunglasses perched over its eyes\nClothing: stylish round-lens sun glasses with thin metal frames, no other clothing or accessories visible.\nEnvironment: sandy tropical beach setting with tall palm trees swaying in the background under a vivid blue sky dotted with fluffy white clouds, blurred lounge umbrellas and distant figures seated on similar chairs creating depth of field\nCamera: low-angle shot emphasizing the cat's relaxed posture against the vibrant backdrop, shallow depth-of-field rendering foreground sharp while softly blurring mid-to-background elements for cinematic focus.\nLighting: intense natural daylight casting strong highlights across fur texture and subtle shadows beneath chair frame and paws suggesting overhead sun position with high-contrast clarity typical of noon beach conditions;",
+        "date_added": "2026-05-20T14:51:31.097350",
+        "source_file": "promptdexter.txt",
+        "source_index": 23,
+        "structured_fields": {
+          "Subject": "large long-haired white Persian-style feline with paws resting forward and wearing brown aviator sunglasses perched over its eyes",
+          "Clothing": "stylish round-lens sun glasses with thin metal frames, no other clothing or accessories visible.",
+          "Environment": "sandy tropical beach setting with tall palm trees swaying in the background under a vivid blue sky dotted with fluffy white clouds, blurred lounge umbrellas and distant figures seated on similar chairs creating depth of field",
+          "Camera": "low-angle shot emphasizing the cat's relaxed posture against the vibrant backdrop, shallow depth-of-field rendering foreground sharp while softly blurring mid-to-background elements for cinematic focus.",
+          "Lighting": "intense natural daylight casting strong highlights across fur texture and subtle shadows beneath chair frame and paws suggesting overhead sun position with high-contrast clarity typical of noon beach conditions;"
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Environment",
+          "Camera",
+          "Lighting"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Digital photo of a fluffy white cat lounging on an orange beach chair under bright sunlight\nSubject: large long-haired white Persian-style feline with paws resting forward and wearing brown aviator sunglasses perched over its eyes\nClothing: stylish round-lens sun glasses with thin metal frames, no other clothing or accessories visible.\nEnvironment: sandy tropical beach setting with tall palm trees swaying in the background under a vivid blue sky dotted with fluffy white clouds, blurred lounge umbrellas and distant figures seated on similar chairs creating depth of field\nCamera: low-angle shot emphasizing the cat's relaxed posture against the vibrant backdrop, shallow depth-of-field rendering foreground sharp while softly blurring mid-to-background elements for cinematic focus.\nLighting: intense natural daylight casting strong highlights across fur texture and subtle shadows beneath chair frame and paws suggesting overhead sun position with high-contrast clarity typical of noon beach conditions;",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "large long-haired white Persian-style feline with paws resting forward and wearing brown aviator sunglasses perched over its eyes, stylish round-lens sun glasses with thin metal frames, no other clothing or accessories visible., sandy tropical beach setting with tall palm trees swaying in the background under a vivid blue sky dotted with fluffy white clouds, blurred lounge umbrellas and distant figures seated on similar chairs creating depth of field, low-angle shot emphasizing the cat's relaxed posture against the vibrant backdrop, shallow depth-of-field rendering foreground sharp while softly blurring mid-to-background elements for cinematic focus., intense natural daylight casting strong highlights across fur texture and subtle shadows beneath chair frame and paws suggesting overhead sun position with high-contrast clarity typical of noon beach conditions;",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "large long-haired white Persian-style feline with paws resting forward and wearing brown aviator sunglasses perched over its eyes wearing stylish round-lens sun glasses with thin metal frames, no other clothing or accessories visible. in sandy tropical beach setting with tall palm trees swaying in the background under a vivid blue sky dotted with fluffy white clouds, blurred lounge umbrellas and distant figures seated on similar chairs creating depth of field. low-angle shot emphasizing the cat's relaxed posture against the vibrant backdrop, shallow depth-of-field rendering foreground sharp while softly blurring mid-to-background elements for cinematic focus.. with intense natural daylight casting strong highlights across fur texture and subtle shadows beneath chair frame and paws suggesting overhead sun position with high-contrast clarity typical of noon beach conditions;",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(large long-haired white Persian-style feline with paws resting forward and wearing brown aviator sunglasses perched over its eyes:1.1), stylish round-lens sun glasses with thin metal frames, no other clothing or accessories visible., sandy tropical beach setting with tall palm trees swaying in the background under a vivid blue sky dotted with fluffy white clouds, blurred lounge umbrellas and distant figures seated on similar chairs creating depth of field, low-angle shot emphasizing the cat's relaxed posture against the vibrant backdrop, shallow depth-of-field rendering foreground sharp while softly blurring mid-to-background elements for cinematic focus., intense natural daylight casting strong highlights across fur texture and subtle shadows beneath chair frame and paws suggesting overhead sun position with high-contrast clarity typical of noon beach conditions;",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "a_surreal_closeup_portrait_024",
+      "concept": "A surreal close-up portrait of a girl submerged underwater with her face near the water's surface",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "A surreal close-up portrait of a girl submerged underwater with her face near the water's surface\nSubject: A young woman with fair skin covered in freckles and striking emerald green eyes, looking directly at the viewer with an open mouth as if breathing or just surfaced.\nAction: Submerged head-first beneath rippling water, surrounded by suspended floating particles and light refractions dancing across her features.\nLighting: Warm golden sunlight filtering through the surface above, creating dappled highlights on her face and shimmering caustic patterns on skin and eyes; soft ambient glow with cool turquoise undertones from surrounding water.\nEnvironment: Underwater setting, slightly blurred background suggesting depth and movement of aquatic space around her head.\nStyle Details: Dreamy ethereal digital art style, high-detail photorealistic rendering with magical bokeh effects and sparkling dust-like particles floating in the frame; soft focus edges blending into translucent water textures.",
+        "date_added": "2026-05-20T14:51:31.097430",
+        "source_file": "promptdexter.txt",
+        "source_index": 24,
+        "structured_fields": {
+          "Subject": "A young woman with fair skin covered in freckles and striking emerald green eyes, looking directly at the viewer with an open mouth as if breathing or just surfaced.",
+          "Action": "Submerged head-first beneath rippling water, surrounded by suspended floating particles and light refractions dancing across her features.",
+          "Lighting": "Warm golden sunlight filtering through the surface above, creating dappled highlights on her face and shimmering caustic patterns on skin and eyes; soft ambient glow with cool turquoise undertones from surrounding water.",
+          "Environment": "Underwater setting, slightly blurred background suggesting depth and movement of aquatic space around her head.",
+          "Style Details": "Dreamy ethereal digital art style, high-detail photorealistic rendering with magical bokeh effects and sparkling dust-like particles floating in the frame; soft focus edges blending into translucent water textures."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Action",
+          "Lighting",
+          "Environment",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A surreal close-up portrait of a girl submerged underwater with her face near the water's surface\nSubject: A young woman with fair skin covered in freckles and striking emerald green eyes, looking directly at the viewer with an open mouth as if breathing or just surfaced.\nAction: Submerged head-first beneath rippling water, surrounded by suspended floating particles and light refractions dancing across her features.\nLighting: Warm golden sunlight filtering through the surface above, creating dappled highlights on her face and shimmering caustic patterns on skin and eyes; soft ambient glow with cool turquoise undertones from surrounding water.\nEnvironment: Underwater setting, slightly blurred background suggesting depth and movement of aquatic space around her head.\nStyle Details: Dreamy ethereal digital art style, high-detail photorealistic rendering with magical bokeh effects and sparkling dust-like particles floating in the frame; soft focus edges blending into translucent water textures.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A young woman with fair skin covered in freckles and striking emerald green eyes, looking directly at the viewer with an open mouth as if breathing or just surfaced., Submerged head-first beneath rippling water, surrounded by suspended floating particles and light refractions dancing across her features., Underwater setting, slightly blurred background suggesting depth and movement of aquatic space around her head., Warm golden sunlight filtering through the surface above, creating dappled highlights on her face and shimmering caustic patterns on skin and eyes; soft ambient glow with cool turquoise undertones from surrounding water., Dreamy ethereal digital art style, high-detail photorealistic rendering with magical bokeh effects and sparkling dust-like particles floating in the frame; soft focus edges blending into translucent water textures.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A young woman with fair skin covered in freckles and striking emerald green eyes, looking directly at the viewer with an open mouth as if breathing or just surfaced. Submerged head-first beneath rippling water, surrounded by suspended floating particles and light refractions dancing across her features. in Underwater setting, slightly blurred background suggesting depth and movement of aquatic space around her head.. with Warm golden sunlight filtering through the surface above, creating dappled highlights on her face and shimmering caustic patterns on skin and eyes; soft ambient glow with cool turquoise undertones from surrounding water.. Dreamy ethereal digital art style, high-detail photorealistic rendering with magical bokeh effects and sparkling dust-like particles floating in the frame; soft focus edges blending into translucent water textures.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(Dreamy ethereal digital art style, high-detail photorealistic rendering with magical bokeh effects and sparkling dust-like particles floating in the frame; soft focus edges blending into translucent water textures.:1.2), (A young woman with fair skin covered in freckles and striking emerald green eyes, looking directly at the viewer with an open mouth as if breathing or just surfaced.:1.1), Submerged head-first beneath rippling water, surrounded by suspended floating particles and light refractions dancing across her features., Underwater setting, slightly blurred background suggesting depth and movement of aquatic space around her head., Warm golden sunlight filtering through the surface above, creating dappled highlights on her face and shimmering caustic patterns on skin and eyes; soft ambient glow with cool turquoise undertones from surrounding water.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "oil_painting_of_a_025",
+      "concept": "Oil painting of a sun-drenched coastal village clinging to steep cliffs overlooking the sea",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Oil painting of a sun-drenched coastal village clinging to steep cliffs overlooking the sea\nEnvironment: deep blue Mediterranean waters filled with small sailboats and yachts, rugged green mountains rising from the coast in the background under a bright sky with fluffy white clouds; buildings feature terracotta roofs, warm ochre walls, wrought iron balconies adorned with vibrant red flowers and potted plants cascading down stairways.\nCamera: slightly elevated angle capturing the layered depth from foreground rooftops toward distant horizon, wide composition emphasizing scale and grandeur.\nLighting: strong midday sunlight casting soft shadows across stone pathways and building facades, enhancing texture of walls and foliage with warm golden tones reflecting off domes and roofs.\nStyle Details: thick impasto brushstrokes creating rich painterly textures reminiscent of classical landscape art; visible artist signature in bottom right corner adds authenticity to the scene's handcrafted feel.",
+        "date_added": "2026-05-20T14:51:31.097518",
+        "source_file": "promptdexter.txt",
+        "source_index": 25,
+        "structured_fields": {
+          "Environment": "deep blue Mediterranean waters filled with small sailboats and yachts, rugged green mountains rising from the coast in the background under a bright sky with fluffy white clouds; buildings feature terracotta roofs, warm ochre walls, wrought iron balconies adorned with vibrant red flowers and potted plants cascading down stairways.",
+          "Camera": "slightly elevated angle capturing the layered depth from foreground rooftops toward distant horizon, wide composition emphasizing scale and grandeur.",
+          "Lighting": "strong midday sunlight casting soft shadows across stone pathways and building facades, enhancing texture of walls and foliage with warm golden tones reflecting off domes and roofs.",
+          "Style Details": "thick impasto brushstrokes creating rich painterly textures reminiscent of classical landscape art; visible artist signature in bottom right corner adds authenticity to the scene's handcrafted feel."
+        },
+        "field_keys_present": [
+          "Environment",
+          "Camera",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Oil painting of a sun-drenched coastal village clinging to steep cliffs overlooking the sea\nEnvironment: deep blue Mediterranean waters filled with small sailboats and yachts, rugged green mountains rising from the coast in the background under a bright sky with fluffy white clouds; buildings feature terracotta roofs, warm ochre walls, wrought iron balconies adorned with vibrant red flowers and potted plants cascading down stairways.\nCamera: slightly elevated angle capturing the layered depth from foreground rooftops toward distant horizon, wide composition emphasizing scale and grandeur.\nLighting: strong midday sunlight casting soft shadows across stone pathways and building facades, enhancing texture of walls and foliage with warm golden tones reflecting off domes and roofs.\nStyle Details: thick impasto brushstrokes creating rich painterly textures reminiscent of classical landscape art; visible artist signature in bottom right corner adds authenticity to the scene's handcrafted feel.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "deep blue Mediterranean waters filled with small sailboats and yachts, rugged green mountains rising from the coast in the background under a bright sky with fluffy white clouds; buildings feature terracotta roofs, warm ochre walls, wrought iron balconies adorned with vibrant red flowers and potted plants cascading down stairways., slightly elevated angle capturing the layered depth from foreground rooftops toward distant horizon, wide composition emphasizing scale and grandeur., strong midday sunlight casting soft shadows across stone pathways and building facades, enhancing texture of walls and foliage with warm golden tones reflecting off domes and roofs., thick impasto brushstrokes creating rich painterly textures reminiscent of classical landscape art; visible artist signature in bottom right corner adds authenticity to the scene's handcrafted feel.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "in deep blue Mediterranean waters filled with small sailboats and yachts, rugged green mountains rising from the coast in the background under a bright sky with fluffy white clouds; buildings feature terracotta roofs, warm ochre walls, wrought iron balconies adorned with vibrant red flowers and potted plants cascading down stairways.. slightly elevated angle capturing the layered depth from foreground rooftops toward distant horizon, wide composition emphasizing scale and grandeur.. with strong midday sunlight casting soft shadows across stone pathways and building facades, enhancing texture of walls and foliage with warm golden tones reflecting off domes and roofs.. thick impasto brushstrokes creating rich painterly textures reminiscent of classical landscape art; visible artist signature in bottom right corner adds authenticity to the scene's handcrafted feel.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(thick impasto brushstrokes creating rich painterly textures reminiscent of classical landscape art; visible artist signature in bottom right corner adds authenticity to the scene's handcrafted feel.:1.2), deep blue Mediterranean waters filled with small sailboats and yachts, rugged green mountains rising from the coast in the background under a bright sky with fluffy white clouds; buildings feature terracotta roofs, warm ochre walls, wrought iron balconies adorned with vibrant red flowers and potted plants cascading down stairways., slightly elevated angle capturing the layered depth from foreground rooftops toward distant horizon, wide composition emphasizing scale and grandeur., strong midday sunlight casting soft shadows across stone pathways and building facades, enhancing texture of walls and foliage with warm golden tones reflecting off domes and roofs.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_a_young_026",
+      "concept": "Portrait of a young woman with dark wavy hair and expressive eyes gazing at viewer against softly blurred warm golden background.",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Portrait of a young woman with dark wavy hair and expressive eyes gazing at viewer against softly blurred warm golden background.\nSubject: Young woman.\nClothing: Wide-brimmed tan soft fabric hat casting shadows across forehead, open black shirt revealing part of chest.\nEnvironment: Softly blurred warm golden tones with hints of floral patterns on left suggesting depth ambient warmth.\nLighting: From above slightly right highlighting facial features, gentle shadows enhancing dimensionality.\nStyle Details: Intimate sun-drenched mood.",
+        "date_added": "2026-05-20T14:51:31.097609",
+        "source_file": "promptdexter.txt",
+        "source_index": 26,
+        "structured_fields": {
+          "Subject": "Young woman.",
+          "Clothing": "Wide-brimmed tan soft fabric hat casting shadows across forehead, open black shirt revealing part of chest.",
+          "Environment": "Softly blurred warm golden tones with hints of floral patterns on left suggesting depth ambient warmth.",
+          "Lighting": "From above slightly right highlighting facial features, gentle shadows enhancing dimensionality.",
+          "Style Details": "Intimate sun-drenched mood."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Environment",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of a young woman with dark wavy hair and expressive eyes gazing at viewer against softly blurred warm golden background.\nSubject: Young woman.\nClothing: Wide-brimmed tan soft fabric hat casting shadows across forehead, open black shirt revealing part of chest.\nEnvironment: Softly blurred warm golden tones with hints of floral patterns on left suggesting depth ambient warmth.\nLighting: From above slightly right highlighting facial features, gentle shadows enhancing dimensionality.\nStyle Details: Intimate sun-drenched mood.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Young woman., Wide-brimmed tan soft fabric hat casting shadows across forehead, open black shirt revealing part of chest., Softly blurred warm golden tones with hints of floral patterns on left suggesting depth ambient warmth., From above slightly right highlighting facial features, gentle shadows enhancing dimensionality., Intimate sun-drenched mood.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Young woman. wearing Wide-brimmed tan soft fabric hat casting shadows across forehead, open black shirt revealing part of chest. in Softly blurred warm golden tones with hints of floral patterns on left suggesting depth ambient warmth.. with From above slightly right highlighting facial features, gentle shadows enhancing dimensionality.. Intimate sun-drenched mood.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(Intimate sun-drenched mood.:1.2), (Young woman.:1.1), Wide-brimmed tan soft fabric hat casting shadows across forehead, open black shirt revealing part of chest., Softly blurred warm golden tones with hints of floral patterns on left suggesting depth ambient warmth., From above slightly right highlighting facial features, gentle shadows enhancing dimensionality.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "oil_painting_portrait_of_027",
+      "concept": "Oil painting portrait of a young woman in profile with pale skin and dark hair",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Oil painting portrait of a young woman in profile with pale skin and dark hair\nClothing: she wears a white hooded garment over a deep red cloak. A black raven perches on her shoulder, facing left.\nAction: Her expression is solemn with downcast eyes and faintly painted lips.\nEnvironment: The background is textured brown canvas resembling aged parchment or old wall surface.\nLighting: Soft directional lighting from the right casts gentle shadows across her face and clothing folds.\nStyle Details: Visible brushstrokes give an impressionistic yet detailed texture to skin tones and fabric. Dark, muted palette dominates with strong contrast between white hood, red cloak, black bird, and sepia-toned background. No text or graphics present; composition framed vertically like a classic portrait painting.",
+        "date_added": "2026-05-20T14:51:31.097696",
+        "source_file": "promptdexter.txt",
+        "source_index": 27,
+        "structured_fields": {
+          "Clothing": "she wears a white hooded garment over a deep red cloak. A black raven perches on her shoulder, facing left.",
+          "Action": "Her expression is solemn with downcast eyes and faintly painted lips.",
+          "Environment": "The background is textured brown canvas resembling aged parchment or old wall surface.",
+          "Lighting": "Soft directional lighting from the right casts gentle shadows across her face and clothing folds.",
+          "Style Details": "Visible brushstrokes give an impressionistic yet detailed texture to skin tones and fabric. Dark, muted palette dominates with strong contrast between white hood, red cloak, black bird, and sepia-toned background. No text or graphics present; composition framed vertically like a classic portrait painting."
+        },
+        "field_keys_present": [
+          "Clothing",
+          "Action",
+          "Environment",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Oil painting portrait of a young woman in profile with pale skin and dark hair\nClothing: she wears a white hooded garment over a deep red cloak. A black raven perches on her shoulder, facing left.\nAction: Her expression is solemn with downcast eyes and faintly painted lips.\nEnvironment: The background is textured brown canvas resembling aged parchment or old wall surface.\nLighting: Soft directional lighting from the right casts gentle shadows across her face and clothing folds.\nStyle Details: Visible brushstrokes give an impressionistic yet detailed texture to skin tones and fabric. Dark, muted palette dominates with strong contrast between white hood, red cloak, black bird, and sepia-toned background. No text or graphics present; composition framed vertically like a classic portrait painting.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "she wears a white hooded garment over a deep red cloak. A black raven perches on her shoulder, facing left., Her expression is solemn with downcast eyes and faintly painted lips., The background is textured brown canvas resembling aged parchment or old wall surface., Soft directional lighting from the right casts gentle shadows across her face and clothing folds., Visible brushstrokes give an impressionistic yet detailed texture to skin tones and fabric. Dark, muted palette dominates with strong contrast between white hood, red cloak, black bird, and sepia-toned background. No text or graphics present; composition framed vertically like a classic portrait painting.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "wearing she wears a white hooded garment over a deep red cloak. A black raven perches on her shoulder, facing left. Her expression is solemn with downcast eyes and faintly painted lips. in The background is textured brown canvas resembling aged parchment or old wall surface.. with Soft directional lighting from the right casts gentle shadows across her face and clothing folds.. Visible brushstrokes give an impressionistic yet detailed texture to skin tones and fabric. Dark, muted palette dominates with strong contrast between white hood, red cloak, black bird, and sepia-toned background. No text or graphics present; composition framed vertically like a classic portrait painting.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(Visible brushstrokes give an impressionistic yet detailed texture to skin tones and fabric. Dark, muted palette dominates with strong contrast between white hood, red cloak, black bird, and sepia-toned background. No text or graphics present; composition framed vertically like a classic portrait painting.:1.2), she wears a white hooded garment over a deep red cloak. A black raven perches on her shoulder, facing left., Her expression is solemn with downcast eyes and faintly painted lips., The background is textured brown canvas resembling aged parchment or old wall surface., Soft directional lighting from the right casts gentle shadows across her face and clothing folds.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    },
+    {
+      "identifier": "oil_pastel_portrait_of_028",
+      "concept": "Oil pastel portrait of a regal woman in profile against a solid black background",
+      "status": "active",
+      "metadata": {
+        "original_source": "promptdexter",
+        "original_prompt": "Oil pastel portrait of a regal woman in profile against a solid black background\nSubject: A queenly figure with an elegant updo hairstyle featuring deep blues and purples under colorful highlights, wearing a golden crown with sharp points and a matching large circular earring.\nClothing: Dark robe or gown adorned with vibrant orange, pink, and yellow feather-like accents on the shoulders and neckline.\nLighting: Dramatic backlighting casting strong shadows while illuminating her face in warm oranges and yellows; cool blues define hair edges and contours for high contrast against darkness.\nStyle Details: Vibrant neon color palette blending purples, pinks, oranges, and teals with visible pastel-like strokes creating a glowing, illustrative effect reminiscent of graphic art or stylized painting.",
+        "date_added": "2026-05-20T14:51:31.097730",
+        "source_file": "promptdexter.txt",
+        "source_index": 28,
+        "structured_fields": {
+          "Subject": "A queenly figure with an elegant updo hairstyle featuring deep blues and purples under colorful highlights, wearing a golden crown with sharp points and a matching large circular earring.",
+          "Clothing": "Dark robe or gown adorned with vibrant orange, pink, and yellow feather-like accents on the shoulders and neckline.",
+          "Lighting": "Dramatic backlighting casting strong shadows while illuminating her face in warm oranges and yellows; cool blues define hair edges and contours for high contrast against darkness.",
+          "Style Details": "Vibrant neon color palette blending purples, pinks, oranges, and teals with visible pastel-like strokes creating a glowing, illustrative effect reminiscent of graphic art or stylized painting."
+        },
+        "field_keys_present": [
+          "Subject",
+          "Clothing",
+          "Lighting",
+          "Style Details"
+        ]
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Oil pastel portrait of a regal woman in profile against a solid black background\nSubject: A queenly figure with an elegant updo hairstyle featuring deep blues and purples under colorful highlights, wearing a golden crown with sharp points and a matching large circular earring.\nClothing: Dark robe or gown adorned with vibrant orange, pink, and yellow feather-like accents on the shoulders and neckline.\nLighting: Dramatic backlighting casting strong shadows while illuminating her face in warm oranges and yellows; cool blues define hair edges and contours for high contrast against darkness.\nStyle Details: Vibrant neon color palette blending purples, pinks, oranges, and teals with visible pastel-like strokes creating a glowing, illustrative effect reminiscent of graphic art or stylized painting.",
+          "negative_template": "",
+          "negative_prompt_strategy": "structured"
+        },
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A queenly figure with an elegant updo hairstyle featuring deep blues and purples under colorful highlights, wearing a golden crown with sharp points and a matching large circular earring., Dark robe or gown adorned with vibrant orange, pink, and yellow feather-like accents on the shoulders and neckline., Dramatic backlighting casting strong shadows while illuminating her face in warm oranges and yellows; cool blues define hair edges and contours for high contrast against darkness., Vibrant neon color palette blending purples, pinks, oranges, and teals with visible pastel-like strokes creating a glowing, illustrative effect reminiscent of graphic art or stylized painting.",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A queenly figure with an elegant updo hairstyle featuring deep blues and purples under colorful highlights, wearing a golden crown with sharp points and a matching large circular earring. wearing Dark robe or gown adorned with vibrant orange, pink, and yellow feather-like accents on the shoulders and neckline.. with Dramatic backlighting casting strong shadows while illuminating her face in warm oranges and yellows; cool blues define hair edges and contours for high contrast against darkness.. Vibrant neon color palette blending purples, pinks, oranges, and teals with visible pastel-like strokes creating a glowing, illustrative effect reminiscent of graphic art or stylized painting.",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "(Vibrant neon color palette blending purples, pinks, oranges, and teals with visible pastel-like strokes creating a glowing, illustrative effect reminiscent of graphic art or stylized painting.:1.2), (A queenly figure with an elegant updo hairstyle featuring deep blues and purples under colorful highlights, wearing a golden crown with sharp points and a matching large circular earring.:1.1), Dark robe or gown adorned with vibrant orange, pink, and yellow feather-like accents on the shoulders and neckline., Dramatic backlighting casting strong shadows while illuminating her face in warm oranges and yellows; cool blues define hair edges and contours for high contrast against darkness.",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        }
+      ]
+    }
+  ]
+}
