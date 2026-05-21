@@ -1,7 +1,7 @@
 import json
 import datetime
 from .db import get_connection
-from .wildcards import extract_all_wildcards_from_templates, normalize_wildcard_key, find_unbound_wildcards
+from .wildcards import normalize_wildcard_key
 
 
 def import_json_file(file_path, db_path=None, dry_run=False):
@@ -109,18 +109,36 @@ def upsert_prompts(cursor, prompt_list, wildcard_map, dry_run=False):
         wildcard_refs = prompt_data.get('wildcard_refs', [])
 
         if not dry_run:
-            cursor.execute(
-                "INSERT OR IGNORE INTO prompts (identifier, concept, status, metadata, created_at, updated_at) VALUES (?, ?, ?, ?, datetime('now'), datetime('now'))",
-                (identifier, concept, status, metadata)
-            )
-            cursor.execute("SELECT id FROM prompts WHERE identifier = ?", (identifier,))
+            cursor.execute("SELECT id, concept, status, metadata FROM prompts WHERE identifier = ?", (identifier,))
             prompt_row = cursor.fetchone()
-            prompt_id = prompt_row['id'] if prompt_row else None
-
-            cursor.execute(
-                "INSERT INTO prompt_versions (prompt_id, version, change_type, changed_by, change_reason, created_at) VALUES (?, 1, 'created', 'import', ?, datetime('now'))",
-                (prompt_id, f"Imported from source")
-            )
+            if prompt_row:
+                prompt_id = prompt_row['id']
+                prompt_changed = (
+                    prompt_row['concept'] != concept
+                    or prompt_row['status'] != status
+                    or (prompt_row['metadata'] or '{}') != metadata
+                )
+                if prompt_changed:
+                    cursor.execute(
+                        "UPDATE prompts SET concept = ?, status = ?, metadata = ?, updated_at = datetime('now') WHERE id = ?",
+                        (concept, status, metadata, prompt_id),
+                    )
+                    cursor.execute("SELECT COALESCE(MAX(version), 0) + 1 FROM prompt_versions WHERE prompt_id = ?", (prompt_id,))
+                    version = cursor.fetchone()[0]
+                    cursor.execute(
+                        "INSERT INTO prompt_versions (prompt_id, version, change_type, changed_by, change_reason, created_at) VALUES (?, ?, 'updated', 'import', ?, datetime('now'))",
+                        (prompt_id, version, "Updated from import"),
+                    )
+            else:
+                cursor.execute(
+                    "INSERT INTO prompts (identifier, concept, status, metadata, created_at, updated_at) VALUES (?, ?, ?, ?, datetime('now'), datetime('now'))",
+                    (identifier, concept, status, metadata)
+                )
+                prompt_id = cursor.lastrowid
+                cursor.execute(
+                    "INSERT INTO prompt_versions (prompt_id, version, change_type, changed_by, change_reason, created_at) VALUES (?, 1, 'created', 'import', ?, datetime('now'))",
+                    (prompt_id, "Imported from source")
+                )
         else:
             prompt_id = f"mock_{identifier}"
 
@@ -144,17 +162,38 @@ def upsert_prompts(cursor, prompt_list, wildcard_map, dry_run=False):
                 notes = style_var.get('notes')
 
                 cursor.execute(
-                    "INSERT OR REPLACE INTO prompt_templates (prompt_id, style_profile_id, positive_template, negative_template, enabled, notes, created_at, updated_at) VALUES (?, ?, ?, ?, 1, ?, datetime('now'), datetime('now'))",
-                    (prompt_id, style_id, positive, negative, notes)
+                    "SELECT id, positive_template, negative_template, notes FROM prompt_templates WHERE prompt_id = ? AND style_profile_id = ?",
+                    (prompt_id, style_id)
                 )
-                cursor.execute("SELECT id FROM prompt_templates WHERE prompt_id = ? AND style_profile_id = ?", (prompt_id, style_id))
                 template_row = cursor.fetchone()
-                template_id = template_row['id'] if template_row else None
-
-                cursor.execute(
-                    "INSERT INTO prompt_template_versions (template_id, version, positive_template, negative_template, change_type, changed_by, created_at) VALUES (?, 1, ?, ?, 'created', 'import', datetime('now'))",
-                    (template_id, positive, negative)
-                )
+                if template_row:
+                    template_id = template_row['id']
+                    template_changed = (
+                        template_row['positive_template'] != positive
+                        or (template_row['negative_template'] or '') != negative
+                        or template_row['notes'] != notes
+                    )
+                    if template_changed:
+                        cursor.execute(
+                            "UPDATE prompt_templates SET positive_template = ?, negative_template = ?, notes = ?, enabled = 1, updated_at = datetime('now') WHERE id = ?",
+                            (positive, negative, notes, template_id)
+                        )
+                        cursor.execute("SELECT COALESCE(MAX(version), 0) + 1 FROM prompt_template_versions WHERE template_id = ?", (template_id,))
+                        version = cursor.fetchone()[0]
+                        cursor.execute(
+                            "INSERT INTO prompt_template_versions (template_id, version, positive_template, negative_template, change_type, changed_by, created_at) VALUES (?, ?, ?, ?, 'updated', 'import', datetime('now'))",
+                            (template_id, version, positive, negative)
+                        )
+                else:
+                    cursor.execute(
+                        "INSERT INTO prompt_templates (prompt_id, style_profile_id, positive_template, negative_template, enabled, notes, created_at, updated_at) VALUES (?, ?, ?, ?, 1, ?, datetime('now'), datetime('now'))",
+                        (prompt_id, style_id, positive, negative, notes)
+                    )
+                    template_id = cursor.lastrowid
+                    cursor.execute(
+                        "INSERT INTO prompt_template_versions (template_id, version, positive_template, negative_template, change_type, changed_by, created_at) VALUES (?, 1, ?, ?, 'created', 'import', datetime('now'))",
+                        (template_id, positive, negative)
+                    )
             else:
                 style_id = f"mock_{style_identifier}"
                 template_id = f"mock_{style_identifier}_template"

@@ -3,3 +3,7 @@ data/*
 !data/prompts.db
 *.db
 !data/prompts.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.db.bak

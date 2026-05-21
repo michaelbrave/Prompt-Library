@@ -1,6 +1,7 @@
 import sqlite3
 import re
 import json
+import argparse
 from collections import defaultdict, Counter
 
 DB_PATH = "data/prompts.db"
@@ -243,7 +244,7 @@ def insert_wildcards(conn, extracted):
     conn.commit()
 
 
-def main():
+def main(apply=False):
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
 
@@ -265,7 +266,10 @@ def main():
 
     print(f"\nTotal unique wildcard terms: {total_terms}")
 
-    insert_wildcards(conn, extracted)
+    if apply:
+        insert_wildcards(conn, extracted)
+    else:
+        print("\nDry run - rerun with --apply to write wildcard values to the database.")
 
     cursor = conn.execute("SELECT wd.wildcard_key, COUNT(wv.id) as value_count FROM wildcard_definitions wd LEFT JOIN wildcard_values wv ON wd.id = wv.wildcard_definition_id GROUP BY wd.id ORDER BY wd.wildcard_key")
     print(f"\nWildcard definitions in database:")
@@ -276,4 +280,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Extract wildcard candidates from the prompt database.")
+    parser.add_argument("--apply", action="store_true", help="Write extracted wildcard values to the database")
+    args = parser.parse_args()
+    main(apply=args.apply)

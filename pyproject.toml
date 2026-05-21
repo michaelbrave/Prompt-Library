@@ -7,6 +7,7 @@ dependencies = []
 
 [project.scripts]
 prompt-library = "prompt_library.cli:main"
+clean-prompts = "clean_prompts:main"
 
 [build-system]
 requires = ["setuptools>=68.0"]

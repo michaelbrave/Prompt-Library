@@ -1,8 +1,7 @@
 import re
 import json
+import argparse
 from collections import Counter, defaultdict
-
-PROMPTHERO_FILE = "PromptHero.txt"
 
 MJ_PARAMS = re.compile(r'(--(?:ar|chaos|stylize|style|v|q|niji|raw|quality|personalize|profile|s)\s+[\w\.\-]+)', re.IGNORECASE)
 WEIGHTED_SYNTAX = re.compile(r'\([^)]+:\d+\.\d+\)')
@@ -212,4 +211,7 @@ def analyze_file(filepath):
 
 
 if __name__ == "__main__":
-    analyzed, wildcards = analyze_file(PROMPTHERO_FILE)
+    parser = argparse.ArgumentParser(description="Analyze a raw prompt source before cleaning.")
+    parser.add_argument("file", help="Prompt source file to inspect")
+    args = parser.parse_args()
+    analyze_file(args.file)

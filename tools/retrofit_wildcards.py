@@ -259,6 +259,11 @@ def main(dry_run=False):
 
 
 if __name__ == "__main__":
-    import sys
-    dry_run = "--dry-run" in sys.argv or "-n" in sys.argv
-    main(dry_run=dry_run)
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description="Replace literal wildcard values in templates with {key} placeholders."
+    )
+    parser.add_argument("--apply", action="store_true", help="Write template and binding changes to the database")
+    args = parser.parse_args()
+    main(dry_run=not args.apply)
