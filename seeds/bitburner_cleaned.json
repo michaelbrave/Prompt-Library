@@ -1,0 +1,2995 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "s_sci_fi_art_000",
+      "concept": "s sci fi art futuristic cyberpunk hacker pilot",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "1970s sci-fi art, futuristic cyberpunk hacker pilot, wearing a thin futuristic vr eye visor, long blonde hair like he-man, sitting inside a sci-fi fighter cockpit as the pilot, controls, screens, panels, and the pilot are visible in the craft as it flys by, futuristic dalaran coruscant cityscape like nar shaddaa in the background, in the style of Chriss Foss, Darrell K. Sweet and Michael Whelanberserk, singleface, cinematic lighting",
+        "date_added": "2026-05-21T07:18:28.793733",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 0
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "1970s sci-fi art, futuristic cyberpunk hacker pilot, wearing a thin futuristic vr eye visor, long blonde hair like he-man, sitting inside a sci-fi fighter cockpit as the pilot, controls, screens, panels, and the pilot are visible in the craft as it flys by, futuristic dalaran coruscant cityscape like nar shaddaa in the background, in the style of Chriss Foss, Darrell K. Sweet and Michael Whelanberserk, singleface, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "1970s sci-fi art, futuristic cyberpunk hacker pilot, wearing a thin futuristic vr eye visor, long blonde hair like he-man, sitting inside a sci-fi fighter cockpit as the pilot, controls, screens, panels, and the pilot are visible in the craft as it flys by, futuristic dalaran coruscant cityscape like nar shaddaa in the background, in the style of Chriss Foss, Darrell K. Sweet and Michael Whelanberserk, singleface, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "1970s sci-fi art, futuristic cyberpunk hacker pilot, wearing a thin futuristic vr eye visor, long blonde hair like he-man, sitting inside a sci-fi fighter cockpit as the pilot, controls, screens, panels, and the pilot are visible in the craft as it flys by, futuristic dalaran coruscant cityscape like nar shaddaa in the background, in the style of Chriss Foss, Darrell K. Sweet and Michael Whelanberserk, singleface, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_research_facility_with_001",
+      "concept": "A research facility with a giant Aquarium inside",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "A  research facility with a giant Aquarium inside an endless underground research laboratory + bone creatures in aquariums while victorian women look. lilac, mystical, texture, photorealism, hyper-realistic",
+        "date_added": "2026-05-21T07:18:28.795181",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 1
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A research facility with a giant Aquarium inside an endless underground research laboratory + bone creatures in aquariums while victorian women look. lilac, mystical, texture, photorealism, hyper-realistic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A research facility with a giant Aquarium inside an endless underground research laboratory + bone creatures in aquariums while victorian women look. lilac, mystical, texture, photorealism, hyper-realistic",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A research facility with a giant Aquarium inside an endless underground research laboratory + bone creatures in aquariums while victorian women look. lilac, mystical, texture, photorealism, hyper-realistic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_beautiful_oil_painting_002",
+      "concept": "A beautiful oil painting hyperrealism of a happy",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "A beautiful oil painting hyperrealism of a happy smiling zombie head, green bulging eyes, rotten green skin, grey beard, blue veins, skull bones, moody lighting, 8 k resolution, octane render, trending on artstation, by h. r. giger and greg rutkowski",
+        "date_added": "2026-05-21T07:18:28.795337",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 2
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A beautiful oil painting hyperrealism of a happy smiling zombie head, green bulging eyes, rotten green skin, grey beard, blue veins, skull bones, moody lighting, 8 k resolution, octane render, trending on artstation, by h. r. giger and greg rutkowski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A beautiful oil painting hyperrealism of a happy smiling zombie head, green bulging eyes, rotten green skin, grey beard, blue veins, skull bones, moody lighting, 8 k resolution, octane render, trending on artstation, by h. r. giger and greg rutkowski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_beautiful_rendition_of_003",
+      "concept": "a beautiful rendition of Young Amy Adams as",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "a beautiful rendition of Young Amy Adams as Triss Merigold, insanely detailed, hypermaximalist, mystical, color illustration, trending on artstation, Larry Elmore, Tim Hildebrandt, Roy Krenkel",
+        "date_added": "2026-05-21T07:18:28.795482",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 3
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a beautiful rendition of Young Amy Adams as Triss Merigold, insanely detailed, hypermaximalist, mystical, color illustration, trending on artstation, Larry Elmore, Tim Hildebrandt, Roy Krenkel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a beautiful rendition of Young Amy Adams as Triss Merigold, insanely detailed, hypermaximalist, mystical, color illustration, trending on artstation, Larry Elmore, Tim Hildebrandt, Roy Krenkel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_dimly_lit_room_004",
+      "concept": "a dimly lit room with a cyberpunk girl",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "a dimly lit room with a cyberpunk girl sat in the middle. a wall of televisions and computer screens. eerie yellow glow. oscilloscope. cyberpunk vibes. sci - fi. zack snyder. tooth wu and wlop and beeple and greg rutkowski and peter gric and victo ngai",
+        "date_added": "2026-05-21T07:18:28.795719",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 4
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a dimly lit room with a cyberpunk girl sat in the middle. a wall of televisions and computer screens. eerie yellow glow. oscilloscope. cyberpunk vibes. sci - fi. zack snyder. tooth wu and wlop and beeple and greg rutkowski and peter gric and victo ngai",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "a dimly lit room with a cyberpunk girl sat in the middle. a wall of televisions and computer screens. eerie yellow glow. oscilloscope. cyberpunk vibes. sci - fi. zack snyder. tooth wu and wlop and beeple and greg rutkowski and peter gric and victo ngai",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a dimly lit room with a cyberpunk girl sat in the middle. a wall of televisions and computer screens. eerie yellow glow. oscilloscope. cyberpunk vibes. sci - fi. zack snyder. tooth wu and wlop and beeple and greg rutkowski and peter gric and victo ngai",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_highly_detailed_beautiful_005",
+      "concept": "a highly detailed beautiful masterpiece painting of a",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "a highly detailed beautiful masterpiece painting of a technomagical laboratory cluttered with computers and arcane components. in the middle of the room a technomancer wizard in dazzle camouflaged robes discusses sentience with his synthesized ai djinn. behind them is a large supercomputer. the room is lit with dayglo pink and dayglo blue. ) ( by remedios varo! and anato finnstark and greg rutkowski and andy warhol and francis picabia dayglo pink, dayglo blue, prismatic, pearlescent white, raven black, glowing, hyperrealism 8 k, trending on artstation",
+        "date_added": "2026-05-21T07:18:28.796117",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 5
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a highly detailed beautiful masterpiece painting of a technomagical laboratory cluttered with computers and arcane components. in the middle of the room a technomancer wizard in dazzle camouflaged robes discusses sentience with his synthesized ai djinn. behind them is a large supercomputer. the room is lit with dayglo pink and dayglo blue. ) ( by remedios varo! and anato finnstark and greg rutkowski and andy warhol and francis picabia dayglo pink, dayglo blue, prismatic, pearlescent white, raven black, glowing, hyperrealism 8 k, trending on artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "a highly detailed beautiful masterpiece painting of a technomagical laboratory cluttered with computers and arcane components. in the middle of the room a technomancer wizard in dazzle camouflaged robes discusses sentience with his synthesized ai djinn. behind them is a large supercomputer. the room is lit with dayglo pink and dayglo blue. ) ( by remedios varo! and anato finnstark and greg rutkowski and andy warhol and francis picabia dayglo pink, dayglo blue, prismatic, pearlescent white, raven black, glowing, hyperrealism 8 k, trending on artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a highly detailed beautiful masterpiece painting of a technomagical laboratory cluttered with computers and arcane components. in the middle of the room a technomancer wizard in dazzle camouflaged robes discusses sentience with his synthesized ai djinn. behind them is a large supercomputer. the room is lit with dayglo pink and dayglo blue. ) ( by remedios varo! and anato finnstark and greg rutkowski and andy warhol and francis picabia dayglo pink, dayglo blue, prismatic, pearlescent white, raven black, glowing, hyperrealism 8 k, trending on artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_humanoid_armored_futuristic_006",
+      "concept": "a humanoid armored futuristic cybernetic samurai with glowing",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "a humanoid armored futuristic cybernetic samurai with glowing neon decals, award winning photograph, close up, focused trending on artstation, octane render, portrait, hyperrealistic, ultra detailed, photograph,3d, unreal engine, lumion, 4k , upbeta testp video upbeta",
+        "date_added": "2026-05-21T07:18:28.796853",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 6
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a humanoid armored futuristic cybernetic samurai with glowing neon decals, award winning photograph, close up, focused trending on artstation, octane render, portrait, hyperrealistic, ultra detailed, photograph, 3d, unreal engine, lumion, 4k, upbeta testp video upbeta",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a humanoid armored futuristic cybernetic samurai with glowing neon decals, award winning photograph, close up, focused trending on artstation, octane render, portrait, hyperrealistic, ultra detailed, photograph, 3d, unreal engine, lumion, 4k, upbeta testp video upbeta",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_hyper_detailed_photo_007",
+      "concept": "a hyper detailed photo realistic horror character portrait",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "a hyper detailed photo realistic horror character portrait, 1 9 8 0 by john totleben, Darrell K Sweet, Wes Wilson, Mark Brooks depicting an alien cyborg [[theCyborg Hacker]], cyberpunk, character portrait",
+        "date_added": "2026-05-21T07:18:28.797000",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 7
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a hyper detailed photo realistic horror character portrait, 1 9 8 0 by john totleben, Darrell K Sweet, Wes Wilson, Mark Brooks depicting an alien cyborg [[theCyborg Hacker]], cyberpunk, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a hyper detailed photo realistic horror character portrait, 1 9 8 0 by john totleben, Darrell K Sweet, Wes Wilson, Mark Brooks depicting an alien cyborg [[theCyborg Hacker]], cyberpunk, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_hyper_detailed_photorealistic_008",
+      "concept": "a hyper detailed photorealistic painted horror movie poster",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "a hyper detailed photorealistic painted horror movie poster for the thing  1 9 8  by john totleben & john carpenter depicting a horroifying abstract shape shifting alien [[theCyborg Hacker]] organism made of human and animal tissue",
+        "date_added": "2026-05-21T07:18:28.797117",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 8
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a hyper detailed photorealistic painted horror movie poster for the thing 1 9 8 by john totleben & john carpenter depicting a horroifying abstract shape shifting alien [[theCyborg Hacker]] organism made of human and animal tissue",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a hyper detailed photorealistic painted horror movie poster for the thing 1 9 8 by john totleben & john carpenter depicting a horroifying abstract shape shifting alien [[theCyborg Hacker]] organism made of human and animal tissue",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_portrait_of_rosie_009",
+      "concept": "A portrait of rosie the riveter final fantasy",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "A portrait of rosie the riveter, final fantasy, digital painting, portrait, cinematic lighting, highly detailed, artstation, concept art, illustration, smooth, sharp focus, artgerm, greg rutkowski, alphonse mucha, editor's pickup, trending on artstation, trending on deviantart, wlop, 8k",
+        "date_added": "2026-05-21T07:18:28.797237",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 9
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A portrait of rosie the riveter, final fantasy, digital painting, portrait, cinematic lighting, highly detailed, artstation, concept art, illustration, smooth, sharp focus, artgerm, greg rutkowski, alphonse mucha, editor's pickup, trending on artstation, trending on deviantart, wlop, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A portrait of rosie the riveter, final fantasy, digital painting, portrait, cinematic lighting, highly detailed, artstation, concept art, illustration, smooth, sharp focus, artgerm, greg rutkowski, alphonse mucha, editor's pickup, trending on artstation, trending on deviantart, wlop, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_powerful_wizard_dark_010",
+      "concept": "A powerful wizard dark art highly detailed bright",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "A powerful wizard, dark art, highly detailed, bright red and green glow. X-ray, Centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+        "date_added": "2026-05-21T07:18:28.797392",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 10
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A powerful wizard, dark art, highly detailed, bright red and green glow. X-ray, Centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A powerful wizard, dark art, highly detailed, bright red and green glow. X-ray, Centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A powerful wizard, dark art, highly detailed, bright red and green glow. X-ray, Centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_spooky_skeleton_character_011",
+      "concept": "a spooky skeleton character portrait highly detailed intricate",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "a spooky skeleton, character portrait, highly detailed, intricate, art by Tim Hildebrandt, Darrell K Sweet, Mark Brooks",
+        "date_added": "2026-05-21T07:18:28.797521",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 11
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a spooky skeleton, character portrait, highly detailed, intricate, art by Tim Hildebrandt, Darrell K Sweet, Mark Brooks",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a spooky skeleton, character portrait, highly detailed, intricate, art by Tim Hildebrandt, Darrell K Sweet, Mark Brooks",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_zombie_astronaut_diffuse_012",
+      "concept": "a zombie astronaut diffuse lighting fantasy intricate elegant",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "a zombie astronaut , diffuse lighting, fantasy, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by John Collier and Albert Aublet and Krenz Cushart and Artem Demura and Alphonse Mucha",
+        "date_added": "2026-05-21T07:18:28.797597",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 12
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a zombie astronaut, diffuse lighting, fantasy, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by John Collier and Albert Aublet and Krenz Cushart and Artem Demura and Alphonse Mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a zombie astronaut, diffuse lighting, fantasy, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by John Collier and Albert Aublet and Krenz Cushart and Artem Demura and Alphonse Mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "alien_ship_interior_control_013",
+      "concept": "Alien ship interior control panels lights unknown machinery",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Alien ship interior, control panels, lights, unknown machinery, advanced technology, spiral entrance, fine details, perfect, 8 k high detail, masterpiece, trending on artstation, by ian mcque, bradley wright",
+        "date_added": "2026-05-21T07:18:28.797728",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 13
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Alien ship interior, control panels, lights, unknown machinery, advanced technology, spiral entrance, fine details, perfect, 8 k high detail, masterpiece, trending on artstation, by ian mcque, bradley wright",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Alien ship interior, control panels, lights, unknown machinery, advanced technology, spiral entrance, fine details, perfect, 8 k high detail, masterpiece, trending on artstation, by ian mcque, bradley wright",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "alien_xenomorph_dark_art_014",
+      "concept": "alien xenomorph dark art highly detailed bright red",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "alien xenomorph, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+        "date_added": "2026-05-21T07:18:28.797848",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 14
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "alien xenomorph, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "alien xenomorph, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "all_chrome_woman_robot_015",
+      "concept": "all chrome woman robot in the style of",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "all chrome woman robot in the style of Ed Valigursky cinematic lighting, 1970s sci-fi art, retro science fiction fantasy art, highly detailed centered on a black background, tarot card, in the style of Marc Simonetti retro futurism intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.797988",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 15
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "all chrome woman robot in the style of Ed Valigursky cinematic lighting, 1970s sci-fi art, retro science fiction fantasy art, highly detailed centered on a black background, tarot card, in the style of Marc Simonetti retro futurism intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "all chrome woman robot in the style of Ed Valigursky cinematic lighting, 1970s sci-fi art, retro science fiction fantasy art, highly detailed centered on a black background, tarot card, in the style of Marc Simonetti retro futurism intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "amy_adams_as_spock_016",
+      "concept": "Amy Adams as spock anime digital art highly",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Amy Adams as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render",
+        "date_added": "2026-05-21T07:18:28.798186",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 16
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Amy Adams as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Amy Adams as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Amy Adams as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_alien_planet_psychedelic_017",
+      "concept": "An alien planet psychedelic marijuana forest with bioluminescent",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "An alien planet psychedelic marijuana forest with bioluminescent lighting dark art highly detailed neon dark art deviant super detailed 4k render by gustave dore",
+        "date_added": "2026-05-21T07:18:28.798323",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 17
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An alien planet psychedelic marijuana forest with bioluminescent lighting dark art highly detailed neon dark art deviant super detailed 4k render by gustave dore",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An alien planet psychedelic marijuana forest with bioluminescent lighting dark art highly detailed neon dark art deviant super detailed 4k render by gustave dore",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_alien_spacecraft_landing_018",
+      "concept": "An alien spacecraft landing with bioluminescent lighting dark",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "An alien spacecraft landing with bioluminescent lighting, dark art, highly detailed, bright red glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, viktor antonov, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+        "date_added": "2026-05-21T07:18:28.798424",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 18
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An alien spacecraft landing with bioluminescent lighting, dark art, highly detailed, bright red glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, viktor antonov, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An alien spacecraft landing with bioluminescent lighting, dark art, highly detailed, bright red glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, viktor antonov, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_almost_endless_field_019",
+      "concept": "An almost endless field of marijuana dark arts",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "An almost endless field of marijuana, dark arts, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.798572",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 19
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An almost endless field of marijuana, dark arts, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An almost endless field of marijuana, dark arts, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_anatomy_poster_of_020",
+      "concept": "an anatomy poster of Rick and Morty dark",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "an anatomy poster of Rick and Morty, dark art, highly detailed, bright red and green and blue glow centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, highly detailed, intricate,ink illustration, magic glow, bioluminescent lighting no long neck",
+        "date_added": "2026-05-21T07:18:28.798723",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 20
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "an anatomy poster of Rick and Morty, dark art, highly detailed, bright red and green and blue glow centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, highly detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "an anatomy poster of Rick and Morty, dark art, highly detailed, bright red and green and blue glow centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, highly detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_ancient_magical_mushroom_021",
+      "concept": "an ancient magical mushroom bright neons holographic fantasy",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "an ancient magical mushroom, bright neons, holographic, fantasy,magical, ultra detail,hyper realistic,8k,misty fog,by james mccarthy in unreal engine",
+        "date_added": "2026-05-21T07:18:28.798896",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 21
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "an ancient magical mushroom, bright neons, holographic, fantasy, magical, ultra detail, hyper realistic, 8k, misty fog, by james mccarthy in unreal engine",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "an ancient magical mushroom, bright neons, holographic, fantasy, magical, ultra detail, hyper realistic, 8k, misty fog, by james mccarthy in unreal engine",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "anatomy_poster_of_a_022",
+      "concept": "anatomy poster of a bio mechanical machine from",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "anatomy poster of a bio mechanical machine from hell capable of destroying the human race, dark art, highly detailed, bright red and green and ultraviolet glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+        "date_added": "2026-05-21T07:18:28.798986",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 22
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anatomy poster of a bio mechanical machine from hell capable of destroying the human race, dark art, highly detailed, bright red and green and ultraviolet glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anatomy poster of a bio mechanical machine from hell capable of destroying the human race, dark art, highly detailed, bright red and green and ultraviolet glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "anatomy_poster_of_an_023",
+      "concept": "Anatomy poster of an alien dark art highly",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Anatomy poster of an alien, dark art, highly detailed, bright red and green glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+        "date_added": "2026-05-21T07:18:28.799140",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 23
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Anatomy poster of an alien, dark art, highly detailed, bright red and green glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Anatomy poster of an alien, dark art, highly detailed, bright red and green glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ancient_alchemist_wizards_laboratory_024",
+      "concept": "ancient alchemist wizards laboratory inside of a spaceship",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "ancient alchemist wizards laboratory inside of a spaceship, high details, lineart, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, high contrast, hyper - detailed, hd, 4 k, 8 k",
+        "date_added": "2026-05-21T07:18:28.799265",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 24
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ancient alchemist wizards laboratory inside of a spaceship, high details, lineart, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, high contrast, hyper - detailed, hd, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ancient alchemist wizards laboratory inside of a spaceship, high details, lineart, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, high contrast, hyper - detailed, hd, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ancient_cloaked_wizards_mixing_025",
+      "concept": "ancient cloaked wizards mixing potions in his laboratory",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "ancient cloaked wizards mixing potions in his laboratory, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation,, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+        "date_added": "2026-05-21T07:18:28.799400",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 25
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ancient cloaked wizards mixing potions in his laboratory, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ancient cloaked wizards mixing potions in his laboratory, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "anime_key_visual_of_026",
+      "concept": "Anime key visual of elizabeth olsen police officer",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face!!, high details, digital painting, artstation, smooth face, soft focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+        "date_added": "2026-05-21T07:18:28.799530",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 26
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face!!, high details, digital painting, artstation, smooth face, soft focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face!!, high details, digital painting, artstation, smooth face, soft focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face!!, high details, digital painting, artstation, smooth face, soft focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beyond_the_reach_of_027",
+      "concept": "beyond the reach of human range a drop",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "beyond the reach of human range a drop of hell a touch of strange, highly detailed",
+        "date_added": "2026-05-21T07:18:28.799668",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 27
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "beyond the reach of human range a drop of hell a touch of strange, highly detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "beyond the reach of human range a drop of hell a touch of strange, highly detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "black_paper_orzhov_angel_028",
+      "concept": "black paper orzhov angel symetrical forsaken spirits golden",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "black paper, orzhov angel, symetrical, forsaken spirits, golden ratio, elements, gold, neon, baroque, rococco, white, ink, tarot card with ornate border frame, marc simonetti, paul pope, peter mohrbacher, detailed, intricate ink illustration.",
+        "date_added": "2026-05-21T07:18:28.799734",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 28
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "black paper, orzhov angel, symetrical, forsaken spirits, golden ratio, elements, gold, neon, baroque, rococco, white, ink, tarot card with ornate border frame, marc simonetti, paul pope, peter mohrbacher, detailed, intricate ink illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "black paper, orzhov angel, symetrical, forsaken spirits, golden ratio, elements, gold, neon, baroque, rococco, white, ink, tarot card with ornate border frame, marc simonetti, paul pope, peter mohrbacher, detailed, intricate ink illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "brigitte_from_overwatch_character_029",
+      "concept": "Brigitte from overwatch character portrait portrait close up",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Brigitte from overwatch, character portrait, portrait, close up, concept art, intricate details, highly detailed, vintage sci - fi poster, retro future, in the style of chris foss, rodger dean, moebius, michael whelan, and gustave dore",
+        "date_added": "2026-05-21T07:18:28.799881",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 29
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Brigitte from overwatch, character portrait, portrait, close up, concept art, intricate details, highly detailed, vintage sci - fi poster, retro future, in the style of chris foss, rodger dean, moebius, michael whelan, and gustave dore",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Brigitte from overwatch, character portrait, portrait, close up, concept art, intricate details, highly detailed, vintage sci - fi poster, retro future, in the style of chris foss, rodger dean, moebius, michael whelan, and gustave dore",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "caterpillar_from_alice_in_030",
+      "concept": "Caterpillar from Alice in Wonderland sitting in a",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Caterpillar from Alice in Wonderland sitting in a field of marijuana smoking a hookah, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.800009",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 30
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Caterpillar from Alice in Wonderland sitting in a field of marijuana smoking a hookah, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Caterpillar from Alice in Wonderland sitting in a field of marijuana smoking a hookah, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "chrysta_bell_league_of_031",
+      "concept": "Chrysta bell league of legends intricate highly detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Chrysta bell, league of legends, intricate, highly detailed, digital painting, hyperrealistic, artstation, concept art, smooth, sharp focus, illustration, unreal engine 5, 8k, art by artgerm and greg rutkowski and alphonse mucha, by jesper ejsing",
+        "date_added": "2026-05-21T07:18:28.800185",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 31
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Chrysta bell, league of legends, intricate, highly detailed, digital painting, hyperrealistic, artstation, concept art, smooth, sharp focus, illustration, unreal engine 5, 8k, art by artgerm and greg rutkowski and alphonse mucha, by jesper ejsing",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Chrysta bell, league of legends, intricate, highly detailed, digital painting, hyperrealistic, artstation, concept art, smooth, sharp focus, illustration, unreal engine 5, 8k, art by artgerm and greg rutkowski and alphonse mucha, by jesper ejsing",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cinematic_bust_of_one_032",
+      "concept": "cinematic bust of one psychedelic robot exotic alien",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "cinematic bust of one psychedelic robot, exotic alien features, space background, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, masterpiece, trending on artstation, featured on pixiv, cinematic composition, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k, desaturated!!!",
+        "date_added": "2026-05-21T07:18:28.800313",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 32
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic bust of one psychedelic robot, exotic alien features, space background, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, masterpiece, trending on artstation, featured on pixiv, cinematic composition, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k, desaturated!!!",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic bust of one psychedelic robot, exotic alien features, space background, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, masterpiece, trending on artstation, featured on pixiv, cinematic composition, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k, desaturated!!!",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cinematic_bust_portrait_of_033",
+      "concept": "cinematic bust portrait of extraterrestrial shaman head and",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "cinematic bust portrait of extraterrestrial shaman, head and chest only, exotic alien features, Tim Hildebrandt, Wayne Barlowe, Bruce Pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper-detailed, HD, HDR, 4K, 8K",
+        "date_added": "2026-05-21T07:18:28.800477",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 33
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic bust portrait of extraterrestrial shaman, head and chest only, exotic alien features, Tim Hildebrandt, Wayne Barlowe, Bruce Pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper-detailed, HD, HDR, 4K, 8K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic bust portrait of extraterrestrial shaman, head and chest only, exotic alien features, Tim Hildebrandt, Wayne Barlowe, Bruce Pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper-detailed, HD, HDR, 4K, 8K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cinematic_bust_portrait_of_034",
+      "concept": "Cinematic bust portrait of psychedelic robot from left",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Cinematic bust portrait of psychedelic robot from left, head and chest only, exotic alien features, robotic enhancements, desaturated, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k",
+        "date_added": "2026-05-21T07:18:28.800655",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 34
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cinematic bust portrait of psychedelic robot from left, head and chest only, exotic alien features, robotic enhancements, desaturated, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cinematic bust portrait of psychedelic robot from left, head and chest only, exotic alien features, robotic enhancements, desaturated, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, larry elmore, oil on canvas, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "control_room_illuminating_screens_035",
+      "concept": "CONTROL ROOM ILLUMINATING SCREENS ON THE WALLS SHOWING",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "CONTROL ROOM, ILLUMINATING SCREENS ON THE WALLS SHOWING NIGHTMARES, concept art by Nekro XIII, Dan Mumford, Dan Seagrave, Peter Mohrbacher, psychedelic black light, epic composition, horror, morbid, terrifying, horrifying",
+        "date_added": "2026-05-21T07:18:28.800872",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 35
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "CONTROL ROOM, ILLUMINATING SCREENS ON THE WALLS SHOWING NIGHTMARES, concept art by Nekro XIII, Dan Mumford, Dan Seagrave, Peter Mohrbacher, psychedelic black light, epic composition, horror, morbid, terrifying, horrifying",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "CONTROL ROOM, ILLUMINATING SCREENS ON THE WALLS SHOWING NIGHTMARES, concept art by Nekro XIII, Dan Mumford, Dan Seagrave, Peter Mohrbacher, psychedelic black light, epic composition, horror, morbid, terrifying, horrifying",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cosmic_horror_hd_music_036",
+      "concept": "cosmic horror HD music human trumpet musician Biological",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "cosmic horror, HD,music, human, trumpet, musician, Biological Indicators, Cthulhu (fictional divinity created by H.P. Lovecraft), elegant, drugs, history book, Written in red",
+        "date_added": "2026-05-21T07:18:28.800992",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 36
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cosmic horror, HD, music, human, trumpet, musician, Biological Indicators, Cthulhu (fictional divinity created by H.P. Lovecraft), elegant, drugs, history book, Written in red",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "cosmic horror, HD, music, human, trumpet, musician, Biological Indicators, Cthulhu (fictional divinity created by H.P. Lovecraft), elegant, drugs, history book, Written in red",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cosmic horror, HD, music, human, trumpet, musician, Biological Indicators, Cthulhu (fictional divinity created by H.P. Lovecraft), elegant, drugs, history book, Written in red",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cyber_security_hacker_matrix_037",
+      "concept": "cyber security hacker matrix code desktop wallpaper dark",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "cyber-security hacker matrix code desktop wallpaper, dark art, highly detailed, notes, medical, x-ray, anatomical, bright green and red glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.801101",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 37
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cyber-security hacker matrix code desktop wallpaper, dark art, highly detailed, notes, medical, x-ray, anatomical, bright green and red glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cyber-security hacker matrix code desktop wallpaper, dark art, highly detailed, notes, medical, x-ray, anatomical, bright green and red glow centered on a black background pen and ink tarot card Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration magic glow bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cyber_security_hacker_matrix_038",
+      "concept": "cyber security hacker matrix code desktop wallpaper highly",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "cyber-security hacker matrix code desktop wallpaper, highly detailed, bright green glow, centered on a black background, pen and ink, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration, magic glow, bioluminescent lighting",
+        "date_added": "2026-05-21T07:18:28.801277",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 38
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cyber-security hacker matrix code desktop wallpaper, highly detailed, bright green glow, centered on a black background, pen and ink, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration, magic glow, bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cyber-security hacker matrix code desktop wallpaper, highly detailed, bright green glow, centered on a black background, pen and ink, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration, magic glow, bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cyberpunk_portrait_of_the_039",
+      "concept": "Cyberpunk portrait of the devil from doom au",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Cyberpunk portrait of the devil from doom , au naturel, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by klimt and nixeu and ian sprigger and wlop and krenz cushart.",
+        "date_added": "2026-05-21T07:18:28.801410",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 39
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cyberpunk portrait of the devil from doom, au naturel, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by klimt and nixeu and ian sprigger and wlop and krenz cushart",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cyberpunk portrait of the devil from doom, au naturel, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by klimt and nixeu and ian sprigger and wlop and krenz cushart",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dark_digital_concept_art_040",
+      "concept": "Dark digital concept art portrait of a high",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Dark digital concept art portrait of a high - tech robot on a depth of field background, artstation, award - winning realistic sci - fi concept art by jim burns and greg rutkowski, beksinski, a realism masterpiece, moody color palette, james gilleard, bruegel, alphonse mucha, and yoshitaka amano",
+        "date_added": "2026-05-21T07:18:28.801556",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 40
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Dark digital concept art portrait of a high - tech robot on a depth of field background, artstation, award - winning realistic sci - fi concept art by jim burns and greg rutkowski, beksinski, a realism masterpiece, moody color palette, james gilleard, bruegel, alphonse mucha, and yoshitaka amano",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Dark digital concept art portrait of a high - tech robot on a depth of field background, artstation, award - winning realistic sci - fi concept art by jim burns and greg rutkowski, beksinski, a realism masterpiece, moody color palette, james gilleard, bruegel, alphonse mucha, and yoshitaka amano",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dark_gothic_king_with_041",
+      "concept": "dark gothic king with a shining red philosopher",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "dark gothic king with a shining red philosopher stones in his crown, details, mystery, witchcraft, dark magic, forbidden knowledge, dramatic lighting, scary, dramatic mist, dark, grey, intricate details, 4k",
+        "date_added": "2026-05-21T07:18:28.801707",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 41
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "dark gothic king with a shining red philosopher stones in his crown, details, mystery, witchcraft, dark magic, forbidden knowledge, dramatic lighting, scary, dramatic mist, dark, grey, intricate details, 4k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "dark gothic king with a shining red philosopher stones in his crown, details, mystery, witchcraft, dark magic, forbidden knowledge, dramatic lighting, scary, dramatic mist, dark, grey, intricate details, 4k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "darth_vader_dark_art_042",
+      "concept": "Darth Vader dark art d a de muertos",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Darth Vader dark art d\u00eda de muertos baroque Vaporwave highly detailed + bright red glow + centered on a black background + pen and ink + tarot card in the style of Marc Simonetti + Gustave Dore + Kim Jung Gi + detailed + intricate ink illustration + magic glow + bioluminescent lighting no long neck and second face",
+        "date_added": "2026-05-21T07:18:28.801832",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 42
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Darth Vader dark art d\u00eda de muertos baroque Vaporwave highly detailed + bright red glow + centered on a black background + pen and ink + tarot card in the style of Marc Simonetti + Gustave Dore + Kim Jung Gi + detailed + intricate ink illustration + magic glow + bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Darth Vader dark art d\u00eda de muertos baroque Vaporwave highly detailed + bright red glow + centered on a black background + pen and ink + tarot card in the style of Marc Simonetti + Gustave Dore + Kim Jung Gi + detailed + intricate ink illustration + magic glow + bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "demons_defying_space_and_043",
+      "concept": "Demons defying space and time unknown wavelengths celestial",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Demons, defying space and time, unknown wavelengths, celestial and haunting, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Mike Mignola, Kim Jung Gi, peter mohrbacher, Satoshi Kon, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+        "date_added": "2026-05-21T07:18:28.801999",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 43
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Demons, defying space and time, unknown wavelengths, celestial and haunting, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Mike Mignola, Kim Jung Gi, peter mohrbacher, Satoshi Kon, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Demons, defying space and time, unknown wavelengths, celestial and haunting, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Mike Mignola, Kim Jung Gi, peter mohrbacher, Satoshi Kon, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "disturbing_grunge_image_of_044",
+      "concept": "disturbing grunge image of a demon infested fungus",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "disturbing grunge image of a demon infested fungus, 2 meters tall. horror airbrush art, by greg rutkowski, by greg tocchini, by tom bagshawred, colored ink on wet sketchbook paper, white, red, black, crimson and grey color scheme",
+        "date_added": "2026-05-21T07:18:28.802182",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 44
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "disturbing grunge image of a demon infested fungus, 2 meters tall. horror airbrush art, by greg rutkowski, by greg tocchini, by tom bagshawred, colored ink on wet sketchbook paper, white, red, black, crimson and grey color scheme",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "disturbing grunge image of a demon infested fungus, 2 meters tall. horror airbrush art, by greg rutkowski, by greg tocchini, by tom bagshawred, colored ink on wet sketchbook paper, white, red, black, crimson and grey color scheme",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "disturbing grunge image of a demon infested fungus, 2 meters tall. horror airbrush art, by greg rutkowski, by greg tocchini, by tom bagshawred, colored ink on wet sketchbook paper, white, red, black, crimson and grey color scheme",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "donald_trump_as_jabba_045",
+      "concept": "Donald Trump as Jabba the hutt diffuse lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Donald Trump as Jabba the hutt, diffuse lighting,, intricate, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by (Ralph McQuarrie), [Philippe Druillet], [Al Williamson]",
+        "date_added": "2026-05-21T07:18:28.802308",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 45
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Donald Trump as Jabba the hutt, diffuse lighting, intricate, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by (Ralph McQuarrie), [Philippe Druillet], [Al Williamson]",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Donald Trump as Jabba the hutt, diffuse lighting, intricate, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by (Ralph McQuarrie), [Philippe Druillet], [Al Williamson]",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "donald_trump_phantasmagoria_horror_046",
+      "concept": "Donald Trump phantasmagoria horror art by toha mashudi",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Donald Trump phantasmagoria, horror art by toha mashudi and beksinski and szukalski and giger and and pyromallis and dzo and iris compiet and seb mckinnon and, digital art, highly detailed, intricate, sharp focus, trending on artstation hq, deviantart, pinterest, unreal engine 5, 4 k uhd image",
+        "date_added": "2026-05-21T07:18:28.802449",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 46
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Donald Trump phantasmagoria, horror art by toha mashudi and beksinski and szukalski and giger and and pyromallis and dzo and iris compiet and seb mckinnon and, digital art, highly detailed, intricate, sharp focus, trending on artstation hq, deviantart, pinterest, unreal engine 5, 4 k uhd image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Donald Trump phantasmagoria, horror art by toha mashudi and beksinski and szukalski and giger and and pyromallis and dzo and iris compiet and seb mckinnon and, digital art, highly detailed, intricate, sharp focus, trending on artstation hq, deviantart, pinterest, unreal engine 5, 4 k uhd image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "donald_trump_monster_zombie_047",
+      "concept": "Donald Trump monster zombie rotting flesh horror ultra",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Donald Trump, monster, zombie, rotting flesh, horror, ultra-realistic, high details, intricate details, by artgerm, vincent di fate, julie bell, beeple, Darrell K Sweet, Mark Brooks, 1 9 8 0 s, inking, vintage 8 0 s print, screen print",
+        "date_added": "2026-05-21T07:18:28.802600",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 47
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Donald Trump, monster, zombie, rotting flesh, horror, ultra-realistic, high details, intricate details, by artgerm, vincent di fate, julie bell, beeple, Darrell K Sweet, Mark Brooks, 1 9 8 0 s, inking, vintage 8 0 s print, screen print",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Donald Trump, monster, zombie, rotting flesh, horror, ultra-realistic, high details, intricate details, by artgerm, vincent di fate, julie bell, beeple, Darrell K Sweet, Mark Brooks, 1 9 8 0 s, inking, vintage 8 0 s print, screen print",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "donald_trump_s_disgusting_048",
+      "concept": "donald trump s disgusting true form high details",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "donald trump's disgusting true form, high details, intricate details, by vincent di fate, artgerm julie bell beeple, 90s, inking, vintage 60s print",
+        "date_added": "2026-05-21T07:18:28.802739",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 48
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "donald trump's disgusting true form, high details, intricate details, by vincent di fate, artgerm julie bell beeple, 90s, inking, vintage 60s print",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "donald trump's disgusting true form, high details, intricate details, by vincent di fate, artgerm julie bell beeple, 90s, inking, vintage 60s print",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dreamy_gothic_girl_abstract_049",
+      "concept": "dreamy gothic girl abstract black leather gear mecha",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "dreamy gothic girl, abstract black leather, gear mecha, beautiful woman body, detailed acrylic, grunge, intricate complexity, by dan mumford and by alberto giacometti, peter lindbergh",
+        "date_added": "2026-05-21T07:18:28.802856",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 49
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "dreamy gothic girl, abstract black leather, gear mecha, beautiful woman body, detailed acrylic, grunge, intricate complexity, by dan mumford and by alberto giacometti, peter lindbergh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "dreamy gothic girl, abstract black leather, gear mecha, beautiful woman body, detailed acrylic, grunge, intricate complexity, by dan mumford and by alberto giacometti, peter lindbergh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dreamy_gothic_girl_abstract_050",
+      "concept": "dreamy gothic girl abstract black leather gear mecha",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "dreamy gothic girl, abstract black leather, gear mecha, beautiful woman body, detailed acrylic, grunge, intricate complexity",
+        "date_added": "2026-05-21T07:18:28.802960",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 50
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "dreamy gothic girl, abstract black leather, gear mecha, beautiful woman body, detailed acrylic, grunge, intricate complexity",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "dreamy gothic girl, abstract black leather, gear mecha, beautiful woman body, detailed acrylic, grunge, intricate complexity",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "epic_rockabilly_bouffant_hobbit_051",
+      "concept": "epic rockabilly bouffant hobbit girl by Boris Vallejo",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "epic rockabilly bouffant hobbit girl by Boris Vallejo   creative",
+        "date_added": "2026-05-21T07:18:28.803038",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 51
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "epic rockabilly bouffant hobbit girl by Boris Vallejo creative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "epic rockabilly bouffant hobbit girl by Boris Vallejo creative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "first_person_sci_fi_052",
+      "concept": "first person sci fi fighter cockpit controls screen",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "first-person sci-fi fighter cockpit controls screen panels, futuristic dalaran coruscant cityscape like nar shaddaa, gopro perspective, berserk manga art style breath of the wild",
+        "date_added": "2026-05-21T07:18:28.803092",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 52
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "first-person sci-fi fighter cockpit controls screen panels, futuristic dalaran coruscant cityscape like nar shaddaa, gopro perspective, berserk manga art style breath of the wild",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "first-person sci-fi fighter cockpit controls screen panels, futuristic dalaran coruscant cityscape like nar shaddaa, gopro perspective, berserk manga art style breath of the wild",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "glowwave_portrait_of_the_053",
+      "concept": "Glowwave portrait of the joker from borderlands hyper",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Glowwave portrait of the joker from borderlands 3, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by heri irawan and wlop",
+        "date_added": "2026-05-21T07:18:28.803190",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 53
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Glowwave portrait of the joker from borderlands 3, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by heri irawan and wlop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Glowwave portrait of the joker from borderlands 3, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by heri irawan and wlop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "hacker_villain_extraterrestrial_retro_054",
+      "concept": "Hacker villain extraterrestrial retro futurism highly detailed notes",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Hacker, villain, extraterrestrial, retro futurism, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, Marc Simonetti, Gustave Dore, detailed, intricate, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.803312",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 54
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Hacker, villain, extraterrestrial, retro futurism, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, Marc Simonetti, Gustave Dore, detailed, intricate, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Hacker, villain, extraterrestrial, retro futurism, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, Marc Simonetti, Gustave Dore, detailed, intricate, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "hacker_wizard_ascii_art_055",
+      "concept": "Hacker wizard ascii art dark art fire and",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Hacker, wizard, ascii art, dark art, fire and magic, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+        "date_added": "2026-05-21T07:18:28.803546",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 55
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Hacker, wizard, ascii art, dark art, fire and magic, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Hacker, wizard, ascii art, dark art, fire and magic, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "hyper_realistic_portrait_of_056",
+      "concept": "hyper realistic portrait of warhammer machine head cinematic",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "hyper realistic portrait of warhammer machine head, cinematic, chaos marine, artstation, cgsociety, full head, greg rutkowski, james gurney, mignola, craig mullins, brom",
+        "date_added": "2026-05-21T07:18:28.803695",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 56
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "hyper realistic portrait of warhammer machine head, cinematic, chaos marine, artstation, cgsociety, full head, greg rutkowski, james gurney, mignola, craig mullins, brom",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "hyper realistic portrait of warhammer machine head, cinematic, chaos marine, artstation, cgsociety, full head, greg rutkowski, james gurney, mignola, craig mullins, brom",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "hyperdetailed_stunningly_beautiful_slaanesh_057",
+      "concept": "Hyperdetailed stunningly beautiful slaanesh djinn robot made of",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Hyperdetailed stunningly beautiful slaanesh djinn robot made of iridescent metals and shiny gems, long red hair, golden necklace, noble androgyne skeleton inspired by ross tran and wlop and masamune shirow and kuvshinov, photorealistic, concept art, bloody intricate, highly detailed, photorealistic, octane render hdr, by artgerm, dnd digital art",
+        "date_added": "2026-05-21T07:18:28.803810",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 57
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Hyperdetailed stunningly beautiful slaanesh djinn robot made of iridescent metals and shiny gems, long red hair, golden necklace, noble androgyne skeleton inspired by ross tran and wlop and masamune shirow and kuvshinov, photorealistic, concept art, bloody intricate, highly detailed, photorealistic, octane render hdr, by artgerm, dnd digital art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Hyperdetailed stunningly beautiful slaanesh djinn robot made of iridescent metals and shiny gems, long red hair, golden necklace, noble androgyne skeleton inspired by ross tran and wlop and masamune shirow and kuvshinov, photorealistic, concept art, bloody intricate, highly detailed, photorealistic, octane render hdr, by artgerm, dnd digital art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "hyperrealistic_close_up_alien_058",
+      "concept": "hyperrealistic close up alien highly detailed concept art",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "hyperrealistic close-up alien! highly detailed concept art eric zener elson peter cinematic hard blue lighting high angle hd 8k sharp shallow depth of field, inspired by David Paul Cronenberg and Zdzis\u0142aw Beksi\u0144ski",
+        "date_added": "2026-05-21T07:18:28.803983",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 58
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "hyperrealistic close-up alien! highly detailed concept art eric zener elson peter cinematic hard blue lighting high angle hd 8k sharp shallow depth of field, inspired by David Paul Cronenberg and Zdzis\u0142aw Beksi\u0144ski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "hyperrealistic close-up alien! highly detailed concept art eric zener elson peter cinematic hard blue lighting high angle hd 8k sharp shallow depth of field, inspired by David Paul Cronenberg and Zdzis\u0142aw Beksi\u0144ski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "if_computer_malware_was_059",
+      "concept": "If computer malware was a person villain extraterrestrial",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "If computer malware was a person, villain, extraterrestrial, retro futurism, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, Marc Simonetti, Gustave Dore, detailed, intricate, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.804113",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 59
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "If computer malware was a person, villain, extraterrestrial, retro futurism, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, Marc Simonetti, Gustave Dore, detailed, intricate, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "If computer malware was a person, villain, extraterrestrial, retro futurism, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, Marc Simonetti, Gustave Dore, detailed, intricate, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "if_dubstep_was_a_060",
+      "concept": "If Dubstep was a person highly detailed bright",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "If Dubstep was a person, highly detailed, bright green and red glow, notes, medical, x-ray, anatomical, dark arts, centered on a black background, tarot card, in the style of Marc Simonetti, Gustave Dore, giger, detailed, intricate, realistic, ink illustration, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.804335",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 60
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "If Dubstep was a person, highly detailed, bright green and red glow, notes, medical, x-ray, anatomical, dark arts, centered on a black background, tarot card, in the style of Marc Simonetti, Gustave Dore, giger, detailed, intricate, realistic, ink illustration, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "If Dubstep was a person, highly detailed, bright green and red glow, notes, medical, x-ray, anatomical, dark arts, centered on a black background, tarot card, in the style of Marc Simonetti, Gustave Dore, giger, detailed, intricate, realistic, ink illustration, sharp image, photograph, hyper realistic, high details, photorealistic, ultra realistic, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "if_dubstep_were_a_061",
+      "concept": "if dubstep were a person dark art highly",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "if dubstep were a person dark art, highly detailed, psychedelic black light, bright green and red glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration, magic glow, bioluminescent lighting",
+        "date_added": "2026-05-21T07:18:28.804542",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 61
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "if dubstep were a person dark art, highly detailed, psychedelic black light, bright green and red glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration, magic glow, bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "if dubstep were a person dark art, highly detailed, psychedelic black light, bright green and red glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate ink illustration, magic glow, bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "if_he_man_from_062",
+      "concept": "If he man from the cartoon and Cyclops",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "If he-man from the cartoon and Cyclops Scott Summers, comic-book, were perfectly mixed into one cyberpunk hacker pointing at you laughing maniacally red glow from eye visor Cartoon, yellow, blonde He-man hair, over exaggerated wearing cyclops' visor highly detailed centered on a black background, tarot card, black light psychedelic style gloomcore illustration by Marc Simonetti , Mike Mignola retro futurism.5 intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic male, long blonde he-man hair",
+        "date_added": "2026-05-21T07:18:28.804681",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 62
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "If he-man from the cartoon and Cyclops Scott Summers, comic-book, were perfectly mixed into one cyberpunk hacker pointing at you laughing maniacally red glow from eye visor Cartoon, yellow, blonde He-man hair, over exaggerated wearing cyclops' visor highly detailed centered on a black background, tarot card, black light psychedelic style gloomcore illustration by Marc Simonetti, Mike Mignola retro futurism.5 intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic male, long blonde he-man hair",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "If he-man from the cartoon and Cyclops Scott Summers, comic-book, were perfectly mixed into one cyberpunk hacker pointing at you laughing maniacally red glow from eye visor Cartoon, yellow, blonde He-man hair, over exaggerated wearing cyclops' visor highly detailed centered on a black background, tarot card, black light psychedelic style gloomcore illustration by Marc Simonetti, Mike Mignola retro futurism.5 intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic male, long blonde he-man hair",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "If he-man from the cartoon and Cyclops Scott Summers, comic-book, were perfectly mixed into one cyberpunk hacker pointing at you laughing maniacally red glow from eye visor Cartoon, yellow, blonde He-man hair, over exaggerated wearing cyclops' visor highly detailed centered on a black background, tarot card, black light psychedelic style gloomcore illustration by Marc Simonetti, Mike Mignola retro futurism.5 intricate ink illustration, detailed, intricate, sharp image, hyper-realistic, high details, photorealistic, ultra-realistic, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic male, long blonde he-man hair",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "intricate_ink_illustration_magic_063",
+      "concept": "intricate ink illustration magic glow bioluminescent lighting atmospheric",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "intricate ink illustration magic glow bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.804988",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 63
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "intricate ink illustration magic glow bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "intricate ink illustration magic glow bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "mad_scientist_laboratory_high_064",
+      "concept": "mad scientist laboratory high details intricately detailed by",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "mad - scientist laboratory, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation,, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+        "date_added": "2026-05-21T07:18:28.805063",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 64
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "mad - scientist laboratory, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "mad - scientist laboratory, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "millie_bobbie_brown_as_065",
+      "concept": "Millie bobbie brown as spock anime digital art",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Millie bobbie brown as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render",
+        "date_added": "2026-05-21T07:18:28.805180",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 65
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Millie bobbie brown as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Millie bobbie brown as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Millie bobbie brown as spock, anime digital art, highly detailed, digital painting, beautiful eyes!, pretty face!!, symmetry, concept art, sharp focus, illustration, art by artgerm! greg rutkowski magali villeneuve wlop! ilya kuvshinov!!, octane render",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "nightmare_etherreal_iridescent_vascular_066",
+      "concept": "nightmare etherreal iridescent vascular nerve bundles pearlescent spinal",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "nightmare etherreal iridescent vascular nerve bundles pearlescent spinal chord horror by Naoto Hattori, Zdzislaw, Norman Rockwell, Studio Ghibli, Anatomical cutaway",
+        "date_added": "2026-05-21T07:18:28.805316",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 66
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "nightmare etherreal iridescent vascular nerve bundles pearlescent spinal chord horror by Naoto Hattori, Zdzislaw, Norman Rockwell, Studio Ghibli, Anatomical cutaway",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "nightmare etherreal iridescent vascular nerve bundles pearlescent spinal chord horror by Naoto Hattori, Zdzislaw, Norman Rockwell, Studio Ghibli, Anatomical cutaway",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "painted_portrait_of_rugged_067",
+      "concept": "Painted portrait of rugged zeus god of thunder",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Painted portrait of rugged zeus, god of thunder, greek god, white hair, masculine, mature, handsome, upper body, red and gold, majestic, muscular, hairy torso, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by gaston bussiere and alphonse mucha",
+        "date_added": "2026-05-21T07:18:28.805417",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 67
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Painted portrait of rugged zeus, god of thunder, greek god, white hair, masculine, mature, handsome, upper body, red and gold, majestic, muscular, hairy torso, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by gaston bussiere and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Painted portrait of rugged zeus, god of thunder, greek god, white hair, masculine, mature, handsome, upper body, red and gold, majestic, muscular, hairy torso, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by gaston bussiere and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "painting_of_a_rotting_068",
+      "concept": "painting of a rotting slimy zombie wearing a",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "painting of a rotting slimy zombie wearing a cop uniform by edgar maxence and rhads and leyendecker. police, award - winning digital art on pixiv, trending on artstation, cinematic lighting, dramatic lighting, stunning and beautiful scenery - highly detailed, hyperrealistic, unreal engine 5",
+        "date_added": "2026-05-21T07:18:28.805578",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 68
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "painting of a rotting slimy zombie wearing a cop uniform by edgar maxence and rhads and leyendecker. police, award - winning digital art on pixiv, trending on artstation, cinematic lighting, dramatic lighting, stunning and beautiful scenery - highly detailed, hyperrealistic, unreal engine 5",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "painting of a rotting slimy zombie wearing a cop uniform by edgar maxence and rhads and leyendecker. police, award - winning digital art on pixiv, trending on artstation, cinematic lighting, dramatic lighting, stunning and beautiful scenery - highly detailed, hyperrealistic, unreal engine 5",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "painting of a rotting slimy zombie wearing a cop uniform by edgar maxence and rhads and leyendecker. police, award - winning digital art on pixiv, trending on artstation, cinematic lighting, dramatic lighting, stunning and beautiful scenery - highly detailed, hyperrealistic, unreal engine 5",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_art_of_k_069",
+      "concept": "Portrait art of k ultra realistic retro futuristic",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Portrait art of 8k ultra realistic retro futuristic zombie astronaut, broken galaxy reflected helmet, detailed intricate ornate armour, blade runner, cybernetic, full of colour, cinematic lighting, battered, trending on artstation, 4k, hyperrealistic, focused, extreme details, unreal engine 5, cinematic, masterpiece, art by ayami kojima, giger",
+        "date_added": "2026-05-21T07:18:28.805724",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 69
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait art of 8k ultra realistic retro futuristic zombie astronaut, broken galaxy reflected helmet, detailed intricate ornate armour, blade runner, cybernetic, full of colour, cinematic lighting, battered, trending on artstation, 4k, hyperrealistic, focused, extreme details, unreal engine 5, cinematic, masterpiece, art by ayami kojima, giger",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait art of 8k ultra realistic retro futuristic zombie astronaut, broken galaxy reflected helmet, detailed intricate ornate armour, blade runner, cybernetic, full of colour, cinematic lighting, battered, trending on artstation, 4k, hyperrealistic, focused, extreme details, unreal engine 5, cinematic, masterpiece, art by ayami kojima, giger",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_computer_circuits_070",
+      "concept": "Portrait of computer circuits melting screams of the",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Portrait of computer & circuits, melting, screams of the man who lives next door, 8 k, by tristan eaton, stanley artgermm, tom bagshaw, greg rutkowski, carne griffiths, ayami kojima, beksinski, giger, trending on deviantart, face enhance, hyper detailed, minimalist, cybernetic, android, blade runner, full of colour, super detailed",
+        "date_added": "2026-05-21T07:18:28.805905",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 70
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of computer & circuits, melting, screams of the man who lives next door, 8 k, by tristan eaton, stanley artgermm, tom bagshaw, greg rutkowski, carne griffiths, ayami kojima, beksinski, giger, trending on deviantart, face enhance, hyper detailed, minimalist, cybernetic, android, blade runner, full of colour, super detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of computer & circuits, melting, screams of the man who lives next door, 8 k, by tristan eaton, stanley artgermm, tom bagshaw, greg rutkowski, carne griffiths, ayami kojima, beksinski, giger, trending on deviantart, face enhance, hyper detailed, minimalist, cybernetic, android, blade runner, full of colour, super detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_disney_merida_071",
+      "concept": "Portrait of disney merida intricate elegant highly detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Portrait of disney merida, intricate, elegant, highly detailed, my rendition, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha and uang guangjian and gil elvgren and sachin teng, symmetry!!",
+        "date_added": "2026-05-21T07:18:28.806078",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 71
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of disney merida, intricate, elegant, highly detailed, my rendition, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha and uang guangjian and gil elvgren and sachin teng, symmetry!!",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of disney merida, intricate, elegant, highly detailed, my rendition, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha and uang guangjian and gil elvgren and sachin teng, symmetry!!",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_nick_offerman_072",
+      "concept": "Portrait of nick offerman as thor eyepatch muscular",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Portrait of nick offerman as thor, eyepatch, muscular, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+        "date_added": "2026-05-21T07:18:28.806214",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 72
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of nick offerman as thor, eyepatch, muscular, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of nick offerman as thor, eyepatch, muscular, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_princess_leia_073",
+      "concept": "Portrait of princess leia starwars pistol upper body",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Portrait of princess leia, starwars, pistol, upper body, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+        "date_added": "2026-05-21T07:18:28.806331",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 73
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of princess leia, starwars, pistol, upper body, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of princess leia, starwars, pistol, upper body, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_princess_peach_074",
+      "concept": "Portrait of princess peach from the mushroom kingdom",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Portrait of princess peach from the mushroom kingdom, nose ring, upper body, blonde hair, long hair, joyful smirk, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+        "date_added": "2026-05-21T07:18:28.806448",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 74
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of princess peach from the mushroom kingdom, nose ring, upper body, blonde hair, long hair, joyful smirk, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of princess peach from the mushroom kingdom, nose ring, upper body, blonde hair, long hair, joyful smirk, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_snoop_dogg_075",
+      "concept": "portrait of Snoop Dogg as gandalf the grey",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "portrait of Snoop Dogg as gandalf the grey, by alan lee, lord of the rings calendar, smooth, detailed terrain, oil painting, matte painting, concept art, trending on artstation",
+        "date_added": "2026-05-21T07:18:28.806587",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 75
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "portrait of Snoop Dogg as gandalf the grey, by alan lee, lord of the rings calendar, smooth, detailed terrain, oil painting, matte painting, concept art, trending on artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "portrait of Snoop Dogg as gandalf the grey, by alan lee, lord of the rings calendar, smooth, detailed terrain, oil painting, matte painting, concept art, trending on artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_young_emma_076",
+      "concept": "Portrait of young emma stone wearing boho clothing",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Portrait of young emma stone wearing boho clothing, hippie, long hair, groovy hairband, bangs, intricate, smooth, groovy lighting, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by wlop, mars ravelo and greg rutkowski",
+        "date_added": "2026-05-21T07:18:28.806689",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 76
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of young emma stone wearing boho clothing, hippie, long hair, groovy hairband, bangs, intricate, smooth, groovy lighting, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by wlop, mars ravelo and greg rutkowski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of young emma stone wearing boho clothing, hippie, long hair, groovy hairband, bangs, intricate, smooth, groovy lighting, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by wlop, mars ravelo and greg rutkowski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_lich_king_necromancer_077",
+      "concept": "portrait lich king necromancer tribal dark void evil",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "portrait, lich king necromancer, tribal, dark void, evil, solemn, handsome, fantasy art by John Howe and Greg Rutkowski",
+        "date_added": "2026-05-21T07:18:28.806852",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 77
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "portrait, lich king necromancer, tribal, dark void, evil, solemn, handsome, fantasy art by John Howe and Greg Rutkowski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "portrait, lich king necromancer, tribal, dark void, evil, solemn, handsome, fantasy art by John Howe and Greg Rutkowski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "poster_of_an_cyber_078",
+      "concept": "poster of an cyber diety tarot card dark",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "poster of an cyber diety tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, Marc Simonetti, Gustave Dore, Kim Jung Gi. James McCarthy detailed, intricate, digital illustration, magic glow, bioluminescent lighting no long neck and no second face",
+        "date_added": "2026-05-21T07:18:28.807005",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 78
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "poster of an cyber diety tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, Marc Simonetti, Gustave Dore, Kim Jung Gi. James McCarthy detailed, intricate, digital illustration, magic glow, bioluminescent lighting no long neck and no second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "poster of an cyber diety tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, Marc Simonetti, Gustave Dore, Kim Jung Gi. James McCarthy detailed, intricate, digital illustration, magic glow, bioluminescent lighting no long neck and no second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "poster of an cyber diety tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, Marc Simonetti, Gustave Dore, Kim Jung Gi. James McCarthy detailed, intricate, digital illustration, magic glow, bioluminescent lighting no long neck and no second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "pure_black_background_beautiful_079",
+      "concept": "pure black background Beautiful femme fatale rembrandt lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "pure black background, Beautiful femme fatale rembrandt lighting, red lipstick, profile, portrait, close up, darkness, emotion, intricate detail, stunning, d artwork, comic style, manga, anime, contrast, smooth, jojos bizarre adventure testp creative   upbeta",
+        "date_added": "2026-05-21T07:18:28.807180",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 79
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "pure black background, Beautiful femme fatale rembrandt lighting, red lipstick, profile, portrait, close up, darkness, emotion, intricate detail, stunning, d artwork, comic style, manga, anime, contrast, smooth, jojos bizarre adventure testp creative upbeta",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "pure black background, Beautiful femme fatale rembrandt lighting, red lipstick, profile, portrait, close up, darkness, emotion, intricate detail, stunning, d artwork, comic style, manga, anime, contrast, smooth, jojos bizarre adventure testp creative upbeta",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "realistic_detailed_closeup_portrait_080",
+      "concept": "Realistic detailed closeup portrait painting of a single",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Realistic detailed closeup portrait painting of a single skeleton wearing red velvet blazer in a crowded futuristic city street by jean delville, amano, yves tanguy, alphonse mucha, ernst haeckel, edward robert hughes, roger dean, rich moody colours, blue eyes",
+        "date_added": "2026-05-21T07:18:28.807316",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 80
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Realistic detailed closeup portrait painting of a single skeleton wearing red velvet blazer in a crowded futuristic city street by jean delville, amano, yves tanguy, alphonse mucha, ernst haeckel, edward robert hughes, roger dean, rich moody colours, blue eyes",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Realistic detailed closeup portrait painting of a single skeleton wearing red velvet blazer in a crowded futuristic city street by jean delville, amano, yves tanguy, alphonse mucha, ernst haeckel, edward robert hughes, roger dean, rich moody colours, blue eyes",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "realistic_portrait_beautiful_concept_081",
+      "concept": "realistic portrait beautiful concept art of mortal kombat",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "realistic portrait beautiful concept art of mortal kombat movie scene when liu kang mutate into alien worm. horror, created by gustave dore and greg rutkowski, high detailed, smooth draw, synthwave neon retro, intricate, trending on artstation.",
+        "date_added": "2026-05-21T07:18:28.807452",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 81
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "realistic portrait beautiful concept art of mortal kombat movie scene when liu kang mutate into alien worm. horror, created by gustave dore and greg rutkowski, high detailed, smooth draw, synthwave neon retro, intricate, trending on artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "realistic portrait beautiful concept art of mortal kombat movie scene when liu kang mutate into alien worm. horror, created by gustave dore and greg rutkowski, high detailed, smooth draw, synthwave neon retro, intricate, trending on artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "realistic portrait beautiful concept art of mortal kombat movie scene when liu kang mutate into alien worm. horror, created by gustave dore and greg rutkowski, high detailed, smooth draw, synthwave neon retro, intricate, trending on artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "sci_fi_fantasy_poster_082",
+      "concept": "sci fi fantasy poster of an human with",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "sci-fi fantasy poster of an human with computer brain, dark art highly detailed bright green and red and blue glow centered on a black background pen and ink tarot card Marc Simonetti, Moebius, Darrell K. Sweet, detailed, intricate ink illustration magic glow bioluminescent lighting, comicbook cover style",
+        "date_added": "2026-05-21T07:18:28.807582",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 82
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "sci-fi fantasy poster of an human with computer brain, dark art highly detailed bright green and red and blue glow centered on a black background pen and ink tarot card Marc Simonetti, Moebius, Darrell K. Sweet, detailed, intricate ink illustration magic glow bioluminescent lighting, comicbook cover style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "sci-fi fantasy poster of an human with computer brain, dark art highly detailed bright green and red and blue glow centered on a black background pen and ink tarot card Marc Simonetti, Moebius, Darrell K. Sweet, detailed, intricate ink illustration magic glow bioluminescent lighting, comicbook cover style",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "sci-fi fantasy poster of an human with computer brain, dark art highly detailed bright green and red and blue glow centered on a black background pen and ink tarot card Marc Simonetti, Moebius, Darrell K. Sweet, detailed, intricate ink illustration magic glow bioluminescent lighting, comicbook cover style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "sci_fi_fantasy_poster_083",
+      "concept": "sci fi fantasy poster portrait of an alien",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "sci-fi fantasy poster, portrait of an alien with huge round white ball head, in the style of takashi murakami, Marc Simonetti, Darrell K. Sweet, Laurie Greasley, gustave dore  000   iw 3",
+        "date_added": "2026-05-21T07:18:28.807743",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 83
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "sci-fi fantasy poster, portrait of an alien with huge round white ball head, in the style of takashi murakami, Marc Simonetti, Darrell K. Sweet, Laurie Greasley, gustave dore 000 iw 3",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "sci-fi fantasy poster, portrait of an alien with huge round white ball head, in the style of takashi murakami, Marc Simonetti, Darrell K. Sweet, Laurie Greasley, gustave dore 000 iw 3",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "sci-fi fantasy poster, portrait of an alien with huge round white ball head, in the style of takashi murakami, Marc Simonetti, Darrell K. Sweet, Laurie Greasley, gustave dore 000 iw 3",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "spacecraft_cockpit_pilot_seat_084",
+      "concept": "spacecraft cockpit pilot seat containing an sexy cyborg",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "spacecraft cockpit pilot seat containing an sexy cyborg, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation,, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+        "date_added": "2026-05-21T07:18:28.807877",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 84
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "spacecraft cockpit pilot seat containing an sexy cyborg, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "spacecraft cockpit pilot seat containing an sexy cyborg, high details, intricately detailed, by vincent di fate, inking, 3 color screen print, masterpiece, trending on artstation, sharp, details, hyper - detailed, hd, 4 k, 8 k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stunning_otherworldly_goddess_of_085",
+      "concept": "stunning otherworldly goddess of beauty dark art highly",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "stunning otherworldly goddess of beauty, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+        "date_added": "2026-05-21T07:18:28.808009",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 85
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "stunning otherworldly goddess of beauty, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "stunning otherworldly goddess of beauty, dark art, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting no long neck and second face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "t_endoskeleton_mixed_with_086",
+      "concept": "T endoskeleton mixed with Darth lord Sith RPG",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "T800 endoskeleton mixed with Darth lord Sith, RPG Reference,  art by ilya kuvshinov, artgerm, Alphonse mucha, and Greg Rutkowski, Trending on Artstation, octane render, Insanely Detailed, 8k, HD",
+        "date_added": "2026-05-21T07:18:28.808172",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 86
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "T800 endoskeleton mixed with Darth lord Sith, RPG Reference, art by ilya kuvshinov, artgerm, Alphonse mucha, and Greg Rutkowski, Trending on Artstation, octane render, Insanely Detailed, 8k, HD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "T800 endoskeleton mixed with Darth lord Sith, RPG Reference, art by ilya kuvshinov, artgerm, Alphonse mucha, and Greg Rutkowski, Trending on Artstation, octane render, Insanely Detailed, 8k, HD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "taylor_swift_in_the_087",
+      "concept": "taylor swift in the style of stefan kostic",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "taylor swift in the style of stefan kostic, realistic, full body, sharp focus, 8 k high definition, insanely detailed, intricate, elegant, art by stanley lau and artgerm\nthe cockpit of my mind by Richard Corben",
+        "date_added": "2026-05-21T07:18:28.808294",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 87
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "taylor swift in the style of stefan kostic, realistic, full body, sharp focus, 8 k high definition, insanely detailed, intricate, elegant, art by stanley lau and artgerm the cockpit of my mind by Richard Corben",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "taylor swift in the style of stefan kostic, realistic, full body, sharp focus, 8 k high definition, insanely detailed, intricate, elegant, art by stanley lau and artgerm the cockpit of my mind by Richard Corben",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "the_most_advanced_geometric_088",
+      "concept": "the most advanced geometric technological hacker black light",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "the most advanced geometric technological hacker, black light psychedelic style gloomcore illustration by Marc Simonetti , Mike Mignola, Giger and Satoshi Kon D gouache vaporwave + glitchcore illustration, portrait  junglepunk + fractalpunk cthulhu summoning portal, NFO Ascii art  glowing neon techcore symbols, the NeverEnding Story and Stranger Things",
+        "date_added": "2026-05-21T07:18:28.808420",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 88
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "the most advanced geometric technological hacker, black light psychedelic style gloomcore illustration by Marc Simonetti, Mike Mignola, Giger and Satoshi Kon D gouache vaporwave + glitchcore illustration, portrait junglepunk + fractalpunk cthulhu summoning portal, NFO Ascii art glowing neon techcore symbols, the NeverEnding Story and Stranger Things",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "the most advanced geometric technological hacker, black light psychedelic style gloomcore illustration by Marc Simonetti, Mike Mignola, Giger and Satoshi Kon D gouache vaporwave + glitchcore illustration, portrait junglepunk + fractalpunk cthulhu summoning portal, NFO Ascii art glowing neon techcore symbols, the NeverEnding Story and Stranger Things",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "the_train_to_busan_089",
+      "concept": "THE TRAIN TO BUSAN zombies fear terror the",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "THE TRAIN TO BUSAN, zombies, fear, terror, the plague, detailed concept art by Nekro XIII, Dan Mumford, Peter Mohrbacher, psychedelic black light, detailed, intricate complexity, epic composition, horror, morbid, terrifying, horrifying , 4K",
+        "date_added": "2026-05-21T07:18:28.808592",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 89
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "THE TRAIN TO BUSAN, zombies, fear, terror, the plague, detailed concept art by Nekro XIII, Dan Mumford, Peter Mohrbacher, psychedelic black light, detailed, intricate complexity, epic composition, horror, morbid, terrifying, horrifying, 4K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "THE TRAIN TO BUSAN, zombies, fear, terror, the plague, detailed concept art by Nekro XIII, Dan Mumford, Peter Mohrbacher, psychedelic black light, detailed, intricate complexity, epic composition, horror, morbid, terrifying, horrifying, 4K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "the_unlucky_mage_pen_090",
+      "concept": "the unlucky mage pen and ink by larry",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "the unlucky mage. pen and ink by larry elmore, 1 9 8 0 s",
+        "date_added": "2026-05-21T07:18:28.808724",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 90
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "the unlucky mage. pen and ink by larry elmore, 1 9 8 0 s",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "the unlucky mage. pen and ink by larry elmore, 1 9 8 0 s",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ultra_detailed_scottw_android_091",
+      "concept": "ultra detailed scottw Android deity scifi octane render",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "ultra detailed scottw Android deity, scifi, octane render, (dia de los muertos), asymmetrical, intricate concept art, triadic color scheme, art by artgerm and giger and DZO and greg rutkowski and alphonse mucha and loish and WLOP",
+        "date_added": "2026-05-21T07:18:28.808819",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 91
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ultra detailed scottw Android deity, scifi, octane render, (dia de los muertos), asymmetrical, intricate concept art, triadic color scheme, art by artgerm and giger and DZO and greg rutkowski and alphonse mucha and loish and WLOP",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ultra detailed scottw Android deity, scifi, octane render, (dia de los muertos), asymmetrical, intricate concept art, triadic color scheme, art by artgerm and giger and DZO and greg rutkowski and alphonse mucha and loish and WLOP",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ultra_realistic_illustration_a_092",
+      "concept": "Ultra realistic illustration a hulking herculean dave bautista",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Ultra realistic illustration, a hulking herculean dave bautista with leather armour, from doom and warhammer, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+        "date_added": "2026-05-21T07:18:28.808950",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 92
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Ultra realistic illustration, a hulking herculean dave bautista with leather armour, from doom and warhammer, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Ultra realistic illustration, a hulking herculean dave bautista with leather armour, from doom and warhammer, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ultra_realistic_illustration_brad_093",
+      "concept": "Ultra realistic illustration brad pitt ravishing extremely attractive",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Ultra realistic illustration, brad pitt, ravishing : extremely attractive or beautiful ; entrancing. recherche : exquisite ; lavishly elegant ; exotic. remarkable : worthy of attention ; striking. resplendent : splendid ; brilliant ; dazzling ; colorful and shinyintricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+        "date_added": "2026-05-21T07:18:28.809092",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 93
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Ultra realistic illustration, brad pitt, ravishing : extremely attractive or beautiful ; entrancing. recherche : exquisite ; lavishly elegant ; exotic. remarkable : worthy of attention ; striking. resplendent : splendid ; brilliant ; dazzling ; colorful and shinyintricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Ultra realistic illustration, brad pitt, ravishing : extremely attractive or beautiful ; entrancing. recherche : exquisite ; lavishly elegant ; exotic. remarkable : worthy of attention ; striking. resplendent : splendid ; brilliant ; dazzling ; colorful and shinyintricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Ultra realistic illustration, brad pitt, ravishing : extremely attractive or beautiful ; entrancing. recherche : exquisite ; lavishly elegant ; exotic. remarkable : worthy of attention ; striking. resplendent : splendid ; brilliant ; dazzling ; colorful and shinyintricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ultra_realistic_portrait_painting_094",
+      "concept": "Ultra realistic portrait painting of amy adams as",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Ultra realistic portrait painting of amy adams as a western outlaw, art by frank frazetta, 4 k, ultra realistic, highly detailed, epic lighting",
+        "date_added": "2026-05-21T07:18:28.809299",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 94
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Ultra realistic portrait painting of amy adams as a western outlaw, art by frank frazetta, 4 k, ultra realistic, highly detailed, epic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Ultra realistic portrait painting of amy adams as a western outlaw, art by frank frazetta, 4 k, ultra realistic, highly detailed, epic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "very_eroded_war_machine_095",
+      "concept": "Very Eroded war machine cursed extraterrestrial highly detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Very Eroded war machine, cursed, extraterrestrial, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:18:28.809406",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 95
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Very Eroded war machine, cursed, extraterrestrial, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Very Eroded war machine, cursed, extraterrestrial, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, pen and ink, tarot card, Marc Simonetti, Gustave Dore, Kim Jung Gi, detailed, intricate, ink illustration, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "very_very_very_very_096",
+      "concept": "Very very very very highly detailed epic zoom",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Very very very very highly detailed epic zoom out photo of full face with lion venetian mask, intricate, dystopian, sci-fi, extremely detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, intimidating lighting, incredible art by artgerm and vincent di fate",
+        "date_added": "2026-05-21T07:18:28.809780",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 96
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Very very very very highly detailed epic zoom out photo of full face with lion venetian mask, intricate, dystopian, sci-fi, extremely detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, intimidating lighting, incredible art by artgerm and vincent di fate",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Very very very very highly detailed epic zoom out photo of full face with lion venetian mask, intricate, dystopian, sci-fi, extremely detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, intimidating lighting, incredible art by artgerm and vincent di fate",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "willy_wonka_as_morpheus_097",
+      "concept": "Willy Wonka as Morpheus wearing matrix garb",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Willy Wonka as Morpheus, wearing matrix-garb",
+        "date_added": "2026-05-21T07:18:28.810243",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 97
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Willy Wonka as Morpheus, wearing matrix-garb",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Willy Wonka as Morpheus, wearing matrix-garb",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "yoda_matte_painting_by_098",
+      "concept": "Yoda matte painting by greg rutkowski",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner",
+        "original_prompt": "Yoda, matte painting by greg rutkowski",
+        "date_added": "2026-05-21T07:18:28.810399",
+        "source_file": "bitburner-dreamlike_raw.txt",
+        "source_index": 98
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Yoda, matte painting by greg rutkowski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Yoda, matte painting by greg rutkowski",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

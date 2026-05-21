@@ -1,0 +1,755 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "sd30_hyper_realistic_portrait_of_000",
+      "concept": "Hyper realistic portrait of a young woman with",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Hyper-realistic portrait of a young woman with soft natural lighting, delicate facial features, cinematic depth, ultra-detailed eyes and hair, 8K resolution, photorealistic style",
+        "date_added": "2026-05-21T12:01:04.406136",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 0,
+        "title": "SD #1: Hyper-Realistic Portrait of a Young Woman",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Hyper-realistic portrait of a young woman with soft natural lighting, delicate facial features, cinematic depth, ultra-detailed eyes and hair, 8K resolution, photorealistic style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_epic_fantasy_castle_on_001",
+      "concept": "Epic fantasy castle on a floating island in",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Epic fantasy castle on a floating island in the clouds, magical waterfalls, soft glowing light, high fantasy illustration, ultra-detailed, cinematic composition, vibrant colors",
+        "date_added": "2026-05-21T12:01:04.406276",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 1,
+        "title": "SD #2: Epic Fantasy Castle on a Floating Island",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Epic fantasy castle on a floating island in the clouds, magical waterfalls, soft glowing light, high fantasy illustration, ultra-detailed, cinematic composition, vibrant colors",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_sunset_over_a_serene_002",
+      "concept": "Sunset over a serene forest lake vibrant reflection",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Sunset over a serene forest lake, vibrant reflection of orange and pink sky in water, dense surrounding trees, photorealistic, ultra-detailed, tranquil and peaceful atmosphere",
+        "date_added": "2026-05-21T12:01:04.406416",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 2,
+        "title": "SD #3: Sunset Over a Serene Forest Lake",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Sunset over a serene forest lake, vibrant reflection of orange and pink sky in water, dense surrounding trees, photorealistic, ultra-detailed, tranquil and peaceful atmosphere",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_futuristic_cyberpunk_city_street_003",
+      "concept": "Futuristic cyberpunk city street at night neon signs",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Futuristic cyberpunk city street at night, neon signs reflecting on wet pavement, flying vehicles, bustling crowd, cinematic lighting, ultra-detailed, vibrant colors",
+        "date_added": "2026-05-21T12:01:04.406533",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 3,
+        "title": "SD #4: Futuristic Cyberpunk City Street at Night",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Futuristic cyberpunk city street at night, neon signs reflecting on wet pavement, flying vehicles, bustling crowd, cinematic lighting, ultra-detailed, vibrant colors",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_majestic_dragon_perched_on_004",
+      "concept": "Majestic dragon perched on a mountain cliff cinematic",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Majestic dragon perched on a mountain cliff, cinematic lighting, ultra-detailed scales, fantasy landscape, dramatic sky, epic composition, highly detailed illustration",
+        "date_added": "2026-05-21T12:01:04.406592",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 4,
+        "title": "SD #5: Majestic Dragon on a Mountain Cliff",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Majestic dragon perched on a mountain cliff, cinematic lighting, ultra-detailed scales, fantasy landscape, dramatic sky, epic composition, highly detailed illustration",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_runway_fashion_show_featuring_005",
+      "concept": "Runway fashion show featuring a model wearing a",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Runway fashion show featuring a model wearing a futuristic avant-garde outfit, studio lighting, cinematic style, ultra-detailed textures, high fashion illustration",
+        "date_added": "2026-05-21T12:01:04.406635",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 5,
+        "title": "SD #6: Runway Fashion Show with Futuristic Outfit",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Runway fashion show featuring a model wearing a futuristic avant-garde outfit, studio lighting, cinematic style, ultra-detailed textures, high fashion illustration",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_photorealistic_gourmet_chocolate_cake_006",
+      "concept": "Photorealistic gourmet chocolate cake with decorative frosting and",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Photorealistic gourmet chocolate cake with decorative frosting and toppings, studio lighting, high detail, close-up food photography style, ultra-realistic textures",
+        "date_added": "2026-05-21T12:01:04.406674",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 6,
+        "title": "SD #7: Gourmet Chocolate Cake, Photorealistic",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Photorealistic gourmet chocolate cake with decorative frosting and toppings, studio lighting, high detail, close-up food photography style, ultra-realistic textures",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_modern_smartwatch_on_a_007",
+      "concept": "Modern smartwatch on a wooden desk soft shadows",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Modern smartwatch on a wooden desk, soft shadows, studio lighting, photorealistic product mockup, ultra-detailed, clean and minimalist composition",
+        "date_added": "2026-05-21T12:01:04.406712",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 7,
+        "title": "SD #8: Modern Smartwatch Product Mockup on Desk",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Modern smartwatch on a wooden desk, soft shadows, studio lighting, photorealistic product mockup, ultra-detailed, clean and minimalist composition",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_whimsical_storybook_illustration_of_008",
+      "concept": "Whimsical storybook illustration of cute animals having a",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Whimsical storybook illustration of cute animals having a tea party in a magical forest, colorful and playful, soft lighting, highly detailed, fantasy art style",
+        "date_added": "2026-05-21T12:01:04.406752",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 8,
+        "title": "SD #9: Whimsical Storybook Scene with Cute Animals",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Whimsical storybook illustration of cute animals having a tea party in a magical forest, colorful and playful, soft lighting, highly detailed, fantasy art style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_creepy_haunted_house_on_009",
+      "concept": "Creepy haunted house on a foggy hill gothic",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Creepy haunted house on a foggy hill, gothic architecture, eerie atmosphere, dramatic shadows, mist, highly detailed, cinematic horror illustration",
+        "date_added": "2026-05-21T12:01:04.406796",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 9,
+        "title": "SD #10: Creepy Haunted House on a Foggy Hill",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Creepy haunted house on a foggy hill, gothic architecture, eerie atmosphere, dramatic shadows, mist, highly detailed, cinematic horror illustration",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_professional_soccer_player_scoring_010",
+      "concept": "Professional soccer player scoring goal in stadium dynamic",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Professional soccer player scoring goal in stadium, dynamic motion blur, cheering crowd, cinematic lighting, ultra-detailed sports illustration",
+        "date_added": "2026-05-21T12:01:04.406835",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 10,
+        "title": "SD #11: Professional Soccer Player Scoring Goal",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Professional soccer player scoring goal in stadium, dynamic motion blur, cheering crowd, cinematic lighting, ultra-detailed sports illustration",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_epic_space_adventure_film_011",
+      "concept": "Epic space adventure film poster dramatic lighting spaceships",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Epic space adventure film poster, dramatic lighting, spaceships and planets, cinematic composition, ultra-detailed, vibrant sci-fi illustration style",
+        "date_added": "2026-05-21T12:01:04.406873",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 11,
+        "title": "SD #12: Epic Space Adventure Film Poster Style",
+        "platform": "Stable Diffusion",
+        "category": "Text-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Epic space adventure film poster, dramatic lighting, spaceships and planets, cinematic composition, ultra-detailed, vibrant sci-fi illustration style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_transform_the_reference_landscape_012",
+      "concept": "Transform the reference landscape photo into a soft",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Transform the reference landscape photo into a soft watercolor painting, pastel colors, flowing brush strokes, subtle textures, gentle lighting, artistic style",
+        "date_added": "2026-05-21T12:01:04.406913",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 12,
+        "title": "SD #13: Turn Landscape Photo into Watercolor Painting",
+        "platform": "Stable Diffusion",
+        "category": "Image-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Transform the reference landscape photo into a soft watercolor painting, pastel colors, flowing brush strokes, subtle textures, gentle lighting, artistic style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_convert_the_daytime_city_013",
+      "concept": "Convert the daytime city street photo into a",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Convert the daytime city street photo into a neon-lit cyberpunk night scene, vibrant lights reflecting on wet pavement, futuristic elements, cinematic style",
+        "date_added": "2026-05-21T12:01:04.407037",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 13,
+        "title": "SD #14: Convert Daytime City Street to Neon Night Scene",
+        "platform": "Stable Diffusion",
+        "category": "Image-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Convert the daytime city street photo into a neon-lit cyberpunk night scene, vibrant lights reflecting on wet pavement, futuristic elements, cinematic style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_redesign_the_portrait_with_014",
+      "concept": "Redesign the portrait with short wavy hair stylish",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Redesign the portrait with short wavy hair, stylish glasses, natural expression, soft lighting, photorealistic style, highly detailed",
+        "date_added": "2026-05-21T12:01:04.407142",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 14,
+        "title": "SD #15: Redesign Portrait with Short Wavy Hair and Glasses",
+        "platform": "Stable Diffusion",
+        "category": "Image-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Redesign the portrait with short wavy hair, stylish glasses, natural expression, soft lighting, photorealistic style, highly detailed",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_transform_the_desert_landscape_015",
+      "concept": "Transform the desert landscape photo into a vibrant",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Transform the desert landscape photo into a vibrant tropical forest, dense greenery, flowing rivers, sunlight filtering through trees, photorealistic, ultra-detailed",
+        "date_added": "2026-05-21T12:01:04.407253",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 15,
+        "title": "SD #16: Transform Desert Scene into Tropical Forest",
+        "platform": "Stable Diffusion",
+        "category": "Image-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Transform the desert landscape photo into a vibrant tropical forest, dense greenery, flowing rivers, sunlight filtering through trees, photorealistic, ultra-detailed",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_enhance_the_portrait_with_016",
+      "concept": "Enhance the portrait with warm golden hour lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Enhance the portrait with warm golden hour lighting, soft shadows, subtle glow on skin, cinematic atmosphere, photorealistic style",
+        "date_added": "2026-05-21T12:01:04.407354",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 16,
+        "title": "SD #17: Apply Golden Hour Lighting to Portrait",
+        "platform": "Stable Diffusion",
+        "category": "Image-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Enhance the portrait with warm golden hour lighting, soft shadows, subtle glow on skin, cinematic atmosphere, photorealistic style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_transform_the_sketch_into_017",
+      "concept": "Transform the sketch into a colorful Studio Ghibli",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Transform the sketch into a colorful Studio Ghibli-style illustration, whimsical and soft colors, highly detailed, cinematic composition",
+        "date_added": "2026-05-21T12:01:04.407456",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 17,
+        "title": "SD #18: Render Sketch in Studio Ghibli Style",
+        "platform": "Stable Diffusion",
+        "category": "Image-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Transform the sketch into a colorful Studio Ghibli-style illustration, whimsical and soft colors, highly detailed, cinematic composition",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_enhance_the_city_street_018",
+      "concept": "Enhance the city street photo with futuristic vehicles",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Enhance the city street photo with futuristic vehicles, neon lights, cyberpunk style, cinematic atmosphere, ultra-detailed urban environment",
+        "date_added": "2026-05-21T12:01:04.407559",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 18,
+        "title": "SD #19: Enhance Street Scene with Futuristic Vehicles",
+        "platform": "Stable Diffusion",
+        "category": "Image-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Enhance the city street photo with futuristic vehicles, neon lights, cyberpunk style, cinematic atmosphere, ultra-detailed urban environment",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_transform_the_city_photo_019",
+      "concept": "Transform the city photo into a floating cloud",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Transform the city photo into a floating cloud city above the skies, clouds around buildings, soft sunlight, dreamy fantasy style, ultra-detailed illustration",
+        "date_added": "2026-05-21T12:01:04.407671",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 19,
+        "title": "SD #20: Turn City Photo into Floating Cloud City",
+        "platform": "Stable Diffusion",
+        "category": "Image-to-Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Transform the city photo into a floating cloud city above the skies, clouds around buildings, soft sunlight, dreamy fantasy style, ultra-detailed illustration",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_remove_the_trash_can_020",
+      "concept": "Remove the trash can from the street photo",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Remove the trash can from the street photo, maintain realistic pavement and lighting, keep buildings and background intact, photorealistic style",
+        "date_added": "2026-05-21T12:01:04.407775",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 20,
+        "title": "SD #21: Remove Trash Can from Street Photo",
+        "platform": "Stable Diffusion",
+        "category": "Inpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Remove the trash can from the street photo, maintain realistic pavement and lighting, keep buildings and background intact, photorealistic style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_smooth_skin_texture_and_021",
+      "concept": "Smooth skin texture and enhance eye brightness in",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Smooth skin texture and enhance eye brightness in the portrait, maintain natural facial features, soft lighting, photorealistic style",
+        "date_added": "2026-05-21T12:01:04.407881",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 21,
+        "title": "SD #22: Smooth Skin and Enhance Eyes in Portrait",
+        "platform": "Stable Diffusion",
+        "category": "Inpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Smooth skin texture and enhance eye brightness in the portrait, maintain natural facial features, soft lighting, photorealistic style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_replace_the_current_jacket_022",
+      "concept": "Replace the current jacket in the portrait with",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Replace the current jacket in the portrait with a red leather biker jacket, maintain original pose and lighting, photorealistic style",
+        "date_added": "2026-05-21T12:01:04.408002",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 22,
+        "title": "SD #23: Replace Jacket with Red Leather Biker Jacket",
+        "platform": "Stable Diffusion",
+        "category": "Inpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Replace the current jacket in the portrait with a red leather biker jacket, maintain original pose and lighting, photorealistic style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_replace_the_indoor_background_023",
+      "concept": "Replace the indoor background with a tropical beach",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Replace the indoor background with a tropical beach scene, maintain natural lighting on the subject, photorealistic style, vibrant colors",
+        "date_added": "2026-05-21T12:01:04.408064",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 23,
+        "title": "SD #24: Replace Indoor Background with Tropical Beach",
+        "platform": "Stable Diffusion",
+        "category": "Inpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Replace the indoor background with a tropical beach scene, maintain natural lighting on the subject, photorealistic style, vibrant colors",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_add_a_fedora_hat_024",
+      "concept": "Add a fedora hat and sunglasses to the",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Add a fedora hat and sunglasses to the portrait, maintain facial expression and lighting, photorealistic style, subtle shadowing",
+        "date_added": "2026-05-21T12:01:04.408099",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 24,
+        "title": "SD #25: Add Fedora Hat and Sunglasses to Portrait",
+        "platform": "Stable Diffusion",
+        "category": "Inpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Add a fedora hat and sunglasses to the portrait, maintain facial expression and lighting, photorealistic style, subtle shadowing",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_correct_the_hands_in_025",
+      "concept": "Correct the hands in the portrait to natural",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Correct the hands in the portrait to natural, relaxed positions, maintain original pose and lighting, photorealistic style",
+        "date_added": "2026-05-21T12:01:04.408131",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 25,
+        "title": "SD #26: Correct Hands to Natural Positions in Portrait",
+        "platform": "Stable Diffusion",
+        "category": "Inpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Correct the hands in the portrait to natural, relaxed positions, maintain original pose and lighting, photorealistic style",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_change_the_summer_garden_026",
+      "concept": "Change the summer garden scene into a snowy",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Change the summer garden scene into a snowy winter landscape, maintain trees and buildings, soft snow lighting, photorealistic style, subtle snow textures",
+        "date_added": "2026-05-21T12:01:04.408173",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 26,
+        "title": "SD #27: Change Summer Garden Scene to Snowy Winter",
+        "platform": "Stable Diffusion",
+        "category": "Inpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Change the summer garden scene into a snowy winter landscape, maintain trees and buildings, soft snow lighting, photorealistic style, subtle snow textures",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_extend_the_mountain_landscape_027",
+      "concept": "Extend the mountain landscape to include a dense",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Extend the mountain landscape to include a dense forest valley, maintain lighting and atmosphere, photorealistic style, ultra-detailed, panoramic composition",
+        "date_added": "2026-05-21T12:01:04.408210",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 27,
+        "title": "SD #28: Extend Mountain Landscape with Forest Valley",
+        "platform": "Stable Diffusion",
+        "category": "Outpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Extend the mountain landscape to include a dense forest valley, maintain lighting and atmosphere, photorealistic style, ultra-detailed, panoramic composition",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_expand_the_city_skyline_028",
+      "concept": "Expand the city skyline with additional skyscrapers neon",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Expand the city skyline with additional skyscrapers, neon signs, and cyberpunk details, maintain perspective and night lighting, highly detailed, cinematic atmosphere",
+        "date_added": "2026-05-21T12:01:04.408246",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 28,
+        "title": "SD #29: Expand City Skyline with Skyscrapers and Neon Signs",
+        "platform": "Stable Diffusion",
+        "category": "Outpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Expand the city skyline with additional skyscrapers, neon signs, and cyberpunk details, maintain perspective and night lighting, highly detailed, cinematic atmosphere",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sd30_extend_the_fantasy_castle_029",
+      "concept": "Extend the fantasy castle scene to include a",
+      "status": "active",
+      "metadata": {
+        "original_source": "cyberlink.com - 30 Stable Diffusion Prompt Examples",
+        "original_prompt": "Extend the fantasy castle scene to include a flying dragon and enchanted forest surroundings, maintain lighting and castle style, cinematic fantasy illustration, ultra-detailed",
+        "date_added": "2026-05-21T12:01:04.408287",
+        "source_file": "sd30_prompts.txt",
+        "source_index": 29,
+        "title": "SD #30: Extend Fantasy Castle Scene with Dragon and Forest",
+        "platform": "Stable Diffusion",
+        "category": "Outpainting"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Extend the fantasy castle scene to include a flying dragon and enchanted forest surroundings, maintain lighting and castle style, cinematic fantasy illustration, ultra-detailed",
+          "negative_template": ""
+        }
+      ]
+    }
+  ]
+}

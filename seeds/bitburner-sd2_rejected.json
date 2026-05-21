@@ -1,0 +1,14 @@
+[
+  {
+    "index": 88,
+    "reason": "too short after cleaning (12 chars)",
+    "original": "space marine",
+    "metadata": {
+      "original_source": "bitburner-sd2",
+      "original_prompt": "space marine",
+      "date_added": "2026-05-21T07:25:36.357581",
+      "source_file": "bitburner-sd2_raw.txt",
+      "source_index": 88
+    }
+  }
+]

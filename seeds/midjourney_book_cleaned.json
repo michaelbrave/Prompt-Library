@@ -1,0 +1,1071 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "ultra_realistic_photo_of_000",
+      "concept": "Ultra realistic photo of a very old Japanese",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "Ultra-realistic photo of a very old Japanese woman (over\n80 years old) actively surfing, confidently on a surfboard\nin the middle of a wave. She looks serene, showcasing her\nstrength and grace. The scene takes place in crystal-clear\nblue tropical waters during dawn, with soft light casting a\ngentle glow. Palm tree silhouettes and a Hawaii-like\natmosphere in the background. The focus is on the\nwoman, with water splashing around her. The ad has a\npolished, professional look like a high-end brand, the\noverall aesthetic is clean and inspiring",
+        "date_added": "2026-05-21T07:01:13.081627",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 0
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Ultra-realistic photo of a very old Japanese woman (over 80 years old) actively surfing, confidently on a surfboard in the middle of a wave. She looks serene, showcasing her strength and grace. The scene takes place in crystal-clear blue tropical waters during dawn, with soft light casting a gentle glow. Palm tree silhouettes and a Hawaii-like atmosphere in the background. The focus is on the woman, with water splashing around her. The ad has a polished, professional look like a high-end brand, the overall aesthetic is clean and inspiring",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Ultra-realistic photo of a very old Japanese woman (over 80 years old) actively surfing, confidently on a surfboard in the middle of a wave. She looks serene, showcasing her strength and grace. The scene takes place in crystal-clear blue tropical waters during dawn, with soft light casting a gentle glow. Palm tree silhouettes and a Hawaii-like atmosphere in the background. The focus is on the woman, with water splashing around her. The ad has a polished, professional look like a high-end brand, the overall aesthetic is clean and inspiring",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Ultra-realistic photo of a very old Japanese woman (over 80 years old) actively surfing, confidently on a surfboard in the middle of a wave. She looks serene, showcasing her strength and grace. The scene takes place in crystal-clear blue tropical waters during dawn, with soft light casting a gentle glow. Palm tree silhouettes and a Hawaii-like atmosphere in the background. The focus is on the woman, with water splashing around her. The ad has a polished, professional look like a high-end brand, the overall aesthetic is clean and inspiring",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ultra_realistic_photograph_of_001",
+      "concept": "Ultra realistic photograph of a professional surfer in",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "Ultra-realistic photograph of a professional surfer, in the\ncrystal-clear waters of Unstad Beach, Lofoten. The surfer,\nwearing a black wetsuit, is captured in perfect detail, with\nsharp and realistic facial features as they push their\nsurfboard underwater through an oncoming wave. The\nrugged mountains of Lofoten rise dramatically in the\nbackground. Lighting should be natural, with a high-end,\npolished feel similar to an advertisement, focusing on the\nsurfer's intense focus and the raw beauty of the scene",
+        "date_added": "2026-05-21T07:01:13.082869",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 1
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Ultra-realistic photograph of a professional surfer, in the crystal-clear waters of Unstad Beach, Lofoten. The surfer, wearing a black wetsuit, is captured in perfect detail, with sharp and realistic facial features as they push their surfboard underwater through an oncoming wave. The rugged mountains of Lofoten rise dramatically in the background. Lighting should be natural, with a high-end, polished feel similar to an advertisement, focusing on the surfer's intense focus and the raw beauty of the scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Ultra-realistic photograph of a professional surfer, in the crystal-clear waters of Unstad Beach, Lofoten. The surfer, wearing a black wetsuit, is captured in perfect detail, with sharp and realistic facial features as they push their surfboard underwater through an oncoming wave. The rugged mountains of Lofoten rise dramatically in the background. Lighting should be natural, with a high-end, polished feel similar to an advertisement, focusing on the surfer's intense focus and the raw beauty of the scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Ultra-realistic photograph of a professional surfer, in the crystal-clear waters of Unstad Beach, Lofoten. The surfer, wearing a black wetsuit, is captured in perfect detail, with sharp and realistic facial features as they push their surfboard underwater through an oncoming wave. The rugged mountains of Lofoten rise dramatically in the background. Lighting should be natural, with a high-end, polished feel similar to an advertisement, focusing on the surfer's intense focus and the raw beauty of the scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_extraordinary_floating_house_002",
+      "concept": "An extraordinary floating house set in the ocean",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "An extraordinary floating house set in the ocean,\nunique design, realistic expression, innovative\narchitecture , grand and cozy, in tropical blue\nenvironment in south pacific, light from left, taken\non fujifilm x T4",
+        "date_added": "2026-05-21T07:01:13.083144",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 2
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An extraordinary floating house set in the ocean, unique design, realistic expression, innovative architecture, grand and cozy, in tropical blue environment in south pacific, light from left, taken on fujifilm x T4",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An extraordinary floating house set in the ocean, unique design, realistic expression, innovative architecture, grand and cozy, in tropical blue environment in south pacific, light from left, taken on fujifilm x T4",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_tranquil_high_quality_003",
+      "concept": "A tranquil high quality image of a bed",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A tranquil, high-quality image of a bed with crisp, white hotel\nsheets, hanging from ropes, set in the middle of a lush jungle.\nThe focus is on the vibrant greenery, with tall trees, mist\nrising from the forest floor, and tropical plants surrounding\nthe scene. The light of dawn filters softly through the\ncanopy, casting warm pink, orange, and golden hues across\nthe landscape. The bed is gently integrated into the jungle\nenvironment, creating a peaceful, serene atmosphere with\nnature's calm energy all around.",
+        "date_added": "2026-05-21T07:01:13.083319",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 3
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A tranquil, high-quality image of a bed with crisp, white hotel sheets, hanging from ropes, set in the middle of a lush jungle. The focus is on the vibrant greenery, with tall trees, mist rising from the forest floor, and tropical plants surrounding the scene. The light of dawn filters softly through the canopy, casting warm pink, orange, and golden hues across the landscape. The bed is gently integrated into the jungle environment, creating a peaceful, serene atmosphere with nature's calm energy all around",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A tranquil, high-quality image of a bed with crisp, white hotel sheets, hanging from ropes, set in the middle of a lush jungle. The focus is on the vibrant greenery, with tall trees, mist rising from the forest floor, and tropical plants surrounding the scene. The light of dawn filters softly through the canopy, casting warm pink, orange, and golden hues across the landscape. The bed is gently integrated into the jungle environment, creating a peaceful, serene atmosphere with nature's calm energy all around",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A tranquil, high-quality image of a bed with crisp, white hotel sheets, hanging from ropes, set in the middle of a lush jungle. The focus is on the vibrant greenery, with tall trees, mist rising from the forest floor, and tropical plants surrounding the scene. The light of dawn filters softly through the canopy, casting warm pink, orange, and golden hues across the landscape. The bed is gently integrated into the jungle environment, creating a peaceful, serene atmosphere with nature's calm energy all around",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_ultra_realistic_photograph_004",
+      "concept": "An ultra realistic photograph of a shark barely",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "An ultra-realistic photograph of a shark barely visible in\nthe dark depths of the ocean. The lighting is minimal, with\nsoft, natural light coming from above, casting faint\nshadows. The shark is swimming quietly in the\nbackground, with only its outline and subtle details visible,\ncreating a mysterious and slightly eerie atmosphere. The\nmood should be dark and deep, but the shark's\nexpression remains neutral and natural, with no\naggressive or threatening features. The overall tone is\nrealistic, capturing the solitude of the deep ocean",
+        "date_added": "2026-05-21T07:01:13.083655",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 4
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An ultra-realistic photograph of a shark barely visible in the dark depths of the ocean. The lighting is minimal, with soft, natural light coming from above, casting faint shadows. The shark is swimming quietly in the background, with only its outline and subtle details visible, creating a mysterious and slightly eerie atmosphere. The mood should be dark and deep, but the shark's expression remains neutral and natural, with no aggressive or threatening features. The overall tone is realistic, capturing the solitude of the deep ocean",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "An ultra-realistic photograph of a shark barely visible in the dark depths of the ocean. The lighting is minimal, with soft, natural light coming from above, casting faint shadows. The shark is swimming quietly in the background, with only its outline and subtle details visible, creating a mysterious and slightly eerie atmosphere. The mood should be dark and deep, but the shark's expression remains neutral and natural, with no aggressive or threatening features. The overall tone is realistic, capturing the solitude of the deep ocean",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An ultra-realistic photograph of a shark barely visible in the dark depths of the ocean. The lighting is minimal, with soft, natural light coming from above, casting faint shadows. The shark is swimming quietly in the background, with only its outline and subtle details visible, creating a mysterious and slightly eerie atmosphere. The mood should be dark and deep, but the shark's expression remains neutral and natural, with no aggressive or threatening features. The overall tone is realistic, capturing the solitude of the deep ocean",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_ultra_realistic_high_005",
+      "concept": "An ultra realistic high definition portrait of a",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "An ultra-realistic, high-definition portrait of a mako\nshark, with detailed skin texture and sharp features, in\na minimalistic underwater setting. The shark is\nwearing braces on its teeth, creating a quirky and\nhumorous contrast between the shark's natural fierce\nappearance and the braces, which should look like\ntraditional orthodontic metal braces. The lighting is\nsoft and professional, emphasizing the shark's sleek\nbody and the humorous detail of the braces. The\noverall tone is playful yet refined, blending realism\nwith a surreal, humorous twist.",
+        "date_added": "2026-05-21T07:01:13.084003",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 5
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An ultra-realistic, high-definition portrait of a mako shark, with detailed skin texture and sharp features, in a minimalistic underwater setting. The shark is wearing braces on its teeth, creating a quirky and humorous contrast between the shark's natural fierce appearance and the braces, which should look like traditional orthodontic metal braces. The lighting is soft and professional, emphasizing the shark's sleek body and the humorous detail of the braces. The overall tone is playful yet refined, blending realism with a surreal, humorous twist",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "An ultra-realistic, high-definition portrait of a mako shark, with detailed skin texture and sharp features, in a minimalistic underwater setting. The shark is wearing braces on its teeth, creating a quirky and humorous contrast between the shark's natural fierce appearance and the braces, which should look like traditional orthodontic metal braces. The lighting is soft and professional, emphasizing the shark's sleek body and the humorous detail of the braces. The overall tone is playful yet refined, blending realism with a surreal, humorous twist",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An ultra-realistic, high-definition portrait of a mako shark, with detailed skin texture and sharp features, in a minimalistic underwater setting. The shark is wearing braces on its teeth, creating a quirky and humorous contrast between the shark's natural fierce appearance and the braces, which should look like traditional orthodontic metal braces. The lighting is soft and professional, emphasizing the shark's sleek body and the humorous detail of the braces. The overall tone is playful yet refined, blending realism with a surreal, humorous twist",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_close_up_high_006",
+      "concept": "A close up high resolution photo of a",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A close-up, high-resolution photo of a penguin\nswimming underwater, dynamic action shot with\nbubbles and splashes, vibrant lighting illuminating\nthe water, detailed feathers, expressive eyes, and\nbright orange beak. Deep blue background with\nwater textures and light rays streaming through,\nrealistic and natural setting, capturing the\nmovement and energy of the penguin's swim.",
+        "date_added": "2026-05-21T07:01:13.084336",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 6
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A close-up, high-resolution photo of a penguin swimming underwater, dynamic action shot with bubbles and splashes, vibrant lighting illuminating the water, detailed feathers, expressive eyes, and bright orange beak. Deep blue background with water textures and light rays streaming through, realistic and natural setting, capturing the movement and energy of the penguin's swim",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A close-up, high-resolution photo of a penguin swimming underwater, dynamic action shot with bubbles and splashes, vibrant lighting illuminating the water, detailed feathers, expressive eyes, and bright orange beak. Deep blue background with water textures and light rays streaming through, realistic and natural setting, capturing the movement and energy of the penguin's swim",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A close-up, high-resolution photo of a penguin swimming underwater, dynamic action shot with bubbles and splashes, vibrant lighting illuminating the water, detailed feathers, expressive eyes, and bright orange beak. Deep blue background with water textures and light rays streaming through, realistic and natural setting, capturing the movement and energy of the penguin's swim",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "two_gannets_perched_closely_007",
+      "concept": "Two gannets perched closely together on the edge",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "Two gannets perched closely together on the\nedge of a rugged, high cliff, overlooking the\nArctic ocean. Close-up perspective with\nincredible detail in their feathers, glowing golden\nlight illuminating the scene from the side, harsh\nand dramatic atmosphere. The cliff textures are\nsharp and natural, with a hint of wild vegetation.\nRealistic photography, Faroe Islands-inspired\nscenery, cinematic lighting, capturing the raw\nbeauty of the moment",
+        "date_added": "2026-05-21T07:01:13.084583",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 7
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Two gannets perched closely together on the edge of a rugged, high cliff, overlooking the Arctic ocean. Close-up perspective with incredible detail in their feathers, glowing golden light illuminating the scene from the side, harsh and dramatic atmosphere. The cliff textures are sharp and natural, with a hint of wild vegetation. Realistic photography, Faroe Islands-inspired scenery, cinematic lighting, capturing the raw beauty of the moment",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Two gannets perched closely together on the edge of a rugged, high cliff, overlooking the Arctic ocean. Close-up perspective with incredible detail in their feathers, glowing golden light illuminating the scene from the side, harsh and dramatic atmosphere. The cliff textures are sharp and natural, with a hint of wild vegetation. Realistic photography, Faroe Islands-inspired scenery, cinematic lighting, capturing the raw beauty of the moment",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Two gannets perched closely together on the edge of a rugged, high cliff, overlooking the Arctic ocean. Close-up perspective with incredible detail in their feathers, glowing golden light illuminating the scene from the side, harsh and dramatic atmosphere. The cliff textures are sharp and natural, with a hint of wild vegetation. Realistic photography, Faroe Islands-inspired scenery, cinematic lighting, capturing the raw beauty of the moment",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_close_up_portrait_008",
+      "concept": "A close up portrait of a smiling polar",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A close-up portrait of a smiling polar bear, highly\ndetailed, realistic photo style, dark mode lighting,\nsoft shadows, focus on face and expression,\nintricate fur texture, high contrast",
+        "date_added": "2026-05-21T07:01:13.084866",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 8
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A close-up portrait of a smiling polar bear, highly detailed, realistic photo style, dark mode lighting, soft shadows, focus on face and expression, intricate fur texture, high contrast",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A close-up portrait of a smiling polar bear, highly detailed, realistic photo style, dark mode lighting, soft shadows, focus on face and expression, intricate fur texture, high contrast",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_high_quality_realistic_009",
+      "concept": "A high quality realistic photo of a serene",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A high-quality, realistic photo of a serene archipelago\nat dawn, designed like a travel magazine cover. Small\nrocky islands covered with pine trees dot the calm,\nclear water, reflecting the soft pink and orange hues\nof the rising sun. Gentle waves lap against the shore,\nand seagulls fly overhead. The scene is peaceful and\nimmersive, with the sunlight casting a golden glow\nover the landscape, highlighting the natural beauty of\nthe archipelago. The image has sharp detail and\nvibrant colors, evoking a sense of adventure and ca",
+        "date_added": "2026-05-21T07:01:13.085024",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 9
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A high-quality, realistic photo of a serene archipelago at dawn, designed like a travel magazine cover. Small rocky islands covered with pine trees dot the calm, clear water, reflecting the soft pink and orange hues of the rising sun. Gentle waves lap against the shore, and seagulls fly overhead. The scene is peaceful and immersive, with the sunlight casting a golden glow over the landscape, highlighting the natural beauty of the archipelago. The image has sharp detail and vibrant colors, evoking a sense of adventure and ca",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A high-quality, realistic photo of a serene archipelago at dawn, designed like a travel magazine cover. Small rocky islands covered with pine trees dot the calm, clear water, reflecting the soft pink and orange hues of the rising sun. Gentle waves lap against the shore, and seagulls fly overhead. The scene is peaceful and immersive, with the sunlight casting a golden glow over the landscape, highlighting the natural beauty of the archipelago. The image has sharp detail and vibrant colors, evoking a sense of adventure and ca",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A high-quality, realistic photo of a serene archipelago at dawn, designed like a travel magazine cover. Small rocky islands covered with pine trees dot the calm, clear water, reflecting the soft pink and orange hues of the rising sun. Gentle waves lap against the shore, and seagulls fly overhead. The scene is peaceful and immersive, with the sunlight casting a golden glow over the landscape, highlighting the natural beauty of the archipelago. The image has sharp detail and vibrant colors, evoking a sense of adventure and ca",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_high_quality_realistic_010",
+      "concept": "A high quality realistic photo of a lush",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A high-quality, realistic photo of a lush forest scene at\ndawn, designed like a travel magazine cover. Tall trees\nwith dense, vibrant green leaves tower over the\nscene, with soft rays of sunlight streaming through the\ncanopy, creating dappled light on the forest floor. The\nground is covered in rich moss, ferns, and delicate\nwildflowers. There's a light mist rising from the ground,\ngiving the scene an ethereal, calm feeling. The lighting\nis soft and golden, with a natural, serene atmosphere\nthat captures the peaceful beauty of nature. The\nimage has the sharp detail, vivid colors, and immersive\ncomposition of a high-end travel magazine cover, with\nfocus on the lush environment and soothing\natmosphere",
+        "date_added": "2026-05-21T07:01:13.085353",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 10
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A high-quality, realistic photo of a lush forest scene at dawn, designed like a travel magazine cover. Tall trees with dense, vibrant green leaves tower over the scene, with soft rays of sunlight streaming through the canopy, creating dappled light on the forest floor. The ground is covered in rich moss, ferns, and delicate wildflowers. There's a light mist rising from the ground, giving the scene an ethereal, calm feeling. The lighting is soft and golden, with a natural, serene atmosphere that captures the peaceful beauty of nature. The image has the sharp detail, vivid colors, and immersive composition of a high-end travel magazine cover, with focus on the lush environment and soothing atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A high-quality, realistic photo of a lush forest scene at dawn, designed like a travel magazine cover. Tall trees with dense, vibrant green leaves tower over the scene, with soft rays of sunlight streaming through the canopy, creating dappled light on the forest floor. The ground is covered in rich moss, ferns, and delicate wildflowers. There's a light mist rising from the ground, giving the scene an ethereal, calm feeling. The lighting is soft and golden, with a natural, serene atmosphere that captures the peaceful beauty of nature. The image has the sharp detail, vivid colors, and immersive composition of a high-end travel magazine cover, with focus on the lush environment and soothing atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A high-quality, realistic photo of a lush forest scene at dawn, designed like a travel magazine cover. Tall trees with dense, vibrant green leaves tower over the scene, with soft rays of sunlight streaming through the canopy, creating dappled light on the forest floor. The ground is covered in rich moss, ferns, and delicate wildflowers. There's a light mist rising from the ground, giving the scene an ethereal, calm feeling. The lighting is soft and golden, with a natural, serene atmosphere that captures the peaceful beauty of nature. The image has the sharp detail, vivid colors, and immersive composition of a high-end travel magazine cover, with focus on the lush environment and soothing atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_high_resolution_ultra_011",
+      "concept": "A high resolution ultra realistic photo of a",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A high-resolution, ultra-realistic photo of a cozy\ncottage interior with a crackling fireplace. The room is\nwarmly lit by the fire, and the textures of the blankets,\ncushions, and wooden beams are captured with sharp\ndetail. Snow is falling, and the overall atmosphere feels\nreal and inviting, with no exaggeration of light or colors.\nThe scene captures the cozy warmth of the cottage\nwith true-to-life textures and lighting.",
+        "date_added": "2026-05-21T07:01:13.085791",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 11
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A high-resolution, ultra-realistic photo of a cozy cottage interior with a crackling fireplace. The room is warmly lit by the fire, and the textures of the blankets, cushions, and wooden beams are captured with sharp detail. Snow is falling, and the overall atmosphere feels real and inviting, with no exaggeration of light or colors. The scene captures the cozy warmth of the cottage with true-to-life textures and lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A high-resolution, ultra-realistic photo of a cozy cottage interior with a crackling fireplace. The room is warmly lit by the fire, and the textures of the blankets, cushions, and wooden beams are captured with sharp detail. Snow is falling, and the overall atmosphere feels real and inviting, with no exaggeration of light or colors. The scene captures the cozy warmth of the cottage with true-to-life textures and lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A high-resolution, ultra-realistic photo of a cozy cottage interior with a crackling fireplace. The room is warmly lit by the fire, and the textures of the blankets, cushions, and wooden beams are captured with sharp detail. Snow is falling, and the overall atmosphere feels real and inviting, with no exaggeration of light or colors. The scene captures the cozy warmth of the cottage with true-to-life textures and lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_realistic_high_resolution_012",
+      "concept": "A realistic high resolution mockup of a cereal",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A realistic, high-resolution mockup of a\ncereal box with a creative, modern sealife\npattern, featuring stylized sea creatures and\nocean elements in subtle, vibrant colors. The\nbox design includes clean typography and\nminimalistic branding elements. Soft lighting\nwith high contrast, professional ad style, on\na neutral background to highlight the\npackaging details.",
+        "date_added": "2026-05-21T07:01:13.086098",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 12
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A realistic, high-resolution mockup of a cereal box with a creative, modern sealife pattern, featuring stylized sea creatures and ocean elements in subtle, vibrant colors. The box design includes clean typography and minimalistic branding elements. Soft lighting with high contrast, professional ad style, on a neutral background to highlight the packaging details",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A realistic, high-resolution mockup of a cereal box with a creative, modern sealife pattern, featuring stylized sea creatures and ocean elements in subtle, vibrant colors. The box design includes clean typography and minimalistic branding elements. Soft lighting with high contrast, professional ad style, on a neutral background to highlight the packaging details",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A realistic, high-resolution mockup of a cereal box with a creative, modern sealife pattern, featuring stylized sea creatures and ocean elements in subtle, vibrant colors. The box design includes clean typography and minimalistic branding elements. Soft lighting with high contrast, professional ad style, on a neutral background to highlight the packaging details",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "create_a_high_quality_013",
+      "concept": "Create a high quality image of a sleek",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "Create a high-quality image of a sleek, modern\nworkspace set up in the middle of a lush rainforest,\noffering a unique blend of technology and nature. The\nworkspace features a clean desk with a laptop open,\ndisplaying vibrant ocean-related content, emphasizing\nthe connection to marine research and exploration.\nSurrounding the workspace are towering trees, dense\nfoliage, and glimpses of natural light filtering through\nthe canopy, creating a serene and inspiring\natmosphere. The setup includes a few subtle oceanic\nelements like marine biology books, a seashell, or a\nsmall aquarium, tying the rainforest environment back\nto the ocean theme. The overall vibe should be one of\ninnovation and tranquility, highlighting the idea of\ngaining ocean insights from unexpected and immersive\nnatural settings.",
+        "date_added": "2026-05-21T07:01:13.086299",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 13
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Create a high-quality image of a sleek, modern workspace set up in the middle of a lush rainforest, offering a unique blend of technology and nature. The workspace features a clean desk with a laptop open, displaying vibrant ocean-related content, emphasizing the connection to marine research and exploration. Surrounding the workspace are towering trees, dense foliage, and glimpses of natural light filtering through the canopy, creating a serene and inspiring atmosphere. The setup includes a few subtle oceanic elements like marine biology books, a seashell, or a small aquarium, tying the rainforest environment back to the ocean theme. The overall vibe should be one of innovation and tranquility, highlighting the idea of gaining ocean insights from unexpected and immersive natural settings",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Create a high-quality image of a sleek, modern workspace set up in the middle of a lush rainforest, offering a unique blend of technology and nature. The workspace features a clean desk with a laptop open, displaying vibrant ocean-related content, emphasizing the connection to marine research and exploration. Surrounding the workspace are towering trees, dense foliage, and glimpses of natural light filtering through the canopy, creating a serene and inspiring atmosphere. The setup includes a few subtle oceanic elements like marine biology books, a seashell, or a small aquarium, tying the rainforest environment back to the ocean theme. The overall vibe should be one of innovation and tranquility, highlighting the idea of gaining ocean insights from unexpected and immersive natural settings",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Create a high-quality image of a sleek, modern workspace set up in the middle of a lush rainforest, offering a unique blend of technology and nature. The workspace features a clean desk with a laptop open, displaying vibrant ocean-related content, emphasizing the connection to marine research and exploration. Surrounding the workspace are towering trees, dense foliage, and glimpses of natural light filtering through the canopy, creating a serene and inspiring atmosphere. The setup includes a few subtle oceanic elements like marine biology books, a seashell, or a small aquarium, tying the rainforest environment back to the ocean theme. The overall vibe should be one of innovation and tranquility, highlighting the idea of gaining ocean insights from unexpected and immersive natural settings",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_close_up_high_014",
+      "concept": "A close up high quality product shot of",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A close-up, high-quality product shot of a bag of\npotato chips with modern package, displaying\ngolden, crispy, ridged chips inside. Elegant,\nminimalistic label design with bold, stylish\ntypography. Soft, dramatic lighting with a warm\nglow to highlight the chips' texture and color.\nSubtle, blurred background with hints of outdoor\nscenery, but focused on the product to give it a\nluxurious, enticing appeal. High contrast and sharp\ndetail for a premium, eye-catching look.",
+        "date_added": "2026-05-21T07:01:13.086627",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 14
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A close-up, high-quality product shot of a bag of potato chips with modern package, displaying golden, crispy, ridged chips inside. Elegant, minimalistic label design with bold, stylish typography. Soft, dramatic lighting with a warm glow to highlight the chips' texture and color. Subtle, blurred background with hints of outdoor scenery, but focused on the product to give it a luxurious, enticing appeal. High contrast and sharp detail for a premium, eye-catching look",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A close-up, high-quality product shot of a bag of potato chips with modern package, displaying golden, crispy, ridged chips inside. Elegant, minimalistic label design with bold, stylish typography. Soft, dramatic lighting with a warm glow to highlight the chips' texture and color. Subtle, blurred background with hints of outdoor scenery, but focused on the product to give it a luxurious, enticing appeal. High contrast and sharp detail for a premium, eye-catching look",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A close-up, high-quality product shot of a bag of potato chips with modern package, displaying golden, crispy, ridged chips inside. Elegant, minimalistic label design with bold, stylish typography. Soft, dramatic lighting with a warm glow to highlight the chips' texture and color. Subtle, blurred background with hints of outdoor scenery, but focused on the product to give it a luxurious, enticing appeal. High contrast and sharp detail for a premium, eye-catching look",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "design_an_eye_catching_015",
+      "concept": "Design an eye catching and futuristic advertisement for",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "Design an eye-catching and futuristic\nadvertisement for a book designed specifically for\nmobile devices. Picture a sleek smartphone, with\nvivid, high-definition images of ocean and fish\nschool bursting out of the screen in a dynamic 3D\neffect. The visuals should create the impression\nthat the content is leaping off the device, offering\nan immersive and interactive experience. Use a\nfresh, turquoise color palette with clean, modern\ntypography: out-of-the-box concept.",
+        "date_added": "2026-05-21T07:01:13.086807",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 15
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Design an eye-catching and futuristic advertisement for a book designed specifically for mobile devices. Picture a sleek smartphone, with vivid, high-definition images of ocean and fish school bursting out of the screen in a dynamic 3D effect. The visuals should create the impression that the content is leaping off the device, offering an immersive and interactive experience. Use a fresh, turquoise color palette with clean, modern typography: out-of-the-box concept",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Design an eye-catching and futuristic advertisement for a book designed specifically for mobile devices. Picture a sleek smartphone, with vivid, high-definition images of ocean and fish school bursting out of the screen in a dynamic 3D effect. The visuals should create the impression that the content is leaping off the device, offering an immersive and interactive experience. Use a fresh, turquoise color palette with clean, modern typography: out-of-the-box concept",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Design an eye-catching and futuristic advertisement for a book designed specifically for mobile devices. Picture a sleek smartphone, with vivid, high-definition images of ocean and fish school bursting out of the screen in a dynamic 3D effect. The visuals should create the impression that the content is leaping off the device, offering an immersive and interactive experience. Use a fresh, turquoise color palette with clean, modern typography: out-of-the-box concept",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ultra_realistic_side_view_016",
+      "concept": "Ultra realistic side view photograph of an old",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "Ultra-realistic side-view photograph of an old man\nblowing a pink bubblegum bubble, which forms a\nwhimsical octopus shape. The scene is quirky and\nvibrant, inspired by Wes Anderson's signature\nstyle, with a perfectly symmetrical composition and\nplayful, retro details. The bubblegum octopus has\nsmooth, cartoon-like tentacles extending outward.\nThe old man has a joyful, mischievous expression,\nwith bright, pastel colors in the background. The\nlighting is warm and soft, giving the image an\nenergetic, cinematic, and polished ad-style look.\nThe overall mood is quirky, energetic, and full of\nwhimsical charm.",
+        "date_added": "2026-05-21T07:01:13.086970",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 16
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Ultra-realistic side-view photograph of an old man blowing a pink bubblegum bubble, which forms a whimsical octopus shape. The scene is quirky and vibrant, inspired by Wes Anderson's signature style, with a perfectly symmetrical composition and playful, retro details. The bubblegum octopus has smooth, cartoon-like tentacles extending outward. The old man has a joyful, mischievous expression, with bright, pastel colors in the background. The lighting is warm and soft, giving the image an energetic, cinematic, and polished ad-style look. The overall mood is quirky, energetic, and full of whimsical charm",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Ultra-realistic side-view photograph of an old man blowing a pink bubblegum bubble, which forms a whimsical octopus shape. The scene is quirky and vibrant, inspired by Wes Anderson's signature style, with a perfectly symmetrical composition and playful, retro details. The bubblegum octopus has smooth, cartoon-like tentacles extending outward. The old man has a joyful, mischievous expression, with bright, pastel colors in the background. The lighting is warm and soft, giving the image an energetic, cinematic, and polished ad-style look. The overall mood is quirky, energetic, and full of whimsical charm",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Ultra-realistic side-view photograph of an old man blowing a pink bubblegum bubble, which forms a whimsical octopus shape. The scene is quirky and vibrant, inspired by Wes Anderson's signature style, with a perfectly symmetrical composition and playful, retro details. The bubblegum octopus has smooth, cartoon-like tentacles extending outward. The old man has a joyful, mischievous expression, with bright, pastel colors in the background. The lighting is warm and soft, giving the image an energetic, cinematic, and polished ad-style look. The overall mood is quirky, energetic, and full of whimsical charm",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_young_woman_with_017",
+      "concept": "A young woman with tattoos dressed casually and",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A young woman with tattoos, dressed casually\nand smiling confidently, standing on an old\nwooden sailboat with turquoise accents. Warm,\ngolden sunlight illuminates her face and hair,\ncreating a relaxed, inviting atmosphere. The\nphoto is highly detailed and realistic, capturing\na sense of adventure and authenticity. The\nsetting showcases the character of the aged\nwooden boat with ropes, sails, and subtle\nturquoise details in the background, enhancing\nthe maritime vibe.",
+        "date_added": "2026-05-21T07:01:13.087164",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 17
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A young woman with tattoos, dressed casually and smiling confidently, standing on an old wooden sailboat with turquoise accents. Warm, golden sunlight illuminates her face and hair, creating a relaxed, inviting atmosphere. The photo is highly detailed and realistic, capturing a sense of adventure and authenticity. The setting showcases the character of the aged wooden boat with ropes, sails, and subtle turquoise details in the background, enhancing the maritime vibe",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A young woman with tattoos, dressed casually and smiling confidently, standing on an old wooden sailboat with turquoise accents. Warm, golden sunlight illuminates her face and hair, creating a relaxed, inviting atmosphere. The photo is highly detailed and realistic, capturing a sense of adventure and authenticity. The setting showcases the character of the aged wooden boat with ropes, sails, and subtle turquoise details in the background, enhancing the maritime vibe",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A young woman with tattoos, dressed casually and smiling confidently, standing on an old wooden sailboat with turquoise accents. Warm, golden sunlight illuminates her face and hair, creating a relaxed, inviting atmosphere. The photo is highly detailed and realistic, capturing a sense of adventure and authenticity. The setting showcases the character of the aged wooden boat with ropes, sails, and subtle turquoise details in the background, enhancing the maritime vibe",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_young_woman_working_018",
+      "concept": "A young woman working on the deck of",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A young woman working on the deck of a\nmodern fishing vessel, dressed in bright orange\nprofessional fishing gear. She has a joyful, natural\nsmile, standing confidently, vibrant lighting that\nhighlights her and the surrounding equipment.\nPhotorealistic, high-detail shot with realistic\ntextures on her gear and the fishing net,\ncapturing the energy. The setting reflects a\nmodern fishing environment, with elements of\nthe boat deck and ocean in the background",
+        "date_added": "2026-05-21T07:01:13.087318",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 18
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A young woman working on the deck of a modern fishing vessel, dressed in bright orange professional fishing gear. She has a joyful, natural smile, standing confidently, vibrant lighting that highlights her and the surrounding equipment. Photorealistic, high-detail shot with realistic textures on her gear and the fishing net, capturing the energy. The setting reflects a modern fishing environment, with elements of the boat deck and ocean in the background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A young woman working on the deck of a modern fishing vessel, dressed in bright orange professional fishing gear. She has a joyful, natural smile, standing confidently, vibrant lighting that highlights her and the surrounding equipment. Photorealistic, high-detail shot with realistic textures on her gear and the fishing net, capturing the energy. The setting reflects a modern fishing environment, with elements of the boat deck and ocean in the background",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A young woman working on the deck of a modern fishing vessel, dressed in bright orange professional fishing gear. She has a joyful, natural smile, standing confidently, vibrant lighting that highlights her and the surrounding equipment. Photorealistic, high-detail shot with realistic textures on her gear and the fishing net, capturing the energy. The setting reflects a modern fishing environment, with elements of the boat deck and ocean in the background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_high_quality_cozy_019",
+      "concept": "A high quality cozy gourmet magazine style image",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A high-quality, cozy gourmet magazine-style\nimage of a warm cup of golden turmeric milk,\nset in a beautifully rustic Indian street caf\u00e9.\nThe cup is placed on a weathered wooden\ntable with a backdrop of vibrant market stalls\nand spice bags filled with turmeric, cinnamon,\nand cardamom. There are small brass cups\nand traditional Indian textiles in rich colors like\ndeep reds and golds, draped around the\nscene. Warm sunlight filters through, casting\nsoft shadows and highlighting the rich golden\nhue of the drink. The scene evokes a blend of\ntravel and food, transporting the viewer to a\npeaceful corner of India, where tradition\nmeets flavor.",
+        "date_added": "2026-05-21T07:01:13.087471",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 19
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A high-quality, cozy gourmet magazine-style image of a warm cup of golden turmeric milk, set in a beautifully rustic Indian street caf\u00e9. The cup is placed on a weathered wooden table with a backdrop of vibrant market stalls and spice bags filled with turmeric, cinnamon, and cardamom. There are small brass cups and traditional Indian textiles in rich colors like deep reds and golds, draped around the scene. Warm sunlight filters through, casting soft shadows and highlighting the rich golden hue of the drink. The scene evokes a blend of travel and food, transporting the viewer to a peaceful corner of India, where tradition meets flavor",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A high-quality, cozy gourmet magazine-style image of a warm cup of golden turmeric milk, set in a beautifully rustic Indian street caf\u00e9. The cup is placed on a weathered wooden table with a backdrop of vibrant market stalls and spice bags filled with turmeric, cinnamon, and cardamom. There are small brass cups and traditional Indian textiles in rich colors like deep reds and golds, draped around the scene. Warm sunlight filters through, casting soft shadows and highlighting the rich golden hue of the drink. The scene evokes a blend of travel and food, transporting the viewer to a peaceful corner of India, where tradition meets flavor",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A high-quality, cozy gourmet magazine-style image of a warm cup of golden turmeric milk, set in a beautifully rustic Indian street caf\u00e9. The cup is placed on a weathered wooden table with a backdrop of vibrant market stalls and spice bags filled with turmeric, cinnamon, and cardamom. There are small brass cups and traditional Indian textiles in rich colors like deep reds and golds, draped around the scene. Warm sunlight filters through, casting soft shadows and highlighting the rich golden hue of the drink. The scene evokes a blend of travel and food, transporting the viewer to a peaceful corner of India, where tradition meets flavor",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_close_up_high_020",
+      "concept": "A close up high quality photo of a",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A close-up, high-quality photo of a freshly\nbrewed espresso served in a small glass, with\nrich crema on top and steam rising elegantly.\nWarm, moody lighting with soft bokeh in the\nbackground, creating a cozy and inviting\nambiance. The espresso sits on a dark wooden\nsurface with scattered coffee grounds around\nthe base, illuminated by golden highlights that\nemphasize the warmth and depth of the scene.\nRealistic texture and detail on the glass and\nespresso, capturing the essence of a coffee\nshop atmosphere.",
+        "date_added": "2026-05-21T07:01:13.087682",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 20
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A close-up, high-quality photo of a freshly brewed espresso served in a small glass, with rich crema on top and steam rising elegantly. Warm, moody lighting with soft bokeh in the background, creating a cozy and inviting ambiance. The espresso sits on a dark wooden surface with scattered coffee grounds around the base, illuminated by golden highlights that emphasize the warmth and depth of the scene. Realistic texture and detail on the glass and espresso, capturing the essence of a coffee shop atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A close-up, high-quality photo of a freshly brewed espresso served in a small glass, with rich crema on top and steam rising elegantly. Warm, moody lighting with soft bokeh in the background, creating a cozy and inviting ambiance. The espresso sits on a dark wooden surface with scattered coffee grounds around the base, illuminated by golden highlights that emphasize the warmth and depth of the scene. Realistic texture and detail on the glass and espresso, capturing the essence of a coffee shop atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A close-up, high-quality photo of a freshly brewed espresso served in a small glass, with rich crema on top and steam rising elegantly. Warm, moody lighting with soft bokeh in the background, creating a cozy and inviting ambiance. The espresso sits on a dark wooden surface with scattered coffee grounds around the base, illuminated by golden highlights that emphasize the warmth and depth of the scene. Realistic texture and detail on the glass and espresso, capturing the essence of a coffee shop atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_close_up_high_021",
+      "concept": "A close up high quality photo of a",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A close-up, high-quality photo of a bowl of fresh\nblue mussels paired with golden, crispy potato\nchips. The mussels are open, revealing tender\norange flesh, with subtle sprinkles of herbs and\nseasoning. The potato chips are lightly salted and\ncrisp, providing contrast in color and texture. The\nbowl is ceramic with a rustic, speckled design, set\non a dark background to emphasize the rich\ncolors and details. Warm, natural lighting\nhighlights the textures, creating a mouthwatering\nand authentic presentation.",
+        "date_added": "2026-05-21T07:01:13.087871",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 21
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A close-up, high-quality photo of a bowl of fresh blue mussels paired with golden, crispy potato chips. The mussels are open, revealing tender orange flesh, with subtle sprinkles of herbs and seasoning. The potato chips are lightly salted and crisp, providing contrast in color and texture. The bowl is ceramic with a rustic, speckled design, set on a dark background to emphasize the rich colors and details. Warm, natural lighting highlights the textures, creating a mouthwatering and authentic presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A close-up, high-quality photo of a bowl of fresh blue mussels paired with golden, crispy potato chips. The mussels are open, revealing tender orange flesh, with subtle sprinkles of herbs and seasoning. The potato chips are lightly salted and crisp, providing contrast in color and texture. The bowl is ceramic with a rustic, speckled design, set on a dark background to emphasize the rich colors and details. Warm, natural lighting highlights the textures, creating a mouthwatering and authentic presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A close-up, high-quality photo of a bowl of fresh blue mussels paired with golden, crispy potato chips. The mussels are open, revealing tender orange flesh, with subtle sprinkles of herbs and seasoning. The potato chips are lightly salted and crisp, providing contrast in color and texture. The bowl is ceramic with a rustic, speckled design, set on a dark background to emphasize the rich colors and details. Warm, natural lighting highlights the textures, creating a mouthwatering and authentic presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_close_up_of_022",
+      "concept": "A close up of artisanal chocolate popsicles inspired",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A close-up of artisanal chocolate popsicles\ninspired by ocean animals, each on a white\nstick and decorated with intricate designs.\nThe popsicles showcase various textures\nand colors, with details like octopus\ntentacles, seashells, and coral-inspired\npatterns. Smooth, glossy chocolate with\ndrizzle and unique shapes, in shades of dark,\nmilk, white, and colored chocolate. Set\nagainst a dark background to highlight the\nvibrant designs and textures, capturing an\nelegant and whimsical presentation",
+        "date_added": "2026-05-21T07:01:13.088040",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 22
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A close-up of artisanal chocolate popsicles inspired by ocean animals, each on a white stick and decorated with intricate designs. The popsicles showcase various textures and colors, with details like octopus tentacles, seashells, and coral-inspired patterns. Smooth, glossy chocolate with drizzle and unique shapes, in shades of dark, milk, white, and colored chocolate. Set against a dark background to highlight the vibrant designs and textures, capturing an elegant and whimsical presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A close-up of artisanal chocolate popsicles inspired by ocean animals, each on a white stick and decorated with intricate designs. The popsicles showcase various textures and colors, with details like octopus tentacles, seashells, and coral-inspired patterns. Smooth, glossy chocolate with drizzle and unique shapes, in shades of dark, milk, white, and colored chocolate. Set against a dark background to highlight the vibrant designs and textures, capturing an elegant and whimsical presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A close-up of artisanal chocolate popsicles inspired by ocean animals, each on a white stick and decorated with intricate designs. The popsicles showcase various textures and colors, with details like octopus tentacles, seashells, and coral-inspired patterns. Smooth, glossy chocolate with drizzle and unique shapes, in shades of dark, milk, white, and colored chocolate. Set against a dark background to highlight the vibrant designs and textures, capturing an elegant and whimsical presentation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_cozy_fall_coffee_023",
+      "concept": "A cozy fall coffee shop scene in dark",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A cozy fall coffee shop scene in dark mode,\nfeaturing a cappuccino in a clear glass mug with\nfrothy milk and a dusting of cocoa, paired with a\ngolden, flaky pastry topped with creamy icing. The\nsetting exudes warmth with rich wooden tones,\ndim lighting, and glowing hanging lights casting\nsoft reflections on the rustic table. Outside the\nlarge window, the muted colors of autumn leaves\nand a slightly overcast sky create a tranquil\nbackdrop. The caf\u00e9 interior is warmly lit with\nexcellent light details, emphasizing textures and\nshadows, evoking a snug and inviting atmosphere.\nRealistic photography style with cinematic lighting.",
+        "date_added": "2026-05-21T07:01:13.088206",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 23
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A cozy fall coffee shop scene in dark mode, featuring a cappuccino in a clear glass mug with frothy milk and a dusting of cocoa, paired with a golden, flaky pastry topped with creamy icing. The setting exudes warmth with rich wooden tones, dim lighting, and glowing hanging lights casting soft reflections on the rustic table. Outside the large window, the muted colors of autumn leaves and a slightly overcast sky create a tranquil backdrop. The caf\u00e9 interior is warmly lit with excellent light details, emphasizing textures and shadows, evoking a snug and inviting atmosphere. Realistic photography style with cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A cozy fall coffee shop scene in dark mode, featuring a cappuccino in a clear glass mug with frothy milk and a dusting of cocoa, paired with a golden, flaky pastry topped with creamy icing. The setting exudes warmth with rich wooden tones, dim lighting, and glowing hanging lights casting soft reflections on the rustic table. Outside the large window, the muted colors of autumn leaves and a slightly overcast sky create a tranquil backdrop. The caf\u00e9 interior is warmly lit with excellent light details, emphasizing textures and shadows, evoking a snug and inviting atmosphere. Realistic photography style with cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A cozy fall coffee shop scene in dark mode, featuring a cappuccino in a clear glass mug with frothy milk and a dusting of cocoa, paired with a golden, flaky pastry topped with creamy icing. The setting exudes warmth with rich wooden tones, dim lighting, and glowing hanging lights casting soft reflections on the rustic table. Outside the large window, the muted colors of autumn leaves and a slightly overcast sky create a tranquil backdrop. The caf\u00e9 interior is warmly lit with excellent light details, emphasizing textures and shadows, evoking a snug and inviting atmosphere. Realistic photography style with cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_elegant_oyster_shooter_024",
+      "concept": "An elegant oyster shooter setup on a rustic",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "An elegant oyster shooter setup on a rustic\nwooden table, featuring fresh, open oysters.\nA crystal glass filled with golden whiskey or\ncocktail, capturing the reflections of warm,\nambient lighting in the background. A blurred\nwhiskey bottle adds depth to the scene,\ncreating a sophisticated and cozy bar\natmosphere. Close-up shot with intricate\ndetails on the oyster shells and liquid textures,\nrealistic photography style, emphasizing luxury\nand indulgence.",
+        "date_added": "2026-05-21T07:01:13.088430",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 24
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An elegant oyster shooter setup on a rustic wooden table, featuring fresh, open oysters. A crystal glass filled with golden whiskey or cocktail, capturing the reflections of warm, ambient lighting in the background. A blurred whiskey bottle adds depth to the scene, creating a sophisticated and cozy bar atmosphere. Close-up shot with intricate details on the oyster shells and liquid textures, realistic photography style, emphasizing luxury and indulgence",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "An elegant oyster shooter setup on a rustic wooden table, featuring fresh, open oysters. A crystal glass filled with golden whiskey or cocktail, capturing the reflections of warm, ambient lighting in the background. A blurred whiskey bottle adds depth to the scene, creating a sophisticated and cozy bar atmosphere. Close-up shot with intricate details on the oyster shells and liquid textures, realistic photography style, emphasizing luxury and indulgence",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An elegant oyster shooter setup on a rustic wooden table, featuring fresh, open oysters. A crystal glass filled with golden whiskey or cocktail, capturing the reflections of warm, ambient lighting in the background. A blurred whiskey bottle adds depth to the scene, creating a sophisticated and cozy bar atmosphere. Close-up shot with intricate details on the oyster shells and liquid textures, realistic photography style, emphasizing luxury and indulgence",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_hyper_realistic_ad_025",
+      "concept": "A hyper realistic ad style image of a",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A hyper-realistic, ad-style image of a fresh\ntortilla wrap placed on a rustic surface with an\nocean and surf vibe in the background. The\nwrap is vibrant and appetizing, filled with\nseafood, avocado, and spinach. The background\nshows the ocean at dawn with soft, golden\nsunlight reflecting off the water, and palm trees\nin silhouette, creating a relaxed Hawaiian surf\nvibe. The early morning light casts warm tones,\nadding a natural, tropical feel. The image should\nlook like a real photo, with the wrap as the focus\nand the surf scene enhancing the fresh, beachy\natmosphere",
+        "date_added": "2026-05-21T07:01:13.088596",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 25
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A hyper-realistic, ad-style image of a fresh tortilla wrap placed on a rustic surface with an ocean and surf vibe in the background. The wrap is vibrant and appetizing, filled with seafood, avocado, and spinach. The background shows the ocean at dawn with soft, golden sunlight reflecting off the water, and palm trees in silhouette, creating a relaxed Hawaiian surf vibe. The early morning light casts warm tones, adding a natural, tropical feel. The image should look like a real photo, with the wrap as the focus and the surf scene enhancing the fresh, beachy atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A hyper-realistic, ad-style image of a fresh tortilla wrap placed on a rustic surface with an ocean and surf vibe in the background. The wrap is vibrant and appetizing, filled with seafood, avocado, and spinach. The background shows the ocean at dawn with soft, golden sunlight reflecting off the water, and palm trees in silhouette, creating a relaxed Hawaiian surf vibe. The early morning light casts warm tones, adding a natural, tropical feel. The image should look like a real photo, with the wrap as the focus and the surf scene enhancing the fresh, beachy atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A hyper-realistic, ad-style image of a fresh tortilla wrap placed on a rustic surface with an ocean and surf vibe in the background. The wrap is vibrant and appetizing, filled with seafood, avocado, and spinach. The background shows the ocean at dawn with soft, golden sunlight reflecting off the water, and palm trees in silhouette, creating a relaxed Hawaiian surf vibe. The early morning light casts warm tones, adding a natural, tropical feel. The image should look like a real photo, with the wrap as the focus and the surf scene enhancing the fresh, beachy atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "luxury_magazine_cover_shot_026",
+      "concept": "Luxury magazine cover shot featuring close up gingerbread",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "Luxury magazine cover shot featuring close-up\ngingerbread cookies shaped like sea life animals -\nsharks, octopuses, and starfish - with bold black and\ngold frosting. Dramatic, studio-quality lighting from\nmultiple angles, with a strong key light and subtle rim\nlighting to create depth and highlight textures. The\nlighting casts dynamic shadows and brings a golden\nglow to the reflective frosting, adding richness and\ndimension. Dark, softly textured background with a\nfaint spotlight effect centered on the cookies to draw\nfocus. The result is a high-contrast, premium aesthetic\nwith an elegant, festive vibe that feels opulent and\nvisually captivating.",
+        "date_added": "2026-05-21T07:01:13.088807",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 26
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Luxury magazine cover shot featuring close-up gingerbread cookies shaped like sea life animals - sharks, octopuses, and starfish - with bold black and gold frosting. Dramatic, studio-quality lighting from multiple angles, with a strong key light and subtle rim lighting to create depth and highlight textures. The lighting casts dynamic shadows and brings a golden glow to the reflective frosting, adding richness and dimension. Dark, softly textured background with a faint spotlight effect centered on the cookies to draw focus. The result is a high-contrast, premium aesthetic with an elegant, festive vibe that feels opulent and visually captivating",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Luxury magazine cover shot featuring close-up gingerbread cookies shaped like sea life animals - sharks, octopuses, and starfish - with bold black and gold frosting. Dramatic, studio-quality lighting from multiple angles, with a strong key light and subtle rim lighting to create depth and highlight textures. The lighting casts dynamic shadows and brings a golden glow to the reflective frosting, adding richness and dimension. Dark, softly textured background with a faint spotlight effect centered on the cookies to draw focus. The result is a high-contrast, premium aesthetic with an elegant, festive vibe that feels opulent and visually captivating",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Luxury magazine cover shot featuring close-up gingerbread cookies shaped like sea life animals - sharks, octopuses, and starfish - with bold black and gold frosting. Dramatic, studio-quality lighting from multiple angles, with a strong key light and subtle rim lighting to create depth and highlight textures. The lighting casts dynamic shadows and brings a golden glow to the reflective frosting, adding richness and dimension. Dark, softly textured background with a faint spotlight effect centered on the cookies to draw focus. The result is a high-contrast, premium aesthetic with an elegant, festive vibe that feels opulent and visually captivating",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_professional_barista_in_027",
+      "concept": "A professional barista in a dark apron presenting",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A professional barista in a dark apron, presenting a\nsteaming cup of espresso in one hand and a plate\nof artisan bread topped with smoked salmon, fresh\ndill, and avocado spread in the other. The scene is\nwarmly lit with dramatic contrasts, focusing on the\nrich textures of the salmon and the rustic\npresentation of the dish. A cozy, elegant caf\u00e9\nsetting in the background with bokeh lighting,\ncreating an intimate and gourmet atmosphere.\nRealistic photography style, with close-up details\non the food and coffee.",
+        "date_added": "2026-05-21T07:01:13.089019",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 27
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A professional barista in a dark apron, presenting a steaming cup of espresso in one hand and a plate of artisan bread topped with smoked salmon, fresh dill, and avocado spread in the other. The scene is warmly lit with dramatic contrasts, focusing on the rich textures of the salmon and the rustic presentation of the dish. A cozy, elegant caf\u00e9 setting in the background with bokeh lighting, creating an intimate and gourmet atmosphere. Realistic photography style, with close-up details on the food and coffee",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A professional barista in a dark apron, presenting a steaming cup of espresso in one hand and a plate of artisan bread topped with smoked salmon, fresh dill, and avocado spread in the other. The scene is warmly lit with dramatic contrasts, focusing on the rich textures of the salmon and the rustic presentation of the dish. A cozy, elegant caf\u00e9 setting in the background with bokeh lighting, creating an intimate and gourmet atmosphere. Realistic photography style, with close-up details on the food and coffee",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A professional barista in a dark apron, presenting a steaming cup of espresso in one hand and a plate of artisan bread topped with smoked salmon, fresh dill, and avocado spread in the other. The scene is warmly lit with dramatic contrasts, focusing on the rich textures of the salmon and the rustic presentation of the dish. A cozy, elegant caf\u00e9 setting in the background with bokeh lighting, creating an intimate and gourmet atmosphere. Realistic photography style, with close-up details on the food and coffee",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_cozy_high_quality_028",
+      "concept": "A cozy high quality gourmet magazine style image",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "A cozy, high-quality gourmet magazine-style\nimage of a jar of overnight oats with chamomile\nand blueberries, set on a wooden table inside a\nScandinavian cottage. The table is surrounded\nby simple, Nordic design elements - light wood,\nsoft textiles, and natural light streaming in from a\nwindow overlooking a forest. Fresh blueberries\nand chamomile flowers are arranged beside the\njar, with a warm linen napkin folded nearby. The\nscene evokes the simplicity and calm of a Nordic\nmorning",
+        "date_added": "2026-05-21T07:01:13.089206",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 28
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A cozy, high-quality gourmet magazine-style image of a jar of overnight oats with chamomile and blueberries, set on a wooden table inside a Scandinavian cottage. The table is surrounded by simple, Nordic design elements - light wood, soft textiles, and natural light streaming in from a window overlooking a forest. Fresh blueberries and chamomile flowers are arranged beside the jar, with a warm linen napkin folded nearby. The scene evokes the simplicity and calm of a Nordic morning",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A cozy, high-quality gourmet magazine-style image of a jar of overnight oats with chamomile and blueberries, set on a wooden table inside a Scandinavian cottage. The table is surrounded by simple, Nordic design elements - light wood, soft textiles, and natural light streaming in from a window overlooking a forest. Fresh blueberries and chamomile flowers are arranged beside the jar, with a warm linen napkin folded nearby. The scene evokes the simplicity and calm of a Nordic morning",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A cozy, high-quality gourmet magazine-style image of a jar of overnight oats with chamomile and blueberries, set on a wooden table inside a Scandinavian cottage. The table is surrounded by simple, Nordic design elements - light wood, soft textiles, and natural light streaming in from a window overlooking a forest. Fresh blueberries and chamomile flowers are arranged beside the jar, with a warm linen napkin folded nearby. The scene evokes the simplicity and calm of a Nordic morning",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_elegant_modern_living_029",
+      "concept": "An elegant modern living room Dark mode jellyfish",
+      "status": "active",
+      "metadata": {
+        "original_source": "midjourney-book",
+        "original_prompt": "An elegant modern living room. Dark\nmode. jellyfish floating near the ceiling\nlike chandeliers. The design should\nfeel luxurious, futuristic, and surreal,\nresembling a high-end interior design\nmagazine spread.",
+        "date_added": "2026-05-21T07:01:13.089384",
+        "source_file": "midjourney_preprocessed.txt",
+        "source_index": 29
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An elegant modern living room. Dark mode. jellyfish floating near the ceiling like chandeliers. The design should feel luxurious, futuristic, and surreal, resembling a high-end interior design magazine spread",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "An elegant modern living room. Dark mode. jellyfish floating near the ceiling like chandeliers. The design should feel luxurious, futuristic, and surreal, resembling a high-end interior design magazine spread",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An elegant modern living room. Dark mode. jellyfish floating near the ceiling like chandeliers. The design should feel luxurious, futuristic, and surreal, resembling a high-end interior design magazine spread",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

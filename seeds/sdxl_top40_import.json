@@ -1,0 +1,1055 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "sdxl_top40_portrait_of_a_pretty_000",
+      "concept": "portrait of a pretty blonde woman a flower",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "portrait of a pretty blonde woman, a flower crown, earthy makeup, flowing maxi dress with colorful patterns and fringe, a sunset or nature scene, green and gold color scheme",
+        "date_added": "2026-05-21T11:44:20.668289",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 0,
+        "title": "SDXL #1: Warm portrait",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "portrait of a pretty blonde woman, a flower crown, earthy makeup, flowing maxi dress with colorful patterns and fringe, a sunset or nature scene, green and gold color scheme",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_photorealistic_visionary_portrait_of_001",
+      "concept": "photorealistic visionary portrait of a dignified older man",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "photorealistic, visionary portrait of a dignified older man with weather-worn features, digitally enhanced, high contrast, chiaroscuro lighting technique, intimate, close-up, detailed, steady gaze, rendered in sepia tones, evoking rembrandt, timeless, expressive, highly detailed, sharp focus, high resolution",
+        "date_added": "2026-05-21T11:44:20.668504",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 1,
+        "title": "SDXL #2: Old man portrait",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "photorealistic, visionary portrait of a dignified older man with weather-worn features, digitally enhanced, high contrast, chiaroscuro lighting technique, intimate, close-up, detailed, steady gaze, rendered in sepia tones, evoking rembrandt, timeless, expressive, highly detailed, sharp focus, high resolution",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_living_room_bright_002",
+      "concept": "a living room bright modern Scandinavian style house",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a living room, bright modern Scandinavian style house, large windows, magazine photoshoot, 8k, studio lighting",
+        "date_added": "2026-05-21T11:44:20.668629",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 2,
+        "title": "SDXL #3: Interior",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a living room, bright modern Scandinavian style house, large windows, magazine photoshoot, 8k, studio lighting",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_closeup_portrait_photo_of_003",
+      "concept": "closeup portrait photo of beautiful goth woman makeup",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "closeup portrait photo of beautiful goth woman, makeup, 8k uhd, high quality, dramatic, cinematic",
+        "date_added": "2026-05-21T11:44:20.668729",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 3,
+        "title": "SDXL #4: Closeup portrait",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "closeup portrait photo of beautiful goth woman, makeup, 8k uhd, high quality, dramatic, cinematic",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_close_up_photo_of_004",
+      "concept": "close up photo of a rabbit forest in",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "close up photo of a rabbit, forest in spring, haze, halation, bloom, dramatic atmosphere, centred, rule of thirds, 200mm 1.4f macro shot",
+        "date_added": "2026-05-21T11:44:20.668863",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 4,
+        "title": "SDXL #5: Animal photo",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "close up photo of a rabbit, forest in spring, haze, halation, bloom, dramatic atmosphere, centred, rule of thirds, 200mm 1.4f macro shot",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_happy_indian_girl_portrait_005",
+      "concept": "happy indian girl portrait photography beautiful morning sunlight",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "happy indian girl, portrait photography, beautiful, morning sunlight, smooth light, shot on kodak portra 200, film grain, nostalgic mood",
+        "date_added": "2026-05-21T11:44:20.669004",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 5,
+        "title": "SDXL #6: Kodak portrait",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "happy indian girl, portrait photography, beautiful, morning sunlight, smooth light, shot on kodak portra 200, film grain, nostalgic mood",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_breathtaking_shot_of_a_006",
+      "concept": "breathtaking shot of a bag luxury product style",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "breathtaking shot of a bag, luxury product style, elegant, sophisticated, high- end, luxurious, professional, highly detailed",
+        "date_added": "2026-05-21T11:44:20.669163",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 6,
+        "title": "SDXL #7: Luxury product",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "breathtaking shot of a bag, luxury product style, elegant, sophisticated, high- end, luxurious, professional, highly detailed",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_johnny_depp_photo_portrait_007",
+      "concept": "johnny depp photo portrait film noir style monochrome",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "johnny depp photo portrait, film noir style, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
+        "date_added": "2026-05-21T11:44:20.669241",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 7,
+        "title": "SDXL #8: Noir",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "johnny depp photo portrait, film noir style, monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_cat_under_the_008",
+      "concept": "a cat under the snow with blue eyes",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a cat under the snow with blue eyes, covered by snow, cinematic style, medium shot, professional photo, animal",
+        "date_added": "2026-05-21T11:44:20.669324",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 8,
+        "title": "SDXL #9: Animal photo",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a cat under the snow with blue eyes, covered by snow, cinematic style, medium shot, professional photo, animal",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_long_exposure_photo_of_009",
+      "concept": "long exposure photo of tokyo street blurred motion",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "long exposure photo of tokyo street, blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed",
+        "date_added": "2026-05-21T11:44:20.669429",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 9,
+        "title": "SDXL #10: Long exposure",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "long exposure photo of tokyo street, blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_glamorous_digital_magazine_010",
+      "concept": "a glamorous digital magazine photoshoot a fashionable model",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a glamorous digital magazine photoshoot, a fashionable model wearing avant-garde clothing, set in a futuristic cyberpunk roof-top environment, with a neon-lit city background, intricate high fashion details, backlit by vibrant city glow, Vogue fashion photography",
+        "date_added": "2026-05-21T11:44:20.669598",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 10,
+        "title": "SDXL #11: Cyberpunk photoshoot",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a glamorous digital magazine photoshoot, a fashionable model wearing avant-garde clothing, set in a futuristic cyberpunk roof-top environment, with a neon-lit city background, intricate high fashion details, backlit by vibrant city glow, Vogue fashion photography",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_freshly_made_hot_floral_011",
+      "concept": "freshly made hot floral tea in glass kettle",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "freshly made hot floral tea in glass kettle on the table, angled shot, midday warm, Nikon D850 105mm, close-up",
+        "date_added": "2026-05-21T11:44:20.669713",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 11,
+        "title": "SDXL #12: Drink photography",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "freshly made hot floral tea in glass kettle on the table, angled shot, midday warm, Nikon D850 105mm, close-up",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_masterpiece_best_quality_girl_012",
+      "concept": "masterpiece best quality girl collarbone wavy hair looking",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "masterpiece, best quality, girl, collarbone, wavy hair, looking at viewer, blurry foreground, upper body, necklace, contemporary, plain pants, intricate, print, pattern, ponytail, freckles, red hair, dappled sunlight, smile, happy XL models",
+        "date_added": "2026-05-21T11:44:20.669881",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 12,
+        "title": "SDXL #13: Happy portrait",
+        "platform": "Stable Diffusion XL",
+        "category": "Photorealistic"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "masterpiece, best quality, girl, collarbone, wavy hair, looking at viewer, blurry foreground, upper body, necklace, contemporary, plain pants, intricate, print, pattern, ponytail, freckles, red hair, dappled sunlight, smile, happy XL models",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_symbol_of_a_stylized_013",
+      "concept": "symbol of a stylized pink cat head with",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "symbol of a stylized pink cat head with sunglasses, glowing, neon, logo for a game, cyberpunk, vector, dark background with black and blue abstract shadows, cartoon, simple",
+        "date_added": "2026-05-21T11:44:20.670029",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 13,
+        "title": "SDXL #14: Neon symbol",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "symbol of a stylized pink cat head with sunglasses, glowing, neon, logo for a game, cyberpunk, vector, dark background with black and blue abstract shadows, cartoon, simple",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_girl_sitting_in_014",
+      "concept": "a girl sitting in the cafe comic graphic",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a girl sitting in the cafe, comic, graphic illustration, comic art, graphic novel art, vibrant, highly detailed, colored, 2d minimalistic",
+        "date_added": "2026-05-21T11:44:20.670156",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 14,
+        "title": "SDXL #15: Comicbook",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a girl sitting in the cafe, comic, graphic illustration, comic art, graphic novel art, vibrant, highly detailed, colored, 2d minimalistic",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_haunted_house_pixel_art_015",
+      "concept": "haunted house pixel art low res blocky pixel",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "haunted house, pixel-art, low-res, blocky, pixel art style, 8-bit graphics, colorful",
+        "date_added": "2026-05-21T11:44:20.670259",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 15,
+        "title": "SDXL #16: Pixel",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "haunted house, pixel-art, low-res, blocky, pixel art style, 8-bit graphics, colorful",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_batman_cute_modern_disney_016",
+      "concept": "batman cute modern disney style Pixar d portrait",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "batman, cute modern disney style, Pixar 3d portrait, ultra detailed, gorgeous, 3d zbrush, trending on dribbble, 8k render",
+        "date_added": "2026-05-21T11:44:20.670376",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 16,
+        "title": "SDXL #17: Pixar",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "batman, cute modern disney style, Pixar 3d portrait, ultra detailed, gorgeous, 3d zbrush, trending on dribbble, 8k render",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_cinnamon_bun_on_the_017",
+      "concept": "cinnamon bun on the plate watercolor painting detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "cinnamon bun on the plate, watercolor painting, detailed, brush strokes, light palette, light, cozy",
+        "date_added": "2026-05-21T11:44:20.670480",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 17,
+        "title": "SDXL #18: Watercolor",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "cinnamon bun on the plate, watercolor painting, detailed, brush strokes, light palette, light, cozy",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_clipart_style_cute_playful_018",
+      "concept": "clipart style cute playful scene playful dog chasing",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "clipart style, cute, playful scene, playful dog chasing a frisbee, with a bright, happy color palette, simple shapes, and thick, bold lines, hand-drawn digital illustration, highly detailed, perfect for children’s book, colorful, whimsical, Artstation HQ, digital art",
+        "date_added": "2026-05-21T11:44:20.670674",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 18,
+        "title": "SDXL #19: Clipart",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "clipart style, cute, playful scene, playful dog chasing a frisbee, with a bright, happy color palette, simple shapes, and thick, bold lines, hand-drawn digital illustration, highly detailed, perfect for children’s book, colorful, whimsical, Artstation HQ, digital art",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_girl_astronaut_exploring_019",
+      "concept": "a girl astronaut exploring the cosmos floating among",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a girl astronaut exploring the cosmos, floating among planets and stars, high quality detail, , anime screencap, studio ghibli style, illustration, high contrast, masterpiece, best quality",
+        "date_added": "2026-05-21T11:44:20.670812",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 19,
+        "title": "SDXL #20: Anime astronaut",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a girl astronaut exploring the cosmos, floating among planets and stars, high quality detail, , anime screencap, studio ghibli style, illustration, high contrast, masterpiece, best quality",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_autumn_forest_landscape_psychedelic_020",
+      "concept": "autumn forest landscape psychedelic style vibrant colors swirling",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "autumn forest landscape, psychedelic style, vibrant colors, swirling patterns, abstract forms, surreal, trippy, colorful",
+        "date_added": "2026-05-21T11:44:20.670928",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 20,
+        "title": "SDXL #21: Psychedelic",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "autumn forest landscape, psychedelic style, vibrant colors, swirling patterns, abstract forms, surreal, trippy, colorful",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_double_exposure_portrait_of_021",
+      "concept": "double exposure portrait of a beautiful woman with",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "double exposure portrait of a beautiful woman with brown hair and a snowy tree under the bright moonlight by Dave White, Conrad Roset, Brandon Kidwell, Andreas Lie, Dan Mountford, Agnes Cecile, splash art, winter colours, gouache, triadic colours, thick opaque strokes, brocade, depth of field, hyperdetailed, whimsimcal, amazing depth, dynamic, dreamy masterwork",
+        "date_added": "2026-05-21T11:44:20.671199",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 21,
+        "title": "SDXL #22: Double exposure effect",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "double exposure portrait of a beautiful woman with brown hair and a snowy tree under the bright moonlight by Dave White, Conrad Roset, Brandon Kidwell, Andreas Lie, Dan Mountford, Agnes Cecile, splash art, winter colours, gouache, triadic colours, thick opaque strokes, brocade, depth of field, hyperdetailed, whimsimcal, amazing depth, dynamic, dreamy masterwork",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_girl_with_pink_hair_022",
+      "concept": "girl with pink hair vaporwave style retro aesthetic",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "girl with pink hair, vaporwave style, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed",
+        "date_added": "2026-05-21T11:44:20.671418",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 22,
+        "title": "SDXL #23: Vaporwave",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "girl with pink hair, vaporwave style, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_lion_colorful_low_023",
+      "concept": "a lion colorful low poly cyan and orange",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a lion, colorful, low-poly, cyan and orange eyes, poly-hd, 3d, low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition",
+        "date_added": "2026-05-21T11:44:20.671747",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 23,
+        "title": "SDXL #24: Lowpoly",
+        "platform": "Stable Diffusion XL",
+        "category": "Stylized"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a lion, colorful, low-poly, cyan and orange eyes, poly-hd, 3d, low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_flat_vector_illustration_of_024",
+      "concept": "flat vector illustration of a house clear off",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "flat vector illustration of a house, clear off background, minimalistic, clean lines, adobe illustrator",
+        "date_added": "2026-05-21T11:44:20.672039",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 24,
+        "title": "SDXL #25: Flat illustration",
+        "platform": "Stable Diffusion XL",
+        "category": "Design"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "flat vector illustration of a house, clear off background, minimalistic, clean lines, adobe illustrator",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_vibrant_and_dynamic_die_025",
+      "concept": "vibrant and dynamic die cut sticker design portraying",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "vibrant and dynamic die cut sticker design, portraying a wolfs head interlaced with cosmic galaxies, AI, stickers, high contrast, bright neon colors, top-view, high resolution, vector art, detailed stylization, modern graphic art, unique, opaque, weather resistant, UV laminated, white background",
+        "date_added": "2026-05-21T11:44:20.672397",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 25,
+        "title": "SDXL #26: Sticker",
+        "platform": "Stable Diffusion XL",
+        "category": "Design"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "vibrant and dynamic die cut sticker design, portraying a wolfs head interlaced with cosmic galaxies, AI, stickers, high contrast, bright neon colors, top-view, high resolution, vector art, detailed stylization, modern graphic art, unique, opaque, weather resistant, UV laminated, white background",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_sleek_ultra_thin_026",
+      "concept": "a sleek ultra thin high resolution bezel less",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a sleek, ultra-thin, high resolution bezel-less monitor mockup, realistic, modern, detailed, vibrant colors, glossy finish, floating design, lowlight, art by peter mohrbacher and donato giancola, digital illustration, trending on Artstation, high-tech, smooth, minimalist workstation background, crisp reflection on screen, soft lighting",
+        "date_added": "2026-05-21T11:44:20.672692",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 26,
+        "title": "SDXL #27: Product prototype",
+        "platform": "Stable Diffusion XL",
+        "category": "Design"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a sleek, ultra-thin, high resolution bezel-less monitor mockup, realistic, modern, detailed, vibrant colors, glossy finish, floating design, lowlight, art by peter mohrbacher and donato giancola, digital illustration, trending on Artstation, high-tech, smooth, minimalist workstation background, crisp reflection on screen, soft lighting",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_logo_of_mountain_hike_027",
+      "concept": "logo of mountain hike modern colorful rounded d",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "logo of mountain, hike, modern, colorful, rounded, 2d concept, white off background",
+        "date_added": "2026-05-21T11:44:20.672818",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 27,
+        "title": "SDXL #28: Logo",
+        "platform": "Stable Diffusion XL",
+        "category": "Design"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "logo of mountain, hike, modern, colorful, rounded, 2d concept, white off background",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_guitar_d_minimalistic_028",
+      "concept": "a guitar d minimalistic icon flat vector illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a guitar, 2d minimalistic icon, flat vector illustration, digital, smooth shadows, design asset",
+        "date_added": "2026-05-21T11:44:20.672960",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 28,
+        "title": "SDXL #29: Icon",
+        "platform": "Stable Diffusion XL",
+        "category": "Design"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a guitar, 2d minimalistic icon, flat vector illustration, digital, smooth shadows, design asset",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_tattoo_design_a_029",
+      "concept": "a tattoo design a small bird minimalistic black",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a tattoo design, a small bird, minimalistic, black and white drawing, detailed, 8k",
+        "date_added": "2026-05-21T11:44:20.673083",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 29,
+        "title": "SDXL #30: Tattoo design",
+        "platform": "Stable Diffusion XL",
+        "category": "Design"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a tattoo design, a small bird, minimalistic, black and white drawing, detailed, 8k",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_extravagant_high_fashion_show_030",
+      "concept": "extravagant high fashion show concept featuring elaborate costumes",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "extravagant high fashion show concept featuring elaborate costumes with feathered details and sparkling jewels, runway, fashion designer inspiration, style of gaultier and gianni versace, deep vibrant colors, strong directional light sources, catwalk, heavy diffusion of light, highly detailed, top trend in vogue, art by lois van baarle and loish and ross tran and rossdraws, Artstation, front row view, full scene, elegant, glamorous, intricate, sharp focus, haute couture",
+        "date_added": "2026-05-21T11:44:20.673365",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 30,
+        "title": "SDXL #31: Fashion design",
+        "platform": "Stable Diffusion XL",
+        "category": "Design"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "extravagant high fashion show concept featuring elaborate costumes with feathered details and sparkling jewels, runway, fashion designer inspiration, style of gaultier and gianni versace, deep vibrant colors, strong directional light sources, catwalk, heavy diffusion of light, highly detailed, top trend in vogue, art by lois van baarle and loish and ross tran and rossdraws, Artstation, front row view, full scene, elegant, glamorous, intricate, sharp focus, haute couture",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_gradient_background_pastel_colors_031",
+      "concept": "gradient background pastel colors background reference empty smooth",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "gradient background, pastel colors, background reference, empty, smooth transition, horizontal layout, visually pleasing, calming, relaxing",
+        "date_added": "2026-05-21T11:44:20.673515",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 31,
+        "title": "SDXL #32: Gradient",
+        "platform": "Stable Diffusion XL",
+        "category": "Design"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "gradient background, pastel colors, background reference, empty, smooth transition, horizontal layout, visually pleasing, calming, relaxing",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_ethereal_fantasy_concept_art_032",
+      "concept": "ethereal fantasy concept art of an elf magnificent",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "ethereal fantasy concept art of an elf, magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+        "date_added": "2026-05-21T11:44:20.673652",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 32,
+        "title": "SDXL #33: Fantasy elf",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "ethereal fantasy concept art of an elf, magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_abandoned_city_with_ruined_033",
+      "concept": "abandoned city with ruined buildings long deserted streets",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "abandoned city with ruined buildings, long deserted streets, cars aged by time, trees, flowers, scattered leaves, empty street, vibrant colors, lineart",
+        "date_added": "2026-05-21T11:44:20.673788",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 33,
+        "title": "SDXL #34: Post apocalypse",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "abandoned city with ruined buildings, long deserted streets, cars aged by time, trees, flowers, scattered leaves, empty street, vibrant colors, lineart",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_fantasy_illustration_of_034",
+      "concept": "a fantasy illustration of a majestic ancient dragon",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a fantasy illustration of a majestic, ancient dragon with an opalescent scales, amidst glowing enchanted forest, illuminated by magical moonlight, intricate, highly detailed, rich textures, mystical ambiance, digital painting, vivid colors, ethereal, artstation trending, detailed matte background, sharp focus, smooth, majestic, by Todd Lockwood, Donato Giancola, Frank Frazetta, and Brom",
+        "date_added": "2026-05-21T11:44:20.674060",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 34,
+        "title": "SDXL #35: Dragon",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a fantasy illustration of a majestic, ancient dragon with an opalescent scales, amidst glowing enchanted forest, illuminated by magical moonlight, intricate, highly detailed, rich textures, mystical ambiance, digital painting, vivid colors, ethereal, artstation trending, detailed matte background, sharp focus, smooth, majestic, by Todd Lockwood, Donato Giancola, Frank Frazetta, and Brom",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_pianist_playing_somber_music_035",
+      "concept": "pianist playing somber music abstract style non representational",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "pianist playing somber music, abstract style, non-representational, colors and shapes, expression of feelings, imaginative, highly detailed",
+        "date_added": "2026-05-21T11:44:20.674191",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 35,
+        "title": "SDXL #36: Pianist",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "pianist playing somber music, abstract style, non-representational, colors and shapes, expression of feelings, imaginative, highly detailed",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_highly_detailed_full_036",
+      "concept": "a highly detailed full body depiction of a",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a highly detailed, full body depiction of a griffin, showcasing a mix of lion’s body, eagle’s head and wings in a dramatic forest setting under a warm evening sky, smooth, vibrant, digital painting, matte, sharp focus, by artgerm, greg rutkowski and zdislav beksinski, with a hint of magical realism, exquisite detailing, including feathers, fur, and talons, where the griffin is poised to leap into flight, trending on Artstation, saving the image in 4K UHD quality",
+        "date_added": "2026-05-21T11:44:20.674573",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 36,
+        "title": "SDXL #37: Griffon",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a highly detailed, full body depiction of a griffin, showcasing a mix of lion’s body, eagle’s head and wings in a dramatic forest setting under a warm evening sky, smooth, vibrant, digital painting, matte, sharp focus, by artgerm, greg rutkowski and zdislav beksinski, with a hint of magical realism, exquisite detailing, including feathers, fur, and talons, where the griffin is poised to leap into flight, trending on Artstation, saving the image in 4K UHD quality",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_master_jedi_cat_037",
+      "concept": "a master jedi cat in star wars holding",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a master jedi cat in star wars holding a lightsaber, wearing a jedi cloak hood, dramatic, cinematic lighting",
+        "date_added": "2026-05-21T11:44:20.674677",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 37,
+        "title": "SDXL #38: Jedi cat",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a master jedi cat in star wars holding a lightsaber, wearing a jedi cloak hood, dramatic, cinematic lighting",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_uplifting_wellness_inspired_illustration_038",
+      "concept": "uplifting wellness inspired illustration showing a serene yoga",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "uplifting wellness-inspired illustration showing a serene yoga session at sunrise on a misty mountain peak, warm color palette, tranquil, soft focus, smooth gradients, digital painting, highly detailed, calming, positive energy flow, nature elements, mindfulness theme, art by Leonid Afremov, DeviantArt",
+        "date_added": "2026-05-21T11:44:20.674855",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 38,
+        "title": "SDXL #39: Wellness and calm",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "uplifting wellness-inspired illustration showing a serene yoga session at sunrise on a misty mountain peak, warm color palette, tranquil, soft focus, smooth gradients, digital painting, highly detailed, calming, positive energy flow, nature elements, mindfulness theme, art by Leonid Afremov, DeviantArt",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_a_frozen_cosmic_rose_039",
+      "concept": "a frozen cosmic rose the petals glitter with",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "a frozen cosmic rose, the petals glitter with a crystalline shimmer, swirling nebulas, 8k unreal engine photorealism, ethereal lighting, red, nighttime, darkness, surreal art",
+        "date_added": "2026-05-21T11:44:20.675010",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 39,
+        "title": "SDXL #40: Frozen rose",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "a frozen cosmic rose, the petals glitter with a crystalline shimmer, swirling nebulas, 8k unreal engine photorealism, ethereal lighting, red, nighttime, darkness, surreal art",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_full_body_cat_dressed_040",
+      "concept": "full body cat dressed as a Viking with",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "full body, cat dressed as a Viking, with weapon in his paws, battle coloring, glow hyper-detail, hyper-realism, cinematic",
+        "date_added": "2026-05-21T11:44:20.675120",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 40,
+        "title": "SDXL #41: RPG character",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "full body, cat dressed as a Viking, with weapon in his paws, battle coloring, glow hyper-detail, hyper-realism, cinematic",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "sdxl_top40_adorable_concept_illustration_of_041",
+      "concept": "adorable concept illustration of a plush animal peacefully",
+      "status": "active",
+      "metadata": {
+        "original_source": "medium.com - Top 40 useful prompts for Stable Diffusion XL",
+        "original_prompt": "adorable concept illustration of a plush animal peacefully sitting on a child’s bed, soft lighting, gentle texture, dreamy atmosphere, pastel tones, matte finish, wide shot, by Yuko Shimizu, by Marc Brunet, by Joshua Middleton, children illustration, highly detailed, trending on artstation, fluffy, smooth, digital art, sharp focus Phygital+ interface you can use these top AI models and neural networks in one workspace. pipelines with use cases",
+        "date_added": "2026-05-21T11:44:20.675378",
+        "source_file": "sdxl_top40_prompts.txt",
+        "source_index": 41,
+        "title": "SDXL #42: Plush toy",
+        "platform": "Stable Diffusion XL",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "adorable concept illustration of a plush animal peacefully sitting on a child’s bed, soft lighting, gentle texture, dreamy atmosphere, pastel tones, matte finish, wide shot, by Yuko Shimizu, by Marc Brunet, by Joshua Middleton, children illustration, highly detailed, trending on artstation, fluffy, smooth, digital art, sharp focus Phygital+ interface you can use these top AI models and neural networks in one workspace. pipelines with use cases",
+          "negative_template": ""
+        }
+      ]
+    }
+  ]
+}

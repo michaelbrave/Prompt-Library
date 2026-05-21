@@ -1,0 +1,1280 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "ai_handbook_a_sprawling_cyberpunk_city_000",
+      "concept": "A sprawling cyberpunk city illuminated by neon lights",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A sprawling cyberpunk city illuminated by neon lights, flying cars zooming through the sky, massive digital billboards displaying futuristic advertisements, rain-soaked streets reflecting vibrant colors, dark sci-fi atmosphere, ultra-detailed, 8K cinematic lighting --ar 16:9",
+        "date_added": "2026-05-21T09:07:33.684434",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 0,
+        "title": "Ideogram Fantasy #1: Cyberpunk City at Night (Wide: 1792x1024)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A sprawling cyberpunk city illuminated by neon lights, flying cars zooming through the sky, massive digital billboards displaying futuristic advertisements, rain-soaked streets reflecting vibrant colors, dark sci-fi atmosphere, ultra-detailed, 8K cinematic lighting --ar 16:9",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_an_exotic_alien_jungle_001",
+      "concept": "An exotic alien jungle at twilight glowing bioluminescent",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "An exotic alien jungle at twilight, glowing bioluminescent plants casting an eerie blue light, towering twisted trees, mysterious floating creatures in the mist, deep and immersive science fiction environment, 8K ultra-detailed photorealism --ar 1:1",
+        "date_added": "2026-05-21T09:07:33.684564",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 1,
+        "title": "Ideogram Fantasy #2: Alien Jungle with Bioluminescent Plants (Square: 1024x1024)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An exotic alien jungle at twilight, glowing bioluminescent plants casting an eerie blue light, towering twisted trees, mysterious floating creatures in the mist, deep and immersive science fiction environment, 8K ultra-detailed photorealism --ar 1:1",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_cosmic_wizard_standing_002",
+      "concept": "A cosmic wizard standing atop a floating island",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A cosmic wizard standing atop a floating island in deep space, summoning an interdimensional portal with swirling galaxies inside, celestial energy crackling around him, majestic long robes, glowing staff, ultra-detailed magical realism, 8K fantasy art --ar 9:16",
+        "date_added": "2026-05-21T09:07:33.684674",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 2,
+        "title": "Ideogram Fantasy #3: Cosmic Wizard Summoning a Portal (Portrait: 1024x1792)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A cosmic wizard standing atop a floating island in deep space, summoning an interdimensional portal with swirling galaxies inside, celestial energy crackling around him, majestic long robes, glowing staff, ultra-detailed magical realism, 8K fantasy art --ar 9:16",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_high_intensity_battle_003",
+      "concept": "A high intensity battle between a massive fire",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A high-intensity battle between a massive fire-breathing dragon and an advanced spaceship, set against the backdrop of a dying star exploding in supernova, energy blasts and flames colliding, epic science fantasy fusion, 8K ultra-detailed, cinematic lighting --ar 16:9",
+        "date_added": "2026-05-21T09:07:33.684794",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 3,
+        "title": "Ideogram Fantasy #4: Dragon vs. Spaceship Battle Over a Dying Star (Wide: 1792x1024)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A high-intensity battle between a massive fire-breathing dragon and an advanced spaceship, set against the backdrop of a dying star exploding in supernova, energy blasts and flames colliding, epic science fantasy fusion, 8K ultra-detailed, cinematic lighting --ar 16:9",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_colossal_steampunk_airship_004",
+      "concept": "A colossal steampunk airship hovering over a floating",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A colossal steampunk airship hovering over a floating city in the clouds, intricate brass gears and glowing blue energy engines, Victorian-style architecture suspended on floating rock islands, golden sunset lighting, ultra-detailed, 8K fantasy steampunk world --ar 1:1",
+        "date_added": "2026-05-21T09:07:33.684888",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 4,
+        "title": "Ideogram Fantasy #5: Steampunk Airship Over a Floating City (Square: 1024x1024)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A colossal steampunk airship hovering over a floating city in the clouds, intricate brass gears and glowing blue energy engines, Victorian-style architecture suspended on floating rock islands, golden sunset lighting, ultra-detailed, 8K fantasy steampunk world --ar 1:1",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_powerful_galactic_warlord_005",
+      "concept": "A powerful galactic warlord in futuristic black armor",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A powerful galactic warlord in futuristic black armor, standing on a command deck overlooking a fleet of battleships, massive holographic star map floating in front of him, deep space battles unfolding in the distance, 8K cinematic science fiction, ultra-detailed --ar 16:9",
+        "date_added": "2026-05-21T09:07:33.684992",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 5,
+        "title": "Ideogram Fantasy #6: Galactic Warlord Overlooking His Empire (Wide: 1792x1024)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A powerful galactic warlord in futuristic black armor, standing on a command deck overlooking a fleet of battleships, massive holographic star map floating in front of him, deep space battles unfolding in the distance, 8K cinematic science fiction, ultra-detailed --ar 16:9",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_massive_ancient_ruins_of_006",
+      "concept": "Massive ancient ruins of a lost alien civilization",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "Massive ancient ruins of a lost alien civilization, monolithic stone structures covered in glowing alien symbols, towering obelisks emitting soft ethereal light, abandoned futuristic technology overgrown with alien flora, misty atmosphere, 8K ultra-detailed, cinematic lighting --ar 9:16",
+        "date_added": "2026-05-21T09:07:33.685085",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 6,
+        "title": "Ideogram Fantasy #7: Ancient Ruins of a Lost Alien Civilization (Portrait: 1024x1792)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Massive ancient ruins of a lost alien civilization, monolithic stone structures covered in glowing alien symbols, towering obelisks emitting soft ethereal light, abandoned futuristic technology overgrown with alien flora, misty atmosphere, 8K ultra-detailed, cinematic lighting --ar 9:16",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_an_epic_battle_between_007",
+      "concept": "An epic battle between a cybernetic knight in",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "An epic battle between a cybernetic knight in futuristic armor wielding an energy sword and a colossal molten lava titan, intense battlefield with rivers of lava, crumbling ancient ruins, fiery explosions lighting up the sky, ultra-detailed 8K fantasy-science fiction hybrid --ar 16:9",
+        "date_added": "2026-05-21T09:07:33.685181",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 7,
+        "title": "Ideogram Fantasy #8: Battle Between a Cybernetic Knight and a Lava Titan (Wide: 1792x1024)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An epic battle between a cybernetic knight in futuristic armor wielding an energy sword and a colossal molten lava titan, intense battlefield with rivers of lava, crumbling ancient ruins, fiery explosions lighting up the sky, ultra-detailed 8K fantasy-science fiction hybrid --ar 16:9",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_mystical_sorceress_with_008",
+      "concept": "A mystical sorceress with flowing silver hair standing",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A mystical sorceress with flowing silver hair, standing in a dark nebula, summoning cosmic energy in her hands, swirling galaxies and celestial magic forming around her, golden glowing eyes, radiant magical aura, hyper-detailed 8K fantasy art --ar 1:1",
+        "date_added": "2026-05-21T09:07:33.685274",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 8,
+        "title": "Ideogram Fantasy #9: A Mystical Sorceress Channeling Cosmic Energy (Square: 1024x1024)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A mystical sorceress with flowing silver hair, standing in a dark nebula, summoning cosmic energy in her hands, swirling galaxies and celestial magic forming around her, golden glowing eyes, radiant magical aura, hyper-detailed 8K fantasy art --ar 1:1",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_lone_explorer_in_009",
+      "concept": "A lone explorer in an advanced exosuit walking",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A lone explorer in an advanced exosuit walking through a massive ice cave on an alien planet, glowing blue crystals embedded in the walls, a mysterious ancient artifact pulsing with energy, frozen alien structures in the distance, ultra-detailed 8K cinematic sci-fi adventure --ar 9:16",
+        "date_added": "2026-05-21T09:07:33.685373",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 9,
+        "title": "Ideogram Fantasy #10: An Explorer in an Ice Cave on an Alien Planet (Portrait: 1024x1792)",
+        "platform": "Ideogram",
+        "category": "Fantasy/Sci-Fi"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A lone explorer in an advanced exosuit walking through a massive ice cave on an alien planet, glowing blue crystals embedded in the walls, a mysterious ancient artifact pulsing with energy, frozen alien structures in the distance, ultra-detailed 8K cinematic sci-fi adventure --ar 9:16",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_sleek_modern_technology_010",
+      "concept": "A sleek modern technology company logo with a",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A sleek, modern technology company logo with a futuristic blue and silver color scheme, clean lines, abstract circuit design, professional and minimalist branding, high-resolution 8K vector-style artwork, designed for digital and print use --ar 1:1",
+        "date_added": "2026-05-21T09:07:33.685461",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 10,
+        "title": "Ideogram Sales #1: Minimalist Tech Company Logo (Square: 1024x1024)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A sleek, modern technology company logo with a futuristic blue and silver color scheme, clean lines, abstract circuit design, professional and minimalist branding, high-resolution 8K vector-style artwork, designed for digital and print use --ar 1:1",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_professional_office_meeting_011",
+      "concept": "A professional office meeting scene with two business",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A professional office meeting scene with two business professionals discussing strategy over a laptop, modern glass-wall office with city skyline view, warm natural lighting, business casual attire, ultra-realistic 8K corporate setting --ar 16:9",
+        "date_added": "2026-05-21T09:07:33.685542",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 11,
+        "title": "Ideogram Sales #2: Corporate Office Meeting with Two Professionals (Wide: 1792x1024)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A professional office meeting scene with two business professionals discussing strategy over a laptop, modern glass-wall office with city skyline view, warm natural lighting, business casual attire, ultra-realistic 8K corporate setting --ar 16:9",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_professional_ceo_headshot_012",
+      "concept": "A professional CEO headshot of a confident middle",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A professional CEO headshot of a confident middle-aged executive in a tailored navy blue suit, soft-focus corporate background, subtle cinematic lighting on the face, high-resolution 8K photography, ultra-detailed and realistic --ar 9:16",
+        "date_added": "2026-05-21T09:07:33.685621",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 12,
+        "title": "Ideogram Sales #3: CEO Headshot with Dramatic Lighting (Portrait: 1024x1792)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A professional CEO headshot of a confident middle-aged executive in a tailored navy blue suit, soft-focus corporate background, subtle cinematic lighting on the face, high-resolution 8K photography, ultra-detailed and realistic --ar 9:16",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_dynamic_creative_agency_013",
+      "concept": "A dynamic creative agency meeting with three diverse",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A dynamic creative agency meeting with three diverse professionals brainstorming ideas on a glass whiteboard, vibrant and modern workspace, coffee cups and laptops on the table, warm and energetic atmosphere, ultra-detailed 8K business setting --ar 16:9",
+        "date_added": "2026-05-21T09:07:33.685703",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 13,
+        "title": "Ideogram Sales #4: Creative Agency Brainstorming Session (Wide: 1792x1024)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A dynamic creative agency meeting with three diverse professionals brainstorming ideas on a glass whiteboard, vibrant and modern workspace, coffee cups and laptops on the table, warm and energetic atmosphere, ultra-detailed 8K business setting --ar 16:9",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_sophisticated_and_stylish_014",
+      "concept": "A sophisticated and stylish fashion brand logo with",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A sophisticated and stylish fashion brand logo with a golden cursive monogram, elegant minimalist design, luxury aesthetics, high-end typography, ultra-detailed 8K vector art, perfect for branding and print --ar 1:1",
+        "date_added": "2026-05-21T09:07:33.685803",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 14,
+        "title": "Ideogram Sales #5: Elegant Fashion Brand Logo (Square: 1024x1024)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A sophisticated and stylish fashion brand logo with a golden cursive monogram, elegant minimalist design, luxury aesthetics, high-end typography, ultra-detailed 8K vector art, perfect for branding and print --ar 1:1",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_minimalist_and_modern_015",
+      "concept": "A minimalist and modern office desk setup with",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A minimalist and modern office desk setup with an open laptop, a steaming coffee cup, a sleek smartphone, and a notepad, warm natural morning light coming through the window, soft-focus background, ultra-detailed 8K productivity workspace --ar 16:9",
+        "date_added": "2026-05-21T09:07:33.685887",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 15,
+        "title": "Ideogram Sales #6: Office Desk Setup with Laptop and Coffee (Wide: 1792x1024)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A minimalist and modern office desk setup with an open laptop, a steaming coffee cup, a sleek smartphone, and a notepad, warm natural morning light coming through the window, soft-focus background, ultra-detailed 8K productivity workspace --ar 16:9",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_highly_professional_and_016",
+      "concept": "A highly professional and polished LinkedIn profile headshot",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A highly professional and polished LinkedIn profile headshot of a young entrepreneur, smiling confidently, wearing a smart business suit, blurred modern office background, soft and even lighting, ultra-detailed 8K photography, realistic and engaging --ar 9:16",
+        "date_added": "2026-05-21T09:07:33.685971",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 16,
+        "title": "Ideogram Sales #7: Professional LinkedIn Headshot for Business Profile (Portrait: 1024x1792)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A highly professional and polished LinkedIn profile headshot of a young entrepreneur, smiling confidently, wearing a smart business suit, blurred modern office background, soft and even lighting, ultra-detailed 8K photography, realistic and engaging --ar 9:16",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_vibrant_startup_team_017",
+      "concept": "A vibrant startup team collaboration scene in a",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A vibrant startup team collaboration scene in a modern coworking space, two men and one woman brainstorming on a project, laptop and notes on the table, casual but professional attire, engaging teamwork dynamic, ultra-detailed 8K corporate realism --ar 16:9",
+        "date_added": "2026-05-21T09:07:33.686066",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 17,
+        "title": "Ideogram Sales #8: Startup Team Collaboration in a Modern Workspace (Wide: 1792x1024)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A vibrant startup team collaboration scene in a modern coworking space, two men and one woman brainstorming on a project, laptop and notes on the table, casual but professional attire, engaging teamwork dynamic, ultra-detailed 8K corporate realism --ar 16:9",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_prestigious_law_firm_018",
+      "concept": "A prestigious law firm logo with a golden",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A prestigious law firm logo with a golden scale of justice symbol, elegant serif typography, black and gold color scheme, strong and authoritative branding, ultra-detailed 8K vector design, professional and refined --ar 1:1",
+        "date_added": "2026-05-21T09:07:33.686149",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 18,
+        "title": "Ideogram Sales #9: Law Firm Logo with Elegant Gold and Black Design (Square: 1024x1024)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A prestigious law firm logo with a golden scale of justice symbol, elegant serif typography, black and gold color scheme, strong and authoritative branding, ultra-detailed 8K vector design, professional and refined --ar 1:1",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_professional_headshot_of_019",
+      "concept": "A professional headshot of a young tech engineer",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A professional headshot of a young tech engineer standing in a modern smart office, confident expression, casual tech industry attire, futuristic workspace with holographic displays in the background, ultra-detailed 8K cinematic photography --ar 9:16",
+        "date_added": "2026-05-21T09:07:33.686231",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 19,
+        "title": "Ideogram Sales #10: Portrait of a Tech Professional in a Smart Office Environment (Portrait: 1024x1792)",
+        "platform": "Ideogram",
+        "category": "Sales & Marketing"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A professional headshot of a young tech engineer standing in a modern smart office, confident expression, casual tech industry attire, futuristic workspace with holographic displays in the background, ultra-detailed 8K cinematic photography --ar 9:16",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_dynamic_video_showcasing_020",
+      "concept": "A dynamic video showcasing a new noise canceling",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A dynamic video showcasing a new noise-canceling headphone, highlighting its features like crystal-clear audio, comfortable design, and long battery life, with upbeat music and sleek visuals. Focus on lifestyle shots of people using the headphones in different scenarios.",
+        "date_added": "2026-05-21T09:07:33.686314",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 20,
+        "title": "Canva Magic Media Video #1: Product Demo Video",
+        "platform": "Canva Magic Media",
+        "category": "Video"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A dynamic video showcasing a new noise-canceling headphone, highlighting its features like crystal-clear audio, comfortable design, and long battery life, with upbeat music and sleek visuals. Focus on lifestyle shots of people using the headphones in different scenarios.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_short_motivational_video_021",
+      "concept": "A short motivational video ad for a fitness",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A short, motivational video ad for a fitness app, featuring diverse individuals working out and achieving their fitness goals, with energetic music and text overlays highlighting the app's key features and a clear call to action (\"Download Now\").",
+        "date_added": "2026-05-21T09:07:33.686405",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 21,
+        "title": "Canva Magic Media Video #2: Social Media Ad for a Fitness App",
+        "platform": "Canva Magic Media",
+        "category": "Video"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A short, motivational video ad for a fitness app, featuring diverse individuals working out and achieving their fitness goals, with energetic music and text overlays highlighting the app's key features and a clear call to action (\"Download Now\").",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_concise_and_engaging_022",
+      "concept": "A concise and engaging animated explainer video for",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A concise and engaging animated explainer video for a project management SaaS platform, illustrating how it simplifies workflows, improves team collaboration, and boosts productivity, using clear visuals and a friendly voiceover.",
+        "date_added": "2026-05-21T09:07:33.686488",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 22,
+        "title": "Canva Magic Media Video #3: Explainer Video for SaaS Product",
+        "platform": "Canva Magic Media",
+        "category": "Video"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A concise and engaging animated explainer video for a project management SaaS platform, illustrating how it simplifies workflows, improves team collaboration, and boosts productivity, using clear visuals and a friendly voiceover.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_heartwarming_video_featuring_023",
+      "concept": "A heartwarming video featuring a satisfied customer sharing",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A heartwarming video featuring a satisfied customer sharing their success story using a meal delivery service, showcasing the convenience, healthy options, and positive impact it has had on their life, with genuine testimonials and relatable visuals.",
+        "date_added": "2026-05-21T09:07:33.686583",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 23,
+        "title": "Canva Magic Media Video #4: Customer Testimonial Video",
+        "platform": "Canva Magic Media",
+        "category": "Video"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A heartwarming video featuring a satisfied customer sharing their success story using a meal delivery service, showcasing the convenience, healthy options, and positive impact it has had on their life, with genuine testimonials and relatable visuals.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_visually_stunning_video_024",
+      "concept": "A visually stunning video showcasing the history and",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A visually stunning video showcasing the history and values of a sustainable clothing brand, highlighting their commitment to ethical sourcing, eco-friendly materials, and positive social impact, with inspiring music and authentic footage of their production process.",
+        "date_added": "2026-05-21T09:07:33.686691",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 24,
+        "title": "Canva Magic Media Video #5: Brand Story Video",
+        "platform": "Canva Magic Media",
+        "category": "Video"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A visually stunning video showcasing the history and values of a sustainable clothing brand, highlighting their commitment to ethical sourcing, eco-friendly materials, and positive social impact, with inspiring music and authentic footage of their production process.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_sleek_and_minimalist_025",
+      "concept": "A sleek and minimalist logo design incorporating abstract",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A sleek and minimalist logo design incorporating abstract shapes and vibrant gradients, conveying innovation and forward-thinking for a tech startup.",
+        "date_added": "2026-05-21T09:07:33.686772",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 25,
+        "title": "Canva Magic Media Image #1: Modern Logo Design",
+        "platform": "Canva Magic Media",
+        "category": "Business Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A sleek and minimalist logo design incorporating abstract shapes and vibrant gradients, conveying innovation and forward-thinking for a tech startup.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_realistic_photo_quality_office_026",
+      "concept": "Realistic photo quality office workers collaborating energetically around",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "Realistic, photo quality office workers collaborating energetically around a table, brainstorming ideas with animated gestures and focused expressions, showcasing teamwork and creativity.",
+        "date_added": "2026-05-21T09:07:33.686848",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 26,
+        "title": "Canva Magic Media Image #2: Dynamic Team Collaboration",
+        "platform": "Canva Magic Media",
+        "category": "Business Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Realistic, photo quality office workers collaborating energetically around a table, brainstorming ideas with animated gestures and focused expressions, showcasing teamwork and creativity.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_confident_and_approachable_027",
+      "concept": "A confident and approachable headshot of a business",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A confident and approachable headshot of a business professional, with a warm smile and a professional yet friendly background, emphasizing trustworthiness and expertise.",
+        "date_added": "2026-05-21T09:07:33.686920",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 27,
+        "title": "Canva Magic Media Image #3: Professional Headshot",
+        "platform": "Canva Magic Media",
+        "category": "Business Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A confident and approachable headshot of a business professional, with a warm smile and a professional yet friendly background, emphasizing trustworthiness and expertise.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_an_eye_catching_graphic_028",
+      "concept": "An eye catching graphic for a social media",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "An eye-catching graphic for a social media ad campaign, featuring a special offer or promotion with clear call-to-action buttons and visually appealing typography.",
+        "date_added": "2026-05-21T09:07:33.686982",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 28,
+        "title": "Canva Magic Media Image #4: Social Media Ad Graphic",
+        "platform": "Canva Magic Media",
+        "category": "Business Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An eye-catching graphic for a social media ad campaign, featuring a special offer or promotion with clear call-to-action buttons and visually appealing typography.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_captivating_website_banner_029",
+      "concept": "A captivating website banner design for an e",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A captivating website banner design for an e-commerce store, promoting a seasonal sale with attractive product images and a clear call to action.",
+        "date_added": "2026-05-21T09:07:33.687039",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 29,
+        "title": "Canva Magic Media Image #5: Website Banner Design",
+        "platform": "Canva Magic Media",
+        "category": "Business Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A captivating website banner design for an e-commerce store, promoting a seasonal sale with attractive product images and a clear call to action.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_modern_and_professional_030",
+      "concept": "A modern and professional business card design incorporating",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A modern and professional business card design, incorporating the company logo and contact information in a clean and memorable layout.",
+        "date_added": "2026-05-21T09:07:33.687091",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 30,
+        "title": "Canva Magic Media Image #6: Business Card Design",
+        "platform": "Canva Magic Media",
+        "category": "Business Image"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A modern and professional business card design, incorporating the company logo and contact information in a clean and memorable layout.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_minimalist_logo_for_031",
+      "concept": "A minimalist logo for a tech startup featuring",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A minimalist logo for a tech startup, featuring a stylized circuit board, in a clean sans-serif font, using a color palette of blue and white.",
+        "date_added": "2026-05-21T09:07:33.687148",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 31,
+        "title": "DALL-E: Logo",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A minimalist logo for a tech startup, featuring a stylized circuit board, in a clean sans-serif font, using a color palette of blue and white.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_vibrant_website_banner_032",
+      "concept": "A vibrant website banner for a travel agency",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A vibrant website banner for a travel agency, showcasing a tropical beach at sunset, with the text 'Book Your Dream Vacation' in a bold, modern font.",
+        "date_added": "2026-05-21T09:07:33.687207",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 32,
+        "title": "DALL-E: Website Banner",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A vibrant website banner for a travel agency, showcasing a tropical beach at sunset, with the text 'Book Your Dream Vacation' in a bold, modern font.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_playful_social_media_033",
+      "concept": "A playful social media post for a coffee",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A playful social media post for a coffee shop, featuring a cartoon illustration of a steaming cup of coffee, with the text 'Wake Up and Smell the Coffee!' in a handwritten font.",
+        "date_added": "2026-05-21T09:07:33.687276",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 33,
+        "title": "DALL-E: Social Media Post",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A playful social media post for a coffee shop, featuring a cartoon illustration of a steaming cup of coffee, with the text 'Wake Up and Smell the Coffee!' in a handwritten font.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_photorealistic_image_of_product_034",
+      "concept": "Photorealistic image of product packaging for organic honey",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "Photorealistic image of product packaging for organic honey, featuring a honeycomb pattern and a vintage-style label, with the text 'Pure Honey' in a classic serif font.",
+        "date_added": "2026-05-21T09:07:33.687348",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 34,
+        "title": "DALL-E: Product Packaging",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "Photorealistic image of product packaging for organic honey, featuring a honeycomb pattern and a vintage-style label, with the text 'Pure Honey' in a classic serif font.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_an_infographic_illustrating_the_035",
+      "concept": "An infographic illustrating the benefits of using cloud",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "An infographic illustrating the benefits of using cloud computing, with icons representing data storage, security, and accessibility, using a clean and modern design.",
+        "date_added": "2026-05-21T09:07:33.687429",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 35,
+        "title": "DALL-E: Infographic",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An infographic illustrating the benefits of using cloud computing, with icons representing data storage, security, and accessibility, using a clean and modern design.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_professional_business_card_036",
+      "concept": "A professional business card design for a graphic",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A professional business card design for a graphic designer, featuring a geometric pattern and the contact information in a sleek, minimalist font, using a color scheme of black and white.",
+        "date_added": "2026-05-21T09:07:33.687498",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 36,
+        "title": "DALL-E: Business Card",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A professional business card design for a graphic designer, featuring a geometric pattern and the contact information in a sleek, minimalist font, using a color scheme of black and white.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_dynamic_marketing_ad_037",
+      "concept": "A dynamic marketing ad for a fitness app",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A dynamic marketing ad for a fitness app, featuring a person running on a treadmill with a futuristic cityscape in the background, with the text 'Achieve Your Fitness Goals' in a bold, energetic font.",
+        "date_added": "2026-05-21T09:07:33.687603",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 37,
+        "title": "DALL-E: Marketing Ad",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A dynamic marketing ad for a fitness app, featuring a person running on a treadmill with a futuristic cityscape in the background, with the text 'Achieve Your Fitness Goals' in a bold, energetic font.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_visually_appealing_presentation_038",
+      "concept": "A visually appealing presentation slide for a sales",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A visually appealing presentation slide for a sales pitch, featuring a graph showing sales growth, with a clean and professional design, using a color palette of green and white.",
+        "date_added": "2026-05-21T09:07:33.687718",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 38,
+        "title": "DALL-E: Presentation Slide",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A visually appealing presentation slide for a sales pitch, featuring a graph showing sales growth, with a clean and professional design, using a color palette of green and white.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_an_eye_catching_image_039",
+      "concept": "An eye catching image for a blog post",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "An eye-catching image for a blog post about sustainable living, featuring a lush green forest with a clear blue sky, with the text 'Go Green' in a natural, earthy font.",
+        "date_added": "2026-05-21T09:07:33.687831",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 39,
+        "title": "DALL-E: Blog Post Image",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An eye-catching image for a blog post about sustainable living, featuring a lush green forest with a clear blue sky, with the text 'Go Green' in a natural, earthy font.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_simple_and_memorable_040",
+      "concept": "A simple and memorable app icon for a",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A simple and memorable app icon for a language learning app, featuring a stylized speech bubble, using a vibrant color palette and a modern, geometric design.",
+        "date_added": "2026-05-21T09:07:33.687901",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 40,
+        "title": "DALL-E: App Icon",
+        "platform": "DALL-E 2",
+        "category": "Business Graphics"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A simple and memorable app icon for a language learning app, featuring a stylized speech bubble, using a vibrant color palette and a modern, geometric design.",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_majestic_floating_island_041",
+      "concept": "A majestic floating island with cascading waterfalls lush",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A majestic floating island with cascading waterfalls, lush green forests, and ancient ruins glowing with magical runes, ethereal mist in the background, cinematic lighting --ar 16:9 --q 2 --s 500 --v 5",
+        "date_added": "2026-05-21T09:07:33.687999",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 41,
+        "title": "MidJourney #1: Fantasy Landscape",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A majestic floating island with cascading waterfalls, lush green forests, and ancient ruins glowing with magical runes, ethereal mist in the background, cinematic lighting --ar 16:9 --q 2 --s 500 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_futuristic_cyberpunk_city_042",
+      "concept": "A futuristic cyberpunk city with neon lit skyscrapers",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A futuristic cyberpunk city with neon-lit skyscrapers, flying cars, bustling streets filled with humanoid robots and people wearing cybernetic enhancements, dramatic lighting, ultra-detailed --ar 16:9 --q 2 --s 750 --v 5",
+        "date_added": "2026-05-21T09:07:33.688089",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 42,
+        "title": "MidJourney #2: Sci-Fi Cityscape",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A futuristic cyberpunk city with neon-lit skyscrapers, flying cars, bustling streets filled with humanoid robots and people wearing cybernetic enhancements, dramatic lighting, ultra-detailed --ar 16:9 --q 2 --s 750 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_stunning_snow_capped_043",
+      "concept": "A stunning snow capped mountain range with golden",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A stunning snow-capped mountain range with golden sunlight illuminating the peaks, a peaceful valley below with a winding river, dramatic clouds, ultra-realistic --ar 16:9 --q 2 --s 500 --v 5",
+        "date_added": "2026-05-21T09:07:33.688138",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 43,
+        "title": "MidJourney #3: Majestic Mountain Range",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A stunning snow-capped mountain range with golden sunlight illuminating the peaks, a peaceful valley below with a winding river, dramatic clouds, ultra-realistic --ar 16:9 --q 2 --s 500 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_tranquil_seashore_with_044",
+      "concept": "A tranquil seashore with soft golden sand gentle",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A tranquil seashore with soft golden sand, gentle waves crashing against rocky cliffs, a lighthouse glowing in the distance, pink and orange sunset hues reflecting on the water, dreamy atmosphere --ar 16:9 --q 2 --s 600 --v 5",
+        "date_added": "2026-05-21T09:07:33.688184",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 44,
+        "title": "MidJourney #4: Serene Seashore at Sunset",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A tranquil seashore with soft golden sand, gentle waves crashing against rocky cliffs, a lighthouse glowing in the distance, pink and orange sunset hues reflecting on the water, dreamy atmosphere --ar 16:9 --q 2 --s 600 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_lively_city_park_045",
+      "concept": "A lively city park with people jogging children",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A lively city park with people jogging, children playing, families having picnics, tall green trees providing shade, bright sunny day, ultra-realistic photography style --ar 16:9 --q 2 --s 400 --v 5",
+        "date_added": "2026-05-21T09:07:33.688233",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 45,
+        "title": "MidJourney #5: People in a Park on a Sunny Day",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A lively city park with people jogging, children playing, families having picnics, tall green trees providing shade, bright sunny day, ultra-realistic photography style --ar 16:9 --q 2 --s 400 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_young_family_walking_046",
+      "concept": "A young family walking down a bustling New",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A young family walking down a bustling New York City street, parents pushing a stroller with a baby, tall skyscrapers, yellow cabs, pedestrians, realistic lighting, urban energy, detailed architecture --ar 16:9 --q 2 --s 700 --v 5",
+        "date_added": "2026-05-21T09:07:33.688284",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 46,
+        "title": "MidJourney #6: Family Walking Down a New York City Street",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A young family walking down a bustling New York City street, parents pushing a stroller with a baby, tall skyscrapers, yellow cabs, pedestrians, realistic lighting, urban energy, detailed architecture --ar 16:9 --q 2 --s 700 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_dense_mystical_forest_047",
+      "concept": "A dense mystical forest with ancient towering trees",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A dense mystical forest with ancient towering trees, glowing fireflies, an enchanted pathway leading to an old wooden bridge, soft magical mist, dreamlike lighting --ar 16:9 --q 2 --s 600 --v 5",
+        "date_added": "2026-05-21T09:07:33.688326",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 47,
+        "title": "MidJourney #7: Mystical Forest with Hidden Secrets",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A dense mystical forest with ancient towering trees, glowing fireflies, an enchanted pathway leading to an old wooden bridge, soft magical mist, dreamlike lighting --ar 16:9 --q 2 --s 600 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_desolate_post_apocalyptic_048",
+      "concept": "A desolate post apocalyptic city overgrown with nature",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A desolate post-apocalyptic city overgrown with nature, abandoned skyscrapers covered in vines, rusted vehicles, a lone survivor with a gas mask walking through, moody and cinematic --ar 16:9 --q 2 --s 750 --v 5",
+        "date_added": "2026-05-21T09:07:33.688370",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 48,
+        "title": "MidJourney #8: Dystopian Post-Apocalyptic Ruins",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A desolate post-apocalyptic city overgrown with nature, abandoned skyscrapers covered in vines, rusted vehicles, a lone survivor with a gas mask walking through, moody and cinematic --ar 16:9 --q 2 --s 750 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_massive_battle_between_049",
+      "concept": "A massive battle between armored knights and fire",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A massive battle between armored knights and fire-breathing dragons, dust and smoke rising, intense action, cinematic lighting, dynamic composition, ultra-detailed fantasy art --ar 16:9 --q 2 --s 800 --v 5",
+        "date_added": "2026-05-21T09:07:33.688416",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 49,
+        "title": "MidJourney #9: Epic Battle Scene",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A massive battle between armored knights and fire-breathing dragons, dust and smoke rising, intense action, cinematic lighting, dynamic composition, ultra-detailed fantasy art --ar 16:9 --q 2 --s 800 --v 5",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "ai_handbook_a_warm_and_cozy_050",
+      "concept": "A warm and cozy wooden cabin in a",
+      "status": "active",
+      "metadata": {
+        "original_source": "The AI Handbook for Everyone",
+        "original_prompt": "A warm and cozy wooden cabin in a snowy mountain landscape, soft glowing lights from the windows, smoke rising from the chimney, tall evergreen trees covered in snow, peaceful night sky with twinkling stars --ar 16:9 --q 2 --s 600 --v 5",
+        "date_added": "2026-05-21T09:07:33.688463",
+        "source_file": "ai_handbook_book.txt",
+        "source_index": 50,
+        "title": "MidJourney #10: Cozy Winter Cabin in the Mountains",
+        "platform": "MidJourney",
+        "category": "Sample"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A warm and cozy wooden cabin in a snowy mountain landscape, soft glowing lights from the windows, smoke rising from the chimney, tall evergreen trees covered in snow, peaceful night sky with twinkling stars --ar 16:9 --q 2 --s 600 --v 5",
+          "negative_template": ""
+        }
+      ]
+    }
+  ]
+}

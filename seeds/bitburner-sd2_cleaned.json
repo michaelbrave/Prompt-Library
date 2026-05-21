@@ -1,0 +1,2825 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "a_beautiful_girl_with_000",
+      "concept": "A beautiful girl with black hair in s",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "A beautiful girl with black hair in 1950's fashion, ballroom background, intricate, highly detailed, artstation, official media, anime key visual, rich vivid colors, ambient lighting, sharp focus",
+        "date_added": "2026-05-21T07:25:36.348683",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 0
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A beautiful girl with black hair in 1950's fashion, ballroom background, intricate, highly detailed, artstation, official media, anime key visual, rich vivid colors, ambient lighting, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A beautiful girl with black hair in 1950's fashion, ballroom background, intricate, highly detailed, artstation, official media, anime key visual, rich vivid colors, ambient lighting, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_beautiful_woman_gal_001",
+      "concept": "A beautiful woman gal gadot with horns and",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "A beautiful woman gal gadot with horns and armor, fantasy art, dramatic lighting, highly detailed",
+        "date_added": "2026-05-21T07:25:36.349904",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 1
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A beautiful woman gal gadot with horns and armor, fantasy art, dramatic lighting, highly detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A beautiful woman gal gadot with horns and armor, fantasy art, dramatic lighting, highly detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_detailed_head_portrait_002",
+      "concept": "A detailed head portrait of a rachael of",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "A detailed head portrait of a rachael of blade runner on a futuristic street, neo noir style, cinematic, neon lights glow in the background",
+        "date_added": "2026-05-21T07:25:36.350012",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 2
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A detailed head portrait of a rachael of blade runner on a futuristic street, neo noir style, cinematic, neon lights glow in the background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A detailed head portrait of a rachael of blade runner on a futuristic street, neo noir style, cinematic, neon lights glow in the background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "futuristic_technologically_advanced_egyptian_003",
+      "concept": "futuristic technologically advanced Egyptian tron style civilization cinematic",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "futuristic technologically advanced Egyptian tron style civilization cinematic elevated shot",
+        "date_added": "2026-05-21T07:25:36.350113",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 3
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "futuristic technologically advanced Egyptian tron style civilization cinematic elevated shot",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "futuristic technologically advanced Egyptian tron style civilization cinematic elevated shot",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_full_page_concept_004",
+      "concept": "a full page concept designs of teleportation device",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "a full page concept designs of teleportation device, steampunk blueprint, intricate details, ink on paper, scientific, Highly detailed labeled, poster",
+        "date_added": "2026-05-21T07:25:36.350179",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 4
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a full page concept designs of teleportation device, steampunk blueprint, intricate details, ink on paper, scientific, Highly detailed labeled, poster",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a full page concept designs of teleportation device, steampunk blueprint, intricate details, ink on paper, scientific, Highly detailed labeled, poster",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_portrait_of_dana_005",
+      "concept": "a portrait of dana scully suit and skirt",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "a portrait of dana scully, suit and skirt, coy but serious, character portrait",
+        "date_added": "2026-05-21T07:25:36.350275",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 5
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a portrait of dana scully, suit and skirt, coy but serious, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a portrait of dana scully, suit and skirt, coy but serious, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_witch_stirring_a_006",
+      "concept": "a witch stirring a witch s cauldron as",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "a witch stirring a witch s cauldron, as a dnd character, inside a cluttered basement, cottagecore, highly detailed, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.350349",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 6
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a witch stirring a witch s cauldron, as a dnd character, inside a cluttered basement, cottagecore, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a witch stirring a witch s cauldron, as a dnd character, inside a cluttered basement, cottagecore, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_woman_with_light_007",
+      "concept": "a woman with light brown hair and glasses",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "a woman with light brown hair and glasses sitting on top of a tall pile of books. well composed, clean elegant, beautiful detailed face.",
+        "date_added": "2026-05-21T07:25:36.350440",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 7
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a woman with light brown hair and glasses sitting on top of a tall pile of books. well composed, clean elegant, beautiful detailed face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "a woman with light brown hair and glasses sitting on top of a tall pile of books. well composed, clean elegant, beautiful detailed face",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a woman with light brown hair and glasses sitting on top of a tall pile of books. well composed, clean elegant, beautiful detailed face",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "all_chrome_woman_robot_008",
+      "concept": "all chrome woman robot cinematic lighting s sci",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "all chrome woman robot, cinematic lighting, 1970s sci-fi art, retro science fiction fantasy art, highly detailed centered on a black background, tarot card, retro futurism, detailed, intricate, sharp image, high details, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+        "date_added": "2026-05-21T07:25:36.350532",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 8
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "all chrome woman robot, cinematic lighting, 1970s sci-fi art, retro science fiction fantasy art, highly detailed centered on a black background, tarot card, retro futurism, detailed, intricate, sharp image, high details, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "all chrome woman robot, cinematic lighting, 1970s sci-fi art, retro science fiction fantasy art, highly detailed centered on a black background, tarot card, retro futurism, detailed, intricate, sharp image, high details, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "amy_adams_goddess_of_009",
+      "concept": "Amy Adams goddess of the forest detailed face",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Amy Adams goddess of the forest, detailed face, amazing, flowers, intricate, highly detailed, sharp focus",
+        "date_added": "2026-05-21T07:25:36.350704",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 9
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Amy Adams goddess of the forest, detailed face, amazing, flowers, intricate, highly detailed, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Amy Adams goddess of the forest, detailed face, amazing, flowers, intricate, highly detailed, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "amy_adams_in_scene_010",
+      "concept": "Amy Adams in scene from twin peaks clean",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Amy Adams in scene from twin peaks, clean, simple , nostalgic, domestic, highly detailed, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.350809",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 10
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Amy Adams in scene from twin peaks, clean, simple, nostalgic, domestic, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Amy Adams in scene from twin peaks, clean, simple, nostalgic, domestic, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "amy_adams_traditional_corsican_011",
+      "concept": "amy adams traditional corsican intricate highly detailed slice",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "amy adams, traditional corsican, intricate, highly detailed, slice of life",
+        "date_added": "2026-05-21T07:25:36.350905",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 11
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "amy adams, traditional corsican, intricate, highly detailed, slice of life",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "amy adams, traditional corsican, intricate, highly detailed, slice of life",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "an_alien_spacecraft_landing_012",
+      "concept": "An alien spacecraft landing with bioluminescent lighting dark",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "An alien spacecraft landing with bioluminescent lighting, dark art, highly detailed, centered on a black background, magic glow, bioluminescent lighting",
+        "date_added": "2026-05-21T07:25:36.350966",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 12
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An alien spacecraft landing with bioluminescent lighting, dark art, highly detailed, centered on a black background, magic glow, bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An alien spacecraft landing with bioluminescent lighting, dark art, highly detailed, centered on a black background, magic glow, bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "anatomy_poster_of_a_013",
+      "concept": "Anatomy poster of a demon head tarot card",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Anatomy poster of a demon head, tarot card, dark art, highly detailed + bright green and red glow + centered on a black background in the style of magic the gathering art, detailed, magic glow + bioluminescent lighting",
+        "date_added": "2026-05-21T07:25:36.351055",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 13
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Anatomy poster of a demon head, tarot card, dark art, highly detailed + bright green and red glow + centered on a black background in the style of magic the gathering art, detailed, magic glow + bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Anatomy poster of a demon head, tarot card, dark art, highly detailed + bright green and red glow + centered on a black background in the style of magic the gathering art, detailed, magic glow + bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "anatomy_poster_of_a_014",
+      "concept": "anatomy poster of a Grinch dark art highly",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "anatomy poster of a Grinch, dark art, highly detailed, notes, green and red glow, medical, x-ray, anatomical, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:25:36.351184",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 14
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anatomy poster of a Grinch, dark art, highly detailed, notes, green and red glow, medical, x-ray, anatomical, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anatomy poster of a Grinch, dark art, highly detailed, notes, green and red glow, medical, x-ray, anatomical, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "anime_key_visual_of_015",
+      "concept": "Anime key visual of elizabeth olsen police officer",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face, high details, smooth face, soft focus",
+        "date_added": "2026-05-21T07:25:36.351287",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 15
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face, high details, smooth face, soft focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Anime key visual of elizabeth olsen police officer, cyberpunk, futuristic, perfect eyes, stunning features, perfect face, high details, smooth face, soft focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "anime_cluttered_art_shop_016",
+      "concept": "anime cluttered art shop art studio full of",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "anime, cluttered art shop, art studio full of tools and paints and magic, whimsical",
+        "date_added": "2026-05-21T07:25:36.351380",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 16
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anime, cluttered art shop, art studio full of tools and paints and magic, whimsical",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anime, cluttered art shop, art studio full of tools and paints and magic, whimsical",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "arma_highly_detailed_excellent_017",
+      "concept": "arma highly detailed excellent composition cinematic dramatic lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "arma 4, highly detailed, excellent composition, cinematic, dramatic lighting",
+        "date_added": "2026-05-21T07:25:36.351446",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 17
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "arma 4, highly detailed, excellent composition, cinematic, dramatic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "arma 4, highly detailed, excellent composition, cinematic, dramatic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "bear_playing_futuristic_minimalistic_018",
+      "concept": "bear playing futuristic minimalistic acoustic guitar fantasy character",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "bear playing futuristic minimalistic acoustic guitar, fantasy character portrait",
+        "date_added": "2026-05-21T07:25:36.351507",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 18
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "bear playing futuristic minimalistic acoustic guitar, fantasy character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "bear playing futuristic minimalistic acoustic guitar, fantasy character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beautiful_cyberpunk_soldier_wearing_019",
+      "concept": "Beautiful cyberpunk soldier wearing a cyberpunk headset and",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Beautiful cyberpunk soldier wearing a cyberpunk headset and tactical gear",
+        "date_added": "2026-05-21T07:25:36.351564",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 19
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Beautiful cyberpunk soldier wearing a cyberpunk headset and tactical gear",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Beautiful cyberpunk soldier wearing a cyberpunk headset and tactical gear",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beautiful_female_ginger_hair_020",
+      "concept": "Beautiful female ginger hair glasses symmetrical face eyes",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Beautiful female ginger hair glasses symmetrical face eyes full length fantasy art, fae princess, forest landscape reading a book, fantasy magic, dark light night, sharp focus, 4k, d&d",
+        "date_added": "2026-05-21T07:25:36.351620",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 20
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Beautiful female ginger hair glasses symmetrical face eyes full length fantasy art, fae princess, forest landscape reading a book, fantasy magic, dark light night, sharp focus, 4k, d&d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Beautiful female ginger hair glasses symmetrical face eyes full length fantasy art, fae princess, forest landscape reading a book, fantasy magic, dark light night, sharp focus, 4k, d&d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beautiful_intricate_man_very_021",
+      "concept": "beautiful intricate man very long and psychedelic hair",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "beautiful intricate man, very long and psychedelic hair, striking eyes + slight smile + determined posture + amazing look + soft light + steampunk clothing, High Contrast, Perfectionism, Cinematic Lighting, Post-Production",
+        "date_added": "2026-05-21T07:25:36.351723",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 21
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "beautiful intricate man, very long and psychedelic hair, striking eyes + slight smile + determined posture + amazing look + soft light + steampunk clothing, High Contrast, Perfectionism, Cinematic Lighting, Post-Production",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "beautiful intricate man, very long and psychedelic hair, striking eyes + slight smile + determined posture + amazing look + soft light + steampunk clothing, High Contrast, Perfectionism, Cinematic Lighting, Post-Production",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beautiful_intricate_stunning_highly_022",
+      "concept": "beautiful intricate stunning highly detailed female vampire pulp",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "beautiful, intricate stunning highly detailed female vampire, pulp portrait, soft studio lighting, intricate detail, volumetric lighting, hdr, fantasy, 8K",
+        "date_added": "2026-05-21T07:25:36.351865",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 22
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "beautiful, intricate stunning highly detailed female vampire, pulp portrait, soft studio lighting, intricate detail, volumetric lighting, hdr, fantasy, 8K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "beautiful, intricate stunning highly detailed female vampire, pulp portrait, soft studio lighting, intricate detail, volumetric lighting, hdr, fantasy, 8K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "black_canary_in_he_023",
+      "concept": "Black Canary in He Man and the Masters",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Black Canary in He-Man and the Masters of the Universe (1983) screenshot, animated cartoon still, 5k, blu-ray",
+        "date_added": "2026-05-21T07:25:36.351955",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 23
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Black Canary in He-Man and the Masters of the Universe (1983) screenshot, animated cartoon still, 5k, blu-ray",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Black Canary in He-Man and the Masters of the Universe (1983) screenshot, animated cartoon still, 5k, blu-ray",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "black_widow_portrait_symmetrical_024",
+      "concept": "black widow portrait symmetrical highly detailed smooth sharp",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "black widow, portrait, symmetrical, highly detailed, smooth, sharp focus, cinematic lighting",
+        "date_added": "2026-05-21T07:25:36.352040",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 24
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "black widow, portrait, symmetrical, highly detailed, smooth, sharp focus, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "black widow, portrait, symmetrical, highly detailed, smooth, sharp focus, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "bob_ross_horror_highly_025",
+      "concept": "Bob Ross horror highly detailed lifelike",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Bob Ross, horror, highly detailed, lifelike",
+        "date_added": "2026-05-21T07:25:36.352114",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 25
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Bob Ross, horror, highly detailed, lifelike",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Bob Ross, horror, highly detailed, lifelike",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "close_up_portrait_of_026",
+      "concept": "close up portrait of an attractive female dressed",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "close-up portrait of an attractive female dressed as The Punisher played by Jennifer Connelly, punisher skull shirt, bioluminescent colors, cinematic lighting, epic composition, golden ratio",
+        "date_added": "2026-05-21T07:25:36.352168",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 26
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "close-up portrait of an attractive female dressed as The Punisher played by Jennifer Connelly, punisher skull shirt, bioluminescent colors, cinematic lighting, epic composition, golden ratio",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "close-up portrait of an attractive female dressed as The Punisher played by Jennifer Connelly, punisher skull shirt, bioluminescent colors, cinematic lighting, epic composition, golden ratio",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "computer_malware_borg_infection_027",
+      "concept": "computer malware borg infection cinematic composition dramatic pose",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "computer malware, borg infection, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4k, 8k",
+        "date_added": "2026-05-21T07:25:36.352273",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 27
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "computer malware, borg infection, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4k, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "computer malware, borg infection, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4k, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_ruthless_bounty_hunter_028",
+      "concept": "a ruthless bounty hunter from star wars detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "a ruthless bounty hunter from star wars, detailed portrait",
+        "date_added": "2026-05-21T07:25:36.352361",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 28
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a ruthless bounty hunter from star wars, detailed portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a ruthless bounty hunter from star wars, detailed portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "concept_art_of_treasure_029",
+      "concept": "concept art of treasure hunter in motion anime",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "concept art of treasure hunter, in motion, anime",
+        "date_added": "2026-05-21T07:25:36.352415",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 29
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "concept art of treasure hunter, in motion, anime",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "concept art of treasure hunter, in motion, anime",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cthulhu_disneyland_aerial_shot_030",
+      "concept": "Cthulhu Disneyland aerial shot",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Cthulhu Disneyland, aerial shot",
+        "date_added": "2026-05-21T07:25:36.352465",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 30
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cthulhu Disneyland, aerial shot",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cthulhu Disneyland, aerial shot",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cyberpunk_alien_sci_fi_031",
+      "concept": "cyberpunk alien sci fi horror high details intricate",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "cyberpunk alien, sci-fi horror, high details, intricate details, 1980s, vintage 80s",
+        "date_added": "2026-05-21T07:25:36.352506",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 31
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cyberpunk alien, sci-fi horror, high details, intricate details, 1980s, vintage 80s",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cyberpunk alien, sci-fi horror, high details, intricate details, 1980s, vintage 80s",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "barbarella_mars_attacks_flash_032",
+      "concept": "Barbarella Mars Attacks flash Gordon s movie style",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Barbarella + Mars Attacks + flash Gordon 80s movie style, space opera heroine, sci-fi, intricate, futuristic, fantasy",
+        "date_added": "2026-05-21T07:25:36.352572",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 32
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Barbarella + Mars Attacks + flash Gordon 80s movie style, space opera heroine, sci-fi, intricate, futuristic, fantasy",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Barbarella + Mars Attacks + flash Gordon 80s movie style, space opera heroine, sci-fi, intricate, futuristic, fantasy",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "cyborg_hacker_highly_detailed_033",
+      "concept": "Cyborg Hacker highly detailed bright green and red",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Cyborg, Hacker, highly detailed, bright green and red glow, centered on a black background, tarot card, detailed, intricate, sharp image, photograph, hyper realistic, high details, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+        "date_added": "2026-05-21T07:25:36.352650",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 33
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cyborg, Hacker, highly detailed, bright green and red glow, centered on a black background, tarot card, detailed, intricate, sharp image, photograph, hyper realistic, high details, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cyborg, Hacker, highly detailed, bright green and red glow, centered on a black background, tarot card, detailed, intricate, sharp image, photograph, hyper realistic, high details, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "daphne_blake_from_the_034",
+      "concept": "Daphne Blake from the TV show Scooby Doo",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Daphne Blake from the TV show Scooby Doo, She wears a short long-sleeved purple dress featuring a mauve hem and cuffs with an additional mauve hoop below the waist, Her outfit also includes a mauve headband and green scarf and is completed by mauve shoes, dynamic pose, insanely detailed, widescreen",
+        "date_added": "2026-05-21T07:25:36.352799",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 34
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Daphne Blake from the TV show Scooby Doo, She wears a short long-sleeved purple dress featuring a mauve hem and cuffs with an additional mauve hoop below the waist, Her outfit also includes a mauve headband and green scarf and is completed by mauve shoes, dynamic pose, insanely detailed, widescreen",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Daphne Blake from the TV show Scooby Doo, She wears a short long-sleeved purple dress featuring a mauve hem and cuffs with an additional mauve hoop below the waist, Her outfit also includes a mauve headband and green scarf and is completed by mauve shoes, dynamic pose, insanely detailed, widescreen",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dark_portrait_of_a_035",
+      "concept": "Dark portrait of a high tech alien wizard",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Dark portrait of a high - tech alien wizard on a depth of field background, sci - fi concept, moody color palette",
+        "date_added": "2026-05-21T07:25:36.352971",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 35
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Dark portrait of a high - tech alien wizard on a depth of field background, sci - fi concept, moody color palette",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Dark portrait of a high - tech alien wizard on a depth of field background, sci - fi concept, moody color palette",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "darth_vader_dark_art_036",
+      "concept": "Darth Vader dark art highly detailed bright red",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Darth Vader dark art highly detailed bright red glow centered on a black background tarot card magic glow bioluminescent lighting",
+        "date_added": "2026-05-21T07:25:36.353062",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 36
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Darth Vader dark art highly detailed bright red glow centered on a black background tarot card magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Darth Vader dark art highly detailed bright red glow centered on a black background tarot card magic glow bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "darth_vader_cyberpunk_character_037",
+      "concept": "Darth Vader cyberpunk character portrait",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Darth Vader, cyberpunk 2 0 7 7 character portrait",
+        "date_added": "2026-05-21T07:25:36.353144",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 37
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Darth Vader, cyberpunk 2 0 7 7 character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Darth Vader, cyberpunk 2 0 7 7 character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "demon_wizard_incal_from_038",
+      "concept": "demon wizard incal from tribal science fiction",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "demon wizard incal from tribal science fiction",
+        "date_added": "2026-05-21T07:25:36.353199",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 38
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "demon wizard incal from tribal science fiction",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "demon wizard incal from tribal science fiction",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "detailed_face_portrait_of_039",
+      "concept": "Detailed face portrait of a beautiful futuristic viking",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Detailed face portrait of a beautiful futuristic viking warrior in alien cyberpunk armor, female, feminine, art nouveau, cyberpunk, neo - gothic, gothic, character concept design",
+        "date_added": "2026-05-21T07:25:36.353249",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 39
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Detailed face portrait of a beautiful futuristic viking warrior in alien cyberpunk armor, female, feminine, art nouveau, cyberpunk, neo - gothic, gothic, character concept design",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Detailed face portrait of a beautiful futuristic viking warrior in alien cyberpunk armor, female, feminine, art nouveau, cyberpunk, neo - gothic, gothic, character concept design",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "doom_guy_hyper_detailed_040",
+      "concept": "doom guy hyper detailed cinematic lighting studio quality",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "doom guy ,hyper detailed, cinematic lighting, studio quality, smooth",
+        "date_added": "2026-05-21T07:25:36.353352",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 40
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "doom guy, hyper detailed, cinematic lighting, studio quality, smooth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "doom guy, hyper detailed, cinematic lighting, studio quality, smooth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dr_disrespect_as_a_041",
+      "concept": "Dr Disrespect as a supervillain",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Dr Disrespect as a supervillain",
+        "date_added": "2026-05-21T07:25:36.353411",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 41
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Dr Disrespect as a supervillain",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Dr Disrespect as a supervillain",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dr_disrespect_in_a_042",
+      "concept": "Dr Disrespect in a dark scary alleyway full",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Dr Disrespect in a dark scary alleyway, full tactical gear, red and black, outrun style VHS aesthetic",
+        "date_added": "2026-05-21T07:25:36.353454",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 42
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Dr Disrespect in a dark scary alleyway, full tactical gear, red and black, outrun style VHS aesthetic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Dr Disrespect in a dark scary alleyway, full tactical gear, red and black, outrun style VHS aesthetic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dr_disrespect_in_g_043",
+      "concept": "Dr Disrespect in G I Joe cartoon screenshot",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Dr Disrespect in G.I. Joe (1985) cartoon screenshot, animated cartoon still, 5k, blu-ray, mullet, oakley sunglasses, full tactical gear, red and black,character portrait",
+        "date_added": "2026-05-21T07:25:36.353527",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 43
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Dr Disrespect in G.I. Joe (1985) cartoon screenshot, animated cartoon still, 5k, blu-ray, mullet, oakley sunglasses, full tactical gear, red and black, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Dr Disrespect in G.I. Joe (1985) cartoon screenshot, animated cartoon still, 5k, blu-ray, mullet, oakley sunglasses, full tactical gear, red and black, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "amy_adams_as_miss_044",
+      "concept": "Amy Adams as Miss Frizzle character portrait",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Amy Adams as Miss Frizzle, character portrait",
+        "date_added": "2026-05-21T07:25:36.353641",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 44
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Amy Adams as Miss Frizzle, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Amy Adams as Miss Frizzle, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "dvd_screengrab_of_the_045",
+      "concept": "DVD screengrab of the spaceship scene from the",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "DVD screengrab of the spaceship scene from the movie Chrome Lords (1988) was a shameless ripoff of Terminator and Robocop",
+        "date_added": "2026-05-21T07:25:36.353692",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 45
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "DVD screengrab of the spaceship scene from the movie Chrome Lords (1988) was a shameless ripoff of Terminator and Robocop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "DVD screengrab of the spaceship scene from the movie Chrome Lords (1988) was a shameless ripoff of Terminator and Robocop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "enclosed_glass_isometric_cube_046",
+      "concept": "enclosed glass isometric cube containing small ecosystem no",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "enclosed glass isometric cube containing small ecosystem, no background, cute, isolated ecosystem",
+        "date_added": "2026-05-21T07:25:36.353789",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 46
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "enclosed glass isometric cube containing small ecosystem, no background, cute, isolated ecosystem",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "enclosed glass isometric cube containing small ecosystem, no background, cute, isolated ecosystem",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "enormous_mythical_tree_house_047",
+      "concept": "enormous mythical tree house tower beautiful jungle beautiful",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "enormous mythical tree house tower, beautiful jungle, beautiful sky, detailed",
+        "date_added": "2026-05-21T07:25:36.353857",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 47
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "enormous mythical tree house tower, beautiful jungle, beautiful sky, detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "enormous mythical tree house tower, beautiful jungle, beautiful sky, detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "epic_professional_portrait_of_048",
+      "concept": "Epic professional portrait of a chronomancer helmeted space",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Epic professional portrait of a chronomancer helmeted space priest, master science fiction art, breathtaking, epic, stunning, gorgeous",
+        "date_added": "2026-05-21T07:25:36.353930",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 48
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Epic professional portrait of a chronomancer helmeted space priest, master science fiction art, breathtaking, epic, stunning, gorgeous",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Epic professional portrait of a chronomancer helmeted space priest, master science fiction art, breathtaking, epic, stunning, gorgeous",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "fairy_living_room_interior_049",
+      "concept": "Fairy Living room Interior Photo",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Fairy Living room Interior Photo",
+        "date_added": "2026-05-21T07:25:36.354009",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 49
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Fairy Living room Interior Photo",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Fairy Living room Interior Photo",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "floating_inside_vast_space_050",
+      "concept": "floating inside vast space station with buildings cinematic",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "floating inside vast space station with buildings, cinematic + man in Astronaut armour suit",
+        "date_added": "2026-05-21T07:25:36.354050",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 50
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "floating inside vast space station with buildings, cinematic + man in Astronaut armour suit",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "floating inside vast space station with buildings, cinematic + man in Astronaut armour suit",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "flying_vehicle_intricate_detailed_051",
+      "concept": "Flying vehicle intricate detailed intricate sharp image high",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Flying vehicle, intricate , detailed, intricate, sharp image, high details, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, centered on a black background, Epic",
+        "date_added": "2026-05-21T07:25:36.354114",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 51
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Flying vehicle, intricate, detailed, intricate, sharp image, high details, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, centered on a black background, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Flying vehicle, intricate, detailed, intricate, sharp image, high details, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, cinematic, centered on a black background, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "friendly_humanoid_robot_portrait_052",
+      "concept": "Friendly humanoid robot portrait bust symmetry faded colors",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Friendly humanoid robot, portrait bust, symmetry, faded colors, exotic alien features, cypherpunk background, cinematic composition, beautiful lighting, sharp, details, hyper detailed, 8k",
+        "date_added": "2026-05-21T07:25:36.354217",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 52
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Friendly humanoid robot, portrait bust, symmetry, faded colors, exotic alien features, cypherpunk background, cinematic composition, beautiful lighting, sharp, details, hyper detailed, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Friendly humanoid robot, portrait bust, symmetry, faded colors, exotic alien features, cypherpunk background, cinematic composition, beautiful lighting, sharp, details, hyper detailed, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "full_length_portrait_of_053",
+      "concept": "Full length portrait of a gorgeous gal gadot",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Full length portrait of a gorgeous gal gadot, sharp focus, 8k high definition, insanely detailed, intricate, elegant",
+        "date_added": "2026-05-21T07:25:36.354317",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 53
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Full length portrait of a gorgeous gal gadot, sharp focus, 8k high definition, insanely detailed, intricate, elegant",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Full length portrait of a gorgeous gal gadot, sharp focus, 8k high definition, insanely detailed, intricate, elegant",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "futuristic_cyberpunk_airstream_treehouse_054",
+      "concept": "futuristic cyberpunk airstream treehouse with tiki accents velvet",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "futuristic cyberpunk airstream treehouse with tiki accents, velvet art, atmospheric lighting, center focus, hyperdetailed, 8k, high resolution, velvia, velvety, vibrant and rich colors, insanely detailed and intricate",
+        "date_added": "2026-05-21T07:25:36.354393",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 54
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "futuristic cyberpunk airstream treehouse with tiki accents, velvet art, atmospheric lighting, center focus, hyperdetailed, 8k, high resolution, velvia, velvety, vibrant and rich colors, insanely detailed and intricate",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "futuristic cyberpunk airstream treehouse with tiki accents, velvet art, atmospheric lighting, center focus, hyperdetailed, 8k, high resolution, velvia, velvety, vibrant and rich colors, insanely detailed and intricate",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "giant_shiny_chrome_robot_055",
+      "concept": "Giant shiny chrome robot mech exotic alien features",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Giant shiny chrome robot mech, exotic alien features, forestpunk background, masterpiece, cinematic composition, beautiful lighting, sharp, details, hyper detailed, 8k\nAmy Adams as Velma Dinkley in Jaba's palace scene from the Star Wars Return of the Jedi (1983)",
+        "date_added": "2026-05-21T07:25:36.354509",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 55
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Giant shiny chrome robot mech, exotic alien features, forestpunk background, masterpiece, cinematic composition, beautiful lighting, sharp, details, hyper detailed, 8k Amy Adams as Velma Dinkley in Jaba's palace scene from the Star Wars Return of the Jedi (1983)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Giant shiny chrome robot mech, exotic alien features, forestpunk background, masterpiece, cinematic composition, beautiful lighting, sharp, details, hyper detailed, 8k Amy Adams as Velma Dinkley in Jaba's palace scene from the Star Wars Return of the Jedi (1983)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "girl_wearing_cyberpunk_intricate_056",
+      "concept": "Girl wearing cyberpunk intricate streetwear riding futuristic tron",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Girl wearing cyberpunk intricate streetwear riding futuristic tron motorcycle, respirator, detailed portrait, 4k, cinematic dramatic atmosphere, sharp focus, volumetric lighting, cinematic lighting, studio quality",
+        "date_added": "2026-05-21T07:25:36.354647",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 56
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Girl wearing cyberpunk intricate streetwear riding futuristic tron motorcycle, respirator, detailed portrait, 4k, cinematic dramatic atmosphere, sharp focus, volumetric lighting, cinematic lighting, studio quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Girl wearing cyberpunk intricate streetwear riding futuristic tron motorcycle, respirator, detailed portrait, 4k, cinematic dramatic atmosphere, sharp focus, volumetric lighting, cinematic lighting, studio quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "gothic_white_mage_blonde_057",
+      "concept": "Gothic white mage blonde braided hair dove cameron",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Gothic white - mage blonde braided hair dove cameron wearing ivory carved bone armor in the forest, green plants, fantasy character portrait, intricate, elegant, highly detailed",
+        "date_added": "2026-05-21T07:25:36.354760",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 57
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Gothic white - mage blonde braided hair dove cameron wearing ivory carved bone armor in the forest, green plants, fantasy character portrait, intricate, elegant, highly detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Gothic white - mage blonde braided hair dove cameron wearing ivory carved bone armor in the forest, green plants, fantasy character portrait, intricate, elegant, highly detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "group_of_skinned_metahumans_058",
+      "concept": "Group of skinned metahumans screaming in rage and",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Group of skinned metahumans screaming in rage and pain, horror art, highly detailed, intricate, sharp focus, hq, 4k uhd",
+        "date_added": "2026-05-21T07:25:36.354860",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 58
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Group of skinned metahumans screaming in rage and pain, horror art, highly detailed, intricate, sharp focus, hq, 4k uhd",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Group of skinned metahumans screaming in rage and pain, horror art, highly detailed, intricate, sharp focus, hq, 4k uhd",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "taylor_swift_in_a_059",
+      "concept": "Taylor Swift in a Star Trek Uniform character",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Taylor Swift in a Star Trek Uniform, character portrait",
+        "date_added": "2026-05-21T07:25:36.354938",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 59
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Taylor Swift in a Star Trek Uniform, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Taylor Swift in a Star Trek Uniform, character portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "katy_perry_as_the_060",
+      "concept": "Katy Perry as the Mad Hatter in Alice",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Katy Perry as the Mad Hatter in Alice in Wonderland",
+        "date_added": "2026-05-21T07:25:36.354994",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 60
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Katy Perry as the Mad Hatter in Alice in Wonderland",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Katy Perry as the Mad Hatter in Alice in Wonderland",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "high_detailed_big_wizard_061",
+      "concept": "high detailed big wizard monk with neural network",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "high detailed big wizard monk with neural network nerves and bones x ray + dark ambient.",
+        "date_added": "2026-05-21T07:25:36.355045",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 61
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "high detailed big wizard monk with neural network nerves and bones x ray + dark ambient",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "high detailed big wizard monk with neural network nerves and bones x ray + dark ambient",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "jack_black_portrait_high_062",
+      "concept": "Jack Black portrait high detailed smooth draw synthwave",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Jack Black portrait, high detailed, smooth draw, synthwave neon retro, intricate, perfect proportions, dramatic lighting",
+        "date_added": "2026-05-21T07:25:36.355108",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 62
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Jack Black portrait, high detailed, smooth draw, synthwave neon retro, intricate, perfect proportions, dramatic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Jack Black portrait, high detailed, smooth draw, synthwave neon retro, intricate, perfect proportions, dramatic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "jenna_fischer_cleric_wearing_063",
+      "concept": "jenna fischer cleric wearing a tiara made from",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "jenna fischer cleric wearing a tiara made from flowers in a fantasy garden, glamour pose, long blonde wind swept hair, ethereal, dreamy, backlit, highly detailed, stern expression, realistic lighting, sharp focus, rule of thirds, symmetrical facial features",
+        "date_added": "2026-05-21T07:25:36.355187",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 63
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "jenna fischer cleric wearing a tiara made from flowers in a fantasy garden, glamour pose, long blonde wind swept hair, ethereal, dreamy, backlit, highly detailed, stern expression, realistic lighting, sharp focus, rule of thirds, symmetrical facial features",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "jenna fischer cleric wearing a tiara made from flowers in a fantasy garden, glamour pose, long blonde wind swept hair, ethereal, dreamy, backlit, highly detailed, stern expression, realistic lighting, sharp focus, rule of thirds, symmetrical facial features",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "jennifer_lawrence_as_queen_064",
+      "concept": "Jennifer Lawrence as queen of the universe cute",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Jennifer Lawrence as queen of the universe, cute, fantasy, intricate, elegant, highly detailed, 4k, hdr, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.355320",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 64
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Jennifer Lawrence as queen of the universe, cute, fantasy, intricate, elegant, highly detailed, 4k, hdr, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Jennifer Lawrence as queen of the universe, cute, fantasy, intricate, elegant, highly detailed, 4k, hdr, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "king_tutankhamun_black_light_065",
+      "concept": "king tutankhamun black light psychedelic egyption tron style",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "king tutankhamun, black light psychedelic egyption tron style, vaporwave + glitchcore, portrait + NFO Ascii art, glowing neon techcore symbols, the NeverEnding Story and Stranger Things",
+        "date_added": "2026-05-21T07:25:36.355402",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 65
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "king tutankhamun, black light psychedelic egyption tron style, vaporwave + glitchcore, portrait + NFO Ascii art, glowing neon techcore symbols, the NeverEnding Story and Stranger Things",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "king tutankhamun, black light psychedelic egyption tron style, vaporwave + glitchcore, portrait + NFO Ascii art, glowing neon techcore symbols, the NeverEnding Story and Stranger Things",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "medium_shot_portrait_of_066",
+      "concept": "medium shot portrait of a gorgeous anime Kate",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "medium shot portrait of a gorgeous anime Kate Upton, scene from overwatch, style of fortnite, detailed, smooth",
+        "date_added": "2026-05-21T07:25:36.355511",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 66
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "medium shot portrait of a gorgeous anime Kate Upton, scene from overwatch, style of fortnite, detailed, smooth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "medium shot portrait of a gorgeous anime Kate Upton, scene from overwatch, style of fortnite, detailed, smooth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "mid_body_portrait_of_067",
+      "concept": "mid body Portrait of a gorgeous happy Diner",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "mid body Portrait of a gorgeous happy Diner waitress in her revealing uniform, include background is retro Diner interior background, highly detailed eyes, perfect lighting and shading, anime",
+        "date_added": "2026-05-21T07:25:36.355585",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 67
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "mid body Portrait of a gorgeous happy Diner waitress in her revealing uniform, include background is retro Diner interior background, highly detailed eyes, perfect lighting and shading, anime",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "mid body Portrait of a gorgeous happy Diner waitress in her revealing uniform, include background is retro Diner interior background, highly detailed eyes, perfect lighting and shading, anime",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "mushroom_goddess_with_group_068",
+      "concept": "Mushroom goddess with group of elders discussing the",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Mushroom goddess with group of elders, discussing the new season of friends, cynical realism, beautiful lighting",
+        "date_added": "2026-05-21T07:25:36.355690",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 68
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Mushroom goddess with group of elders, discussing the new season of friends, cynical realism, beautiful lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Mushroom goddess with group of elders, discussing the new season of friends, cynical realism, beautiful lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "notorious_infamous_alien_villain_069",
+      "concept": "Notorious infamous Alien villain portrait highly detailed notes",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Notorious infamous Alien villain portrait, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, detailed, intricate, sharp image, photograph, high details, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+        "date_added": "2026-05-21T07:25:36.355778",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 69
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Notorious infamous Alien villain portrait, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, detailed, intricate, sharp image, photograph, high details, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Notorious infamous Alien villain portrait, highly detailed, notes, medical, x-ray, anatomical, dark arts, highly detailed, bright red and green glow, centered on a black background, tarot card, detailed, intricate, sharp image, photograph, high details, 3-Dimensional, detailed, intricate, magic glow, bioluminescent lighting, atmospheric, ominous, eerie, cinematic, Epic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_futuristic_evil_cyberpunk_070",
+      "concept": "Portrait futuristic evil cyberpunk young female death knight",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Portrait futuristic evil cyberpunk young female death knight, in futuristic heavily snowy tokyo rooftop cyberpunk night, sci-fi, fantasy, intricate, very very beautiful, elegant, neon light, highly detailed, soft light, hdri, smooth, sharp focus\nPortrait of apex legends aaliyah haughton, x - men, storm, elegant, electricity arcs, lightning strikes, rippling electromagnetic, highly detailed, glamor pose, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.355977",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 70
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait futuristic evil cyberpunk young female death knight, in futuristic heavily snowy tokyo rooftop cyberpunk night, sci-fi, fantasy, intricate, very very beautiful, elegant, neon light, highly detailed, soft light, hdri, smooth, sharp focus Portrait of apex legends aaliyah haughton, x - men, storm, elegant, electricity arcs, lightning strikes, rippling electromagnetic, highly detailed, glamor pose, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait futuristic evil cyberpunk young female death knight, in futuristic heavily snowy tokyo rooftop cyberpunk night, sci-fi, fantasy, intricate, very very beautiful, elegant, neon light, highly detailed, soft light, hdri, smooth, sharp focus Portrait of apex legends aaliyah haughton, x - men, storm, elegant, electricity arcs, lightning strikes, rippling electromagnetic, highly detailed, glamor pose, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_apex_legends_071",
+      "concept": "portrait of apex legends scarlett johansson intricate elegant",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "portrait of apex legends scarlett johansson, intricate, elegant, glowing lights, highly detailed, glamor pose, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.356180",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 71
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "portrait of apex legends scarlett johansson, intricate, elegant, glowing lights, highly detailed, glamor pose, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "portrait of apex legends scarlett johansson, intricate, elegant, glowing lights, highly detailed, glamor pose, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_chewbacca_star_072",
+      "concept": "Portrait of Chewbacca star wars upper body fantasy",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Portrait of Chewbacca, star wars, upper body, fantasy, intricate, highly detailed, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.356265",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 72
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of Chewbacca, star wars, upper body, fantasy, intricate, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of Chewbacca, star wars, upper body, fantasy, intricate, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_disney_aurora_073",
+      "concept": "Portrait of disney Aurora intricate elegant highly detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Portrait of disney Aurora, intricate, elegant, highly detailed, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.356339",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 73
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of disney Aurora, intricate, elegant, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of disney Aurora, intricate, elegant, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_steampunk_willy_074",
+      "concept": "Portrait of Steampunk Willy Wonka",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Portrait of Steampunk Willy Wonka",
+        "date_added": "2026-05-21T07:25:36.356405",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 74
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of Steampunk Willy Wonka",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of Steampunk Willy Wonka",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_rusty_old_075",
+      "concept": "Portrait of rusty old robot exotic alien features",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Portrait of rusty old robot, exotic alien features, robotic enhancements, desaturated, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4k, 8k",
+        "date_added": "2026-05-21T07:25:36.356449",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 75
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of rusty old robot, exotic alien features, robotic enhancements, desaturated, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4k, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of rusty old robot, exotic alien features, robotic enhancements, desaturated, cinematic composition, dramatic pose, beautiful lighting, sharp, details, hyper - detailed, hd, hdr, 4k, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "portrait_of_teenage_lucy_076",
+      "concept": "Portrait of teenage lucy lawless as xena s",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Portrait of teenage lucy lawless as xena, 1 9 5 0 s, intricate, elegant, magic glow, highly detailed, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.356566",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 76
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait of teenage lucy lawless as xena, 1 9 5 0 s, intricate, elegant, magic glow, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait of teenage lucy lawless as xena, 1 9 5 0 s, intricate, elegant, magic glow, highly detailed, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "poster_of_a_cyber_077",
+      "concept": "poster of a cyber wizard shaman tarot card",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "poster of a cyber wizard shaman tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, detailed, intricate, magic glow, bioluminescent lighting",
+        "date_added": "2026-05-21T07:25:36.356653",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 77
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "poster of a cyber wizard shaman tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, detailed, intricate, magic glow, bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "poster of a cyber wizard shaman tarot card dark art, highly detailed, bright purple and red glow, centered on a black background, in the style of magic the gathering art, detailed, intricate, magic glow, bioluminescent lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "professional_portrait_of_female_078",
+      "concept": "professional portrait of female t assassin armor elements",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "professional portrait of female t800 assassin, armor elements, chrome, dynamic lighting, stunning hair, fading color, beautiful bone structure, symmetrical facial features, intricate, elegant, smooth, sharp focus",
+        "date_added": "2026-05-21T07:25:36.356795",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 78
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "professional portrait of female t800 assassin, armor elements, chrome, dynamic lighting, stunning hair, fading color, beautiful bone structure, symmetrical facial features, intricate, elegant, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "professional portrait of female t800 assassin, armor elements, chrome, dynamic lighting, stunning hair, fading color, beautiful bone structure, symmetrical facial features, intricate, elegant, smooth, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "pulp_portrait_of_a_079",
+      "concept": "pulp portrait of a beautiful young woman vampire",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "pulp portrait of a beautiful young woman vampire detective",
+        "date_added": "2026-05-21T07:25:36.356911",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 79
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "pulp portrait of a beautiful young woman vampire detective",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "pulp portrait of a beautiful young woman vampire detective",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "retro_photo_of_harrison_080",
+      "concept": "Retro photo of Harrison Ford as Han Solo",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Retro photo of Harrison Ford as Han Solo action figure + plastic + close up + symmetrical eyes + Mattel + centered + distance +  perfect anatomy + maximum detail + dark lighting + studio lighting + hard rim lighting + Photoshopped",
+        "date_added": "2026-05-21T07:25:36.356965",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 80
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Retro photo of Harrison Ford as Han Solo action figure + plastic + close up + symmetrical eyes + Mattel + centered + distance + perfect anatomy + maximum detail + dark lighting + studio lighting + hard rim lighting + Photoshopped",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Retro photo of Harrison Ford as Han Solo action figure + plastic + close up + symmetrical eyes + Mattel + centered + distance + perfect anatomy + maximum detail + dark lighting + studio lighting + hard rim lighting + Photoshopped",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "retro_sci_fi_fantasy_081",
+      "concept": "retro sci fi fantasy female humanoid gynoid robot",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "retro sci-fi fantasy female humanoid gynoid robot inspired by sports car elements, highly detailed, detailed, intricate, vintage science fiction",
+        "date_added": "2026-05-21T07:25:36.357090",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 81
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "retro sci-fi fantasy female humanoid gynoid robot inspired by sports car elements, highly detailed, detailed, intricate, vintage science fiction",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "retro sci-fi fantasy female humanoid gynoid robot inspired by sports car elements, highly detailed, detailed, intricate, vintage science fiction",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "rick_sanchez_portrait_inspired_082",
+      "concept": "Rick Sanchez portrait inspired by rick and morty",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Rick Sanchez portrait inspired by rick and morty style, intricate, high detail, sharp high detail",
+        "date_added": "2026-05-21T07:25:36.357176",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 82
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Rick Sanchez portrait inspired by rick and morty style, intricate, high detail, sharp high detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Rick Sanchez portrait inspired by rick and morty style, intricate, high detail, sharp high detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "michael_jackson_as_thanos_083",
+      "concept": "Michael Jackson as thanos highly detailed cinematic lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Michael Jackson as thanos, highly detailed, cinematic lighting",
+        "date_added": "2026-05-21T07:25:36.357249",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 83
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Michael Jackson as thanos, highly detailed, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Michael Jackson as thanos, highly detailed, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "scarlett_johansson_in_gone_084",
+      "concept": "Scarlett johansson in gone with the wind",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Scarlett johansson in gone with the wind",
+        "date_added": "2026-05-21T07:25:36.357304",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 84
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Scarlett johansson in gone with the wind",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Scarlett johansson in gone with the wind",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "sci_fi_fantasy_portrait_085",
+      "concept": "sci fi fantasy portrait of an alien with",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "sci-fi fantasy, portrait of an alien with huge round white ball head",
+        "date_added": "2026-05-21T07:25:36.357350",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 85
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "sci-fi fantasy, portrait of an alien with huge round white ball head",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "sci-fi fantasy, portrait of an alien with huge round white ball head",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "silver_bug_is_flying_086",
+      "concept": "silver bug is flying in a futuristic city",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "silver bug is flying in a futuristic city, dieselpunk style, high detailed, cinematic mode, hdr, optical flare, teal orange color scheme",
+        "date_added": "2026-05-21T07:25:36.357408",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 86
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "silver bug is flying in a futuristic city, dieselpunk style, high detailed, cinematic mode, hdr, optical flare, teal orange color scheme",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "silver bug is flying in a futuristic city, dieselpunk style, high detailed, cinematic mode, hdr, optical flare, teal orange color scheme",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "slimer_as_a_d_087",
+      "concept": "slimer as a d d monster full body",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "slimer as a d & d monster, full body, 1 9 8 1, hq intricate details, inside stylized border",
+        "date_added": "2026-05-21T07:25:36.357499",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 87
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "slimer as a d & d monster, full body, 1 9 8 1, hq intricate details, inside stylized border",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "slimer as a d & d monster, full body, 1 9 8 1, hq intricate details, inside stylized border",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "spacecraft_cockpit_internal_security_089",
+      "concept": "spacecraft cockpit internal security camera perspective high details",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "spacecraft cockpit internal security camera perspective, high details, intricately detailed, sharp, details, hyper - detailed, hd, 4k, 8k",
+        "date_added": "2026-05-21T07:25:36.357605",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 89
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "spacecraft cockpit internal security camera perspective, high details, intricately detailed, sharp, details, hyper - detailed, hd, 4k, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "spacecraft cockpit internal security camera perspective, high details, intricately detailed, sharp, details, hyper - detailed, hd, 4k, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "tank_girl_in_mad_090",
+      "concept": "tank girl in Mad Max Beyond Thunderdome",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "tank girl in Mad Max Beyond Thunderdome 1985",
+        "date_added": "2026-05-21T07:25:36.357692",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 90
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "tank girl in Mad Max Beyond Thunderdome 1985",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "tank girl in Mad Max Beyond Thunderdome 1985",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "the_next_poster_for_091",
+      "concept": "the next poster for the new anime by",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "the next poster for the new anime by Studio Ghibli, creators of Princess Mononoke, Howl's Moving Castle, Spirited Away, colorful, fantasy, anime",
+        "date_added": "2026-05-21T07:25:36.357741",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 91
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "the next poster for the new anime by Studio Ghibli, creators of Princess Mononoke, Howl's Moving Castle, Spirited Away, colorful, fantasy, anime",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "the next poster for the new anime by Studio Ghibli, creators of Princess Mononoke, Howl's Moving Castle, Spirited Away, colorful, fantasy, anime",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "three_long_haired_musicians_092",
+      "concept": "three long haired musicians smoking long pipes in",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "three long haired musicians smoking long pipes in the forest, psychedelic, dark art, super detailed 4k",
+        "date_added": "2026-05-21T07:25:36.357838",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 92
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "three long haired musicians smoking long pipes in the forest, psychedelic, dark art, super detailed 4k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "three long haired musicians smoking long pipes in the forest, psychedelic, dark art, super detailed 4k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "tiny_adorable_baby_yoda_093",
+      "concept": "Tiny adorable baby Yoda magical world background cinematic",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Tiny adorable baby Yoda, magical world background, cinematic lighting, ultra detailed, hd, 8k",
+        "date_added": "2026-05-21T07:25:36.357926",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 93
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Tiny adorable baby Yoda, magical world background, cinematic lighting, ultra detailed, hd, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Tiny adorable baby Yoda, magical world background, cinematic lighting, ultra detailed, hd, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ultra_detailed_wizard_android_094",
+      "concept": "ultra detailed wizard Android deity sci fi horror",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "ultra detailed wizard Android deity, sci-fi horror, (dia de los muertos), asymmetrical, intricate, triadic color scheme",
+        "date_added": "2026-05-21T07:25:36.357993",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 94
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ultra detailed wizard Android deity, sci-fi horror, (dia de los muertos), asymmetrical, intricate, triadic color scheme",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ultra detailed wizard Android deity, sci-fi horror, (dia de los muertos), asymmetrical, intricate, triadic color scheme",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "unicorn_candypunk_tarotpunk_vhs_095",
+      "concept": "unicorn candypunk tarotpunk VHS aesthetic centered detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "unicorn, candypunk, tarotpunk, VHS aesthetic, centered, detailed",
+        "date_added": "2026-05-21T07:25:36.358074",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 95
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "unicorn, candypunk, tarotpunk, VHS aesthetic, centered, detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "unicorn, candypunk, tarotpunk, VHS aesthetic, centered, detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "vehicle_designed_for_and_096",
+      "concept": "vehicle designed for and capable of interdimensional space",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "vehicle designed for and capable of interdimensional space travel",
+        "date_added": "2026-05-21T07:25:36.358130",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 96
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "vehicle designed for and capable of interdimensional space travel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "vehicle designed for and capable of interdimensional space travel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "yoda_dark_art_highly_097",
+      "concept": "Yoda dark art highly detailed bright green glow",
+      "status": "active",
+      "metadata": {
+        "original_source": "bitburner-sd2",
+        "original_prompt": "Yoda dark art highly detailed bright green glow centered on a black background tarot card, detailed, intricate, magic glow",
+        "date_added": "2026-05-21T07:25:36.358184",
+        "source_file": "bitburner-sd2_raw.txt",
+        "source_index": 97
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Yoda dark art highly detailed bright green glow centered on a black background tarot card, detailed, intricate, magic glow",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Yoda dark art highly detailed bright green glow centered on a black background tarot card, detailed, intricate, magic glow",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

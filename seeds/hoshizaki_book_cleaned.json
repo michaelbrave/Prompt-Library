@@ -1,0 +1,1787 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "cute_seductive_dignified_succubus_000",
+      "concept": "cute seductive dignified succubus under cherry blossom stunning",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 1: Succubus Under the Night Sakura",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"cute seductive dignified succubus under cherry blossom\", stunning masterpiece, superfine decadent illustration, inspired by Takato Yamamoto | Klimt, purple | pink | black, effective golden leaf, side view, (symmetric decolated horns), hypnotic gaze, bared shoulders, perfect hands, hologram_skin, elaborate ornaments, metalic luster, matte skin, natural skin texture, cherry blossom, moon, night, Fibonacci sequence compition, epic, 2D, UHD, 16K, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"cute seductive dignified succubus under cherry blossom\", stunning masterpiece, superfine decadent illustration, inspired by Takato Yamamoto | Klimt, purple | pink | black, effective golden leaf, side view, (symmetric decolated horns), hypnotic gaze, bared shoulders, perfect hands, hologram_skin, elaborate ornaments, metalic luster, matte skin, natural skin texture, cherry blossom, moon, night, Fibonacci sequence compition, epic, 2D, UHD, 16K, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stunning_masterpiece_best_quality_010",
+      "concept": "stunning masterpiece best quality super fine photorealistic concept",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 2: Something Like Atelier Marie",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "stunning masterpiece, best quality, super fine photorealistic concept art of \"Life at the Herbal Research Institute\", inspired by Atelier Marie | Soft impressionism | cryengine, eye-catching, pastel watercolor and ink, solarizing master, beautiful details, hyperrealistic, medium wide shot, shadows, fantasy, cute kawaii decora chan gnome girl child with mixed color and small elf ears making a medicine, by kohime ohse | hiromu Arakawa, anime-inspired character, overaction, shinny silky white skin, beautiful detailed facial features, immersive, full-body, herbal preparation, in Chinese herbal medicine research institute, olive cotton, side view, action pose, light, nighttime, 32K, UHD, perfect composition, epic, never before, rtx on, Fibonacci sequence",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "stunning masterpiece, best quality, super fine photorealistic concept art of \"Life at the Herbal Research Institute\", inspired by Atelier Marie | Soft impressionism | cryengine, eye-catching, pastel watercolor and ink, solarizing master, beautiful details, hyperrealistic, medium wide shot, shadows, fantasy, cute kawaii decora chan gnome girl child with mixed color and small elf ears making a medicine, by kohime ohse | hiromu Arakawa, anime-inspired character, overaction, shinny silky white skin, beautiful detailed facial features, immersive, full-body, herbal preparation, in Chinese herbal medicine research institute, olive cotton, side view, action pose, light, nighttime, 32K, UHD, perfect composition, epic, never before, rtx on, Fibonacci sequence",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_cute_gnome_girl_011",
+      "concept": "a cute gnome girl with small elf ears",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 2: Something Like Atelier Marie",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201ca cute gnome girl with small elf ears working in an abandoned herbal laboratory filled with vintage jars and ancient herbs\u201d, stunning masterpiece, best quality, superfine poetic digital illustration, inspired by classical fantasy illustration | Studio Ghibli | Marie Laurencin, holding a herb, perfect hands, sunlight filtering through dusty antique glass, warm amber glow, golden light rays, desaturated greens, earthy browns, warm beiges, aged parchment tones, vintage glass bottles, scattered scrolls, moss on shelves (muted), hyper detailed, soft painterly strokes, ambient cinematic lighting, gentle expression, nostalgic warm atmosphere, Fibonacci sequence composition, calm and immersive mood, epic 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201ca cute gnome girl with small elf ears working in an abandoned herbal laboratory filled with vintage jars and ancient herbs\u201d, stunning masterpiece, best quality, superfine poetic digital illustration, inspired by classical fantasy illustration | Studio Ghibli | Marie Laurencin, holding a herb, perfect hands, sunlight filtering through dusty antique glass, warm amber glow, golden light rays, desaturated greens, earthy browns, warm beiges, aged parchment tones, vintage glass bottles, scattered scrolls, moss on shelves (muted), hyper detailed, soft painterly strokes, ambient cinematic lighting, gentle expression, nostalgic warm atmosphere, Fibonacci sequence composition, calm and immersive mood, epic 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_012",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 2: Something Like Atelier Marie",
+        "prompt_index": 2,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, gnome_girl, small_elf_ears, pointe_gnome_hat, tights, coverd_legs, shoes, cute, young_girl, herbalist, working_in_lab, holding_herbs, conentrated, herbal_preparation, purple_hair, bob_cut, detailed_hair_strands, white_skin, big_eyes, detailed_face, side_view, high angle, action_pose, sitting_on_floor, flower_pots, indoors, brick_lab, rustic_wall, window, moss, herbs, pot_plants, [ivy_on_wall, climbing_plants], morning_light, light_particles, pastel_lighting, soft_impressionism, atelier_marie_style, fantasy_setting, cozy_environment, cryengine_lighting, semi_realistic, 3d_style, fantasy_illustration, anime_rendering, ultra_detailed, fine_details, texture_focus, immersive, cinematic_composition, 32K, UHD",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, distorted, extra limbs, disfigured, lowres, flat_lighting, dull_lighting, modern_setting, ugly_face, wrong_ear_shape, looking_angry, messy_background, industrial_lab, dark_palette, grayscale, muted_colors, glossy, night, evening, dark, dim, lantern, magic, bare_legs, witch_hat, glossy_hair, clumpy_hair, blob_hair, poorly_drawn, messy_details, low_details, low_quality_texture, glossy_hair, loli, shota, child",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, gnome_girl, small_elf_ears, pointe_gnome_hat, tights, coverd_legs, shoes, cute, young_girl, herbalist, working_in_lab, holding_herbs, conentrated, herbal_preparation, purple_hair, bob_cut, detailed_hair_strands, white_skin, big_eyes, detailed_face, side_view, high angle, action_pose, sitting_on_floor, flower_pots, indoors, brick_lab, rustic_wall, window, moss, herbs, pot_plants, [ivy_on_wall, climbing_plants], morning_light, light_particles, pastel_lighting, soft_impressionism, atelier_marie_style, fantasy_setting, cozy_environment, cryengine_lighting, semi_realistic, 3d_style, fantasy_illustration, anime_rendering, ultra_detailed, fine_details, texture_focus, immersive, cinematic_composition, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stunning_masterpiece_best_quality_020",
+      "concept": "stunning masterpiece best quality superfine depressive manga comic",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 3: The Expression of Light and Shadow",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "stunning masterpiece, best quality, superfine depressive manga comic illustration, inspired by gothic | Fantasy Realism, gothic horror colors, gothic chiaroscuro, solarizing master, aggressive shadows, artful, eye-catching, ultra detailed, hyper realistic, full-body, close up, a cute kawaii gnome girl with small elf ears sitting on floor and reading a horror book in a dark room, ultra detailed panic facial features, twitched face with fear, pale skin, panic, overaction, perfect hands, candlelight, bookshelf dark, shadows, storm night, pefect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "stunning masterpiece, best quality, superfine depressive manga comic illustration, inspired by gothic | Fantasy Realism, gothic horror colors, gothic chiaroscuro, solarizing master, aggressive shadows, artful, eye-catching, ultra detailed, hyper realistic, full-body, close up, a cute kawaii gnome girl with small elf ears sitting on floor and reading a horror book in a dark room, ultra detailed panic facial features, twitched face with fear, pale skin, panic, overaction, perfect hands, candlelight, bookshelf dark, shadows, storm night, pefect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_021",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 3: The Expression of Light and Shadow",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, comic_style, gnome_girl, kawaii, small_elf_ears, sitting_on_floor, holding_book, horror_book, vintage_book, looking_up, head_tilted_back, dark_room, blue_gray_hair, long_hair, panic_expression, scared_face, pale_skin, high_angle, bird_view, lantern, bookshelf_background, window, stormy_night, dramatic_lighting, chiaroscuro, candlelight, cinematic_lighting, strong_shadows, high_contrast, moody_lighting, dramatic_shadows, gothic_horror, chiaroscuro, ultra_detailed, hyper_realistic, close_up, full_body, cinematic_lighting, cozy_gothic_library, scared_pose, fearful_eyes, atmospheric_lighting, perfect_hands, fluttering_pages, moody_ambience, epic_composition, 2D, 16K, 32K, UHD",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, extra limbs, distorted, lowres, dull_lighting, incorrect_ear_shape, extra_books, smiling, cheerful_expression, daytime, modern_furniture, out_of_focus, candle, glossy_skin, looking_down, looking_at_viewer, averted_gaze, head_tilted_down, looking_down, facing_forward, flat_lighting, dull_lighting, overexposed, low_contrast, washed_out_colors, split, panels, looking_down, poorly_drawn_background",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, comic_style, gnome_girl, kawaii, small_elf_ears, sitting_on_floor, holding_book, horror_book, vintage_book, looking_up, head_tilted_back, dark_room, blue_gray_hair, long_hair, panic_expression, scared_face, pale_skin, high_angle, bird_view, lantern, bookshelf_background, window, stormy_night, dramatic_lighting, chiaroscuro, candlelight, cinematic_lighting, strong_shadows, high_contrast, moody_lighting, dramatic_shadows, gothic_horror, chiaroscuro, ultra_detailed, hyper_realistic, close_up, full_body, cinematic_lighting, cozy_gothic_library, scared_pose, fearful_eyes, atmospheric_lighting, perfect_hands, fluttering_pages, moody_ambience, epic_composition, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "princess_stunning_masterpiece_best_030",
+      "concept": "princess stunning masterpiece best quality superfine manga illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 4: The Arrogant Princess",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"princess\", stunning masterpiece, best quality, superfine manga illustration, pastel, eye-catching, artistic, solarizing master, masterful shadows, gradation, meticulously detailed, hyper realistic, full body, medium wide shot, side view, cute young Slav princess standing, jester-like elegant dress with insanely complicated pattern and frills, elaborate intricated ornaments and crown, opera gloves, arrogance, naive, victoria era, outdoors, castle, dim, sunset, light, town, epic, perfect composition, 2D, cartoon, 16K, 32K, UHD, Parameter and Data",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"princess\", stunning masterpiece, best quality, superfine manga illustration, pastel, eye-catching, artistic, solarizing master, masterful shadows, gradation, meticulously detailed, hyper realistic, full body, medium wide shot, side view, cute young Slav princess standing, jester-like elegant dress with insanely complicated pattern and frills, elaborate intricated ornaments and crown, opera gloves, arrogance, naive, victoria era, outdoors, castle, dim, sunset, light, town, epic, perfect composition, 2D, cartoon, 16K, 32K, UHD, Parameter and Data",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "princess_stunning_masterpiece_best_031",
+      "concept": "princess stunning masterpiece best quality superfine manga illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 4: The Arrogant Princess",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"princess\", stunning masterpiece, best quality, superfine manga illustration, pastel, eye-catching, artistic, solarizing master, masterful shadows, gradation, meticulously detailed, hyper realistic, west shot, medium wide shot, side view, close up, cute young Slav princess standing, jester-like elegant dress with insanely complicated pattern and frills, elaborate intricated ornaments and crown, opera gloves, arrogance, naive, arrogant pose, victoria era, outdoors, castle, dim, sunset, light, town, epic, perfect composition, 2D, cartoon, 16K, 32K, UHD",
+          "negative_template": "nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, text, (water:1.4), basket (shopping), turn white, (become lighter in colour:1.3), (collarbone:1.4), (boobs, cleavage:1.4), (sepia:1.3), (exposed only skirt-hem:1.4), (noise:1.3), nsfw, porn, large breasts, nude, topless, naked, cleavage, gravure, pornography, underboob, sideboob, big tits, sensitive, explicit, umbrella, man, male, boy, masculine gender, blurry, unsharp, (Cherryblossom:1.4), yojyo, pre-teen, china text, Red sign, grain of light, china text, korean text, lolita age, pre-teen, big eye, childishness, 1yo, 2yo, 3yo, 4yo, 5yo, 6yo, 7yo, 8yo, 9yo, 10yo, 11yo, 12yo, 13yo, 14yo, 15yo, 16yo, chibi, , EasyNegative, extra fingers, fewer fingers, , mini skirt, appeal chest, test, nipple, cast off, appeal leg",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "\"princess\", stunning masterpiece, best quality, superfine manga illustration, pastel, eye-catching, artistic, solarizing master, masterful shadows, gradation, meticulously detailed, hyper realistic, west shot, medium wide shot, side view, close up, cute young Slav princess standing, jester-like elegant dress with insanely complicated pattern and frills, elaborate intricated ornaments and crown, opera gloves, arrogance, naive, arrogant pose, victoria era, outdoors, castle, dim, sunset, light, town, epic, perfect composition, 2D, cartoon, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"princess\", stunning masterpiece, best quality, superfine manga illustration, pastel, eye-catching, artistic, solarizing master, masterful shadows, gradation, meticulously detailed, hyper realistic, west shot, medium wide shot, side view, close up, cute young Slav princess standing, jester-like elegant dress with insanely complicated pattern and frills, elaborate intricated ornaments and crown, opera gloves, arrogance, naive, arrogant pose, victoria era, outdoors, castle, dim, sunset, light, town, epic, perfect composition, 2D, cartoon, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_032",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 4: The Arrogant Princess",
+        "prompt_index": 2,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, young_princess, cute, arrogant_girl, arrogance, realistic_face, ultra_detailed_facial_features, high_detail_skin, skin_shading, subsurface_scattering, defined_jawline, sharp_nose, realistic_lips, realistic_eyes, slim_face, pointed_chin, confident_look, cold_beauty, princess_dress, jester_dress, intricate_frills, elaborate_ornaments, ornate_crown, opera_gloves, victorian_fashion, aristocrat, complex_pattern, pastel_color, eye-catching, artistic, meticulously_detailed, hyper_realistic, solarizing_master, masterful_shadows, color_gradient, beautiful_lighting, cartoon_style, medium_wide_shot, side_view, close_up, west_shot, sunset, glowing_light, outdoors, castle_background, town_background, dim_lighting, epic, perfect_composition, 2d, 16k, 32k, uhd",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, extra limbs, distorted, lowres, dull_lighting, extra fingers, mutated, ugly, missing limb, cross-eyed, wrong anatomy, close_up, glossy, glossy_skin, glossy_cloth, anime_style, big_eyes, flat_shading, simple_face, close_up",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, young_princess, cute, arrogant_girl, arrogance, realistic_face, ultra_detailed_facial_features, high_detail_skin, skin_shading, subsurface_scattering, defined_jawline, sharp_nose, realistic_lips, realistic_eyes, slim_face, pointed_chin, confident_look, cold_beauty, princess_dress, jester_dress, intricate_frills, elaborate_ornaments, ornate_crown, opera_gloves, victorian_fashion, aristocrat, complex_pattern, pastel_color, eye-catching, artistic, meticulously_detailed, hyper_realistic, solarizing_master, masterful_shadows, color_gradient, beautiful_lighting, cartoon_style, medium_wide_shot, side_view, close_up, west_shot, sunset, glowing_light, outdoors, castle_background, town_background, dim_lighting, epic, perfect_composition, 2d, 16k, 32k, uhd",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_very_040",
+      "concept": "masterpiece best quality very aesthetic yukata beauty detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 5: A Kimono Beauty Reaching for the Moon Reflected in Water",
+        "prompt_index": 0,
+        "date_added": "2025-05-21",
+        "civitai_tokens_stripped": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, very aesthetic, yukata_beauty, detailed_hair_strands, exposed_nape, visible_nape, hair_up, traditional_updo, kawaii, detailed_eyes, hair_ornaments, earings, glowing_floral_pattern, [cleavage], exposed_collarbone, soft_shading_on_chest, scooping_water, cupped_hands, moon_reflection, reflection_in_water, moon_reflected_in_hand, glowing_water, moonlight, delicate_pose, soft_light, poetic_scene, symbolic_composition, crouching_pose, high_angle_view, looking_down_at_girl, diagonal_back_view, full_body, whole_body_visible, centered_composition, high_angle, centered_composition, moon_reflection, serene_pond, water_surface_ballet, transparent_sleeves, dark, dim, backlighting, misty_lighting, ethereal_face, elegant_hand_pose, slow_motion",
+          "negative_template": "anime_style, thick_cloth, solid_color_yukata, cartoonish, rough_texture, lowres, generic_pattern, photorealistic, opaque, glossy_hair, close_up, cropped_body, off_frame_limbs, head_only, bust_shot, upper_body_only, half_body, zoomed_in_face, cut_off_composition, front_view, close_up, low_angle, head_only, face_only, half_body, looking_up, standing, bigi_breasts, petals, cleavage, large_breasts, huge_breasts, exaggerated_breasts, underboob, sideboob, open_chest, breast_focus, revealing_clothes, lowcut_dress, bikini, lingerie, nsfw, erotic, lewd, suggestive, deep_cleavage, monochrome",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "masterpiece, best quality, very aesthetic, yukata_beauty, detailed_hair_strands, exposed_nape, visible_nape, hair_up, traditional_updo, kawaii, detailed_eyes, hair_ornaments, earings, glowing_floral_pattern, [cleavage], exposed_collarbone, soft_shading_on_chest, scooping_water, cupped_hands, moon_reflection, reflection_in_water, moon_reflected_in_hand, glowing_water, moonlight, delicate_pose, soft_light, poetic_scene, symbolic_composition, crouching_pose, high_angle_view, looking_down_at_girl, diagonal_back_view, full_body, whole_body_visible, centered_composition, high_angle, centered_composition, moon_reflection, serene_pond, water_surface_ballet, transparent_sleeves, dark, dim, backlighting, misty_lighting, ethereal_face, elegant_hand_pose, slow_motion",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, very aesthetic, yukata_beauty, detailed_hair_strands, exposed_nape, visible_nape, hair_up, traditional_updo, kawaii, detailed_eyes, hair_ornaments, earings, glowing_floral_pattern, [cleavage], exposed_collarbone, soft_shading_on_chest, scooping_water, cupped_hands, moon_reflection, reflection_in_water, moon_reflected_in_hand, glowing_water, moonlight, delicate_pose, soft_light, poetic_scene, symbolic_composition, crouching_pose, high_angle_view, looking_down_at_girl, diagonal_back_view, full_body, whole_body_visible, centered_composition, high_angle, centered_composition, moon_reflection, serene_pond, water_surface_ballet, transparent_sleeves, dark, dim, backlighting, misty_lighting, ethereal_face, elegant_hand_pose, slow_motion",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stunning_masterpiece_best_quality_050",
+      "concept": "stunning masterpiece best quality superfine digital illustration inspired",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 6: Sakura Kitten",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "stunning masterpiece, best quality, superfine digital illustration, inspired by Klee | Marie Laurencin, detailed pen and ink, pastel colors, visually intriguing, artful, eye-catching, meticulously detailed, medium wide shot, two abstract liquid kittens with reflecting eyes, kidding, humorous, pows, undulation, dark, abstract cherry blossom background, Fibonacci sequence composition, epic, 2D, rtx on, UHD, 16K, 32K Parameter and Data",
+          "negative_template": "unaestheticXLv13",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "stunning masterpiece, best quality, superfine digital illustration, inspired by Klee | Marie Laurencin, detailed pen and ink, pastel colors, visually intriguing, artful, eye-catching, meticulously detailed, medium wide shot, two abstract liquid kittens with reflecting eyes, kidding, humorous, pows, undulation, dark, abstract cherry blossom background, Fibonacci sequence composition, epic, 2D, rtx on, UHD, 16K, 32K Parameter and Data",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "poloar_bear_on_tropical_060",
+      "concept": "Poloar bear on tropical beach stunning masterpiece superfine",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 7: A Polar Bear in the Tropics",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Poloar bear on tropical beach\", stunning masterpiece, superfine manga illustration, inspired by Monet, solarizing master, artful, eye-catching, complementary colors, meticulously detailed, a pesonified polar bear, wearing aroha shirt, intricated detailed glowing sunglass, elegant ornaments, holding a glass of tropical juce, cheers, pow, beautiful reflection, bungalow, shadows, sunset, apt background, perfect composition, epic, 2D, UHD, 16K, 32K, luminism, Parameter and Data",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Poloar bear on tropical beach\", stunning masterpiece, superfine manga illustration, inspired by Monet, solarizing master, artful, eye-catching, complementary colors, meticulously detailed, a pesonified polar bear, wearing aroha shirt, intricated detailed glowing sunglass, elegant ornaments, holding a glass of tropical juce, cheers, pow, beautiful reflection, bungalow, shadows, sunset, apt background, perfect composition, epic, 2D, UHD, 16K, 32K, luminism, Parameter and Data",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "hatsune_miku_guanyin_stunning_070",
+      "concept": "Hatsune Miku Guanyin stunning masterpiece superfine cheerful illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 8: Hatsune Miku as a Bodhisattva",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Hatsune Miku Guanyin\", stunning masterpiece, superfine cheerful illustration, inspired by Klimt, artful, eye-catching, vivid colors, colorful, effective golden leaves, meticulously detailed, a cute kawaii mercy Hatune Miku Guanyin dancing with electric guitar, detailed green long hairs, elegant ornaments, enigmatic smile, dynamic feeling, surrounded by translucent some Bodhisattva, lotus flowers, abstract mandara background, perfect composition, epic, 2D, UHD, 16K, 32K, Parameter and Data",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Hatsune Miku Guanyin\", stunning masterpiece, superfine cheerful illustration, inspired by Klimt, artful, eye-catching, vivid colors, colorful, effective golden leaves, meticulously detailed, a cute kawaii mercy Hatune Miku Guanyin dancing with electric guitar, detailed green long hairs, elegant ornaments, enigmatic smile, dynamic feeling, surrounded by translucent some Bodhisattva, lotus flowers, abstract mandara background, perfect composition, epic, 2D, UHD, 16K, 32K, Parameter and Data",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_071",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 8: Hatsune Miku as a Bodhisattva",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, hatsune_miku, miku_benzaiten, benevolent_expression, innocent_smile, dancing_pose, holding_electric_guitar, long_green_hair, flowing_hair, detailed_ornate_headdress, traditional_japanese_ornaments, golden_embroidery, kimono, colorful_kimono, inspired_by_klimt, divine_aura, radiant_spiritual_glow, lotus_flower, standing_on_lotus, surrounded_by_floating_petals, heavenly_radiance, soft_water_reflection, japanese_mythology_theme, music_goddess_style, musical_divinity, highly_detailed_mandala, complex_mandala_pattern, sacred_geometry, symmetric_design, flowing_ribbons, spiritual_background, cinematic_composition, soft_lighting, dynamic_cloth_motion, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, lowres, distorted_face, wrong_hair_color, jpeg_artifacts, modern_clothes, no_instrument, missing_headdress, missing_lotus, flat_lighting, generic_dress, western_theme, enigmatic_smile, poorly_drawn_mandala, low_detail_background, generic_background_pattern, messy_jewelry, flattened_ornament, blurry_mandala, undefined_headdress",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, hatsune_miku, miku_benzaiten, benevolent_expression, innocent_smile, dancing_pose, holding_electric_guitar, long_green_hair, flowing_hair, detailed_ornate_headdress, traditional_japanese_ornaments, golden_embroidery, kimono, colorful_kimono, inspired_by_klimt, divine_aura, radiant_spiritual_glow, lotus_flower, standing_on_lotus, surrounded_by_floating_petals, heavenly_radiance, soft_water_reflection, japanese_mythology_theme, music_goddess_style, musical_divinity, highly_detailed_mandala, complex_mandala_pattern, sacred_geometry, symmetric_design, flowing_ribbons, spiritual_background, cinematic_composition, soft_lighting, dynamic_cloth_motion, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "succubus_professor_score_up_080",
+      "concept": "succubus professor score up score up comic manga",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 9: The Succubus Teacher",
+        "prompt_index": 0,
+        "date_added": "2025-05-21",
+        "civitai_tokens_stripped": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"succubus professor\", score_8_up, score_7_up, comic manga illustration, aesthetic, solarizing master, artful, eye-catching, hyper detailed, hyper realistic, medium wide shot, side view, well-dressed cute young seductive succubus professor thinking in lecture room, well-designed formal dress with frills, elegant ornament, symmetric decolated horns, pale skin, concentrated, intelligent, noble, dignity, indoors, moonlit, dim, epic, perfect composition, 2D, 16K, 32K, UHD, \u30d1\u30e9\u30e1\u30fc\u30bf \u30c7\u30fc\u30bf \u30d1\u30e9\u30e1\u30fc\u30bf \u30c7\u30fc\u30bf Steps 35 Sampler DPM++ 2M SGM Uniform KSampler dpmpp_2m Schedule sgm_uniform CFG 7 Guidance 7 Seed 3144638201 Size 768x1152 VAE automatic Denoising strength N/A Clip Skip 2 Model Flux Art Fusion v1_fp16 \u4fee\u624b_hands_fix_flux 1 0.1 Extra Detailer FLUX - v2 0.6 Comic Art Style for FLUX(Halloween Ver) 1.0 0.8 Marie Laurencin 0.6 After much effort and fine-tuning, I was finally able to produce a version I could be satisfied with. The challenge stemmed from the fact that, once you specify succubus, the AI tends to generate a woman with little association to intelligence. It was a challenging experiment, and in terms of time efficiency, it may be more practical to simply describe her as a horned demon woman, omitting the word succubus entirely. In fact, one of the remixed versions of my succubus prompt on PlaygroundAI had exactly that adjustment\u2014the term succubus was replaced with demon woman. Now, here is the Illustrious XL version of the piece. The original image had an issue with the number of fingers, and upon upscaling, the hands were rendered incorrectly. So for this version, I only applied Adetailer without additional upscaling",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\"succubus professor\", score_8_up, score_7_up, comic manga illustration, aesthetic, solarizing master, artful, eye-catching, hyper detailed, hyper realistic, medium wide shot, side view, well-dressed cute young seductive succubus professor thinking in lecture room, well-designed formal dress with frills, elegant ornament, symmetric decolated horns, pale skin, concentrated, intelligent, noble, dignity, indoors, moonlit, dim, epic, perfect composition, 2D, 16K, 32K, UHD, \u30d1\u30e9\u30e1\u30fc\u30bf \u30c7\u30fc\u30bf \u30d1\u30e9\u30e1\u30fc\u30bf \u30c7\u30fc\u30bf Steps 35 Sampler DPM++ 2M SGM Uniform KSampler dpmpp_2m Schedule sgm_uniform CFG 7 Guidance 7 Seed 3144638201 Size 768x1152 VAE automatic Denoising strength N/A Clip Skip 2 Model Flux Art Fusion v1_fp16 \u4fee\u624b_hands_fix_flux 1 0.1 Extra Detailer FLUX - v2 0.6 Comic Art Style for FLUX(Halloween Ver) 1.0 0.8 Marie Laurencin 0.6 After much effort and fine-tuning, I was finally able to produce a version I could be satisfied with. The challenge stemmed from the fact that, once you specify succubus, the AI tends to generate a woman with little association to intelligence. It was a challenging experiment, and in terms of time efficiency, it may be more practical to simply describe her as a horned demon woman, omitting the word succubus entirely. In fact, one of the remixed versions of my succubus prompt on PlaygroundAI had exactly that adjustment\u2014the term succubus was replaced with demon woman. Now, here is the Illustrious XL version of the piece. The original image had an issue with the number of fingers, and upon upscaling, the hands were rendered incorrectly. So for this version, I only applied Adetailer without additional upscaling",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"succubus professor\", score_8_up, score_7_up, comic manga illustration, aesthetic, solarizing master, artful, eye-catching, hyper detailed, hyper realistic, medium wide shot, side view, well-dressed cute young seductive succubus professor thinking in lecture room, well-designed formal dress with frills, elegant ornament, symmetric decolated horns, pale skin, concentrated, intelligent, noble, dignity, indoors, moonlit, dim, epic, perfect composition, 2D, 16K, 32K, UHD, \u30d1\u30e9\u30e1\u30fc\u30bf \u30c7\u30fc\u30bf \u30d1\u30e9\u30e1\u30fc\u30bf \u30c7\u30fc\u30bf Steps 35 Sampler DPM++ 2M SGM Uniform KSampler dpmpp_2m Schedule sgm_uniform CFG 7 Guidance 7 Seed 3144638201 Size 768x1152 VAE automatic Denoising strength N/A Clip Skip 2 Model Flux Art Fusion v1_fp16 \u4fee\u624b_hands_fix_flux 1 0.1 Extra Detailer FLUX - v2 0.6 Comic Art Style for FLUX(Halloween Ver) 1.0 0.8 Marie Laurencin 0.6 After much effort and fine-tuning, I was finally able to produce a version I could be satisfied with. The challenge stemmed from the fact that, once you specify succubus, the AI tends to generate a woman with little association to intelligence. It was a challenging experiment, and in terms of time efficiency, it may be more practical to simply describe her as a horned demon woman, omitting the word succubus entirely. In fact, one of the remixed versions of my succubus prompt on PlaygroundAI had exactly that adjustment\u2014the term succubus was replaced with demon woman. Now, here is the Illustrious XL version of the piece. The original image had an issue with the number of fingers, and upon upscaling, the hands were rendered incorrectly. So for this version, I only applied Adetailer without additional upscaling",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_081",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 9: The Succubus Teacher",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, muted_colors, low_angle, succubus, demon_girl, horns, symmetrical_horns, succubus_attire, seductive_outfit, corset_dress, lace_trim, lingerie_elements, sheer_sleeves, lace_dress, velvet_fabric, elegant_fashion, noble_aura, academic_style, cute_professor, young_woman, seductive_expression, intelligent_eyes, thinking_pose, concentrated_look, pale_skin, moonlit_room, professor_office, cluttered_room, wooden_desk, leather_chair, filled_bookshelves, table_lamp, warm_lighting, stack_of_books, ancient_books, leather_bound_books, embossed_covers, dusty_books, pile_of_books, books_on_desk, lantern, dim_lighting, cinematic_shadows, interior_scene, seated_or_standing, side_view, medium_wide_shot, scholarly_atmosphere, ornate_furniture, 2d_illustration, ultra_detailed, hyper_realistic, 16k, 32k",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, lowres, extra_arms, extra_legs, distorted_face, bad_anatomy, wrong_hair_color, casual_clothing, messy_background, overexposed_light, glowing_skin, comedic_expression, poorly_drawn_horns, huge_breasts, modern_books, magazine, textbooks, poorly_drawn_books, flat_texture, low_detail_books, organized_books, huge_breasts, black_dress, black_cloth, high_contrast",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, muted_colors, low_angle, succubus, demon_girl, horns, symmetrical_horns, succubus_attire, seductive_outfit, corset_dress, lace_trim, lingerie_elements, sheer_sleeves, lace_dress, velvet_fabric, elegant_fashion, noble_aura, academic_style, cute_professor, young_woman, seductive_expression, intelligent_eyes, thinking_pose, concentrated_look, pale_skin, moonlit_room, professor_office, cluttered_room, wooden_desk, leather_chair, filled_bookshelves, table_lamp, warm_lighting, stack_of_books, ancient_books, leather_bound_books, embossed_covers, dusty_books, pile_of_books, books_on_desk, lantern, dim_lighting, cinematic_shadows, interior_scene, seated_or_standing, side_view, medium_wide_shot, scholarly_atmosphere, ornate_furniture, 2d_illustration, ultra_detailed, hyper_realistic, 16k, 32k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "amaterasu_robot_stunning_masterpiece_090",
+      "concept": "Amaterasu robot stunning masterpiece best quality superfine depressive",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 9: Amaterasu Robot",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Amaterasu robot\", stunning masterpiece, best quality, superfine depressive digital illustration, inspired by Japanese Myth | Syd Mead, detailed pen and ink, triadic colors, visually intriguing, artful, eye-catching, meticulously detailed, medium wide shot, full-body, low angle, amaterasu cyborg wearing Japanese god cloth, pearl | silver | red | white, glowing sun wheel halo, feminine, mercy, glowing halo, biomechanical, delicate, sacred, massive, huge, curve, (mechanical parts), neon, translucent parts, ruined Kyoto background, perfect composition, epic, 2D, rtx on, UHD, 16K, 32K, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Amaterasu robot\", stunning masterpiece, best quality, superfine depressive digital illustration, inspired by Japanese Myth | Syd Mead, detailed pen and ink, triadic colors, visually intriguing, artful, eye-catching, meticulously detailed, medium wide shot, full-body, low angle, amaterasu cyborg wearing Japanese god cloth, pearl | silver | red | white, glowing sun wheel halo, feminine, mercy, glowing halo, biomechanical, delicate, sacred, massive, huge, curve, (mechanical parts), neon, translucent parts, ruined Kyoto background, perfect composition, epic, 2D, rtx on, UHD, 16K, 32K, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_absurdres_091",
+      "concept": "masterpiece best quality absurdres very aesthetic newest amaterasu",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 9: Amaterasu Robot",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, absurdres, very aesthetic, newest, amaterasu_robot, white, japanese_goddess_design, beautiful_face, biomechanical_fusion, divine_cyborg, huge_mecha, full_body, side_view, glowing_sun_wheel, sacred_halo, glowing_halo, (intricate_mechanical_parts), ornate_god_armor, feminine_god_mecha, soft_curve_structure, medium_shot, triadic_colors, piercing_the_clouds, futuristic_mythology, sun_motif, dramatic_perspective, complex_glow_effects, [[crimson_luminance]], mechanical_shrine_design, fibonacci_sequence_composition, octane_render_style, hyper_detailed, digital_engraving_style, syd_mead_inspired, zdzislaw_beksinski_inspired, mahiro_maeda_style, epic_sky_background, sacred_and_massive, uhd, 16k, 32k",
+          "negative_template": "anime_style, cartoonish, chibi, simple_background, lowres, sketch, soft_colors, realistic_human, flat_shading, blurry, poorly_drawn_mecha, disfigured_parts, unstructured_design, ugly_armor, comical_expression, photorealistic, pastel_tone",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, absurdres, very aesthetic, newest, amaterasu_robot, white, japanese_goddess_design, beautiful_face, biomechanical_fusion, divine_cyborg, huge_mecha, full_body, side_view, glowing_sun_wheel, sacred_halo, glowing_halo, (intricate_mechanical_parts), ornate_god_armor, feminine_god_mecha, soft_curve_structure, medium_shot, triadic_colors, piercing_the_clouds, futuristic_mythology, sun_motif, dramatic_perspective, complex_glow_effects, [[crimson_luminance]], mechanical_shrine_design, fibonacci_sequence_composition, octane_render_style, hyper_detailed, digital_engraving_style, syd_mead_inspired, zdzislaw_beksinski_inspired, mahiro_maeda_style, epic_sky_background, sacred_and_massive, uhd, 16k, 32k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "susanoo_robot_stunning_masterpiece_100",
+      "concept": "susanoo robot stunning masterpiece best quality superfine depressive",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 10: Susanoo Robot",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"susanoo robot\", stunning masterpiece, best quality, superfine depressive digital illustration, inspired by Japanese Myth | Syd Mead, detailed pen and ink, triadic colors, visually intriguing, artful, eye-catching, meticulously detailed, medium wide shot, full-body, low angle, susanoo cyborg wearing Japanese god cloth, gold | silver | black | white, hannya mask, fury, glowing halo, biomechanical, unrival, rogue, sacred, massive, huge, curve, (mechanical parts), neon, translucent parts, ruined Tokyo background, perfect composition, epic, 2D, rtx on, UHD, 16K, 32K, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"susanoo robot\", stunning masterpiece, best quality, superfine depressive digital illustration, inspired by Japanese Myth | Syd Mead, detailed pen and ink, triadic colors, visually intriguing, artful, eye-catching, meticulously detailed, medium wide shot, full-body, low angle, susanoo cyborg wearing Japanese god cloth, gold | silver | black | white, hannya mask, fury, glowing halo, biomechanical, unrival, rogue, sacred, massive, huge, curve, (mechanical parts), neon, translucent parts, ruined Tokyo background, perfect composition, epic, 2D, rtx on, UHD, 16K, 32K, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "susanoo_robot_stunning_masterpiece_101",
+      "concept": "susanoo robot stunning masterpiece best quality superfine digital",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 10: Susanoo Robot",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"susanoo robot\", stunning masterpiece, best quality, superfine digital illustration, inspired by Japanese Myth | Syd Mead, detailed pen and ink, muted colors, visually intriguing, artistic, eye-catching, meticulously detailed, medium wide shot, full-body, low angle, susanoo cyborg wearing Kabuki cloth, ruining Tokyo, hannya mask, fury, large complicated glowing halo behind the robot, biomechanical, unrival, rogue, sacred, massive, huge, curve, (mechanical parts), neon, perfect composition, epic, 2D, rtx on, UHD, 16K, 32K, luminism",
+          "negative_template": "unaestheticXLv13, large temples, tall temples, simple background",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"susanoo robot\", stunning masterpiece, best quality, superfine digital illustration, inspired by Japanese Myth | Syd Mead, detailed pen and ink, muted colors, visually intriguing, artistic, eye-catching, meticulously detailed, medium wide shot, full-body, low angle, susanoo cyborg wearing Kabuki cloth, ruining Tokyo, hannya mask, fury, large complicated glowing halo behind the robot, biomechanical, unrival, rogue, sacred, massive, huge, curve, (mechanical parts), neon, perfect composition, epic, 2D, rtx on, UHD, 16K, 32K, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "female_knight_score_up_110",
+      "concept": "female Knight score up score up manga comic",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 11: Female Knight",
+        "prompt_index": 0,
+        "date_added": "2025-05-21",
+        "civitai_tokens_stripped": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"female Knight\", score_8_up, score_7_up, manga | comic | illustration, mintgreen, medium wide shot, side view, full body, gothic chiaroscuro, masterful shadows, insanely detailed kawaii beautiful charming dignified female knight posing against a backdrop of a cityscape with a bridge and domed buildings, flowing brown long hair, meticulously detailed well-designed elegant platinum plate armor with filgree, perfect propotion, earings, sacred, noble, dim, medieval Paris background, perfect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"female Knight\", score_8_up, score_7_up, manga | comic | illustration, mintgreen, medium wide shot, side view, full body, gothic chiaroscuro, masterful shadows, insanely detailed kawaii beautiful charming dignified female knight posing against a backdrop of a cityscape with a bridge and domed buildings, flowing brown long hair, meticulously detailed well-designed elegant platinum plate armor with filgree, perfect propotion, earings, sacred, noble, dim, medieval Paris background, perfect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "kawaii_beautiful_charming_dignified_111",
+      "concept": "kawaii beautiful charming dignified female knight posing ethereal",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 11: Female Knight",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"kawaii beautiful charming dignified female knight posing\", ethereal masterpiece, best quality, superfine expressive digital illustration, inspired by Miho Hirano, mintgreen, masterful shadows, meticulously detailed, hyper realistic, west shot, side view, close up, flowing brown long hair, meticulously detailed well-designed elegant platinum plate armor with filgree, cityscape with a bridge and domed buildings, perfect hands, perfect propotion, earings, sacred, noble, dim, medieval Paris background, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "unaestheticXLv13, panel",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"kawaii beautiful charming dignified female knight posing\", ethereal masterpiece, best quality, superfine expressive digital illustration, inspired by Miho Hirano, mintgreen, masterful shadows, meticulously detailed, hyper realistic, west shot, side view, close up, flowing brown long hair, meticulously detailed well-designed elegant platinum plate armor with filgree, cityscape with a bridge and domed buildings, perfect hands, perfect propotion, earings, sacred, noble, dim, medieval Paris background, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "female_samurai_riding_on_120",
+      "concept": "female Samurai riding on horse score up score",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 12: Female Samurai",
+        "prompt_index": 0,
+        "date_added": "2025-05-21",
+        "civitai_tokens_stripped": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"female Samurai riding on horse\", score_8_up, score_7_up, manga | comic | illustration, muted colors, medium wide shot, side view, full body, gothic chiaroscuro, masterful shadows, insanely detailed kawaii beautiful charming dignified female samurai posing against a backdrop of a cityscape with a castle, flowing black ponytail, meticulously detailed well-designed elegant samurai armor, perfect propotion, earings, sacred, noble, dim, medieval Kyoto background, perfect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"female Samurai riding on horse\", score_8_up, score_7_up, manga | comic | illustration, muted colors, medium wide shot, side view, full body, gothic chiaroscuro, masterful shadows, insanely detailed kawaii beautiful charming dignified female samurai posing against a backdrop of a cityscape with a castle, flowing black ponytail, meticulously detailed well-designed elegant samurai armor, perfect propotion, earings, sacred, noble, dim, medieval Kyoto background, perfect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "female_samurai_riding_on_121",
+      "concept": "female Samurai riding on white horse ethereal masterpiece",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 12: Female Samurai",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"female Samurai riding on white horse\", ethereal masterpiece, best quality, superfine expressive digital illustration, inspired by \"Bonaparte franchissant le Grand-Saint-Bernard\", muted colors, gothic chiaroscuro, masterful shadows, meticulously detailed, close up, canted view, kawaii beautiful charming dignified female samurai posing against a backdrop of a cityscape with a castle, holding a flower, flowing black ponytail, hair ornaments, meticulously detailed well-designed elegant samurai armor, perfect propotion, earings, sacred, noble, dim, steampunk Kyoto background, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "unaestheticXLv13",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"female Samurai riding on white horse\", ethereal masterpiece, best quality, superfine expressive digital illustration, inspired by \"Bonaparte franchissant le Grand-Saint-Bernard\", muted colors, gothic chiaroscuro, masterful shadows, meticulously detailed, close up, canted view, kawaii beautiful charming dignified female samurai posing against a backdrop of a cityscape with a castle, holding a flower, flowing black ponytail, hair ornaments, meticulously detailed well-designed elegant samurai armor, perfect propotion, earings, sacred, noble, dim, steampunk Kyoto background, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "shrine_maiden_exorcist_stunning_130",
+      "concept": "shrine maiden exorcist stunning masterpiece best quality superfine",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 13: Reimu Hakurei",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"shrine maiden exorcist \", stunning masterpiece, best quality, superfine aesthetic illustration, inspired by Touhou Project, triadic colors, eye-catching, artistic, detailed pen and ink, triadic colors, hyper detailed, otherworldly, medium wide shot, side view, low angle, young cute kawaii shrine maiden Hakurei Reimu posing, hyper detailed confident concentrated facial features, enigmatic smile, perfect hands, cyberpunk Tokyo, apt background, Fibonacci sequence compositon, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"shrine maiden exorcist \", stunning masterpiece, best quality, superfine aesthetic illustration, inspired by Touhou Project, triadic colors, eye-catching, artistic, detailed pen and ink, triadic colors, hyper detailed, otherworldly, medium wide shot, side view, low angle, young cute kawaii shrine maiden Hakurei Reimu posing, hyper detailed confident concentrated facial features, enigmatic smile, perfect hands, cyberpunk Tokyo, apt background, Fibonacci sequence compositon, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_131",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 13: Reimu Hakurei",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, hakurei_reimu_\\(touhou\\), shrine_maiden, exorcist, cute, young_female, beautiful, elegant, confident_look, concentrated_expression, enigmatic_smile, gohei, perfect_hands, flowing_hair, long_hair, red_and_white_outfit, detached_sleeves, ribbon, artistic, eye-catching, triadic_color_scheme, pastel_color, hyper_detailed, ultra_detailed, detailed_pen_and_ink, vibrant_colors, otherworldly, cinematic_lighting, fibonacci_composition, medium_wide_shot, low_angle, side_view, 2d, uhd, 16k, 32k, cyberpunk_tokyo, city_lights, futuristic_background, glowing_particles, magical_aura, apt_background",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, extra limbs, distorted, lowres, dull_lighting, extra fingers, mutated, ugly, missing limb, cross-eyed, wrong anatomy",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, hakurei_reimu_\\(touhou\\), shrine_maiden, exorcist, cute, young_female, beautiful, elegant, confident_look, concentrated_expression, enigmatic_smile, gohei, perfect_hands, flowing_hair, long_hair, red_and_white_outfit, detached_sleeves, ribbon, artistic, eye-catching, triadic_color_scheme, pastel_color, hyper_detailed, ultra_detailed, detailed_pen_and_ink, vibrant_colors, otherworldly, cinematic_lighting, fibonacci_composition, medium_wide_shot, low_angle, side_view, 2d, uhd, 16k, 32k, cyberpunk_tokyo, city_lights, futuristic_background, glowing_particles, magical_aura, apt_background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "marisa_kirisame_at_the_140",
+      "concept": "Marisa Kirisame at the Herbal Research Institute stunning",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 14: Marisa Kirisame",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Marisa Kirisame at the Herbal Research Institute\", stunning masterpiece, best quality, superfine dreamy manga | comic | illustration, inspired by Marie Athelie | fantasy | Touhou Project triadic colors, detailed pen and ink, eye-catching, solarizing master, masterful shadows, meticulously detailed, otherworldly, medium wide shot, side view, full-body, cute kawaii middle-teen Marisa Kirisame making a medicine in herbal medicine research institute, overaction, meticulously detailed tomboy facial features and blonde long hair, black witch hat with ribon, olive, mushroom, sunlit, magic powerl ambience, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Marisa Kirisame at the Herbal Research Institute\", stunning masterpiece, best quality, superfine dreamy manga | comic | illustration, inspired by Marie Athelie | fantasy | Touhou Project triadic colors, detailed pen and ink, eye-catching, solarizing master, masterful shadows, meticulously detailed, otherworldly, medium wide shot, side view, full-body, cute kawaii middle-teen Marisa Kirisame making a medicine in herbal medicine research institute, overaction, meticulously detailed tomboy facial features and blonde long hair, black witch hat with ribon, olive, mushroom, sunlit, magic powerl ambience, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "marisa_kirisame_bathed_in_141",
+      "concept": "Marisa Kirisame bathed in soft morning sunlight at",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 14: Marisa Kirisame",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Marisa Kirisame bathed in soft morning sunlight at the Herbal Research Institute\", stunning masterpiece, best quality, superfine dreamy digital illustration, inspired by Loish, detailed pen and ink, eye-catching, solarizing master, masterful shadows, meticulously detailed, otherworldly, cute kawaii middle-teen Marisa Kirisame watching a mushroom, overaction, meticulously detailed tomboy facial features and blonde long hair, black witch hat with ribon, perfect hands, perfect anatomy, flowers, herbs, mushrooms, indoors, ambient golden glow, dreamy atmosphere, scattered light particles, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "lowres, bad quality, worst quality, bad anatomy, sketch, jpeg artifacts, ugly, poorly drawn, censor, blurry, watermark, simple background, transparent background, mosaic",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Marisa Kirisame bathed in soft morning sunlight at the Herbal Research Institute\", stunning masterpiece, best quality, superfine dreamy digital illustration, inspired by Loish, detailed pen and ink, eye-catching, solarizing master, masterful shadows, meticulously detailed, otherworldly, cute kawaii middle-teen Marisa Kirisame watching a mushroom, overaction, meticulously detailed tomboy facial features and blonde long hair, black witch hat with ribon, perfect hands, perfect anatomy, flowers, herbs, mushrooms, indoors, ambient golden glow, dreamy atmosphere, scattered light particles, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "geisya_cyborg_score_up_150",
+      "concept": "Geisya Cyborg score up score up digital illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 15: Android Girl",
+        "prompt_index": 0,
+        "date_added": "2025-05-21",
+        "civitai_tokens_stripped": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Geisya Cyborg\", score_8_up score_7_up, digital illustration, medium wide shot, side view, android, mechanical, mechanical parts, mechanical joints, cute kawaii, sitting in a dark cyberpunk club, looking at viewer, short cut, bangs, jewelry, earrings, Japanese kimono, many choker, many displays, neon, perfect lighting and reflections, shadows, night, unreal engine 5, RTX on, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Geisya Cyborg\", score_8_up score_7_up, digital illustration, medium wide shot, side view, android, mechanical, mechanical parts, mechanical joints, cute kawaii, sitting in a dark cyberpunk club, looking at viewer, short cut, bangs, jewelry, earrings, Japanese kimono, many choker, many displays, neon, perfect lighting and reflections, shadows, night, unreal engine 5, RTX on, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "geisya_android_girl_wearing_151",
+      "concept": "geisya android girl wearing kimono sitting on a",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 15: Android Girl",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"geisya android girl wearing kimono sitting on a counter seat in a decadant cyberpunk night club\", ethereal masterpiece, best quality, superfine futuristic digital illustration, eye-catching, artistic, pen and ink, hyper detailed, otherworldly, side view, close up, delicate mechanical body, mechanical parts, mechanical joints, cute kawaii, looking at viewer, short cut with bangs, bared shoulders, jewelry, earrings, wearing cyber goggles, chokers, hologram displays, neon, perfect lighting and reflections, shadows, dim, night, dystopia, Fibonacci sequence composition, epic, unreal engine 5, RTX on, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"geisya android girl wearing kimono sitting on a counter seat in a decadant cyberpunk night club\", ethereal masterpiece, best quality, superfine futuristic digital illustration, eye-catching, artistic, pen and ink, hyper detailed, otherworldly, side view, close up, delicate mechanical body, mechanical parts, mechanical joints, cute kawaii, looking at viewer, short cut with bangs, bared shoulders, jewelry, earrings, wearing cyber goggles, chokers, hologram displays, neon, perfect lighting and reflections, shadows, dim, night, dystopia, Fibonacci sequence composition, epic, unreal engine 5, RTX on, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "gnome_girl_in_airship_160",
+      "concept": "Gnome girl in airship cockpit stunning masterpiece best",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 16: A Gnome Girl Piloting an Airship",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Gnome girl in airship cockpit\", stunning masterpiece, best quality, superfine manga illustration, inspired by steampunk, eye-catching, artistic, solarizing master, masterful shadows, skillful gradation, meticulously detailed, hyper realistic, full body, medium wide shot, canted angle, rear view, cute kawai gnome girl with small elf ears smiling, controlling the ship, lit instruments, windows, blue sky, cityscape, another airship, epic, Fibonacci sequence composition, 2D, cartoon, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Gnome girl in airship cockpit\", stunning masterpiece, best quality, superfine manga illustration, inspired by steampunk, eye-catching, artistic, solarizing master, masterful shadows, skillful gradation, meticulously detailed, hyper realistic, full body, medium wide shot, canted angle, rear view, cute kawai gnome girl with small elf ears smiling, controlling the ship, lit instruments, windows, blue sky, cityscape, another airship, epic, Fibonacci sequence composition, 2D, cartoon, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "gnome_girl_in_airship_161",
+      "concept": "Gnome girl in airship cockpit stunning masterpiece best",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 16: A Gnome Girl Piloting an Airship",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Gnome girl in airship cockpit\", stunning masterpiece, best quality, superfine digital illustration, inspired by steampunk, eye-catching, artistic, solarizing master, masterful shadows, skillful gradation, meticulously detailed, hyper realistic, full body, medium wide shot, canted angle, rear view, cute kawai gnome girl with small elf ears smiling, controlling the ship, holding a cup of tea, perfect hands, lit instruments, windows, dim, cityscape, another airship, epic, Fibonacci sequence composition, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Gnome girl in airship cockpit\", stunning masterpiece, best quality, superfine digital illustration, inspired by steampunk, eye-catching, artistic, solarizing master, masterful shadows, skillful gradation, meticulously detailed, hyper realistic, full body, medium wide shot, canted angle, rear view, cute kawai gnome girl with small elf ears smiling, controlling the ship, holding a cup of tea, perfect hands, lit instruments, windows, dim, cityscape, another airship, epic, Fibonacci sequence composition, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "gnome_girl_in_airship_162",
+      "concept": "Gnome girl in airship cockpit stunning masterpiece best",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 16: A Gnome Girl Piloting an Airship",
+        "prompt_index": 2,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Gnome girl in airship cockpit\", stunning masterpiece, best quality, superfine digital illustration, inspired by steampunk, eye-catching, artistic, solarizing master, masterful shadows, skillful gradation, meticulously detailed, hyper realistic, canted angle, rear side view, cute kawai gnome girl with small elf ears and pointy hat, smiling, controlling the ship, holding a cup of tea, lit instruments, windows, dim, cityscape, another airship, epic, Fibonacci sequence composition, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "worst quality, bad quality, very displeasing, displeasing, bad anatomy, artistic error, anatomical nonsense, lowres, bad hands, signature, artist name, multiple views, variations, old, oldest, extra hands, extra ears",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Gnome girl in airship cockpit\", stunning masterpiece, best quality, superfine digital illustration, inspired by steampunk, eye-catching, artistic, solarizing master, masterful shadows, skillful gradation, meticulously detailed, hyper realistic, canted angle, rear side view, cute kawai gnome girl with small elf ears and pointy hat, smiling, controlling the ship, holding a cup of tea, lit instruments, windows, dim, cityscape, another airship, epic, Fibonacci sequence composition, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "two_princesses_stunning_masterpiece_170",
+      "concept": "two princesses stunning masterpiece best quality superfine manga",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 17: Twins",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"two princesses\", stunning masterpiece, best quality, superfine manga illustration, pastel, eye-catching, artistic, solarizing master, masterful shadows, gradation, meticulously detailed, hyper realistic, full body, medium wide shot, side view, cute kawaii princesses are fighting, one is pink and the other is mintgreen, jester-like elegant dress with insanely complicated pattern and frills, elaborate intricated ornaments and crown, opera gloves, arrogance, naive, victoria era, outdoors, castle, dim, sunset, light, town, epic, perfect composition, 2D, cartoon, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"two princesses\", stunning masterpiece, best quality, superfine manga illustration, pastel, eye-catching, artistic, solarizing master, masterful shadows, gradation, meticulously detailed, hyper realistic, full body, medium wide shot, side view, cute kawaii princesses are fighting, one is pink and the other is mintgreen, jester-like elegant dress with insanely complicated pattern and frills, elaborate intricated ornaments and crown, opera gloves, arrogance, naive, victoria era, outdoors, castle, dim, sunset, light, town, epic, perfect composition, 2D, cartoon, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_171",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 17: Twins",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, two_princesses, twins, mirrored_pose, mint_green_dress, pink_dress, mint_green_hair, pink_hair, elaborate_dress, frilled_dress, victorian_fashion, opera_gloves, floral_ornaments, intricate_frills, layered_skirt, ruffled_sleeves, richly_detailed_fabric, side_view, close_up, arguing, angry_expression, shouting, facing_each_other, clenched_teeth, furrowed_brows, dramatic_pose, intense_eye_contact, high_emotion_scene, castle_background, victorian_architecture, gothic_spires, golden_sunset_light, dim_lighting, outdoor_scene, pastel_tones, soft_gradation, hyper_detailed_render, painterly_texture, cinematic_composition, spiritual_tension, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, lowres, extra_arms, extra_legs, distorted_face, bad_anatomy, missing_hands, wrong_colors, messy_dress, poorly_drawn_crown, low_detail_background, missing_ornaments, asymmetrical_pose, childish_style, flat_lighting, missing hands",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, two_princesses, twins, mirrored_pose, mint_green_dress, pink_dress, mint_green_hair, pink_hair, elaborate_dress, frilled_dress, victorian_fashion, opera_gloves, floral_ornaments, intricate_frills, layered_skirt, ruffled_sleeves, richly_detailed_fabric, side_view, close_up, arguing, angry_expression, shouting, facing_each_other, clenched_teeth, furrowed_brows, dramatic_pose, intense_eye_contact, high_emotion_scene, castle_background, victorian_architecture, gothic_spires, golden_sunset_light, dim_lighting, outdoor_scene, pastel_tones, soft_gradation, hyper_detailed_render, painterly_texture, cinematic_composition, spiritual_tension, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "elf_maiden_tourist_stunning_180",
+      "concept": "elf maiden tourist stunning masterpiece best quality superfine",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 18: Art Nouveau",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"elf maiden tourist\", stunning masterpiece, best quality, superfine mysterious digital illustration, inspired by art nouveau, vivid colors, eye-catching, artistic, skillful gradation, meticulously detailed, hyper realistic, full body, medium wide shot, canted angle, side view, intricated art nouveau decolation curved frames, cute kawaii maiden tourist taking a coffee at cafe, overaction, well-designed light travel cloth with complicated pattern, a big travel bag, elaborate earings, opera gloves, boots, relaxed, dignity, naive, flowers, intricated luminous mandala background, epic, perfect composition, 2D, 16K, 32K, UHD, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"elf maiden tourist\", stunning masterpiece, best quality, superfine mysterious digital illustration, inspired by art nouveau, vivid colors, eye-catching, artistic, skillful gradation, meticulously detailed, hyper realistic, full body, medium wide shot, canted angle, side view, intricated art nouveau decolation curved frames, cute kawaii maiden tourist taking a coffee at cafe, overaction, well-designed light travel cloth with complicated pattern, a big travel bag, elaborate earings, opera gloves, boots, relaxed, dignity, naive, flowers, intricated luminous mandala background, epic, perfect composition, 2D, 16K, 32K, UHD, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "elf_maiden_tourist_stunning_181",
+      "concept": "elf maiden tourist stunning masterpiece best quality superfine",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 18: Art Nouveau",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"elf maiden tourist\", stunning masterpiece, best quality, superfine mysterious digital illustration, inspired by art nouveau, vivid colors, eye-catching, artistic, skillful gradation, meticulously detailed, hyper realistic, full body, canted angle, side view, intricated art nouveau decolation curved frames, cute kawaii maiden tourist taking a coffee at cafe, overaction, well-designed light travel cloth with complicated pattern, a big travel bag, elaborate earings, opera gloves, boots, relaxed, dignity, naive, flowers, table, coffee cup, interior, intricated luminous mandala background, epic, perfect composition, 2D, 16K, 32K, UHD, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"elf maiden tourist\", stunning masterpiece, best quality, superfine mysterious digital illustration, inspired by art nouveau, vivid colors, eye-catching, artistic, skillful gradation, meticulously detailed, hyper realistic, full body, canted angle, side view, intricated art nouveau decolation curved frames, cute kawaii maiden tourist taking a coffee at cafe, overaction, well-designed light travel cloth with complicated pattern, a big travel bag, elaborate earings, opera gloves, boots, relaxed, dignity, naive, flowers, table, coffee cup, interior, intricated luminous mandala background, epic, perfect composition, 2D, 16K, 32K, UHD, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "kawaii_succubus_on_the_190",
+      "concept": "kawaii succubus on the hill viewing Tokyo city",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 19: Succubus Overlooking the City",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"kawaii succubus on the hill viewing Tokyo city at night\", masterpiece, best quality, super fine dreamy manga art, inspired by luminous impressionism | Renoir | Monet | neon art nouveau, eye-catching, masterful shadows, solarizing master, intricated meticulous details, a kawaii beautiful degnified hologram succubus, anime-inspired character by Ayami Kojima | Klimt, meticulous detailed facial features, nude, rear view, moonlit, enigmatic smile, flowers, perfect coposition, epic, rtx on, 2D, UHD, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "\"kawaii succubus on the hill viewing Tokyo city at night\", masterpiece, best quality, super fine dreamy manga art, inspired by luminous impressionism | Renoir | Monet | neon art nouveau, eye-catching, masterful shadows, solarizing master, intricated meticulous details, a kawaii beautiful degnified hologram succubus, anime-inspired character by Ayami Kojima | Klimt, meticulous detailed facial features, nude, rear view, moonlit, enigmatic smile, flowers, perfect coposition, epic, rtx on, 2D, UHD, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"kawaii succubus on the hill viewing Tokyo city at night\", masterpiece, best quality, super fine dreamy manga art, inspired by luminous impressionism | Renoir | Monet | neon art nouveau, eye-catching, masterful shadows, solarizing master, intricated meticulous details, a kawaii beautiful degnified hologram succubus, anime-inspired character by Ayami Kojima | Klimt, meticulous detailed facial features, nude, rear view, moonlit, enigmatic smile, flowers, perfect coposition, epic, rtx on, 2D, UHD, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_191",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 19: Succubus Overlooking the City",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, succubus, on_hill, demon_girl, horns, bat_wings, wings_on_back, wings_attached_to_back, demon_wings, holographic_skin, kawaii, beautiful_girl, enigmatic_smile, side_view, looking_back, looking_down, overlooking_city, overlooking_view, bird_view_perspective, aerial_view, cityscape_below, tokyo_cityscape, night_view, full_moon, dreamy_sky, glowing_stars, neon_lights, light_pollution, vast_cityscape, deep_perspective, cinematic_composition, frilled_dress, sheer_fabric, lace_trim, delicate_lace, see-through_clothes, semi_transparent, soft_fabric, flowing_dress, embroidered_fabric, thin_fabric flowers, inspired_by_ayami_kojima, klimt_style, art_nouveau, luminous_impressionism, monet_style, vibrant_color_contrast, intricate_detail, finely_detailed_face, atmospheric_depth, solarized_light, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, lowres, extra_arms, extra_legs, distorted_face, bad_anatomy, wrong_hair_color, jpeg_artifacts, flat_background, nsfw, nude_body, poorly_drawn_city, missing_horizon, flat_perspective, asymmetric horns, asymmetroc wings, wings_not_attached, wings_on_clothes, disconnected_wings, floating_wings, glossy_skin, shiny_skin",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, succubus, on_hill, demon_girl, horns, bat_wings, wings_on_back, wings_attached_to_back, demon_wings, holographic_skin, kawaii, beautiful_girl, enigmatic_smile, side_view, looking_back, looking_down, overlooking_city, overlooking_view, bird_view_perspective, aerial_view, cityscape_below, tokyo_cityscape, night_view, full_moon, dreamy_sky, glowing_stars, neon_lights, light_pollution, vast_cityscape, deep_perspective, cinematic_composition, frilled_dress, sheer_fabric, lace_trim, delicate_lace, see-through_clothes, semi_transparent, soft_fabric, flowing_dress, embroidered_fabric, thin_fabric flowers, inspired_by_ayami_kojima, klimt_style, art_nouveau, luminous_impressionism, monet_style, vibrant_color_contrast, intricate_detail, finely_detailed_face, atmospheric_depth, solarized_light, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "mysterious_tulips_field_stunning_200",
+      "concept": "mysterious tulips field stunning masterpiece superfine manga illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 20: Dark Tulip",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"mysterious tulips field\", stunning masterpiece, superfine manga illustration, inspired by Monet, a cute kawaii mysterious decora chan gnome girl, small pointy ears, pointy hat, enigmatic smile, night, Netherlands, perfect composition, epic, 2D, UHD, 16K, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"mysterious tulips field\", stunning masterpiece, superfine manga illustration, inspired by Monet, a cute kawaii mysterious decora chan gnome girl, small pointy ears, pointy hat, enigmatic smile, night, Netherlands, perfect composition, epic, 2D, UHD, 16K, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_201",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 20: Dark Tulip",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, gnome_girl, small_elf_ears, ornate_hat, pointed_hat, gnome_hat, short_curly_hair, silver_hair, blue_eyes, looking_back, sitting, resting_hands_on_ground, lost_in_flowers, tulip_field, multicolored_tulips, blooming_flower_field, glowing_flower_gradient, (foreground_tulips, large_closeup_flowers, oversized_flower_perspective), soft_color_transitions, color_harmony, moonlight, full_moon, shimmering_river, glowing_windows, (gothic_village), cloudy_night_sky, dreamy_atmosphere, scenic_depth, painterly_composition, storybook_style, gouache_style, thick_brush_strokes, matte_texture, smooth_blended_colors, soft_edges, atmospheric_gradient, traditional_look, atmospheric_perspective, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, lowres, extra_arms, extra_legs, distorted_face, bad_anatomy, wrong_hair_color, jpeg_artifacts, digital_only_style, hard_edges, flat_coloring, monotone_palette, shiny_finish, sci-fi_elements, mature_girl",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, gnome_girl, small_elf_ears, ornate_hat, pointed_hat, gnome_hat, short_curly_hair, silver_hair, blue_eyes, looking_back, sitting, resting_hands_on_ground, lost_in_flowers, tulip_field, multicolored_tulips, blooming_flower_field, glowing_flower_gradient, (foreground_tulips, large_closeup_flowers, oversized_flower_perspective), soft_color_transitions, color_harmony, moonlight, full_moon, shimmering_river, glowing_windows, (gothic_village), cloudy_night_sky, dreamy_atmosphere, scenic_depth, painterly_composition, storybook_style, gouache_style, thick_brush_strokes, matte_texture, smooth_blended_colors, soft_edges, atmospheric_gradient, traditional_look, atmospheric_perspective, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stunning_masterpiece_best_quality_210",
+      "concept": "stunning masterpiece best quality super fine heart warming",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 21: A Relaxed Nekomata at a Caf\u00e9",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "stunning masterpiece, best quality, super fine heart-warming digital illustration, inspired by Sam Toft | Edward Hopper | expressionism, detailed pen and ink, pastel colors, meticulously detailed, full body, medium wide shot, cute adorable personified fluffy neko-mata taking a rest at cafe, jacket, pants, reflective eyes, sitting on a window chair, slight tired, glacing outside, seeking something interesting, a cup of coffee on a table, bad manner, night, interior, perfect composition, epic, 2D, flat, UHD, 16K, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "stunning masterpiece, best quality, super fine heart-warming digital illustration, inspired by Sam Toft | Edward Hopper | expressionism, detailed pen and ink, pastel colors, meticulously detailed, full body, medium wide shot, cute adorable personified fluffy neko-mata taking a rest at cafe, jacket, pants, reflective eyes, sitting on a window chair, slight tired, glacing outside, seeking something interesting, a cup of coffee on a table, bad manner, night, interior, perfect composition, epic, 2D, flat, UHD, 16K, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_211",
+      "concept": "masterpiece best quality amazing quality absurdres newest very",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 21: A Relaxed Nekomata at a Caf\u00e9",
+        "prompt_index": 1,
+        "date_added": "2025-05-21",
+        "civitai_tokens_stripped": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, absurdres, newest, very aesthetic, gouache, nekomata, catgirl, cat_nose, whiskers, slit_pupils, sharp_eyes, cat_ears, (pows), fluffy_tail, kemonomimi_mode, hybrid_design, anthropomorphic, [fine_face], [cute_girl], [round_face], (furry_face), fur_detail, fluffy_cheeks, wearing_vintage_clothing, sitting_on_armchair, crossed_legs, holding_coffee_cup, close_up, side_view, retro_cafe, cafe_interior, window, warm_lighting, retro_furniture, framed_painting, floral_decor, nighttime, [[pastel_tones]], sketch_look, storybook, vintage_illustration_style, ink_lines, textured_paper_effect, stylized_render, 2D, flat_illustration, cinematic_composition",
+          "negative_template": "bad_quality, worst_quality, worst_detail, sketch, censored, watermark, signature, artist_name, blurry, lowres, distorted_anatomy, full_muzzle, realistic_cat, photorealistic, modern_furniture, anime_face, digital_painting, high_contrast_lighting, over_saturated, human_face, girl_face, anime_face, cat",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "enhanced-prompt",
+          "syntax_family": "enhanced-prompt",
+          "positive_template": "masterpiece, best quality, amazing quality, absurdres, newest, very aesthetic, gouache, nekomata, catgirl, cat_nose, whiskers, slit_pupils, sharp_eyes, cat_ears, (pows), fluffy_tail, kemonomimi_mode, hybrid_design, anthropomorphic, [fine_face], [cute_girl], [round_face], (furry_face), fur_detail, fluffy_cheeks, wearing_vintage_clothing, sitting_on_armchair, crossed_legs, holding_coffee_cup, close_up, side_view, retro_cafe, cafe_interior, window, warm_lighting, retro_furniture, framed_painting, floral_decor, nighttime, [[pastel_tones]], sketch_look, storybook, vintage_illustration_style, ink_lines, textured_paper_effect, stylized_render, 2D, flat_illustration, cinematic_composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "weighted"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, absurdres, newest, very aesthetic, gouache, nekomata, catgirl, cat_nose, whiskers, slit_pupils, sharp_eyes, cat_ears, (pows), fluffy_tail, kemonomimi_mode, hybrid_design, anthropomorphic, [fine_face], [cute_girl], [round_face], (furry_face), fur_detail, fluffy_cheeks, wearing_vintage_clothing, sitting_on_armchair, crossed_legs, holding_coffee_cup, close_up, side_view, retro_cafe, cafe_interior, window, warm_lighting, retro_furniture, framed_painting, floral_decor, nighttime, [[pastel_tones]], sketch_look, storybook, vintage_illustration_style, ink_lines, textured_paper_effect, stylized_render, 2D, flat_illustration, cinematic_composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_hymn_to_being_220",
+      "concept": "A hymn to being alive stunning masterpiece best",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 22: Dancing High School Girl",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"A hymn to being alive\", stunning masterpiece, best quality, super fine powerful illustration, inspired by Enki Bilal | Alex Pardee, triadic colors, visually intriguing, meticulously detailed, low angle, two kawaii smilly happy high school girls in skirt dance together, surrounded by blessing aura, meticulously detailed facial expressions, over action, dynamic, heavy rain, clouds, night street in Tokyo, nuanced expressions, real complaints, captivating, exorcism, storytelling, dystopian themes, perfect composition, multi-layered, epic, UHD, 16K, 32K, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"A hymn to being alive\", stunning masterpiece, best quality, super fine powerful illustration, inspired by Enki Bilal | Alex Pardee, triadic colors, visually intriguing, meticulously detailed, low angle, two kawaii smilly happy high school girls in skirt dance together, surrounded by blessing aura, meticulously detailed facial expressions, over action, dynamic, heavy rain, clouds, night street in Tokyo, nuanced expressions, real complaints, captivating, exorcism, storytelling, dystopian themes, perfect composition, multi-layered, epic, UHD, 16K, 32K, sharp focus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "young_beautiful_gorgeous_mona_221",
+      "concept": "young beautiful gorgeous Mona Lisa pirate posing like",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 22: Dancing High School Girl",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"young beautiful gorgeous Mona Lisa pirate posing like Mona Lisa on her ship, \", stunning masterpiece, best quality, super fine illustration, pastel, eye-catching, artistic, visually intriguing, detailed pen and ink, triadic colors, ultra detailed, hyper realistic, medium wide shot, hands folded gracefully in the lap, enigmatic smile, hat with skull mark, armor, elegant ornament and earings, confident look, ultra detailed facial features, perfect hands, ocean, sky, dawn, apt background, Fibonacci sequence compositon, epic, octane render, 2D, UHD, 8K, 16K",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, distorted, dull_colors, childish_face, lowres, flat_lighting, overexposed, static_pose, boring_expression, smiling_only, empty_background, happy_theme_only, solo, single_girl, one_person, solo_focus",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"young beautiful gorgeous Mona Lisa pirate posing like Mona Lisa on her ship, \", stunning masterpiece, best quality, super fine illustration, pastel, eye-catching, artistic, visually intriguing, detailed pen and ink, triadic colors, ultra detailed, hyper realistic, medium wide shot, hands folded gracefully in the lap, enigmatic smile, hat with skull mark, armor, elegant ornament and earings, confident look, ultra detailed facial features, perfect hands, ocean, sky, dawn, apt background, Fibonacci sequence compositon, epic, octane render, 2D, UHD, 8K, 16K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stunning_masterpiece_best_quality_230",
+      "concept": "stunning masterpiece best quality superfine unstable digital illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 23: Abstract Dragon",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "stunning masterpiece, best quality, superfine unstable digital illustration, inspired by abstract, detailed pen and ink, ominous colors, visually intriguing, artful, eye-catching, meticulously detailed, medium wide shot, cute kawaii gnome girl with pointy elf ears, sitting, unique huge amorphous digital dragon with reflecting eyes, undulation, dark, night, abstract background, perfect composition, epic, 2D, rtx on, UHD, 16K, 32K, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "stunning masterpiece, best quality, superfine unstable digital illustration, inspired by abstract, detailed pen and ink, ominous colors, visually intriguing, artful, eye-catching, meticulously detailed, medium wide shot, cute kawaii gnome girl with pointy elf ears, sitting, unique huge amorphous digital dragon with reflecting eyes, undulation, dark, night, abstract background, perfect composition, epic, 2D, rtx on, UHD, 16K, 32K, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "mona_lisa_pirate_stunning_240",
+      "concept": "Mona Lisa pirate stunning masterpiece best quality super",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 24: Mona Lisa Pirate",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Mona Lisa pirate\", stunning masterpiece, best quality, super fine illustration, eye-catching, artistic, visually intriguing, detailed pen and ink, triadic colors, ultra detailed, hyper realistic, medium wide shot, young beautiful gorgeous Mona Lisa pirate posing like Mona Lisa on her ship, enigmatic smile, plump, hat with skull mark, armor, elegant ornament and earings, confident look, ultra detailed facial features, perfect hands, ocean, sky, dawn, apt background, Fibonacci sequence compositon, epic, octane render, 2D, UHD, 8K, 16K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Mona Lisa pirate\", stunning masterpiece, best quality, super fine illustration, eye-catching, artistic, visually intriguing, detailed pen and ink, triadic colors, ultra detailed, hyper realistic, medium wide shot, young beautiful gorgeous Mona Lisa pirate posing like Mona Lisa on her ship, enigmatic smile, plump, hat with skull mark, armor, elegant ornament and earings, confident look, ultra detailed facial features, perfect hands, ocean, sky, dawn, apt background, Fibonacci sequence compositon, epic, octane render, 2D, UHD, 8K, 16K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_241",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 24: Mona Lisa Pirate",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, young_female, beautiful, gorgeous, mona_lisa, on_pirate_ship, enigmatic_smile, hands folded gracefully in the lap, confident_look, female_pirate, pirate_hat, skull_emblem, ornamental_armor, earrings, elegant, ultra_detailed_facial_features, perfect_hands, perfect_fingers, dusty_color, detailed_pen_and_ink, artistic, visually_intriguing, hyper_realistic, ultra_detailed, medium_wide_shot, fibonacci_composition, another_pirate_ships, ocean, sky, dawn, apt_background, epic, octane_render, 2d, 8k, 16k",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, extra limbs, distorted, lowres, dull_lighting, extra fingers, mutated, ugly, missing limb, cross-eyed, wrong anatomy, close_up, glossy, glossy_skin, glossy_cloth",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, young_female, beautiful, gorgeous, mona_lisa, on_pirate_ship, enigmatic_smile, hands folded gracefully in the lap, confident_look, female_pirate, pirate_hat, skull_emblem, ornamental_armor, earrings, elegant, ultra_detailed_facial_features, perfect_hands, perfect_fingers, dusty_color, detailed_pen_and_ink, artistic, visually_intriguing, hyper_realistic, ultra_detailed, medium_wide_shot, fibonacci_composition, another_pirate_ships, ocean, sky, dawn, apt_background, epic, octane_render, 2d, 8k, 16k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "preparing_for_move_stunning_250",
+      "concept": "preparing for move stunning masterpiece best quality super",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 25: Moving to TensorART",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"preparing for move\", stunning masterpiece, best quality, super fine lonely illustration, fusion style Sam Toft | Marie Laurencin | Edward Hopper, vivid triadic colors, gothic chiaroscuro, luminous oil painting, masterful shadows, solarizing master, visually intriguing, meticulously detailed, medium wide shot, cute kawaii small gnome girl packing for moving, small pointy ears, carrying clothes, suitcase, concentrated facial expression, overaction, perfect hands, a detailed cat, daytime, shadows, indoor, tidy room full of stacked packed card boards, sunlight from the window, sunset, perfect composition, epic, 2D, UHD, 16K, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"preparing for move\", stunning masterpiece, best quality, super fine lonely illustration, fusion style Sam Toft | Marie Laurencin | Edward Hopper, vivid triadic colors, gothic chiaroscuro, luminous oil painting, masterful shadows, solarizing master, visually intriguing, meticulously detailed, medium wide shot, cute kawaii small gnome girl packing for moving, small pointy ears, carrying clothes, suitcase, concentrated facial expression, overaction, perfect hands, a detailed cat, daytime, shadows, indoor, tidy room full of stacked packed card boards, sunlight from the window, sunset, perfect composition, epic, 2D, UHD, 16K, 32K",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_absurdres_251",
+      "concept": "masterpiece best quality absurdres very aesthetic newest cute",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 25: Moving to TensorART",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, absurdres, very aesthetic, newest, cute_girl, gnome_girl, elf_ears, big_eyes, childlike_face, red_pointy_hat, layered_dress, vintage_fabric, close_up, medium_shot, hand_on_suitcase, old_suitcase, sad_expression, moving_out, farewell_scene, cardboard_box, stacked_cardboard_boxes, moving_boxes, packed_cardboard_box, moving_day_scene, packed_items, wooden_floor, antique_window, sunset_through_window, warm_light, soft_shadows, cat, watching_cats, storybook_style, painterly_texture, whimsical_fantasy, ultra_detailed, illustrated_fairytale, 2d, uhd",
+          "negative_template": "anime_style, chibi, photorealistic, realistic_face, 3d, blurry, sketch, lowres, flat_shading, big_head_proportion, cel_shading, cartoonish, modern_setting, two_cats, many_cats, scatterd_items, poorly_drawn_character",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, absurdres, very aesthetic, newest, cute_girl, gnome_girl, elf_ears, big_eyes, childlike_face, red_pointy_hat, layered_dress, vintage_fabric, close_up, medium_shot, hand_on_suitcase, old_suitcase, sad_expression, moving_out, farewell_scene, cardboard_box, stacked_cardboard_boxes, moving_boxes, packed_cardboard_box, moving_day_scene, packed_items, wooden_floor, antique_window, sunset_through_window, warm_light, soft_shadows, cat, watching_cats, storybook_style, painterly_texture, whimsical_fantasy, ultra_detailed, illustrated_fairytale, 2d, uhd",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "disaster_dragon_cat_girl_260",
+      "concept": "Disaster dragon cat girl score up score up",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 26: Calamity Dragon Cat Girl",
+        "prompt_index": 0,
+        "date_added": "2025-05-21",
+        "civitai_tokens_stripped": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Disaster dragon cat girl\", score_8_up, score_7_up, whimsical, manga | comic | illustration, meticulously detailed otherworldly, medium wide shot, knee shot, side view, canted angle, cute kawaii adorable girl with small elf ears, well-designed white army formal suit with gold filgree and cape, formal pants, belt, wine red gloves, detailed naive unique anime-inspired facial features and white hair, meticulously detailed textured wine red big two wings, perfect hands, dim, shadows, night, wine red moon, ruined village, fire, smoke, red fog, Fibonacci sequence composition, epic, 3d, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Disaster dragon cat girl\", score_8_up, score_7_up, whimsical, manga | comic | illustration, meticulously detailed otherworldly, medium wide shot, knee shot, side view, canted angle, cute kawaii adorable girl with small elf ears, well-designed white army formal suit with gold filgree and cape, formal pants, belt, wine red gloves, detailed naive unique anime-inspired facial features and white hair, meticulously detailed textured wine red big two wings, perfect hands, dim, shadows, night, wine red moon, ruined village, fire, smoke, red fog, Fibonacci sequence composition, epic, 3d, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "disaster_dragon_cat_girl_261",
+      "concept": "Disaster dragon cat girl ethereal masterpiece best quality",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 26: Calamity Dragon Cat Girl",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Disaster dragon cat girl\", ethereal masterpiece, best quality, superfine whimsical digital illustration, meticulously detailed otherworldly, close up, knee shot, rear side view, cute kawaii adorable girl with small elf ears, well-designed white army formal tailcoat with gold filgree and cape, formal pants, wine red gloves, detailed naive unique anime-inspired facial features and white hair, meticulously detailed textured wine red big two wings, perfect hands, dim, shadows, night, wine red moon, ruined village, fire, smoke, red fog, Fibonacci sequence composition, epic, 2d, 16K, 32K, UHD",
+          "negative_template": "unaestheticXLv13, large temples, tall temples, simple background, glass, wine",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Disaster dragon cat girl\", ethereal masterpiece, best quality, superfine whimsical digital illustration, meticulously detailed otherworldly, close up, knee shot, rear side view, cute kawaii adorable girl with small elf ears, well-designed white army formal tailcoat with gold filgree and cape, formal pants, wine red gloves, detailed naive unique anime-inspired facial features and white hair, meticulously detailed textured wine red big two wings, perfect hands, dim, shadows, night, wine red moon, ruined village, fire, smoke, red fog, Fibonacci sequence composition, epic, 2d, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "bunny_girl_stunning_masterpiece_270",
+      "concept": "Bunny Girl stunning masterpiece best quality superfine bewitching",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 27: Bunny Girl",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Bunny Girl\", stunning masterpiece, best quality, superfine bewitching manga | comic | illustration, triadic colors, detailed pen and ink, eye-catching, solarizing master, masterful shadows, meticulously detailed, otherworldly, medium wide shot, side view, full-body, kawaii beautiful bunny girl kneeling in casino, twisting the body, meticulously detailed tomboy smile facial features and blonde long hair, intricated gorgeous black leather bunny suit, pefect hands, dignity, noble, dim, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Bunny Girl\", stunning masterpiece, best quality, superfine bewitching manga | comic | illustration, triadic colors, detailed pen and ink, eye-catching, solarizing master, masterful shadows, meticulously detailed, otherworldly, medium wide shot, side view, full-body, kawaii beautiful bunny girl kneeling in casino, twisting the body, meticulously detailed tomboy smile facial features and blonde long hair, intricated gorgeous black leather bunny suit, pefect hands, dignity, noble, dim, Fibonacci sequence composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_271",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 27: Bunny Girl",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, bunny_girl, full_body, kneeling_with_arms_forward, blonde_hair, long_hair, straight_hair, green_eyes, cute_expression, flirty_smile, shiny_black_bodysuit, ornate_bunny_suit, embellished_outfit, gold_trim, fur_trim, gloves, bunny_ears, small_fluffy_tail, small_breasts, cleavage, choker, heart_necklace, seductive_pose, luxurious_casino, slot_machine, chandelier, golden_architecture, red_carpet, richly_decorated_background, deep_background_detail, glowing_lights, warm_lighting, cinematic_composition, vanishing_point_perspective, individual_strands, detailed_hair, finely_detailed, hair_focus, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, lowres, extra_arms, extra_legs, distorted_face, bad_anatomy, wrong_hair_color, monochrome, jpeg_artifacts, nsfw, nipple, bare_breasts, male, poorly_drawn_background, flat_background, large_tail, large_breasts, huge_breasts",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, bunny_girl, full_body, kneeling_with_arms_forward, blonde_hair, long_hair, straight_hair, green_eyes, cute_expression, flirty_smile, shiny_black_bodysuit, ornate_bunny_suit, embellished_outfit, gold_trim, fur_trim, gloves, bunny_ears, small_fluffy_tail, small_breasts, cleavage, choker, heart_necklace, seductive_pose, luxurious_casino, slot_machine, chandelier, golden_architecture, red_carpet, richly_decorated_background, deep_background_detail, glowing_lights, warm_lighting, cinematic_composition, vanishing_point_perspective, individual_strands, detailed_hair, finely_detailed, hair_focus, 2d_illustration, ultra_detailed, 16k, 32k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "high_school_girl_studying_280",
+      "concept": "high school girl studying at night stunning masterpiece",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 28: Studying High School Girl",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"high school girl studying at night\", stunning masterpiece, superfine dreamy digital comic | manga | illustration, masterful shadows, skillful gradation, detailed pen and ink, artful, fashionable, meticulously detailed, hyper realistic, medium wide shot, side view, close up, west shot, cute kawaii naive teen girl sitting, writing, holding pencil, hand on her face, notebook, dictionary, stacked books, open book, meticulously detailed tomboy confident proud facial features and orange ponytail, looking down with half closed eyes, smile, perfect anatomy, jewelry, hair ornament, vase, book, white flower, head rest, chair, well-designed turtleneck beige shirt with long sleeves, table, plant, desk, ring, potted plant, elbow rest, flower pot, bookshelf, lights, dim, Fibonacci sequence compostion, epic, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"high school girl studying at night\", stunning masterpiece, superfine dreamy digital comic | manga | illustration, masterful shadows, skillful gradation, detailed pen and ink, artful, fashionable, meticulously detailed, hyper realistic, medium wide shot, side view, close up, west shot, cute kawaii naive teen girl sitting, writing, holding pencil, hand on her face, notebook, dictionary, stacked books, open book, meticulously detailed tomboy confident proud facial features and orange ponytail, looking down with half closed eyes, smile, perfect anatomy, jewelry, hair ornament, vase, book, white flower, head rest, chair, well-designed turtleneck beige shirt with long sleeves, table, plant, desk, ring, potted plant, elbow rest, flower pot, bookshelf, lights, dim, Fibonacci sequence compostion, epic, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "high_school_girl_studying_281",
+      "concept": "high school girl studying at night stunning masterpiece",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 28: Studying High School Girl",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"high school girl studying at night\", stunning masterpiece, superfine dreamy digital comic | manga | illustration, masterful shadows, skillful gradation, detailed pen and ink, artful, fashionable, meticulously detailed, hyper realistic, medium wide shot, side view, close up, west shot, cute kawaii naive teen girl sitting, writing, holding pencil, hand on her face, notebook, dictionary, stacked books, open book, meticulously detailed tomboy confident proud facial features and orange ponytail, looking down with half closed eyes, smile, perfect anatomy, jewelry, hair ornament, vase, book, white flower, head rest, chair, well-designed turtleneck beige shirt with long sleeves, table, plant, desk, potted plant, elbow rest, flower pot, bookshelf, lights, dim, Fibonacci sequence compostion, epic, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "unaestheticXLv13, large temples, tall temples, simple background, glass, wine",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"high school girl studying at night\", stunning masterpiece, superfine dreamy digital comic | manga | illustration, masterful shadows, skillful gradation, detailed pen and ink, artful, fashionable, meticulously detailed, hyper realistic, medium wide shot, side view, close up, west shot, cute kawaii naive teen girl sitting, writing, holding pencil, hand on her face, notebook, dictionary, stacked books, open book, meticulously detailed tomboy confident proud facial features and orange ponytail, looking down with half closed eyes, smile, perfect anatomy, jewelry, hair ornament, vase, book, white flower, head rest, chair, well-designed turtleneck beige shirt with long sleeves, table, plant, desk, potted plant, elbow rest, flower pot, bookshelf, lights, dim, Fibonacci sequence compostion, epic, 2D, 16K, 32K, UHD, sharp focus, bokeh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "pink_elf_girl_stunning_290",
+      "concept": "Pink Elf Girl stunning masterpiece best quality super",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 29: The Girl in Pink",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Pink Elf Girl\", stunning masterpiece, best quality, super fine anime illustration, pastel, solarizing master, eye-catching, artistic, detailed pen and ink, triadic colors, medium wide shot, low angle, hyper detailed, hyper realistic, knee shot, a cute kawaii childish pink elf girl posing provocatively to the viewer, looking down, blue eyes, putting left hand on hip, perfect propotion, voluptuous, twin tails with black ribons, pale skin, insanely complicated pink blouse with black ribons, bared shoulders, black Zippered Skirt with gold ornaments, long black tights with lace, pale skin, devilishly charming, indoors, white simple interiors, ceiling light, perfect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Pink Elf Girl\", stunning masterpiece, best quality, super fine anime illustration, pastel, solarizing master, eye-catching, artistic, detailed pen and ink, triadic colors, medium wide shot, low angle, hyper detailed, hyper realistic, knee shot, a cute kawaii childish pink elf girl posing provocatively to the viewer, looking down, blue eyes, putting left hand on hip, perfect propotion, voluptuous, twin tails with black ribons, pale skin, insanely complicated pink blouse with black ribons, bared shoulders, black Zippered Skirt with gold ornaments, long black tights with lace, pale skin, devilishly charming, indoors, white simple interiors, ceiling light, perfect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "pink_elf_girl_stunning_291",
+      "concept": "Pink Elf Girl stunning masterpiece best quality super",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 29: The Girl in Pink",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Pink Elf Girl\", stunning masterpiece, best quality, super fine anime illustration, pastel, solarizing master, eye-catching, artistic, detailed pen and ink, triadic colors, medium wide shot, low angle, hyper detailed, hyper realistic, knee shot, a cute kawaii childish pink elf girl posing provocatively to the viewer, looking down, blue eyes, putting left hand on hip, perfect propotion, voluptuous, twin tails with black ribons, pale skin, insanely complicated pink blouse with black ribons, bared shoulders, black Zippered Skirt with gold ornaments, long black tights with lace, pale skin, devilishly charming, indoors, white simple interiors, ceiling light, perfect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "worst quality, bad quality, very displeasing, displeasing, bad anatomy, artistic error, anatomical nonsense, lowres, bad hands, signature, artist name, multiple views, variations, old, oldest, extra hands, holding something, pen, pencil",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Pink Elf Girl\", stunning masterpiece, best quality, super fine anime illustration, pastel, solarizing master, eye-catching, artistic, detailed pen and ink, triadic colors, medium wide shot, low angle, hyper detailed, hyper realistic, knee shot, a cute kawaii childish pink elf girl posing provocatively to the viewer, looking down, blue eyes, putting left hand on hip, perfect propotion, voluptuous, twin tails with black ribons, pale skin, insanely complicated pink blouse with black ribons, bared shoulders, black Zippered Skirt with gold ornaments, long black tights with lace, pale skin, devilishly charming, indoors, white simple interiors, ceiling light, perfect composition, epic, 2D, 16K, 32K, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "japanized_salome_seducing_stunning_300",
+      "concept": "Japanized Salome seducing stunning masterpiece best quality superfine",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 30: Homage to the Works of Megumi Satsuki",
+        "prompt_index": 0,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Japanized Salome seducing\", stunning masterpiece, best quality, superfine seductive manga illustration, inspired by magic realism | aestheticism, luminous colors, red | white | black, blue as accent, eye-catching, artistic, solarizing master, masterful shadows, effective gradation, meticulously detailed, realistic, close-up, canted angle, west shot, 1girl, kawaii beautiful voluptuousa Salome lying down on field in bush, elegant kimono with insanely complicated pattern, shiny black long hair, hime cut, red eyemake, bared shoulders, translucent pale skin, holding a short sword in decolated sheath, Disheveled clothing, sexy big breast, leg, meticulously detailed hypnosis facial features, enigmatic smile, outdoors, moonlit, dim, shadows, a few roses above her, striped butterflies, epic, perfect composition, 2D, flat, cartoon, 16K, 32K, UHD, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Japanized Salome seducing\", stunning masterpiece, best quality, superfine seductive manga illustration, inspired by magic realism | aestheticism, luminous colors, red | white | black, blue as accent, eye-catching, artistic, solarizing master, masterful shadows, effective gradation, meticulously detailed, realistic, close-up, canted angle, west shot, 1girl, kawaii beautiful voluptuousa Salome lying down on field in bush, elegant kimono with insanely complicated pattern, shiny black long hair, hime cut, red eyemake, bared shoulders, translucent pale skin, holding a short sword in decolated sheath, Disheveled clothing, sexy big breast, leg, meticulously detailed hypnosis facial features, enigmatic smile, outdoors, moonlit, dim, shadows, a few roses above her, striped butterflies, epic, perfect composition, 2D, flat, cartoon, 16K, 32K, UHD, luminism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "masterpiece_best_quality_amazing_301",
+      "concept": "masterpiece best quality amazing quality very aesthetic absurdres",
+      "status": "active",
+      "metadata": {
+        "original_source": "hoshizaki_book",
+        "source_file": "hoshizaki_book.txt",
+        "example": "Example 30: Homage to the Works of Megumi Satsuki",
+        "prompt_index": 1,
+        "date_added": "2025-05-21"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, seductive_pose, elegant_kimono, detailed_flower_pattern, large_breasts, mature_face, glamorous, hourglass_figure, long_black_hair, hair_flower_accessory, golden_eyes, red_eyes, red_kimono, open_kimono, exposed_shoulders, cleavage, lying_on_grass, katana, ornate_obisash, thigh_focus, butterfly, high_detail, close-up, sexy_expression, smirk, realistic_shading, anime_style, 2D, UHD, flat_colors, TensorART",
+          "negative_template": "bad quality, worst quality, worst detail, sketch, censored, watermark, signature, artist name, blurry, extra_limbs, deformed, lowres, child, loli, flat_chest, underage, small_body, incorrect_anatomy, out_of_focus, baby_face, immature_face, unrealistic_proportions",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, seductive_pose, elegant_kimono, detailed_flower_pattern, large_breasts, mature_face, glamorous, hourglass_figure, long_black_hair, hair_flower_accessory, golden_eyes, red_eyes, red_kimono, open_kimono, exposed_shoulders, cleavage, lying_on_grass, katana, ornate_obisash, thigh_focus, butterfly, high_detail, close-up, sexy_expression, smirk, realistic_shading, anime_style, 2D, UHD, flat_colors, TensorART",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "blaze20_a_serene_lakeside_at_000",
+      "concept": "A serene lakeside at sunset reflecting the vibrant",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A serene lakeside at sunset, reflecting the vibrant colors of the sky, devoid of any human",
+        "date_added": "2026-05-21T12:03:35.889537",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 0,
+        "title": "Blaze #1",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A serene lakeside at sunset, reflecting the vibrant colors of the sky, devoid of any human",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_an_ancient_overgrown_temple_001",
+      "concept": "An ancient overgrown temple in a dense jungle",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "An ancient, overgrown temple in a dense jungle, illuminated by the soft light of early",
+        "date_added": "2026-05-21T12:03:35.889595",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 1,
+        "title": "Blaze #2",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An ancient, overgrown temple in a dense jungle, illuminated by the soft light of early",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_bustling_cyberpunk_cityscape_002",
+      "concept": "A bustling cyberpunk cityscape at night bathed in",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A bustling cyberpunk cityscape at night, bathed in neon lights, with flying cars zooming past",
+        "date_added": "2026-05-21T12:03:35.889632",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 2,
+        "title": "Blaze #3",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A bustling cyberpunk cityscape at night, bathed in neon lights, with flying cars zooming past",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_majestic_mountain_range_003",
+      "concept": "A majestic mountain range under the cloak of",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A majestic mountain range under the cloak of night, lit only by a full moon and a blanket of",
+        "date_added": "2026-05-21T12:03:35.889665",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 3,
+        "title": "Blaze #4",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A majestic mountain range under the cloak of night, lit only by a full moon and a blanket of",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_quaint_cobblestone_street_004",
+      "concept": "A quaint cobblestone street in a historic European",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A quaint cobblestone street in a historic European town, with flowers blooming on balconies,",
+        "date_added": "2026-05-21T12:03:35.889696",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 4,
+        "title": "Blaze #5",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A quaint cobblestone street in a historic European town, with flowers blooming on balconies,",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_an_astronaut_exploring_a_005",
+      "concept": "An astronaut exploring a mysterious alien landscape with",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "An astronaut exploring a mysterious alien landscape, with strange vegetation and a distant",
+        "date_added": "2026-05-21T12:03:35.889731",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 5,
+        "title": "Blaze #6",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An astronaut exploring a mysterious alien landscape, with strange vegetation and a distant",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_serene_winter_scene_006",
+      "concept": "A serene winter scene of a snow covered",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A serene winter scene of a snow-covered forest, with a cozy cabin lit by firelight, free of",
+        "date_added": "2026-05-21T12:03:35.889763",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 6,
+        "title": "Blaze #7",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A serene winter scene of a snow-covered forest, with a cozy cabin lit by firelight, free of",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_vibrant_coral_reef_007",
+      "concept": "A vibrant coral reef teeming with colorful marine",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A vibrant coral reef teeming with colorful marine life, illuminated by the clear, sunlit waters",
+        "date_added": "2026-05-21T12:03:35.889793",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 7,
+        "title": "Blaze #8",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A vibrant coral reef teeming with colorful marine life, illuminated by the clear, sunlit waters",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_futuristic_laboratory_with_008",
+      "concept": "A futuristic laboratory with advanced technology and gadgets",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A futuristic laboratory with advanced technology and gadgets, devoid of any human",
+        "date_added": "2026-05-21T12:03:35.889825",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 8,
+        "title": "Blaze #9",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A futuristic laboratory with advanced technology and gadgets, devoid of any human",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_medieval_knight_standing_009",
+      "concept": "A medieval knight standing on a foggy battlefield",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A medieval knight standing on a foggy battlefield at dawn with intricate armor and mist",
+        "date_added": "2026-05-21T12:03:35.889853",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 9,
+        "title": "Blaze #10",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A medieval knight standing on a foggy battlefield at dawn with intricate armor and mist",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_peaceful_zen_garden_010",
+      "concept": "A peaceful Zen garden at dawn with perfectly",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A peaceful Zen garden at dawn, with perfectly raked sand, blooming cherry blossoms, and a",
+        "date_added": "2026-05-21T12:03:35.889882",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 10,
+        "title": "Blaze #11",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A peaceful Zen garden at dawn, with perfectly raked sand, blooming cherry blossoms, and a",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_grand_library_filled_011",
+      "concept": "A grand library filled with ancient books and",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A grand library filled with ancient books and magical artifacts, lit by the warm glow of",
+        "date_added": "2026-05-21T12:03:35.889910",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 11,
+        "title": "Blaze #12",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A grand library filled with ancient books and magical artifacts, lit by the warm glow of",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_an_enchanted_forest_pathway_012",
+      "concept": "An enchanted forest pathway lit by bioluminescent plants",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "An enchanted forest pathway, lit by bioluminescent plants and fairy lights, leading to a",
+        "date_added": "2026-05-21T12:03:35.889939",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 12,
+        "title": "Blaze #13",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An enchanted forest pathway, lit by bioluminescent plants and fairy lights, leading to a",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_post_apocalyptic_cityscape_013",
+      "concept": "A post apocalyptic cityscape reclaimed by nature with",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A post-apocalyptic cityscape reclaimed by nature, with wild animals wandering amongst the",
+        "date_added": "2026-05-21T12:03:35.889985",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 13,
+        "title": "Blaze #14",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A post-apocalyptic cityscape reclaimed by nature, with wild animals wandering amongst the",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_high_fantasy_castle_014",
+      "concept": "A high fantasy castle floating among the clouds",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A high fantasy castle floating among the clouds at sunset, surrounded by flying mythical",
+        "date_added": "2026-05-21T12:03:35.890013",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 14,
+        "title": "Blaze #15",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A high fantasy castle floating among the clouds at sunset, surrounded by flying mythical",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_an_undersea_city_with_015",
+      "concept": "An undersea city with futuristic architecture glowing with",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "An undersea city with futuristic architecture, glowing with artificial brightness from within,",
+        "date_added": "2026-05-21T12:03:35.890041",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 15,
+        "title": "Blaze #16",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "An undersea city with futuristic architecture, glowing with artificial brightness from within,",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_vintage_s_speakeasy_016",
+      "concept": "A vintage s speakeasy bar bustling with elegantly",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A vintage 1920s speakeasy bar, bustling with elegantly dressed patrons, in the soft, muted",
+        "date_added": "2026-05-21T12:03:35.890072",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 16,
+        "title": "Blaze #17",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A vintage 1920s speakeasy bar, bustling with elegantly dressed patrons, in the soft, muted",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_lone_tree_standing_017",
+      "concept": "A lone tree standing in the middle of",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A lone tree standing in the middle of a desert, under the harsh light of midday, casting a long",
+        "date_added": "2026-05-21T12:03:35.890102",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 17,
+        "title": "Blaze #18",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A lone tree standing in the middle of a desert, under the harsh light of midday, casting a long",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_space_station_orbiting_018",
+      "concept": "A space station orbiting a distant earth like",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A space station orbiting a distant earth-like planet, viewed from the perspective of an",
+        "date_added": "2026-05-21T12:03:35.890135",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 18,
+        "title": "Blaze #19",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A space station orbiting a distant earth-like planet, viewed from the perspective of an",
+          "negative_template": ""
+        }
+      ]
+    },
+    {
+      "identifier": "blaze20_a_traditional_japanese_tea_019",
+      "concept": "A traditional Japanese tea ceremony taking place in",
+      "status": "active",
+      "metadata": {
+        "original_source": "blaze.today - 20 Best Stable Diffusion Prompts",
+        "original_prompt": "A traditional Japanese tea ceremony taking place in a tranquil bamboo forest, illuminated by",
+        "date_added": "2026-05-21T12:03:35.890164",
+        "source_file": "blaze20_prompts.txt",
+        "source_index": 19,
+        "title": "Blaze #20",
+        "platform": "Stable Diffusion",
+        "category": "General"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "negative_prompt_strategy": "minimal",
+          "positive_template": "A traditional Japanese tea ceremony taking place in a tranquil bamboo forest, illuminated by",
+          "negative_template": ""
+        }
+      ]
+    }
+  ]
+}

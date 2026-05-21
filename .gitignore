@@ -1,3 +1,5 @@
 __pycache__/
-data/
+data/*
+!data/prompts.db
 *.db
+!data/prompts.db

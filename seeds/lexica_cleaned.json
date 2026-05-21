@@ -1,0 +1,222 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "two_pixelated_futuristic_hands_000",
+      "concept": "two pixelated futuristic hands reaching toward each other",
+      "status": "active",
+      "metadata": {
+        "original_source": "lexica",
+        "original_prompt": "two pixelated futuristic hands reaching toward each other, pixel art style, electronic glitch aesthetic, cybernetic texture, white glowing points forming the hands, digital pointillism, dark black background with subtle LCD glass panel texture and glossy reflections, faint holographic light leaks in cyan and violet, cinematic lens bloom, futuristic minimalism. cinematic studio lighting, ultra sharp, high contrast, cold atmosphere",
+        "date_added": "2026-05-20T17:31:40.457845",
+        "source_file": "Lexica.txt",
+        "source_index": 0
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "two pixelated futuristic hands reaching toward each other, pixel art style, electronic glitch aesthetic, cybernetic texture, white glowing points forming the hands, digital pointillism, dark black background with subtle LCD glass panel texture and glossy reflections, faint holographic light leaks in cyan and violet, cinematic lens bloom, futuristic minimalism. cinematic studio lighting, ultra sharp, high contrast, cold atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "two pixelated futuristic hands reaching toward each other, pixel art style, electronic glitch aesthetic, cybernetic texture, white glowing points forming the hands, digital pointillism, dark black background with subtle LCD glass panel texture and glossy reflections, faint holographic light leaks in cyan and violet, cinematic lens bloom, futuristic minimalism. cinematic studio lighting, ultra sharp, high contrast, cold atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "two pixelated futuristic hands reaching toward each other, pixel art style, electronic glitch aesthetic, cybernetic texture, white glowing points forming the hands, digital pointillism, dark black background with subtle LCD glass panel texture and glossy reflections, faint holographic light leaks in cyan and violet, cinematic lens bloom, futuristic minimalism. cinematic studio lighting, ultra sharp, high contrast, cold atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "a_beautiful_brunette_pilot_001",
+      "concept": "A beautiful brunette pilot girl beautiful moody lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "lexica",
+        "original_prompt": "A beautiful brunette pilot girl, beautiful, moody lighting, 90s anime minimal masterpiexce",
+        "date_added": "2026-05-20T17:31:40.458858",
+        "source_file": "Lexica.txt",
+        "source_index": 1
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A beautiful brunette pilot girl, beautiful, moody lighting, 90s anime minimal masterpiexce",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A beautiful brunette pilot girl, beautiful, moody lighting, 90s anime minimal masterpiexce",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "game_boy_hypermaximalist_natural_002",
+      "concept": "game boy hypermaximalist natural lighting on desk beautiful",
+      "status": "active",
+      "metadata": {
+        "original_source": "lexica",
+        "original_prompt": "game boy, hypermaximalist, natural lighting, on desk, beautiful shot",
+        "date_added": "2026-05-20T17:31:40.458922",
+        "source_file": "Lexica.txt",
+        "source_index": 2
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "game boy, hypermaximalist, natural lighting, on desk, beautiful shot",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "game boy, hypermaximalist, natural lighting, on desk, beautiful shot",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "neoclassical_modern_luxury_style_003",
+      "concept": "Neoclassical modern luxury style decor penthouse gigantic huge",
+      "status": "active",
+      "metadata": {
+        "original_source": "lexica",
+        "original_prompt": "Neoclassical modern luxury style decor penthouse gigantic huge open floor plan master bedroom with huge comfy cozy bed may pillows floor to ceiling windows, fireplace with fire lit, moonlight moonlight, romantic dim lighting, plants, flower bouquet",
+        "date_added": "2026-05-20T17:31:40.458966",
+        "source_file": "Lexica.txt",
+        "source_index": 3
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Neoclassical modern luxury style decor penthouse gigantic huge open floor plan master bedroom with huge comfy cozy bed may pillows floor to ceiling windows, fireplace with fire lit, moonlight moonlight, romantic dim lighting, plants, flower bouquet",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Neoclassical modern luxury style decor penthouse gigantic huge open floor plan master bedroom with huge comfy cozy bed may pillows floor to ceiling windows, fireplace with fire lit, moonlight moonlight, romantic dim lighting, plants, flower bouquet",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "hyper_realistic_photography_of_004",
+      "concept": "Hyper realistic photography of a product brand that",
+      "status": "active",
+      "metadata": {
+        "original_source": "lexica",
+        "original_prompt": "Hyper realistic photography of a product brand that sales reusable packaging design that will transform into something like plant pot after using the product inside such as fruits, or veggies, drinks etc, a brand that promotes sustainability, auto sustainable and futuristic shape packaging style, minimalist design, list of natural light scenery.",
+        "date_added": "2026-05-20T17:31:40.459046",
+        "source_file": "Lexica.txt",
+        "source_index": 4
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Hyper realistic photography of a product brand that sales reusable packaging design that will transform into something like plant pot after using the product inside such as fruits, or veggies, drinks etc, a brand that promotes sustainability, auto sustainable and futuristic shape packaging style, minimalist design, list of natural light scenery",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Hyper realistic photography of a product brand that sales reusable packaging design that will transform into something like plant pot after using the product inside such as fruits, or veggies, drinks etc, a brand that promotes sustainability, auto sustainable and futuristic shape packaging style, minimalist design, list of natural light scenery",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "in_a_mesmerizing_watercolor_005",
+      "concept": "In a mesmerizing watercolor painting an enchantingly elusive",
+      "status": "active",
+      "metadata": {
+        "original_source": "lexica",
+        "original_prompt": "In a mesmerizing watercolor painting, an enchantingly elusive forest unfolds on the canvas. The main subject of this artwork is a peculiar vogue-worthy forest, where oversized mushrooms with delicate lace-like caps bloom amidst a swirling mist. The ethereal hues of emerald, amethyst, and sapphire create a dream-like atmosphere, effortlessly transporting viewers into a mystical realm. This remarkable image, rendered in exquisite detail, captivates with its whimsical elegance, leaving a lasting impression of tranquility and wonder.",
+        "date_added": "2026-05-20T17:31:40.459151",
+        "source_file": "Lexica.txt",
+        "source_index": 5
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "In a mesmerizing watercolor painting, an enchantingly elusive forest unfolds on the canvas. The main subject of this artwork is a peculiar vogue-worthy forest, where oversized mushrooms with delicate lace-like caps bloom amidst a swirling mist. The ethereal hues of emerald, amethyst, and sapphire create a dream-like atmosphere, effortlessly transporting viewers into a mystical realm. This remarkable image, rendered in exquisite detail, captivates with its whimsical elegance, leaving a lasting impression of tranquility and wonder",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "In a mesmerizing watercolor painting, an enchantingly elusive forest unfolds on the canvas. The main subject of this artwork is a peculiar vogue-worthy forest, where oversized mushrooms with delicate lace-like caps bloom amidst a swirling mist. The ethereal hues of emerald, amethyst, and sapphire create a dream-like atmosphere, effortlessly transporting viewers into a mystical realm. This remarkable image, rendered in exquisite detail, captivates with its whimsical elegance, leaving a lasting impression of tranquility and wonder",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "In a mesmerizing watercolor painting, an enchantingly elusive forest unfolds on the canvas. The main subject of this artwork is a peculiar vogue-worthy forest, where oversized mushrooms with delicate lace-like caps bloom amidst a swirling mist. The ethereal hues of emerald, amethyst, and sapphire create a dream-like atmosphere, effortlessly transporting viewers into a mystical realm. This remarkable image, rendered in exquisite detail, captivates with its whimsical elegance, leaving a lasting impression of tranquility and wonder",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "rusted_robot_looks_broken_006",
+      "concept": "Rusted robot looks broken wearing a traditional white",
+      "status": "active",
+      "metadata": {
+        "original_source": "lexica",
+        "original_prompt": "Rusted robot, looks broken, wearing a traditional white and black flowered kimono, katana attached to belt, heavy rain in close forced perspective, blurred cyberpunk city in distance",
+        "date_added": "2026-05-20T17:31:40.459298",
+        "source_file": "Lexica.txt",
+        "source_index": 6
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Rusted robot, looks broken, wearing a traditional white and black flowered kimono, katana attached to belt, heavy rain in close forced perspective, blurred cyberpunk city in distance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Rusted robot, looks broken, wearing a traditional white and black flowered kimono, katana attached to belt, heavy rain in close forced perspective, blurred cyberpunk city in distance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

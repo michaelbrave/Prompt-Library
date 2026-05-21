@@ -1,0 +1,136 @@
+[
+  {
+    "index": 52,
+    "reason": "no alphabetic content after cleaning",
+    "original": "<lora:muscle_slider_v4:1>,<lora:294cm_c:1>,<lora:748cm_illu:1>,<lora:748cm_S:1>,<lora:ExpressiveH_V2",
+    "metadata": {
+      "original_source": "civitai",
+      "original_prompt": "<lora:muscle_slider_v4:1>,<lora:294cm_c:1>,<lora:748cm_illu:1>,<lora:748cm_S:1>,<lora:ExpressiveH_V2_Hentai_LoRa_Style_\u30a8\u30ed\u30a2\u30cb\u30e1:1>,<lora:haiz_ai_illu:1>,<lora:[\u6770]\u4eba\u4f53\u5f69\u7ed8[\u89e6bodypaint, multicolored paint,\u7d2b\u5916\u7ebf,\u9ed1\u8272\u80cc\u666f,\u53d1\u5149,\u53d1\u5149\u7684\u5934\u53d1,\u53d1\u5149\u7684\u773c\u775b,\u4eba\u4f53\u5f69\u7ed8,\u5f69\u8272\u989c\u6599]uvlight-illu-sqbl-1.00:1>,<lora:People'sWorks_v9_128dim_Illusv1.0_test4_r2:1>,<lora:GeekyXL_Liquid_Marble:1>,<lora:last:1>,<lora:nipple_pulling_ilxl_goofy:1>,<lora:shiNudityV1ill:1>,<lora:ATBv2-2:1>,<lora:water-dress-il-01:1>,<lora:Fire_magic_V2_for_illustrious:1>,<lora:streak:1>,<lora:Unfazed Breast Size Slider IL v1.0:1>,<lora:USNR_STYLE_ILL_V1_lokr3:1>,<lora:USNR_STYLE_NB_Vpred_V3:1>,<lora:[\u6770]\u8fea\u58eb\u5c3c[\u89e6DisneyStyleXLP,\u5361\u901a,\u53ef\u7231,\u7535\u5f71\u611f,\u8fea\u58eb\u5c3c\u76ae\u514b\u65af\u5de5\u4f5c\u5ba4\u7684\u827a\u672f\u4f5c\u54c1]DisneyStudios_style-12IL:1>,<lora:A:1>,<lora:fl4t:1>,<lora:antechinusStyle_illusXL_Incrs_v2:1>,<lora:DDD_3:1>,<lora:Semi-realism_illustrious:1>,<lora:[\u6770\u6696\u4fa7\u5149\u59573.5]\u620f\u5267\u706f\u5149[\u65e0\u89e6]Dramatic Lighting Slider:1>,<lora:MoriiMee_Gothic_Realistic:1>,<lora:[\u6d41\u91cf\u6770]\u5e73\u6ed1\u7ec6\u8282\u52a9\u63a8\u5668Smooth_Booster_v5:1>,<lora:Ahegaoo:1>,<lora:bonk[P\u6770]\u620f\u5267\u706f\u5149[\u65e0\u89e6]Dramatic Lighting Slider:1>,<lora:dreikoo_style_ilxl_0.1:1>,<lora:FrostbiteStudiov2_ArtStyle_Illu_Dwnsty:1>,<lora:PowerPuffMixLora:1>,<lora:ponyv6_noobV1_2_adamW:1>,<lora:[P\u6770]\u5199\u5b9e\u63d2\u753b\u98ce\u683cRi-mix - Style LORA rimixO:1>,<lora:[P\u6770]\u5199\u5b9e\u63d2\u753b\u98ce\u683cRi-mix - Style LORA rimixxO2:1>,<lora:training_1247607-20260322144638479:1>,<lora:hentai_studio_quality:1>,<lora:training_5148822-20260306113430473:1>,<lora:[\u6d41\u91cf\u6770]\u7f8e\u5b66\u54c1\u8d28\u4fee\u6b63\u5668anima-preview2-masterpieces-e50:1>,\nNegative prompt: lazyneg,Multiple perspectives,worst quality,low quality,displeasing,lowres,jpeg artifacts,compression artifacts,blurry,low detail,bad anatomy,bad hands,bad eyes,bad proportions,distorted limbs,extra limbs,extra digits,fused fingers,missing fingers,malformed hands,bad feet,asymmetrical face,distorted facial features,watermark,text,logo,signature,cropped,small eyes,eyes closed,score_6,score_5,score_4,source_furry,source_cartoon,source_pony,bad composition,poorly drawn face,poorly drawn hands,mutated,deformed,ugly,",
+      "date_added": "2026-05-21T07:10:59.493417",
+      "source_file": "civitai.txt",
+      "source_index": 52,
+      "lora_removed": [
+        {
+          "name": "muscle_slider_v4"
+        },
+        {
+          "name": "294cm_c"
+        },
+        {
+          "name": "748cm_illu"
+        },
+        {
+          "name": "748cm_S"
+        },
+        {
+          "name": "ExpressiveH_V2_Hentai_LoRa_Style_\u30a8\u30ed\u30a2\u30cb\u30e1"
+        },
+        {
+          "name": "haiz_ai_illu"
+        },
+        {
+          "name": "[\u6770]\u4eba\u4f53\u5f69\u7ed8[\u89e6bodypaint, multicolored paint,\u7d2b\u5916\u7ebf,\u9ed1\u8272\u80cc\u666f,\u53d1\u5149,\u53d1\u5149\u7684\u5934\u53d1,\u53d1\u5149\u7684\u773c\u775b,\u4eba\u4f53\u5f69\u7ed8,\u5f69\u8272\u989c\u6599]uvlight-illu-sqbl-1.00"
+        },
+        {
+          "name": "People'sWorks_v9_128dim_Illusv1.0_test4_r2"
+        },
+        {
+          "name": "GeekyXL_Liquid_Marble"
+        },
+        {
+          "name": "last"
+        },
+        {
+          "name": "nipple_pulling_ilxl_goofy"
+        },
+        {
+          "name": "shiNudityV1ill"
+        },
+        {
+          "name": "ATBv2-2"
+        },
+        {
+          "name": "water-dress-il-01"
+        },
+        {
+          "name": "Fire_magic_V2_for_illustrious"
+        },
+        {
+          "name": "streak"
+        },
+        {
+          "name": "Unfazed Breast Size Slider IL v1.0"
+        },
+        {
+          "name": "USNR_STYLE_ILL_V1_lokr3"
+        },
+        {
+          "name": "USNR_STYLE_NB_Vpred_V3"
+        },
+        {
+          "name": "[\u6770]\u8fea\u58eb\u5c3c[\u89e6DisneyStyleXLP,\u5361\u901a,\u53ef\u7231,\u7535\u5f71\u611f,\u8fea\u58eb\u5c3c\u76ae\u514b\u65af\u5de5\u4f5c\u5ba4\u7684\u827a\u672f\u4f5c\u54c1]DisneyStudios_style-12IL"
+        },
+        {
+          "name": "A"
+        },
+        {
+          "name": "fl4t"
+        },
+        {
+          "name": "antechinusStyle_illusXL_Incrs_v2"
+        },
+        {
+          "name": "DDD_3"
+        },
+        {
+          "name": "Semi-realism_illustrious"
+        },
+        {
+          "name": "[\u6770\u6696\u4fa7\u5149\u59573.5]\u620f\u5267\u706f\u5149[\u65e0\u89e6]Dramatic Lighting Slider"
+        },
+        {
+          "name": "MoriiMee_Gothic_Realistic"
+        },
+        {
+          "name": "[\u6d41\u91cf\u6770]\u5e73\u6ed1\u7ec6\u8282\u52a9\u63a8\u5668Smooth_Booster_v5"
+        },
+        {
+          "name": "Ahegaoo"
+        },
+        {
+          "name": "bonk[P\u6770]\u620f\u5267\u706f\u5149[\u65e0\u89e6]Dramatic Lighting Slider"
+        },
+        {
+          "name": "dreikoo_style_ilxl_0.1"
+        },
+        {
+          "name": "FrostbiteStudiov2_ArtStyle_Illu_Dwnsty"
+        },
+        {
+          "name": "PowerPuffMixLora"
+        },
+        {
+          "name": "ponyv6_noobV1_2_adamW"
+        },
+        {
+          "name": "[P\u6770]\u5199\u5b9e\u63d2\u753b\u98ce\u683cRi-mix - Style LORA rimixO"
+        },
+        {
+          "name": "[P\u6770]\u5199\u5b9e\u63d2\u753b\u98ce\u683cRi-mix - Style LORA rimixxO2"
+        },
+        {
+          "name": "training_1247607-20260322144638479"
+        },
+        {
+          "name": "hentai_studio_quality"
+        },
+        {
+          "name": "training_5148822-20260306113430473"
+        },
+        {
+          "name": "[\u6d41\u91cf\u6770]\u7f8e\u5b66\u54c1\u8d28\u4fee\u6b63\u5668anima-preview2-masterpieces-e50"
+        }
+      ]
+    }
+  }
+]
