@@ -2,7 +2,7 @@ import sqlite3
 import re
 import json
 import argparse
-from collections import defaultdict, Counter
+from collections import defaultdict
 
 DB_PATH = "data/prompts.db"
 
@@ -150,6 +150,11 @@ CATEGORY_PATTERNS = {
     ],
 }
 
+CATEGORY_REGEXES = {
+    category: [re.compile(pattern, re.IGNORECASE) for pattern in patterns]
+    for category, patterns in CATEGORY_PATTERNS.items()
+}
+
 STOP_WORDS = {
     'a', 'an', 'the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
     'of', 'with', 'by', 'from', 'is', 'are', 'was', 'were', 'be', 'been',
@@ -167,44 +172,46 @@ STOP_WORDS = {
 }
 
 
-def get_all_prompt_text(conn):
-    texts = []
-
+def iter_all_prompt_text(conn):
     cursor = conn.execute("SELECT positive_template FROM prompt_templates WHERE enabled = 1")
-    texts.extend([row[0] for row in cursor.fetchall() if row[0]])
+    for row in cursor:
+        if row[0]:
+            yield row[0]
 
     cursor = conn.execute("SELECT negative_template FROM prompt_templates WHERE negative_template IS NOT NULL AND negative_template != ''")
-    texts.extend([row[0] for row in cursor.fetchall() if row[0]])
+    for row in cursor:
+        if row[0]:
+            yield row[0]
 
     cursor = conn.execute("SELECT metadata FROM prompts WHERE metadata IS NOT NULL AND metadata != '{}'")
     for row in cursor:
         try:
             meta = json.loads(row[0])
             if 'original_prompt' in meta:
-                texts.append(meta['original_prompt'])
+                yield meta['original_prompt']
             if 'structured_fields' in meta:
                 for field_val in meta['structured_fields'].values():
-                    texts.append(field_val)
+                    yield field_val
         except (json.JSONDecodeError, TypeError):
             pass
-
-    return texts
 
 
 def extract_wildcards(texts):
     results = defaultdict(lambda: defaultdict(int))
 
-    for text in texts:
+    for index, text in enumerate(texts, start=1):
         if not text:
             continue
         text_lower = text.lower()
 
-        for category, patterns in CATEGORY_PATTERNS.items():
+        for category, patterns in CATEGORY_REGEXES.items():
             for pattern in patterns:
-                for match in re.finditer(pattern, text_lower):
+                for match in pattern.finditer(text_lower):
                     term = match.group(0).strip()
                     if term and len(term) > 2:
                         results[category][term] += 1
+        if index % 100000 == 0:
+            print(f"Scanned {index} text sources...", flush=True)
 
     return results
 
@@ -217,6 +224,8 @@ def normalize_term(term):
 
 def insert_wildcards(conn, extracted):
     cursor = conn.cursor()
+    inserted = 0
+    existing = 0
 
     for category, terms in extracted.items():
         filtered = {normalize_term(t): c for t, c in terms.items() if c >= 2}
@@ -240,18 +249,21 @@ def insert_wildcards(conn, extracted):
                 "INSERT OR IGNORE INTO wildcard_values (wildcard_definition_id, value, weight, notes, created_at) VALUES (?, ?, ?, ?, datetime('now'))",
                 (def_id, term, round(weight, 2), f"found in {count} prompts")
             )
+            if cursor.rowcount:
+                inserted += 1
+            else:
+                existing += 1
 
     conn.commit()
+    return inserted, existing
 
 
 def main(apply=False):
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
 
-    texts = get_all_prompt_text(conn)
-    print(f"Scanning {len(texts)} text sources...")
-
-    extracted = extract_wildcards(texts)
+    print("Scanning text sources...", flush=True)
+    extracted = extract_wildcards(iter_all_prompt_text(conn))
 
     print(f"\nExtracted wildcard categories:")
     total_terms = 0
@@ -267,7 +279,9 @@ def main(apply=False):
     print(f"\nTotal unique wildcard terms: {total_terms}")
 
     if apply:
-        insert_wildcards(conn, extracted)
+        inserted, existing = insert_wildcards(conn, extracted)
+        print(f"\nWildcard values inserted: {inserted}")
+        print(f"Wildcard values already present: {existing}")
     else:
         print("\nDry run - rerun with --apply to write wildcard values to the database.")
 
