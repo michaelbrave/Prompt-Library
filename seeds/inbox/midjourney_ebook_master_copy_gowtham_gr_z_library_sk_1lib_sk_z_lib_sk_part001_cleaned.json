@@ -1,0 +1,1853 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00000",
+      "concept": "Unlike its peers Midjourney can only be used",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Unlike its peers, Midjourney can only be used on Discord, a",
+        "date_added": "2026-05-21T12:44:16.458539",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Unlike its peers, Midjourney can only be used on Discord, a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Unlike its peers, Midjourney can only be used on Discord, a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00001",
+      "concept": "settings for change Midjourney versions style upscale",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "\u201c/settings\u201d - for change Midjourney versions, style, upscale,",
+        "date_added": "2026-05-21T12:44:16.459400",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201c/settings\u201d - for change Midjourney versions, style, upscale",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201c/settings\u201d - for change Midjourney versions, style, upscale",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00002",
+      "concept": "To communicate with Midjourney you need to write",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "To communicate with Midjourney, you need to write",
+        "date_added": "2026-05-21T12:44:16.459974",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "To communicate with Midjourney, you need to write",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "To communicate with Midjourney, you need to write",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00003",
+      "concept": "In Midjourney prompts are natural language descriptions",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "In Midjourney, prompts are natural language descriptions",
+        "date_added": "2026-05-21T12:44:16.460088",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "In Midjourney, prompts are natural language descriptions",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "In Midjourney, prompts are natural language descriptions",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00004",
+      "concept": "a striking illustration of a man avatar thinking",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "a striking illustration of a man avatar thinking, animation,",
+        "date_added": "2026-05-21T12:44:16.460265",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a striking illustration of a man avatar thinking, animation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a striking illustration of a man avatar thinking, animation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00005",
+      "concept": "render india made of wood inspired by Sydney",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "render, india, made of wood, inspired by Sydney Prior",
+        "date_added": "2026-05-21T12:44:16.460416",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "render, india, made of wood, inspired by Sydney Prior",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "render, india, made of wood, inspired by Sydney Prior",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00006",
+      "concept": "Then open the image in a new tab",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Then, open the image in a new tab to copy the link",
+        "date_added": "2026-05-21T12:44:16.460850",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Then, open the image in a new tab to copy the link",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Then, open the image in a new tab to copy the link",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00007",
+      "concept": "blend command You can only upload images while",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "\u201c/blend\u201d command You can only upload images while using the \u201c/blend\u201d command. Even the text prompt is not allowed in \"/blend.\" The \"/blend\" command allows you to mention the dimension of the output. Unlike the </imagine> command, it only accepts up to 5 images.",
+        "date_added": "2026-05-21T12:44:16.461208",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201c/blend\u201d command You can only upload images while using the \u201c/blend\u201d command. Even the text prompt is not allowed in \"/blend.\" The \"/blend\" command allows you to mention the dimension of the output. Unlike the </imagine> command, it only accepts up to 5 images",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u201c/blend\u201d command You can only upload images while using the \u201c/blend\u201d command. Even the text prompt is not allowed in \"/blend.\" The \"/blend\" command allows you to mention the dimension of the output. Unlike the </imagine> command, it only accepts up to 5 images",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201c/blend\u201d command You can only upload images while using the \u201c/blend\u201d command. Even the text prompt is not allowed in \"/blend.\" The \"/blend\" command allows you to mention the dimension of the output. Unlike the </imagine> command, it only accepts up to 5 images",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00008",
+      "concept": "A prompt must have all or most of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "A prompt must have all or most of the following:",
+        "date_added": "2026-05-21T12:44:16.461460",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A prompt must have all or most of the following:",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A prompt must have all or most of the following:",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00009",
+      "concept": "Styling jargon pixel art digital art neon wave",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Styling jargon: pixel art, digital art, neon wave, fantasy,",
+        "date_added": "2026-05-21T12:44:16.461842",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Styling jargon: pixel art, digital art, neon wave, fantasy",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Styling jargon: pixel art, digital art, neon wave, fantasy",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00010",
+      "concept": "Art platform name add keywords such as trending",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Art platform name: add keywords, such as \u201ctrending on",
+        "date_added": "2026-05-21T12:44:16.462109",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Art platform name: add keywords, such as \u201ctrending on",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Art platform name: add keywords, such as \u201ctrending on",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00011",
+      "concept": "Art medium digital art pencil art ink art",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Art medium: digital art, pencil art, ink art, oil pastel,",
+        "date_added": "2026-05-21T12:44:16.462477",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Art medium: digital art, pencil art, ink art, oil pastel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Art medium: digital art, pencil art, ink art, oil pastel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00012",
+      "concept": "Stylize Parameter for Midjourney v",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Stylize Parameter: --s<0-1000> for Midjourney v4.",
+        "date_added": "2026-05-21T12:44:16.462571",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Stylize Parameter: <0-1000> for Midjourney v4",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Stylize Parameter: <0-1000> for Midjourney v4",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00013",
+      "concept": "A Photography prompt must have all or most",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "A Photography prompt must have all or most of the",
+        "date_added": "2026-05-21T12:44:16.462679",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A Photography prompt must have all or most of the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A Photography prompt must have all or most of the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00014",
+      "concept": "shutter speed telephoto lens macro lens wide angle",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "shutter speed, telephoto lens, macro lens, wide angle",
+        "date_added": "2026-05-21T12:44:16.462818",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "shutter speed, telephoto lens, macro lens, wide angle",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "shutter speed, telephoto lens, macro lens, wide angle",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00015",
+      "concept": "cold lighting studio lighting backlighting colorful",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "cold lighting, studio lighting, backlighting, colorful",
+        "date_added": "2026-05-21T12:44:16.463213",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cold lighting, studio lighting, backlighting, colorful",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cold lighting, studio lighting, backlighting, colorful",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00016",
+      "concept": "Photo Genres Usage Contexts newspapers",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Photo Genres & Usage Contexts (newspapers &",
+        "date_added": "2026-05-21T12:44:16.463312",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Photo Genres & Usage Contexts (newspapers &",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Photo Genres & Usage Contexts (newspapers &",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00017",
+      "concept": "fashion photography from Vogue corporate portrait",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "fashion photography from Vogue, corporate portrait",
+        "date_added": "2026-05-21T12:44:16.463389",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "fashion photography from Vogue, corporate portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "fashion photography from Vogue, corporate portrait",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00018",
+      "concept": "Photo Genres Usage Contexts Films Breaking Bad",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Photo Genres & Usage Contexts (Films): Breaking Bad",
+        "date_added": "2026-05-21T12:44:16.463448",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Photo Genres & Usage Contexts (Films): Breaking Bad",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Photo Genres & Usage Contexts (Films): Breaking Bad",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00019",
+      "concept": "Shoot Context studio photographic portrait outdoor",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Shoot Context: studio photographic portrait, outdoor,",
+        "date_added": "2026-05-21T12:44:16.463668",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Shoot Context: studio photographic portrait, outdoor",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Shoot Context: studio photographic portrait, outdoor",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00020",
+      "concept": "Aspect Ratio for portrait and for",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Aspect Ratio: --ar 2:3 for portrait and --ar 3:2 for",
+        "date_added": "2026-05-21T12:44:16.463771",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Aspect Ratio: for portrait and for",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Aspect Ratio: for portrait and for",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00021",
+      "concept": "professional corporate portrait of actress Kelly brook",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "professional corporate portrait of actress Kelly brook,",
+        "date_added": "2026-05-21T12:44:16.463862",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "professional corporate portrait of actress Kelly brook",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "professional corporate portrait of actress Kelly brook",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00022",
+      "concept": "a wide angle shot of amazing street art",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "a wide angle shot of amazing street art, a woman with",
+        "date_added": "2026-05-21T12:44:16.464003",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a wide angle shot of amazing street art, a woman with",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a wide angle shot of amazing street art, a woman with",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00023",
+      "concept": "An Illustration prompt must have all or most",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "An Illustration prompt must have all or most of the",
+        "date_added": "2026-05-21T12:44:16.464403",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An Illustration prompt must have all or most of the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An Illustration prompt must have all or most of the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00024",
+      "concept": "Illustration Style analog monochrome pen art charcol",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Illustration Style (analog-monochrome): pen art, charcol",
+        "date_added": "2026-05-21T12:44:16.464499",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Illustration Style (analog-monochrome): pen art, charcol",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Illustration Style (analog-monochrome): pen art, charcol",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00025",
+      "concept": "sketch ballpoint art pencil sketch street art political",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "sketch, ballpoint art, pencil sketch, street art, political",
+        "date_added": "2026-05-21T12:44:16.464575",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "sketch, ballpoint art, pencil sketch, street art, political",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "sketch, ballpoint art, pencil sketch, street art, political",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00026",
+      "concept": "cartoon from newspaper line art coloring in sheet",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "cartoon from newspaper, line art, coloring-in sheet,",
+        "date_added": "2026-05-21T12:44:16.464666",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cartoon from newspaper, line art, coloring-in sheet",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cartoon from newspaper, line art, coloring-in sheet",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00027",
+      "concept": "Illustration Style analog color crayon acrylic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Illustration Style (analog-color): crayon, acrylic,",
+        "date_added": "2026-05-21T12:44:16.464768",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Illustration Style (analog-color): crayon, acrylic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Illustration Style (analog-color): crayon, acrylic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00028",
+      "concept": "watercolor colored pencil oil painting pastels airbursh",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "watercolor, colored pencil, oil painting, pastels, airbursh,",
+        "date_added": "2026-05-21T12:44:16.464890",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "watercolor, colored pencil, oil painting, pastels, airbursh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "watercolor, colored pencil, oil painting, pastels, airbursh",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00029",
+      "concept": "Illustration Style digital vector art low poly layered",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Illustration Style (digital): vector art, low poly, layered",
+        "date_added": "2026-05-21T12:44:16.465054",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Illustration Style (digital): vector art, low poly, layered",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Illustration Style (digital): vector art, low poly, layered",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00030",
+      "concept": "paper sticker illustration storybook digital painting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "paper, sticker illustration, storybook, digital painting",
+        "date_added": "2026-05-21T12:44:16.465163",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "paper, sticker illustration, storybook, digital painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "paper, sticker illustration, storybook, digital painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00031",
+      "concept": "Illustration Style instructional blueprint patent",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Illustration Style (instructional): blueprint, patent",
+        "date_added": "2026-05-21T12:44:16.465340",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Illustration Style (instructional): blueprint, patent",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Illustration Style (instructional): blueprint, patent",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00032",
+      "concept": "Illustration Style D D render houdini D octane",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Illustration Style (3D): 3D render, houdini 3D, octane 3D,",
+        "date_added": "2026-05-21T12:44:16.465427",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Illustration Style (3D): 3D render, houdini 3D, octane 3D",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Illustration Style (3D): 3D render, houdini 3D, octane 3D",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00033",
+      "concept": "Illustration Style cartoon character anime Pixar comic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Illustration Style (cartoon character): anime, Pixar, comic",
+        "date_added": "2026-05-21T12:44:16.465516",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Illustration Style (cartoon character): anime, Pixar, comic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Illustration Style (cartoon character): anime, Pixar, comic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00034",
+      "concept": "book art Studio Ghibli pixel art",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "book art, Studio Ghibli, pixel art",
+        "date_added": "2026-05-21T12:44:16.465574",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "book art, Studio Ghibli, pixel art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "book art, Studio Ghibli, pixel art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00035",
+      "concept": "Stylize for Midjourney v It plays a huge",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Stylize: --s<0-1000> for Midjourney v4; It plays a huge role",
+        "date_added": "2026-05-21T12:44:16.466023",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 35,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Stylize: <0-1000> for Midjourney v4; It plays a huge role",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Stylize: <0-1000> for Midjourney v4; It plays a huge role",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00036",
+      "concept": "an anime style illustration of a teenage girl",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "an anime-style illustration of a teenage girl, sitting in a",
+        "date_added": "2026-05-21T12:44:16.466799",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 36,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "an anime-style illustration of a teenage girl, sitting in a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "an anime-style illustration of a teenage girl, sitting in a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00037",
+      "concept": "a low poly image of human heart",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "a low poly image of human heart",
+        "date_added": "2026-05-21T12:44:16.466895",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 37,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a low poly image of human heart",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a low poly image of human heart",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00038",
+      "concept": "an ilustration of scribbles scribble art joy",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "an ilustration of scribbles, scribble art, joy",
+        "date_added": "2026-05-21T12:44:16.466994",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 38,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "an ilustration of scribbles, scribble art, joy",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "an ilustration of scribbles, scribble art, joy",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00039",
+      "concept": "Mention Artistic Genres psychedelic De Stijl pop art",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Mention Artistic Genres: psychedelic, De Stijl, pop art,",
+        "date_added": "2026-05-21T12:44:16.467431",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 39,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Mention Artistic Genres: psychedelic, De Stijl, pop art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Mention Artistic Genres: psychedelic, De Stijl, pop art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00040",
+      "concept": "Use no Parameter at the end of prompt",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Use \"--no\" Parameter at the end of prompt: to cutdown",
+        "date_added": "2026-05-21T12:44:16.467605",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 40,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Use \"--no\" Parameter at the end of prompt: to cutdown",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Use \"--no\" Parameter at the end of prompt: to cutdown",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00041",
+      "concept": "minimalistic no realistic photo details",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "minimalistic --no realistic photo details",
+        "date_added": "2026-05-21T12:44:16.468066",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 41,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "minimalistic --no realistic photo details",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "minimalistic --no realistic photo details",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00042",
+      "concept": "Rob Janoff no realistic photo details",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Rob Janoff --no realistic photo details",
+        "date_added": "2026-05-21T12:44:16.468196",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 42,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Rob Janoff --no realistic photo details",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Rob Janoff --no realistic photo details",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00043",
+      "concept": "rays by Sagi Haviv no realistic photo detail",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "rays, by Sagi Haviv --no realistic photo detail",
+        "date_added": "2026-05-21T12:44:16.468314",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 43,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "rays, by Sagi Haviv --no realistic photo detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "rays, by Sagi Haviv --no realistic photo detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00044",
+      "concept": "decentralizedcreator com Example Midjourney Logo Prompts f l",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "decentralizedcreator.com Example Midjourney Logo Prompts f l a t v e c t o r l o g o o f l i o n h e a d , n e g a t i v e s p a c e - - n o r e a l i s t i c p h o t o d e t a i l NOTE: Midjourney and other generative AI's are not well-versed in generating letters. Hence, you need to use Canva or Photopea for editing words.",
+        "date_added": "2026-05-21T12:44:16.468613",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 44,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "decentralizedcreator.com Example Midjourney Logo Prompts f l a t v e c t o r l o g o o f l i o n h e a d, n e g a t i v e s p a c e - - n o r e a l i s t i c p h o t o d e t a i l NOTE: Midjourney and other generative AI's are not well-versed in generating letters. Hence, you need to use Canva or Photopea for editing words",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "decentralizedcreator.com Example Midjourney Logo Prompts f l a t v e c t o r l o g o o f l i o n h e a d, n e g a t i v e s p a c e - - n o r e a l i s t i c p h o t o d e t a i l NOTE: Midjourney and other generative AI's are not well-versed in generating letters. Hence, you need to use Canva or Photopea for editing words",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "decentralizedcreator.com Example Midjourney Logo Prompts f l a t v e c t o r l o g o o f l i o n h e a d, n e g a t i v e s p a c e - - n o r e a l i s t i c p h o t o d e t a i l NOTE: Midjourney and other generative AI's are not well-versed in generating letters. Hence, you need to use Canva or Photopea for editing words",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00045",
+      "concept": "An App Icon prompt must have all or",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "An App Icon prompt must have all or most of the",
+        "date_added": "2026-05-21T12:44:16.468786",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 45,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An App Icon prompt must have all or most of the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An App Icon prompt must have all or most of the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00046",
+      "concept": "decentralizedcreator com Example Midjourney Icon Prompts s t",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "decentralizedcreator.com Example Midjourney Icon Prompts s t y l i s h a p p l i c a t i o n i O S i c o n f o r b i k e t a x i , c o u p l e r i d i n g t o g e t h e r , i s o m e t r i c d e s i g n , u x / u i - - q",
+        "date_added": "2026-05-21T12:44:16.469681",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 46,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "decentralizedcreator.com Example Midjourney Icon Prompts s t y l i s h a p p l i c a t i o n i O S i c o n f o r b i k e t a x i, c o u p l e r i d i n g t o g e t h e r, i s o m e t r i c d e s i g n, u x / u i - - q",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "decentralizedcreator.com Example Midjourney Icon Prompts s t y l i s h a p p l i c a t i o n i O S i c o n f o r b i k e t a x i, c o u p l e r i d i n g t o g e t h e r, i s o m e t r i c d e s i g n, u x / u i - - q",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00047",
+      "concept": "An UX UI prompt must have all or",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "An UX/UI prompt must have all or most of the following:",
+        "date_added": "2026-05-21T12:44:16.470200",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 47,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An UX/UI prompt must have all or most of the following:",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An UX/UI prompt must have all or most of the following:",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00048",
+      "concept": "An interior design prompt must have all or",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "An interior design prompt must have all or most of the",
+        "date_added": "2026-05-21T12:44:16.471154",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 48,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An interior design prompt must have all or most of the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An interior design prompt must have all or most of the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00049",
+      "concept": "Chinese style Bohemian style Art Deco style rococo",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Chinese style, Bohemian style, Art Deco style, rococo,",
+        "date_added": "2026-05-21T12:44:16.471297",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 49,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Chinese style, Bohemian style, Art Deco style, rococo",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Chinese style, Bohemian style, Art Deco style, rococo",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00050",
+      "concept": "Crafting Studio The Purple Turtles Studio wood Kartell",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Crafting Studio, The Purple Turtles, Studio wood, Kartell,",
+        "date_added": "2026-05-21T12:44:16.472176",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 50,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Crafting Studio, The Purple Turtles, Studio wood, Kartell",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Crafting Studio, The Purple Turtles, Studio wood, Kartell",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00051",
+      "concept": "An architecture design prompt must have all or",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "An architecture design prompt must have all or most of",
+        "date_added": "2026-05-21T12:44:16.473185",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 51,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An architecture design prompt must have all or most of",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An architecture design prompt must have all or most of",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00052",
+      "concept": "Art Nouveau Santorini Architecture Neoclassical Mid",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Art Nouveau, Santorini Architecture, Neoclassical, Mid-",
+        "date_added": "2026-05-21T12:44:16.473286",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 52,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Art Nouveau, Santorini Architecture, Neoclassical, Mid-",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Art Nouveau, Santorini Architecture, Neoclassical, Mid-",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00053",
+      "concept": "General Styles cinematic minimalistic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "General Styles: --s <value>, cinematic, minimalistic,",
+        "date_added": "2026-05-21T12:44:16.473817",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 53,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "General Styles: cinematic, minimalistic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "General Styles: cinematic, minimalistic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00054",
+      "concept": "Art Medium cgsociety artstation",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Art Medium: cgsociety, artstation",
+        "date_added": "2026-05-21T12:44:16.474462",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 54,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Art Medium: cgsociety, artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Art Medium: cgsociety, artstation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00055",
+      "concept": "editorial photo ephemeral wave house nestled in a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "editorial photo, ephemeral wave house, nestled in a",
+        "date_added": "2026-05-21T12:44:16.475318",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 55,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "editorial photo, ephemeral wave house, nestled in a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "editorial photo, ephemeral wave house, nestled in a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00056",
+      "concept": "editorial photo perennial wave house nestled in a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "editorial photo, perennial wave house, nestled in a",
+        "date_added": "2026-05-21T12:44:16.475414",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 56,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "editorial photo, perennial wave house, nestled in a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "editorial photo, perennial wave house, nestled in a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00057",
+      "concept": "editorial photograph of a highly stylish villa on",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "editorial photograph of a highly stylish villa on the",
+        "date_added": "2026-05-21T12:44:16.475578",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 57,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "editorial photograph of a highly stylish villa on the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "editorial photograph of a highly stylish villa on the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00058",
+      "concept": "To use multi prompts in Midjourney you have",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "To use multi prompts in Midjourney, you have to add a",
+        "date_added": "2026-05-21T12:44:16.475849",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 58,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "To use multi prompts in Midjourney, you have to add a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "To use multi prompts in Midjourney, you have to add a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00059",
+      "concept": "To use Midjourney multi prompts effectively you must",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "To use Midjourney multi prompts effectively, you must",
+        "date_added": "2026-05-21T12:44:16.476223",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 59,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "To use Midjourney multi prompts effectively, you must",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "To use Midjourney multi prompts effectively, you must",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk_00060",
+      "concept": "Create a New Image or Load your Pre",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_ebook_master_copy_gowtham_gr_z_library_sk_1lib_sk_z_lib_sk",
+        "original_prompt": "Create a New Image or Load your Pre-created Image",
+        "date_added": "2026-05-21T12:44:16.477278",
+        "source_file": "Midjourney eBook Master Copy (gowtham gr) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 60,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Create a New Image or Load your Pre-created Image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Create a New Image or Load your Pre-created Image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

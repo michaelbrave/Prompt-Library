@@ -1,0 +1,456 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00000",
+      "concept": "Without Lighting Prompt editorial photo hardworking farmer in",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "Without Lighting Prompt: editorial photo, hardworking farmer in Bali rice fields, Leica M10-",
+        "date_added": "2026-05-21T12:44:15.931364",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Without Lighting Prompt: editorial photo, hardworking farmer in Bali rice fields, Leica M10-",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Without Lighting Prompt: editorial photo, hardworking farmer in Bali rice fields, Leica M10-",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00001",
+      "concept": "Enhanced Lighting Prompt ethereal lighting editorial photo hardworking",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "Enhanced Lighting Prompt: ethereal-lighting, editorial photo, hardworking farmer in Bali",
+        "date_added": "2026-05-21T12:44:15.931477",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Enhanced Lighting Prompt: ethereal-lighting, editorial photo, hardworking farmer in Bali",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Enhanced Lighting Prompt: ethereal-lighting, editorial photo, hardworking farmer in Bali",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00002",
+      "concept": "The first image is good but",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "The first image is good, but...",
+        "date_added": "2026-05-21T12:44:15.931593",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The first image is good, but",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The first image is good, but",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00003",
+      "concept": "editorial color photo hardworking farmer in Bali rice",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "editorial color photo, hardworking farmer in Bali rice fields, Leica M10-R, shallow depth-of- field, leading lines, backlight, --ar 5:4 --stylize 200",
+        "date_added": "2026-05-21T12:44:15.932164",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "editorial color photo, hardworking farmer in Bali rice fields, Leica M10-R, shallow depth-of- field, leading lines, backlight",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "editorial color photo, hardworking farmer in Bali rice fields, Leica M10-R, shallow depth-of- field, leading lines, backlight",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00004",
+      "concept": "backlight editorial color photo hardworking farmer in Bali",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "backlight, editorial color photo, hardworking farmer in Bali rice fields, Leica M10-R, shallow depth-of-field, leading lines, --ar 5:4 --stylize 200 Prompt Structure. Lighting Last LIghting First",
+        "date_added": "2026-05-21T12:44:15.932430",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "backlight, editorial color photo, hardworking farmer in Bali rice fields, Leica M10-R, shallow depth-of-field, leading lines, Prompt Structure. Lighting Last LIghting First",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "backlight, editorial color photo, hardworking farmer in Bali rice fields, Leica M10-R, shallow depth-of-field, leading lines, Prompt Structure. Lighting Last LIghting First",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00005",
+      "concept": "natural focused soft hard lighting street style color",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "{natural, focused, soft, hard} lighting, street-style color photo, Inuit whale hunter on a boat, Leica M10-R, shallow depth-of-field, tonal contrast --ar 4:5 --stylize 150 Light Quality. Natural Light Focused Light Soft Light Hard Light",
+        "date_added": "2026-05-21T12:44:15.933099",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "{natural, focused, soft, hard} lighting, street-style color photo, Inuit whale hunter on a boat, Leica M10-R, shallow depth-of-field, tonal contrast Light Quality. Natural Light Focused Light Soft Light Hard Light",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "{natural, focused, soft, hard} lighting, street-style color photo, Inuit whale hunter on a boat, Leica M10-R, shallow depth-of-field, tonal contrast Light Quality. Natural Light Focused Light Soft Light Hard Light",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "{natural, focused, soft, hard} lighting, street-style color photo, Inuit whale hunter on a boat, Leica M10-R, shallow depth-of-field, tonal contrast Light Quality. Natural Light Focused Light Soft Light Hard Light",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00006",
+      "concept": "Prompt dawn overcast midday golden hour twilight blue",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "Prompt: {dawn, overcast, midday, golden hour, twilight, blue hour} lighting, documentary photo, arctic explorers navigating the hash antarctic landscape, 35mm --ar 5:6 --stylize 1 --stylize 150 Time of Day. Dawn Twilight Blue HourGolden Hour Overcast Midday",
+        "date_added": "2026-05-21T12:44:15.933847",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Prompt: {dawn, overcast, midday, golden hour, twilight, blue hour} lighting, documentary photo, arctic explorers navigating the hash antarctic landscape, 35mm Time of Day. Dawn Twilight Blue HourGolden Hour Overcast Midday",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Prompt: {dawn, overcast, midday, golden hour, twilight, blue hour} lighting, documentary photo, arctic explorers navigating the hash antarctic landscape, 35mm Time of Day. Dawn Twilight Blue HourGolden Hour Overcast Midday",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Prompt: {dawn, overcast, midday, golden hour, twilight, blue hour} lighting, documentary photo, arctic explorers navigating the hash antarctic landscape, 35mm Time of Day. Dawn Twilight Blue HourGolden Hour Overcast Midday",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00007",
+      "concept": "golden hour side light documentary photo low angle",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "golden hour side light, documentary photo, low angle panning shot, side profile, 2 sicarios on a motorboat wearing bandanas on their face, riding up a jungle river, 70mm --ar 5:6 --stylize 250 Time of Day + Direction",
+        "date_added": "2026-05-21T12:44:15.934192",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "golden hour side light, documentary photo, low angle panning shot, side profile, 2 sicarios on a motorboat wearing bandanas on their face, riding up a jungle river, 70mm Time of Day + Direction",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "golden hour side light, documentary photo, low angle panning shot, side profile, 2 sicarios on a motorboat wearing bandanas on their face, riding up a jungle river, 70mm Time of Day + Direction",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00008",
+      "concept": "twilight front light documentary closeup photo happy albino",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "twilight front light, documentary closeup photo, happy albino woman wearing a black hat, marsh background, 70mm --ar 5:6 --stylize 250 Time of Day + Direction",
+        "date_added": "2026-05-21T12:44:15.934394",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "twilight front light, documentary closeup photo, happy albino woman wearing a black hat, marsh background, 70mm Time of Day + Direction",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "twilight front light, documentary closeup photo, happy albino woman wearing a black hat, marsh background, 70mm Time of Day + Direction",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00009",
+      "concept": "Cinematic Lighting Intense and emotional",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "Cinematic Lighting: Intense and emotional.",
+        "date_added": "2026-05-21T12:44:15.934648",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cinematic Lighting: Intense and emotional",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cinematic Lighting: Intense and emotional",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00010",
+      "concept": "ethereal gossamer dramtic cinematic lighting technologically advanced futuristic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "{ethereal, gossamer, dramtic, cinematic} lighting, technologically advanced futuristic astronaut, black and lime green colors, intricate details --ar 1:1 --stylize 200 Descriptive Keywords. Ethereal Gossamer Dramatic Cinematic",
+        "date_added": "2026-05-21T12:44:15.934884",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "{ethereal, gossamer, dramtic, cinematic} lighting, technologically advanced futuristic astronaut, black and lime green colors, intricate details Descriptive Keywords. Ethereal Gossamer Dramatic Cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "{ethereal, gossamer, dramtic, cinematic} lighting, technologically advanced futuristic astronaut, black and lime green colors, intricate details Descriptive Keywords. Ethereal Gossamer Dramatic Cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "{ethereal, gossamer, dramtic, cinematic} lighting, technologically advanced futuristic astronaut, black and lime green colors, intricate details Descriptive Keywords. Ethereal Gossamer Dramatic Cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00011",
+      "concept": "editorial medium shot woman standing in a dark",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "editorial medium shot, woman standing in a dark room, cinematic clean lime green binary code is projected onto her face and body, reflective stainless steel architecture in the background, 70mm, high precision photography --ar 5:4 --stylize 500 Get Creative.",
+        "date_added": "2026-05-21T12:44:15.935224",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "editorial medium shot, woman standing in a dark room, cinematic clean lime green binary code is projected onto her face and body, reflective stainless steel architecture in the background, 70mm, high precision photography Get Creative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "editorial medium shot, woman standing in a dark room, cinematic clean lime green binary code is projected onto her face and body, reflective stainless steel architecture in the background, 70mm, high precision photography Get Creative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00012",
+      "concept": "cinematic lighting silhouette of man in a suit",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "cinematic lighting, silhouette of man in a suit and hat walks on a Charleston beach after sunset, radiant post-sunset oranges and purples paint the beach with intricate colorful reflections, shot on 35mm film, shallow depth of field, silhouette lighting, editorial photography --no symmetry --ar 5:6 --stylize 225 Get Creative.",
+        "date_added": "2026-05-21T12:44:15.935436",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic lighting, silhouette of man in a suit and hat walks on a Charleston beach after sunset, radiant post-sunset oranges and purples paint the beach with intricate colorful reflections, shot on 35mm film, shallow depth of field, silhouette lighting, editorial photography --no symmetry Get Creative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic lighting, silhouette of man in a suit and hat walks on a Charleston beach after sunset, radiant post-sunset oranges and purples paint the beach with intricate colorful reflections, shot on 35mm film, shallow depth of field, silhouette lighting, editorial photography --no symmetry Get Creative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s_00013",
+      "concept": "editorial closeup photo young child smiling early morning",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_beginners_guide_to_lighting_in_midjourney_rory_flynn_z_library_sk_1lib_s",
+        "original_prompt": "editorial closeup photo, young child smiling, early morning dramatic light passing through a chain link fence onto his face, casting patterned shadows --ar 5:6 --stylize 250 Get Creative.",
+        "date_added": "2026-05-21T12:44:15.935620",
+        "source_file": "Beginners Guide to Lighting in Midjourney (Rory Flynn) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "editorial closeup photo, young child smiling, early morning dramatic light passing through a chain link fence onto his face, casting patterned shadows Get Creative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "editorial closeup photo, young child smiling, early morning dramatic light passing through a chain link fence onto his face, casting patterned shadows Get Creative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

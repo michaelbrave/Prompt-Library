@@ -1,0 +1,1065 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00000",
+      "concept": "book illustration style simple cute light color flat",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "book illustration style, simple, cute, light color, flat colors,",
+        "date_added": "2026-05-21T12:44:15.937846",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "book illustration style, simple, cute, light color, flat colors",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "book illustration style, simple, cute, light color, flat colors",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00001",
+      "concept": "emoji pack related character thick texture bold line",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "emoji pack, related character, thick texture, bold line drawing",
+        "date_added": "2026-05-21T12:44:15.937958",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "emoji pack, related character, thick texture, bold line drawing",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "emoji pack, related character, thick texture, bold line drawing",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00002",
+      "concept": "children s book illustration style simple cute light",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "children's book illustration style, simple, cute, light color,",
+        "date_added": "2026-05-21T12:44:15.938145",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "children's book illustration style, simple, cute, light color",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "children's book illustration style, simple, cute, light color",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00003",
+      "concept": "high resolution emoji pack related character thick texture",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "high resolution, emoji pack, related character, thick texture,",
+        "date_added": "2026-05-21T12:44:15.938238",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "high resolution, emoji pack, related character, thick texture",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "high resolution, emoji pack, related character, thick texture",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00004",
+      "concept": "Little cute puppy multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute puppy, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.938336",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute puppy, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute puppy, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00005",
+      "concept": "resolution emoji pack related character thick texture bold",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "resolution, emoji pack, related character, thick texture, bold line drawing style --niji 5",
+        "date_added": "2026-05-21T12:44:15.938450",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "resolution, emoji pack, related character, thick texture, bold line drawing style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "resolution, emoji pack, related character, thick texture, bold line drawing style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00006",
+      "concept": "Little cute pandas multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute pandas, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.938537",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute pandas, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute pandas, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00007",
+      "concept": "Little cute raccoons multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute raccoons, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.938691",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute raccoons, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute raccoons, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00008",
+      "concept": "Little cute mermaid multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute mermaid, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.938842",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute mermaid, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute mermaid, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00009",
+      "concept": "Little cute girl multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute girl, multiple poses and expressions, children's book illustration style, simple,",
+        "date_added": "2026-05-21T12:44:15.939061",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute girl, multiple poses and expressions, children's book illustration style, simple",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute girl, multiple poses and expressions, children's book illustration style, simple",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00010",
+      "concept": "emoji pack related character thick texture bold line",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "emoji pack, related character, thick texture, bold line drawing style --niji 5",
+        "date_added": "2026-05-21T12:44:15.939187",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "emoji pack, related character, thick texture, bold line drawing style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "emoji pack, related character, thick texture, bold line drawing style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00011",
+      "concept": "Little cute prince multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute prince, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.939271",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute prince, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute prince, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00012",
+      "concept": "Little cute firefighter multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute firefighter, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.939473",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute firefighter, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute firefighter, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00013",
+      "concept": "Little cute doctor multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute doctor, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.939660",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute doctor, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute doctor, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00014",
+      "concept": "Little cute sailor multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute sailor, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.939811",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute sailor, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute sailor, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00015",
+      "concept": "Little cute Astronaut multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute Astronaut, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.940023",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute Astronaut, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute Astronaut, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00016",
+      "concept": "Little cute Farmer multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute Farmer, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.940193",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute Farmer, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute Farmer, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00017",
+      "concept": "Little cute pumpkin multiple poses and expressions children",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little cute pumpkin, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.940344",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little cute pumpkin, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little cute pumpkin, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00018",
+      "concept": "illustration style simple cute light color flat colors",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "illustration style, simple, cute, light color, flat colors, white background, bold outline, high",
+        "date_added": "2026-05-21T12:44:15.940583",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "illustration style, simple, cute, light color, flat colors, white background, bold outline, high",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "illustration style, simple, cute, light color, flat colors, white background, bold outline, high",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00019",
+      "concept": "quality high resolution emoji pack related character thick",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "quality, high resolution, emoji pack, related character, thick texture, bold line drawing",
+        "date_added": "2026-05-21T12:44:15.940665",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "quality, high resolution, emoji pack, related character, thick texture, bold line drawing",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "quality, high resolution, emoji pack, related character, thick texture, bold line drawing",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00020",
+      "concept": "book illustration style simple cute light color flat",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "book illustration style, simple, cute, light color, flat colors, white background, bold",
+        "date_added": "2026-05-21T12:44:15.941063",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "book illustration style, simple, cute, light color, flat colors, white background, bold",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "book illustration style, simple, cute, light color, flat colors, white background, bold",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00021",
+      "concept": "outline high quality high resolution emoji pack related",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "outline, high quality, high resolution, emoji pack, related character, thick texture, bold line",
+        "date_added": "2026-05-21T12:44:15.941160",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "outline, high quality, high resolution, emoji pack, related character, thick texture, bold line",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "outline, high quality, high resolution, emoji pack, related character, thick texture, bold line",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00022",
+      "concept": "Little Cute Santa Claus multiple poses and expressions",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Little Cute Santa Claus, multiple poses and expressions, children's book illustration style,",
+        "date_added": "2026-05-21T12:44:15.941462",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Little Cute Santa Claus, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Little Cute Santa Claus, multiple poses and expressions, children's book illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00023",
+      "concept": "children s book illustration style simple cute light",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "children's book illustration style, simple, cute, light color, flat colors, white background,",
+        "date_added": "2026-05-21T12:44:15.941829",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "children's book illustration style, simple, cute, light color, flat colors, white background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "children's book illustration style, simple, cute, light color, flat colors, white background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00024",
+      "concept": "bold outline high quality high resolution emoji pack",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "bold outline, high quality, high resolution, emoji pack, related character, thick texture,",
+        "date_added": "2026-05-21T12:44:15.941913",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "bold outline, high quality, high resolution, emoji pack, related character, thick texture",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "bold outline, high quality, high resolution, emoji pack, related character, thick texture",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00025",
+      "concept": "expressions children s book illustration style simple cute",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "expressions, children's book illustration style, simple, cute, light color, flat colors, white",
+        "date_added": "2026-05-21T12:44:15.942229",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "expressions, children's book illustration style, simple, cute, light color, flat colors, white",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "expressions, children's book illustration style, simple, cute, light color, flat colors, white",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00026",
+      "concept": "background bold outline high quality high resolution emoji",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "background, bold outline, high quality, high resolution, emoji pack, related character,",
+        "date_added": "2026-05-21T12:44:15.942311",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "background, bold outline, high quality, high resolution, emoji pack, related character",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "background, bold outline, high quality, high resolution, emoji pack, related character",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00027",
+      "concept": "A woman in her wedding multiple poses and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "A woman in her wedding, multiple poses and expressions, children's book illustration",
+        "date_added": "2026-05-21T12:44:15.942540",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A woman in her wedding, multiple poses and expressions, children's book illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A woman in her wedding, multiple poses and expressions, children's book illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00028",
+      "concept": "high resolution emoji pack related character thick texture",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "high resolution, emoji pack, related character, thick texture, bold line drawing style --niji 5",
+        "date_added": "2026-05-21T12:44:15.942694",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "high resolution, emoji pack, related character, thick texture, bold line drawing style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "high resolution, emoji pack, related character, thick texture, bold line drawing style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00029",
+      "concept": "little cute girl holding a pumpkin multiple poses",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "little cute girl holding a pumpkin, multiple poses and expressions, children's book illustration",
+        "date_added": "2026-05-21T12:44:15.942797",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "little cute girl holding a pumpkin, multiple poses and expressions, children's book illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "little cute girl holding a pumpkin, multiple poses and expressions, children's book illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00030",
+      "concept": "illustration style simple cute light color flat colors",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "illustration style, simple, cute, light color, flat colors, white background, bold outline, high quality,",
+        "date_added": "2026-05-21T12:44:15.943094",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "illustration style, simple, cute, light color, flat colors, white background, bold outline, high quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "illustration style, simple, cute, light color, flat colors, white background, bold outline, high quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00031",
+      "concept": "Create slight variations of the selected grid image",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "Create slight variations of the selected grid image; I found this quite useful when your image seems to",
+        "date_added": "2026-05-21T12:44:15.943898",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Create slight variations of the selected grid image; I found this quite useful when your image seems to",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Create slight variations of the selected grid image; I found this quite useful when your image seems to",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00032",
+      "concept": "The prompt I provided is easily customizable and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "The prompt I provided is easily customizable and precise. My examples are all with the first",
+        "date_added": "2026-05-21T12:44:15.944243",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The prompt I provided is easily customizable and precise. My examples are all with the first",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "The prompt I provided is easily customizable and precise. My examples are all with the first",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The prompt I provided is easily customizable and precise. My examples are all with the first",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00033",
+      "concept": "If you would like to make any print",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "If you would like to make any print products, MidJourney's upscaling is usually not enough. I",
+        "date_added": "2026-05-21T12:44:15.944445",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "If you would like to make any print products, MidJourney's upscaling is usually not enough. I",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "If you would like to make any print products, MidJourney's upscaling is usually not enough. I",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l_00034",
+      "concept": "After saving images from midjourney bring",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_cuteemojipacks_prompts_stephanie_lam_z_library_sk_1lib_sk_z_l",
+        "original_prompt": "After saving images from midjourney, bring",
+        "date_added": "2026-05-21T12:44:15.944650",
+        "source_file": "MidJourney_CuteEmojiPacks_Prompts (Stephanie Lam) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "After saving images from midjourney, bring",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "After saving images from midjourney, bring",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

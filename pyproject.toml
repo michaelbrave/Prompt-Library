@@ -8,6 +8,7 @@ dependencies = []
 [project.scripts]
 prompt-library = "prompt_library.cli:main"
 clean-prompts = "clean_prompts:main"
+prepare-inbox = "tools.prepare_inbox:main"
 
 [build-system]
 requires = ["setuptools>=68.0"]

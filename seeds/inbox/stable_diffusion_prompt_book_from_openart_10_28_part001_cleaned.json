@@ -1,0 +1,1699 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00000",
+      "concept": "This prompt book is brought to you by",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "This prompt book is brought to you by OpenArt, a platform and",
+        "date_added": "2026-05-21T12:44:16.482363",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "This prompt book is brought to you by OpenArt, a platform and",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "This prompt book is brought to you by OpenArt, a platform and",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00001",
+      "concept": "parameters Prompt Funko pop superman figurine made of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "parameters Prompt: Funko pop superman figurine, made of",
+        "date_added": "2026-05-21T12:44:16.483368",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "parameters Prompt: Funko pop superman figurine, made of",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "parameters Prompt: Funko pop superman figurine, made of",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00002",
+      "concept": "plastic product studio shot on a white background",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "plastic, product studio shot, on a white background, diffused",
+        "date_added": "2026-05-21T12:44:16.483440",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "plastic, product studio shot, on a white background, diffused",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "plastic, product studio shot, on a white background, diffused",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00003",
+      "concept": "Tiny cute giraffe using a typewriter toy standing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Tiny cute giraffe using a typewriter toy, standing character, soft smooth lighting, soft pastel colors, skottie young, 3d blender render, polycount, modular constructivism, pop surrealism, physically based rendering, square image",
+        "date_added": "2026-05-21T12:44:16.483606",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Tiny cute giraffe using a typewriter toy, standing character, soft smooth lighting, soft pastel colors, skottie young, 3d blender render, polycount, modular constructivism, pop surrealism, physically based rendering, square image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Tiny cute giraffe using a typewriter toy, standing character, soft smooth lighting, soft pastel colors, skottie young, 3d blender render, polycount, modular constructivism, pop surrealism, physically based rendering, square image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00004",
+      "concept": "Photo of real life Shaggy Rogers",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Photo of real life Shaggy Rogers,",
+        "date_added": "2026-05-21T12:44:16.483718",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Photo of real life Shaggy Rogers",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Photo of real life Shaggy Rogers",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00005",
+      "concept": "cinematic lighting peeking from a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "cinematic lighting, peeking from a",
+        "date_added": "2026-05-21T12:44:16.483764",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic lighting, peeking from a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic lighting, peeking from a",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00006",
+      "concept": "In a specific art style D render studio",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "In a specific art style? 3D render, studio ghibli, movie poster",
+        "date_added": "2026-05-21T12:44:16.484137",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "In a specific art style? 3D render, studio ghibli, movie poster",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "In a specific art style? 3D render, studio ghibli, movie poster",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00007",
+      "concept": "A specific photo type Macro telephoto This is",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "A specific photo type? Macro, telephoto This is not an all-inclusive list, but will help you get great results when you start your prompt crafting journey. Don\u2019t be afraid to experiment the more you try different prompts the better you will become! \u2757",
+        "date_added": "2026-05-21T12:44:16.484312",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A specific photo type? Macro, telephoto This is not an all-inclusive list, but will help you get great results when you start your prompt crafting journey. Don\u2019t be afraid to experiment the more you try different prompts the better you will become! \u2757",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A specific photo type? Macro, telephoto This is not an all-inclusive list, but will help you get great results when you start your prompt crafting journey. Don\u2019t be afraid to experiment the more you try different prompts the better you will become! \u2757",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A specific photo type? Macro, telephoto This is not an all-inclusive list, but will help you get great results when you start your prompt crafting journey. Don\u2019t be afraid to experiment the more you try different prompts the better you will become! \u2757",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00008",
+      "concept": "What s the subject of the photo Person",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "What\u2019s the subject of the photo? Person. animal, landscape. => a goldendoodle",
+        "date_added": "2026-05-21T12:44:16.484579",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "What\u2019s the subject of the photo? Person. animal, landscape. => a goldendoodle",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "What\u2019s the subject of the photo? Person. animal, landscape. => a goldendoodle",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00009",
+      "concept": "A painting of a cute goldendoodle wearing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "A painting of a cute goldendoodle wearing",
+        "date_added": "2026-05-21T12:44:16.484883",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A painting of a cute goldendoodle wearing",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A painting of a cute goldendoodle wearing",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00010",
+      "concept": "A painting of a cute goldendoodle in the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "A painting of a cute goldendoodle in the",
+        "date_added": "2026-05-21T12:44:16.485200",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A painting of a cute goldendoodle in the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A painting of a cute goldendoodle in the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00011",
+      "concept": "bright colors by Studio Ghibli",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "bright colors, by Studio Ghibli",
+        "date_added": "2026-05-21T12:44:16.485274",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "bright colors, by Studio Ghibli",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "bright colors, by Studio Ghibli",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00012",
+      "concept": "Tiny cute duck playing guitar toy standing character",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Tiny cute duck playing guitar toy, standing character, soft smooth lighting, soft pastel colors, skottie young, 3d blender render, polycount, modular constructivism, pop surrealism, physically based rendering, square image",
+        "date_added": "2026-05-21T12:44:16.485750",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Tiny cute duck playing guitar toy, standing character, soft smooth lighting, soft pastel colors, skottie young, 3d blender render, polycount, modular constructivism, pop surrealism, physically based rendering, square image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Tiny cute duck playing guitar toy, standing character, soft smooth lighting, soft pastel colors, skottie young, 3d blender render, polycount, modular constructivism, pop surrealism, physically based rendering, square image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00013",
+      "concept": "the image There are certain magic words or",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "the image. There are certain magic words or phrases that are proven to",
+        "date_added": "2026-05-21T12:44:16.485934",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "the image. There are certain magic words or phrases that are proven to",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "the image. There are certain magic words or phrases that are proven to",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00014",
+      "concept": "render grim nostalgic lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "render grim, nostalgic lighting,",
+        "date_added": "2026-05-21T12:44:16.486552",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "render grim, nostalgic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "render grim, nostalgic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00015",
+      "concept": "render grim realistic purple neon",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "render grim, realistic purple neon",
+        "date_added": "2026-05-21T12:44:16.486655",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "render grim, realistic purple neon",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "render grim, realistic purple neon",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00016",
+      "concept": "When making a landscape it s smart to",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "When making a landscape it's smart to give a set of day like morning, noon or night time and to set the",
+        "date_added": "2026-05-21T12:44:16.487307",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "When making a landscape it's smart to give a set of day like morning, noon or night time and to set the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "When making a landscape it's smart to give a set of day like morning, noon or night time and to set the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00017",
+      "concept": "Cute panda origami art Needle felted scene from",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Cute panda, origami art Needle felted scene from",
+        "date_added": "2026-05-21T12:44:16.488390",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cute panda, origami art Needle felted scene from",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cute panda, origami art Needle felted scene from",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00018",
+      "concept": "fuzzy fur Pixar render unreal",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "fuzzy fur, Pixar render, unreal",
+        "date_added": "2026-05-21T12:44:16.488500",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "fuzzy fur, Pixar render, unreal",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "fuzzy fur, Pixar render, unreal",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00019",
+      "concept": "standing character soft smooth",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "standing character, soft smooth",
+        "date_added": "2026-05-21T12:44:16.489066",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "standing character, soft smooth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "standing character, soft smooth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00020",
+      "concept": "A Landscape A landscape HDR UHD",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "A Landscape A landscape, HDR, UHD,",
+        "date_added": "2026-05-21T12:44:16.489423",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A Landscape A landscape, HDR, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A Landscape A landscape, HDR, UHD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00021",
+      "concept": "Studio lighting could really add some nice texture",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Studio lighting could really add some nice texture to the image",
+        "date_added": "2026-05-21T12:44:16.489538",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Studio lighting could really add some nice texture to the image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Studio lighting could really add some nice texture to the image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00022",
+      "concept": "Adding professional can greatly improve the color contrast",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Adding professional, can greatly improve the color contrast and details in the image",
+        "date_added": "2026-05-21T12:44:16.489648",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Adding professional, can greatly improve the color contrast and details in the image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Adding professional, can greatly improve the color contrast and details in the image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00023",
+      "concept": "Almost always sketch creates pencil images while painting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Almost always, sketch creates pencil images, while painting adds colors and will probably give an older",
+        "date_added": "2026-05-21T12:44:16.490051",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Almost always, sketch creates pencil images, while painting adds colors and will probably give an older",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Almost always, sketch creates pencil images, while painting adds colors and will probably give an older",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00024",
+      "concept": "creative while higher numbers force it to stick",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "creative, while higher numbers force it to stick to the prompt.",
+        "date_added": "2026-05-21T12:44:16.490452",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "creative, while higher numbers force it to stick to the prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "creative, while higher numbers force it to stick to the prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00025",
+      "concept": "a red bird drinking water from a lake",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "a red bird drinking water from a lake, children's book painting This parameter does not affect the VRAM needed, or the generation time. CFG: 0 Completely ignores the prompt CFG: 4 Missing the red color CFG: 7 Good balance CFG: 15 Too high Starts creating artifacts",
+        "date_added": "2026-05-21T12:44:16.490620",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "a red bird drinking water from a lake, children's book painting This parameter does not affect the VRAM needed, or the generation time. CFG: 0 Completely ignores the prompt CFG: 4 Missing the red color CFG: 7 Good balance CFG: 15 Too high Starts creating artifacts",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "a red bird drinking water from a lake, children's book painting This parameter does not affect the VRAM needed, or the generation time. CFG: 0 Completely ignores the prompt CFG: 4 Missing the red color CFG: 7 Good balance CFG: 15 Too high Starts creating artifacts",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "a red bird drinking water from a lake, children's book painting This parameter does not affect the VRAM needed, or the generation time. CFG: 0 Completely ignores the prompt CFG: 4 Missing the red color CFG: 7 Good balance CFG: 15 Too high Starts creating artifacts",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00026",
+      "concept": "This parameter does not affect the VRAM needed",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "This parameter does not affect the VRAM needed, but increasing it is directly proportional to the time it takes to generate an image",
+        "date_added": "2026-05-21T12:44:16.491037",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "This parameter does not affect the VRAM needed, but increasing it is directly proportional to the time it takes to generate an image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "This parameter does not affect the VRAM needed, but increasing it is directly proportional to the time it takes to generate an image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00027",
+      "concept": "Diffusion the seed automatically changes every time you",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Diffusion, the seed automatically changes every time you generate an image. You can get the same result",
+        "date_added": "2026-05-21T12:44:16.491305",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Diffusion, the seed automatically changes every time you generate an image. You can get the same result",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Diffusion, the seed automatically changes every time you generate an image. You can get the same result",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00028",
+      "concept": "back if you keep the prompt the seed",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "back if you keep the prompt, the seed and all other parameters the same.",
+        "date_added": "2026-05-21T12:44:16.491398",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "back if you keep the prompt, the seed and all other parameters the same",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "back if you keep the prompt, the seed and all other parameters the same",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00029",
+      "concept": "photo of a rabbit driving a bicycle in",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "photo of a rabbit driving a bicycle, in Tokyo at night",
+        "date_added": "2026-05-21T12:44:16.491475",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "photo of a rabbit driving a bicycle, in Tokyo at night",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "photo of a rabbit driving a bicycle, in Tokyo at night",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00030",
+      "concept": "Diffusion samplers are the method used to denoise",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Diffusion samplers are the method used to denoise the image during generation, and since they differ in the",
+        "date_added": "2026-05-21T12:44:16.491568",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Diffusion samplers are the method used to denoise the image during generation, and since they differ in the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Diffusion samplers are the method used to denoise the image during generation, and since they differ in the",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00031",
+      "concept": "way of calculating the next step in the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "way of calculating the next step in the image production, they take different durations and different number",
+        "date_added": "2026-05-21T12:44:16.491668",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "way of calculating the next step in the image production, they take different durations and different number",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "way of calculating the next step in the image production, they take different durations and different number",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00032",
+      "concept": "kawaii tiny cute unicorn emoji made of clay",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "kawaii tiny cute unicorn emoji made of clay, iOS emoji , 3D clay blender render, rich vivid colors, smooth gradients,",
+        "date_added": "2026-05-21T12:44:16.491874",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "kawaii tiny cute unicorn emoji made of clay, iOS emoji, 3D clay blender render, rich vivid colors, smooth gradients",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "kawaii tiny cute unicorn emoji made of clay, iOS emoji, 3D clay blender render, rich vivid colors, smooth gradients",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00033",
+      "concept": "isometric front view diffuse lighting octane render unreal",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "isometric front view, diffuse lighting, octane render, unreal engine",
+        "date_added": "2026-05-21T12:44:16.492000",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "isometric front view, diffuse lighting, octane render, unreal engine",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "isometric front view, diffuse lighting, octane render, unreal engine",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00034",
+      "concept": "CFG Creative but might not follow the prompt",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "CFG 2 - 6: Creative, but might not follow the prompt",
+        "date_added": "2026-05-21T12:44:16.492156",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "CFG 2 - 6: Creative, but might not follow the prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "CFG 2 - 6: Creative, but might not follow the prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00035",
+      "concept": "anime illustration of a blue rabbit riding a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "anime illustration of a blue rabbit, riding a scooter near a lake, with the sun in the sky",
+        "date_added": "2026-05-21T12:44:16.492403",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 35,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anime illustration of a blue rabbit, riding a scooter near a lake, with the sun in the sky",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anime illustration of a blue rabbit, riding a scooter near a lake, with the sun in the sky",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00036",
+      "concept": "In a prompt with multiple subjects it s",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "In a prompt with multiple subjects, it\u2019s a good idea to increase the CFG scale",
+        "date_added": "2026-05-21T12:44:16.492549",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 36,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "In a prompt with multiple subjects, it\u2019s a good idea to increase the CFG scale",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "In a prompt with multiple subjects, it\u2019s a good idea to increase the CFG scale",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00037",
+      "concept": "Some seed are just better for a prompt",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Some seed are just better for a prompt, so try to save a good seed and slightly tweak the prompt to get what",
+        "date_added": "2026-05-21T12:44:16.492669",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 37,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Some seed are just better for a prompt, so try to save a good seed and slightly tweak the prompt to get what",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Some seed are just better for a prompt, so try to save a good seed and slightly tweak the prompt to get what",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00038",
+      "concept": "In the above example the machine gun doesn",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "In the above example, the machine gun doesn\u2019t appear unless you put it in the start of the prompt!",
+        "date_added": "2026-05-21T12:44:16.493410",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 38,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "In the above example, the machine gun doesn\u2019t appear unless you put it in the start of the prompt!",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "In the above example, the machine gun doesn\u2019t appear unless you put it in the start of the prompt!",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00039",
+      "concept": "Digital painting of a magical pirates ship floating",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Digital painting of a magical pirates ship floating on a purple mist cloud, over a desert, vibrant colors, 3D pixar",
+        "date_added": "2026-05-21T12:44:16.493704",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 39,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Digital painting of a magical pirates ship floating on a purple mist cloud, over a desert, vibrant colors, 3D pixar",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Digital painting of a magical pirates ship floating on a purple mist cloud, over a desert, vibrant colors, 3D pixar",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00040",
+      "concept": "render delicate details strong sun rays",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "render, delicate details, strong sun rays",
+        "date_added": "2026-05-21T12:44:16.493784",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 40,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "render, delicate details, strong sun rays",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "render, delicate details, strong sun rays",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00041",
+      "concept": "The creation of a new image can sometimes",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "The creation of a new image can sometimes be almost perfect so using",
+        "date_added": "2026-05-21T12:44:16.493980",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 41,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The creation of a new image can sometimes be almost perfect so using",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The creation of a new image can sometimes be almost perfect so using",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00042",
+      "concept": "This technique can be used to fix a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "This technique can be used to fix a part of an image, by completely removing or changing the subject in an",
+        "date_added": "2026-05-21T12:44:16.494823",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 42,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "This technique can be used to fix a part of an image, by completely removing or changing the subject in an",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "This technique can be used to fix a part of an image, by completely removing or changing the subject in an",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00043",
+      "concept": "image or just fixing a small detail",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "image, or just fixing a small detail",
+        "date_added": "2026-05-21T12:44:16.494900",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 43,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "image, or just fixing a small detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "image, or just fixing a small detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00044",
+      "concept": "Mask Prompt orange couch in living room cartoon",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Mask + Prompt: orange couch in living room, cartoon show",
+        "date_added": "2026-05-21T12:44:16.495057",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 44,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Mask + Prompt: orange couch in living room, cartoon show",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Mask + Prompt: orange couch in living room, cartoon show",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00045",
+      "concept": "lighting pop surrealism art by Mark Ryden and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "lighting, pop surrealism art by Mark Ryden and Anna",
+        "date_added": "2026-05-21T12:44:16.495437",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 45,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "lighting, pop surrealism art by Mark Ryden and Anna",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "lighting, pop surrealism art by Mark Ryden and Anna",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00046",
+      "concept": "An oil painting of the autumnal equinox a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "An oil painting of the autumnal equinox,a woman",
+        "date_added": "2026-05-21T12:44:16.495506",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 46,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An oil painting of the autumnal equinox, a woman",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An oil painting of the autumnal equinox, a woman",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00047",
+      "concept": "surrounded by autumn leaves an airbrush painting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "surrounded by autumn leaves, an airbrush painting",
+        "date_added": "2026-05-21T12:44:16.495567",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 47,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "surrounded by autumn leaves, an airbrush painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "surrounded by autumn leaves, an airbrush painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00048",
+      "concept": "by Josephine Wall deviantart psychedelic art",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "by Josephine Wall, deviantart, psychedelic art,",
+        "date_added": "2026-05-21T12:44:16.495623",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 48,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "by Josephine Wall, deviantart, psychedelic art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "by Josephine Wall, deviantart, psychedelic art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00049",
+      "concept": "airbrush art detailed painting pre raphaelite d",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "airbrush art, detailed painting, pre-raphaelite, 3d",
+        "date_added": "2026-05-21T12:44:16.495676",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 49,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "airbrush art, detailed painting, pre-raphaelite, 3d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "airbrush art, detailed painting, pre-raphaelite, 3d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00050",
+      "concept": "Miniature cafe diorama macro photography cafe for",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "Miniature cafe diorama macro photography, cafe for",
+        "date_added": "2026-05-21T12:44:16.495866",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 50,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Miniature cafe diorama macro photography, cafe for",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Miniature cafe diorama macro photography, cafe for",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00051",
+      "concept": "scenery landscape looking out at a vast lush",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "scenery landscape, looking out at a vast lush valley",
+        "date_added": "2026-05-21T12:44:16.496129",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 51,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "scenery landscape, looking out at a vast lush valley",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "scenery landscape, looking out at a vast lush valley",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00052",
+      "concept": "cinematic lighting perfect composition k gustave",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "cinematic lighting, perfect composition, 8 k, gustave",
+        "date_added": "2026-05-21T12:44:16.496233",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 52,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic lighting, perfect composition, 8 k, gustave",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic lighting, perfect composition, 8 k, gustave",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00053",
+      "concept": "A beautiful landscape at dawn by atey ghailan",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "A beautiful landscape at dawn by atey ghailan, ismail",
+        "date_added": "2026-05-21T12:44:16.496411",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 53,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A beautiful landscape at dawn by atey ghailan, ismail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A beautiful landscape at dawn by atey ghailan, ismail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00054",
+      "concept": "portrait by britt marling s kitchen ghost",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "portrait by britt marling, 1 8 8 0 s kitchen, ghost,",
+        "date_added": "2026-05-21T12:44:16.496564",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 54,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "portrait by britt marling, 1 8 8 0 s kitchen, ghost",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "portrait by britt marling, 1 8 8 0 s kitchen, ghost",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "stable_diffusion_prompt_book_from_openart_10_28_00055",
+      "concept": "cinematic smooth in the style of detective pikachu",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_stable_diffusion_prompt_book_from_openart_10_28",
+        "original_prompt": "cinematic smooth, in the style of detective pikachu,",
+        "date_added": "2026-05-21T12:44:16.496793",
+        "source_file": "Stable Diffusion Prompt Book From OpenArt 10-28.txt",
+        "source_index": 55,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic smooth, in the style of detective pikachu",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic smooth, in the style of detective pikachu",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

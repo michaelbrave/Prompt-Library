@@ -1,0 +1,1385 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00000",
+      "concept": "Futuristic City Skyline Prompt",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "Futuristic City Skyline Prompt",
+        "date_added": "2026-05-21T12:44:15.818741",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Futuristic City Skyline Prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Futuristic City Skyline Prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00001",
+      "concept": "Cinematic Portrait Lighting Prompt",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "Cinematic Portrait Lighting Prompt",
+        "date_added": "2026-05-21T12:44:15.819058",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cinematic Portrait Lighting Prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cinematic Portrait Lighting Prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00002",
+      "concept": "AI Prompt Mastery Guide Ready to Use Prompts",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "AI Prompt Mastery Guide850+ Ready-to-Use Prompts for Image Generation, Video Creation, Writing, and PublishingUnlock the full potential of Artificial Intelligence with practical, proven, and production-ready prompts designed for creators, marketers, designers, authors, and entrepreneurs.",
+        "date_added": "2026-05-21T12:44:15.819464",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "AI Prompt Mastery Guide850+ Ready-to-Use Prompts for Image Generation, Video Creation, Writing, and PublishingUnlock the full potential of Artificial Intelligence with practical, proven, and production-ready prompts designed for creators, marketers, designers, authors, and entrepreneurs",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "AI Prompt Mastery Guide850+ Ready-to-Use Prompts for Image Generation, Video Creation, Writing, and PublishingUnlock the full potential of Artificial Intelligence with practical, proven, and production-ready prompts designed for creators, marketers, designers, authors, and entrepreneurs",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00003",
+      "concept": "Portrait Photography Prompts",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "Portrait & Photography Prompts",
+        "date_added": "2026-05-21T12:44:15.820029",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait & Photography Prompts",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait & Photography Prompts",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00004",
+      "concept": "Characters Fantasy Concept Art",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "Characters, Fantasy & Concept Art",
+        "date_added": "2026-05-21T12:44:15.820120",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Characters, Fantasy & Concept Art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Characters, Fantasy & Concept Art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00005",
+      "concept": "Create a photorealistic portrait of subject natural skin",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a photorealistic portrait of [subject], natural skin texture, realistic lighting, shallow depth of field, professional DSLR photography.\"",
+        "date_added": "2026-05-21T12:44:15.820410",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a photorealistic portrait of [subject], natural skin texture, realistic lighting, shallow depth of field, professional DSLR photography.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a photorealistic portrait of [subject], natural skin texture, realistic lighting, shallow depth of field, professional DSLR photography.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00006",
+      "concept": "Create a cinematic portrait of subject dramatic lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a cinematic portrait of [subject], dramatic lighting, soft shadows, moody atmosphere, film-style composition.\"",
+        "date_added": "2026-05-21T12:44:15.820583",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a cinematic portrait of [subject], dramatic lighting, soft shadows, moody atmosphere, film-style composition.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a cinematic portrait of [subject], dramatic lighting, soft shadows, moody atmosphere, film-style composition.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00007",
+      "concept": "Create a fashion editorial image featuring model wearing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a fashion editorial image featuring [model] wearing [outfit], luxury magazine style, dramatic lighting.\"",
+        "date_added": "2026-05-21T12:44:15.820852",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a fashion editorial image featuring [model] wearing [outfit], luxury magazine style, dramatic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a fashion editorial image featuring [model] wearing [outfit], luxury magazine style, dramatic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00008",
+      "concept": "Create a high quality product photograph of product",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a high-quality product photograph of [product], studio lighting, sharp focus, clean background.\"",
+        "date_added": "2026-05-21T12:44:15.821006",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a high-quality product photograph of [product], studio lighting, sharp focus, clean background.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a high-quality product photograph of [product], studio lighting, sharp focus, clean background.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00009",
+      "concept": "Create a fine dining food image of dish",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a fine-dining food image of [dish], artistic plating, studio lighting, luxury restaurant style.\"",
+        "date_added": "2026-05-21T12:44:15.821301",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a fine-dining food image of [dish], artistic plating, studio lighting, luxury restaurant style.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a fine-dining food image of [dish], artistic plating, studio lighting, luxury restaurant style.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00010",
+      "concept": "Create a breathtaking travel image of location wide",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a breathtaking travel image of [location], wide-angle shot, cinematic lighting, vibrant colors.\"",
+        "date_added": "2026-05-21T12:44:15.821456",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a breathtaking travel image of [location], wide-angle shot, cinematic lighting, vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a breathtaking travel image of [location], wide-angle shot, cinematic lighting, vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00011",
+      "concept": "Create a realistic nature landscape image of scene",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a realistic nature landscape image of [scene], natural lighting, ultra-detailed textures.\"",
+        "date_added": "2026-05-21T12:44:15.821561",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a realistic nature landscape image of [scene], natural lighting, ultra-detailed textures.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a realistic nature landscape image of [scene], natural lighting, ultra-detailed textures.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00012",
+      "concept": "Create a visually engaging Instagram post image for",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a visually engaging Instagram post image for [topic], bold composition, modern design, square format.\"",
+        "date_added": "2026-05-21T12:44:15.822454",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a visually engaging Instagram post image for [topic], bold composition, modern design, square format.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a visually engaging Instagram post image for [topic], bold composition, modern design, square format.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00013",
+      "concept": "Create a clean product comparison image showing product",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a clean product comparison image showing [product A vs product B], icons and labels.\"",
+        "date_added": "2026-05-21T12:44:15.822935",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a clean product comparison image showing [product A vs product B], icons and labels.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a clean product comparison image showing [product A vs product B], icons and labels.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00014",
+      "concept": "Design an online course cover image for course",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Design an online course cover image for [course], professional look, clean layout.\"",
+        "date_added": "2026-05-21T12:44:15.823308",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Design an online course cover image for [course], professional look, clean layout.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Design an online course cover image for [course], professional look, clean layout.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00015",
+      "concept": "Create a sci fi character design futuristic outfit",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a sci-fi character design, futuristic outfit, advanced technology details.\"",
+        "date_added": "2026-05-21T12:44:15.823729",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a sci-fi character design, futuristic outfit, advanced technology details.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a sci-fi character design, futuristic outfit, advanced technology details.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00016",
+      "concept": "Create a superhero character design iconic costume dynamic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a superhero character design, iconic costume, dynamic pose, dramatic lighting.\"",
+        "date_added": "2026-05-21T12:44:15.823839",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a superhero character design, iconic costume, dynamic pose, dramatic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a superhero character design, iconic costume, dynamic pose, dramatic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00017",
+      "concept": "Create a cartoon character with expressive features colorful",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a cartoon character with expressive features, colorful style, friendly appearance.\"",
+        "date_added": "2026-05-21T12:44:15.823932",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a cartoon character with expressive features, colorful style, friendly appearance.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a cartoon character with expressive features, colorful style, friendly appearance.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00018",
+      "concept": "Create a character turnaround showing front side and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a character turnaround showing front, side, and back views.\"",
+        "date_added": "2026-05-21T12:44:15.824279",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a character turnaround showing front, side, and back views.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a character turnaround showing front, side, and back views.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00019",
+      "concept": "Create a fantasy environment with epic scale magical",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a fantasy environment with epic scale, magical atmosphere, cinematic lighting.\"",
+        "date_added": "2026-05-21T12:44:15.824481",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a fantasy environment with epic scale, magical atmosphere, cinematic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a fantasy environment with epic scale, magical atmosphere, cinematic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00020",
+      "concept": "Create a cyberpunk city scene neon lights rainy",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a cyberpunk city scene, neon lights, rainy streets, futuristic atmosphere.\"",
+        "date_added": "2026-05-21T12:44:15.824748",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a cyberpunk city scene, neon lights, rainy streets, futuristic atmosphere.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a cyberpunk city scene, neon lights, rainy streets, futuristic atmosphere.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00021",
+      "concept": "Create a post apocalyptic environment abandoned buildings dramatic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a post-apocalyptic environment, abandoned buildings, dramatic lighting, cinematic mood.\"",
+        "date_added": "2026-05-21T12:44:15.824861",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a post-apocalyptic environment, abandoned buildings, dramatic lighting, cinematic mood.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a post-apocalyptic environment, abandoned buildings, dramatic lighting, cinematic mood.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00022",
+      "concept": "Create a medieval town scene stone buildings warm",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a medieval town scene, stone buildings, warm lighting, historical accuracy.\"",
+        "date_added": "2026-05-21T12:44:15.824980",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a medieval town scene, stone buildings, warm lighting, historical accuracy.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a medieval town scene, stone buildings, warm lighting, historical accuracy.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00023",
+      "concept": "Create a futuristic city skyline with towering structures",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a futuristic city skyline with towering structures, clean lines, cinematic perspective.\"",
+        "date_added": "2026-05-21T12:44:15.825159",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a futuristic city skyline with towering structures, clean lines, cinematic perspective.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a futuristic city skyline with towering structures, clean lines, cinematic perspective.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00024",
+      "concept": "Create a fantasy nature landscape with glowing plants",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a fantasy nature landscape with glowing plants, magical atmosphere, vibrant colors.\"",
+        "date_added": "2026-05-21T12:44:15.825270",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a fantasy nature landscape with glowing plants, magical atmosphere, vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a fantasy nature landscape with glowing plants, magical atmosphere, vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00025",
+      "concept": "Create an underwater scene with realistic lighting marine",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create an underwater scene with realistic lighting, marine life, and depth.\"",
+        "date_added": "2026-05-21T12:44:15.825361",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create an underwater scene with realistic lighting, marine life, and depth.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create an underwater scene with realistic lighting, marine life, and depth.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00026",
+      "concept": "Create a cinematic space scene with planets stars",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a cinematic space scene with planets, stars, and cosmic lighting.\"",
+        "date_added": "2026-05-21T12:44:15.825447",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a cinematic space scene with planets, stars, and cosmic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a cinematic space scene with planets, stars, and cosmic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00027",
+      "concept": "Create an alien planet landscape with unique terrain",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create an alien planet landscape with unique terrain, strange plants, and atmospheric lighting.\"",
+        "date_added": "2026-05-21T12:44:15.825538",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create an alien planet landscape with unique terrain, strange plants, and atmospheric lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create an alien planet landscape with unique terrain, strange plants, and atmospheric lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00028",
+      "concept": "Create a fantasy weapon design with magical effects",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a fantasy weapon design with magical effects, intricate details, cinematic lighting.\"",
+        "date_added": "2026-05-21T12:44:15.825798",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a fantasy weapon design with magical effects, intricate details, cinematic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a fantasy weapon design with magical effects, intricate details, cinematic lighting.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00029",
+      "concept": "Design a character outfit with clear style textures",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Design a character outfit with clear style, textures, and accessories.\"",
+        "date_added": "2026-05-21T12:44:15.826031",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Design a character outfit with clear style, textures, and accessories.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Design a character outfit with clear style, textures, and accessories.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00030",
+      "concept": "Create board game artwork with clear icons playful",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create board game artwork with clear icons, playful style, and cohesive theme.\"",
+        "date_added": "2026-05-21T12:44:15.826292",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create board game artwork with clear icons, playful style, and cohesive theme.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create board game artwork with clear icons, playful style, and cohesive theme.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00031",
+      "concept": "Create a storyboard frame showing key action simple",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a storyboard frame showing key action, simple composition, cinematic framing.\"",
+        "date_added": "2026-05-21T12:44:15.826622",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a storyboard frame showing key action, simple composition, cinematic framing.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a storyboard frame showing key action, simple composition, cinematic framing.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00032",
+      "concept": "Create abstract art using shapes colors and textures",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create abstract art using shapes, colors, and textures to express emotion.\"",
+        "date_added": "2026-05-21T12:44:15.826828",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create abstract art using shapes, colors, and textures to express emotion.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create abstract art using shapes, colors, and textures to express emotion.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00033",
+      "concept": "Create minimal art with simple shapes limited colors",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create minimal art with simple shapes, limited colors, and strong composition.\"",
+        "date_added": "2026-05-21T12:44:15.827073",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create minimal art with simple shapes, limited colors, and strong composition.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create minimal art with simple shapes, limited colors, and strong composition.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00034",
+      "concept": "Design YouTube channel art with clear branding readable",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Design YouTube channel art with clear branding, readable text, wide banner layout.\"",
+        "date_added": "2026-05-21T12:44:15.827593",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Design YouTube channel art with clear branding, readable text, wide banner layout.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Design YouTube channel art with clear branding, readable text, wide banner layout.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00035",
+      "concept": "Create podcast cover art for podcast name bold",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create podcast cover art for '[podcast name]', bold typography, clean composition.\"",
+        "date_added": "2026-05-21T12:44:15.827701",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 35,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create podcast cover art for '[podcast name]', bold typography, clean composition.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create podcast cover art for '[podcast name]', bold typography, clean composition.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00036",
+      "concept": "Create a blog featured image for topic eye",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a blog featured image for [topic], eye-catching visuals, clean layout.\"",
+        "date_added": "2026-05-21T12:44:15.827873",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 36,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a blog featured image for [topic], eye-catching visuals, clean layout.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a blog featured image for [topic], eye-catching visuals, clean layout.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00037",
+      "concept": "Create a cinematic portrait using dramatic lighting strong",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a cinematic portrait using dramatic lighting, strong shadows, and a film-like mood.\"",
+        "date_added": "2026-05-21T12:44:15.829054",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 37,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a cinematic portrait using dramatic lighting, strong shadows, and a film-like mood.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a cinematic portrait using dramatic lighting, strong shadows, and a film-like mood.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00038",
+      "concept": "Create a portrait using soft natural light realistic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a portrait using soft natural light, realistic skin tones, and a candid feel.\"",
+        "date_added": "2026-05-21T12:44:15.829216",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 38,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a portrait using soft natural light, realistic skin tones, and a candid feel.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a portrait using soft natural light, realistic skin tones, and a candid feel.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00039",
+      "concept": "Create a studio lit image with softbox lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a studio-lit image with softbox lighting, clean background, professional photography look.\"",
+        "date_added": "2026-05-21T12:44:15.829338",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 39,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a studio-lit image with softbox lighting, clean background, professional photography look.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a studio-lit image with softbox lighting, clean background, professional photography look.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00040",
+      "concept": "Create an image captured during golden hour warm",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create an image captured during golden hour, warm tones, soft shadows, cinematic glow.\"",
+        "date_added": "2026-05-21T12:44:15.829453",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 40,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create an image captured during golden hour, warm tones, soft shadows, cinematic glow.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create an image captured during golden hour, warm tones, soft shadows, cinematic glow.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00041",
+      "concept": "Create a long exposure image showing motion blur",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a long-exposure image showing motion blur, smooth light trails, artistic effect.\"",
+        "date_added": "2026-05-21T12:44:15.829614",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 41,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a long-exposure image showing motion blur, smooth light trails, artistic effect.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a long-exposure image showing motion blur, smooth light trails, artistic effect.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00042",
+      "concept": "Create a macro photograph capturing extreme detail shallow",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create a macro photograph capturing extreme detail, shallow depth of field.\"",
+        "date_added": "2026-05-21T12:44:15.829728",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 42,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a macro photograph capturing extreme detail, shallow depth of field.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a macro photograph capturing extreme detail, shallow depth of field.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00043",
+      "concept": "Create an editorial style image suitable for magazines",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "\"Create an editorial-style image suitable for magazines, strong composition, storytelling.\"",
+        "date_added": "2026-05-21T12:44:15.830144",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 43,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create an editorial-style image suitable for magazines, strong composition, storytelling.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create an editorial-style image suitable for magazines, strong composition, storytelling.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00044",
+      "concept": "Master Automation Coding AI Agents Prompt",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "Master Automation, Coding & AI Agents Prompt",
+        "date_added": "2026-05-21T12:44:15.847363",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 44,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Master Automation, Coding & AI Agents Prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Master Automation, Coding & AI Agents Prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi_00045",
+      "concept": "Master Productivity Learning Life Prompt",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompt_mastery_guide_850_ready_to_use_prompts_for_image_generation_vi",
+        "original_prompt": "Master Productivity, Learning & Life Prompt",
+        "date_added": "2026-05-21T12:44:15.849265",
+        "source_file": "AI Prompt Mastery Guide 850+ Ready-to-use Prompts for Image Generation, Video Creation, Writing Publishing (Ritesh Sonvane) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 45,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Master Productivity, Learning & Life Prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Master Productivity, Learning & Life Prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

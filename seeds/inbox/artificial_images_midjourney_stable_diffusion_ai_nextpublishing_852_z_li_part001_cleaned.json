@@ -1,0 +1,1216 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00000",
+      "concept": "No M idjourney prom pt landscape of beautiful",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.001 / M idjourney / prom pt : landscape of beautiful forest, lush foliage and water",
+        "date_added": "2026-05-21T12:44:15.918497",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.001 / M idjourney / prom pt : landscape of beautiful forest, lush foliage and water",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.001 / M idjourney / prom pt : landscape of beautiful forest, lush foliage and water",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00001",
+      "concept": "falls crystal clear lake fire flies twinkling lights",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "falls, crystal clear lake, fire flies, twinkling lights , rococo, art nouveau, --ar 16:9",
+        "date_added": "2026-05-21T12:44:15.918603",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "falls, crystal clear lake, fire flies, twinkling lights, rococo, art nouveau",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "falls, crystal clear lake, fire flies, twinkling lights, rococo, art nouveau",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00002",
+      "concept": "No Midjourney prom pt overgrown city station Cyberpunk",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.003 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --ar 2:3 --",
+        "date_added": "2026-05-21T12:44:15.918835",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.003 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.003 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00003",
+      "concept": "No Midjourney prom pt overgrown city station Cyberpunk",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.004 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --ar 2:3 --",
+        "date_added": "2026-05-21T12:44:15.918948",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.004 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.004 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00004",
+      "concept": "No Midjourney prom pt overgrown city station Cyberpunk",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.005 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --ar 2:3 --",
+        "date_added": "2026-05-21T12:44:15.919090",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.005 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.005 / Midjourney / prom pt : overgrown city station, Cyberpunk, stargate --",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00005",
+      "concept": "vines sun rays cyberpunk neon hyperm axim alist",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "vines, sun rays, cyberpunk, neon, hyperm axim alist, hyper detail, 8k, octane render,",
+        "date_added": "2026-05-21T12:44:15.919284",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "vines, sun rays, cyberpunk, neon, hyperm axim alist, hyper detail, 8k, octane render",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "vines, sun rays, cyberpunk, neon, hyperm axim alist, hyper detail, 8k, octane render",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00006",
+      "concept": "anim ated art cinem atic test reative upbeta",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "anim ated art, cinem atic --ar 2:3 --test --creative --upbeta",
+        "date_added": "2026-05-21T12:44:15.919364",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anim ated art, cinem atic --test reative --upbeta",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anim ated art, cinem atic --test reative --upbeta",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00007",
+      "concept": "hillside street scene aquam arine shading panels above",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "hillside, street scene, aquam arine shading panels above street, cel - shading, 2 0 0 1",
+        "date_added": "2026-05-21T12:44:15.919821",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "hillside, street scene, aquam arine shading panels above street, cel - shading, 2 0 0 1",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "hillside, street scene, aquam arine shading panels above street, cel - shading, 2 0 0 1",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00008",
+      "concept": "No M idjourney prom pt anim ation concept",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.018 / M idjourney / prom pt : anim ation concept art, clean, anim e background style,",
+        "date_added": "2026-05-21T12:44:15.920488",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.018 / M idjourney / prom pt : anim ation concept art, clean, anim e background style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.018 / M idjourney / prom pt : anim ation concept art, clean, anim e background style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00009",
+      "concept": "Neon lights k octane render anim ated vibrant",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "Neon lights, 0.4 8k, octane render, anim ated , vibrant color schem e, epic com position,",
+        "date_added": "2026-05-21T12:44:15.920623",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Neon lights, 0.4 8k, octane render, anim ated, vibrant color schem e, epic com position",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Neon lights, 0.4 8k, octane render, anim ated, vibrant color schem e, epic com position",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00010",
+      "concept": "No M idjourney prom pt anim ation concept",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.019 / M idjourney / prom pt : anim ation concept art, clean, anim e background style,",
+        "date_added": "2026-05-21T12:44:15.920762",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.019 / M idjourney / prom pt : anim ation concept art, clean, anim e background style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.019 / M idjourney / prom pt : anim ation concept art, clean, anim e background style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00011",
+      "concept": "japanese light novel cover illustration A high school",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "japanese light novel cover illustration, A high school girl with black hair and red eyes, A",
+        "date_added": "2026-05-21T12:44:15.921799",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "japanese light novel cover illustration, A high school girl with black hair and red eyes, A",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "japanese light novel cover illustration, A high school girl with black hair and red eyes, A",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00012",
+      "concept": "lighting bokeh anatom ically correct a detailed painting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "lighting bokeh, anatom ically correct, a detailed painting , detailed portrait, cell shaded,",
+        "date_added": "2026-05-21T12:44:15.922039",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "lighting bokeh, anatom ically correct, a detailed painting, detailed portrait, cell shaded",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "lighting bokeh, anatom ically correct, a detailed painting, detailed portrait, cell shaded",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00013",
+      "concept": "gear beautiful eyes illustrations m anga a girl",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "gear, beautiful eyes illustrations m anga, a girl, card gam e illustration, full body, highlight,",
+        "date_added": "2026-05-21T12:44:15.922435",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "gear, beautiful eyes illustrations m anga, a girl, card gam e illustration, full body, highlight",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "gear, beautiful eyes illustrations m anga, a girl, card gam e illustration, full body, highlight",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00014",
+      "concept": "pose com ic cover brown hair big blue",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "pose , com ic cover, brown hair, big blue eyes, dynam ic angle, anim e, gam e character, full",
+        "date_added": "2026-05-21T12:44:15.922577",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "pose, com ic cover, brown hair, big blue eyes, dynam ic angle, anim e, gam e character, full",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "pose, com ic cover, brown hair, big blue eyes, dynam ic angle, anim e, gam e character, full",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00015",
+      "concept": "body popular illustration anim e low angle m",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "body, popular illustration, anim e, low angle, 200m m cam era lens, com ic cover, anim e,",
+        "date_added": "2026-05-21T12:44:15.922667",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "body, popular illustration, anim e, low angle, 200m m cam era lens, com ic cover, anim e",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "body, popular illustration, anim e, low angle, 200m m cam era lens, com ic cover, anim e",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00016",
+      "concept": "gam e character popular illustration anim e detailed",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "gam e character, popular illustration,anim e detailed line work, legs, wide angle, anim e,",
+        "date_added": "2026-05-21T12:44:15.922751",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "gam e character, popular illustration, anim e detailed line work, legs, wide angle, anim e",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "gam e character, popular illustration, anim e detailed line work, legs, wide angle, anim e",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00017",
+      "concept": "No M idjourney prom pt screenshot from the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.041 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art,",
+        "date_added": "2026-05-21T12:44:15.923215",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.041 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.041 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00018",
+      "concept": "clean anim e background style octane render gorgeous",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "clean, anim e background style, octane render, gorgeous, trending illustration, ue 5, --ar",
+        "date_added": "2026-05-21T12:44:15.923301",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "clean, anim e background style, octane render, gorgeous, trending illustration, ue 5",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "clean, anim e background style, octane render, gorgeous, trending illustration, ue 5",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00019",
+      "concept": "No M idjourney prom pt screenshot from the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.042 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art,",
+        "date_added": "2026-05-21T12:44:15.923417",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.042 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.042 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00020",
+      "concept": "No M idjourney prom pt screenshot from the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.043 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art,",
+        "date_added": "2026-05-21T12:44:15.923567",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.043 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.043 / M idjourney / prom pt : screenshot from the Blind Forest, anim ation concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00021",
+      "concept": "No M idjourney prom pt oil painting waterfall",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.044 / M idjourney / prom pt : oil painting, waterfall, cabin, lake, water, reflections,",
+        "date_added": "2026-05-21T12:44:15.923708",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.044 / M idjourney / prom pt : oil painting, waterfall, cabin, lake, water, reflections",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.044 / M idjourney / prom pt : oil painting, waterfall, cabin, lake, water, reflections",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00022",
+      "concept": "landscape nature fantasy intricate detail beautiful lighting Chiaroscuro",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "landscape, nature, fantasy, intricate detail, beautiful lighting, Chiaroscuro, Concept art,",
+        "date_added": "2026-05-21T12:44:15.923783",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "landscape, nature, fantasy, intricate detail, beautiful lighting, Chiaroscuro, Concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "landscape, nature, fantasy, intricate detail, beautiful lighting, Chiaroscuro, Concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00023",
+      "concept": "Digital art concept art test reative no orange",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "Digital art, concept art, --ar 2:3 --test --creative --no orange --upbeta",
+        "date_added": "2026-05-21T12:44:15.923857",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Digital art, concept art, --test reative --no orange --upbeta",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Digital art, concept art, --test reative --no orange --upbeta",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00024",
+      "concept": "No M idjourney prom pt oil painting waterfall",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.045 / M idjourney / prom pt : oil painting, waterfall, cabin, lake, water, reflections,",
+        "date_added": "2026-05-21T12:44:15.923938",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.045 / M idjourney / prom pt : oil painting, waterfall, cabin, lake, water, reflections",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.045 / M idjourney / prom pt : oil painting, waterfall, cabin, lake, water, reflections",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00025",
+      "concept": "the air wisdom beauty respect of the water",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "the air, wisdom , beauty, respect of the water, perfect render, a brutalism architecture city",
+        "date_added": "2026-05-21T12:44:15.924253",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "the air, wisdom, beauty, respect of the water, perfect render, a brutalism architecture city",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "the air, wisdom, beauty, respect of the water, perfect render, a brutalism architecture city",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00026",
+      "concept": "No Stable Di usion M em eplex prom",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.048 / Stable Di\ufb00usion (M em eplex) / prom pt : side view m ountainside landscape,",
+        "date_added": "2026-05-21T12:44:15.924561",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.048 / Stable Di\ufb00usion (M em eplex) / prom pt : side view m ountainside landscape",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.048 / Stable Di\ufb00usion (M em eplex) / prom pt : side view m ountainside landscape",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00027",
+      "concept": "anim ation sharp rendered in unreal engine highly",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "anim ation, sharp, rendered in unreal engine 5, highly detailed, digital painting,",
+        "date_added": "2026-05-21T12:44:15.924656",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anim ation, sharp, rendered in unreal engine 5, highly detailed, digital painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anim ation, sharp, rendered in unreal engine 5, highly detailed, digital painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00028",
+      "concept": "artstation concept art sm ooth sharp focus illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "artstation, concept art, sm ooth, sharp focus, illustration, wide angle, artbook, wallpaper,",
+        "date_added": "2026-05-21T12:44:15.924733",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "artstation, concept art, sm ooth, sharp focus, illustration, wide angle, artbook, wallpaper",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "artstation, concept art, sm ooth, sharp focus, illustration, wide angle, artbook, wallpaper",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00029",
+      "concept": "splash art prom o art dram atic lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "splash art, prom o art, dram atic lighting,",
+        "date_added": "2026-05-21T12:44:15.924801",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "splash art, prom o art, dram atic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "splash art, prom o art, dram atic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00030",
+      "concept": "dem onic realistic digital illustration a gorgeous winged",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "dem onic, realistic digital illustration, a gorgeous winged m ale god, ornate clockwork",
+        "date_added": "2026-05-21T12:44:15.924938",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "dem onic, realistic digital illustration, a gorgeous winged m ale god, ornate clockwork",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "dem onic, realistic digital illustration, a gorgeous winged m ale god, ornate clockwork",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00031",
+      "concept": "greenhouse palace victorian style octane render intricate detail",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "greenhouse palace, victorian style, octane render, intricate detail, lots of bookshelf, cel",
+        "date_added": "2026-05-21T12:44:15.925178",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "greenhouse palace, victorian style, octane render, intricate detail, lots of bookshelf, cel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "greenhouse palace, victorian style, octane render, intricate detail, lots of bookshelf, cel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00032",
+      "concept": "features perfect art gap m oe yandere grim",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "features, perfect art, gap m oe yandere grim dark, trending illustration, drawn , --ar 16:9",
+        "date_added": "2026-05-21T12:44:15.925745",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "features, perfect art, gap m oe yandere grim dark, trending illustration, drawn",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "features, perfect art, gap m oe yandere grim dark, trending illustration, drawn",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00033",
+      "concept": "ull body portrait of a cute anim e",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "ull body portrait of a cute anim e kawaii young girl, 2d illustration of a Fenrir the young",
+        "date_added": "2026-05-21T12:44:15.926057",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ull body portrait of a cute anim e kawaii young girl, 2d illustration of a Fenrir the young",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ull body portrait of a cute anim e kawaii young girl, 2d illustration of a Fenrir the young",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00034",
+      "concept": "detective girl young fem ale ennui light blue",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "detective girl , young fem ale, ennui, light blue hair, full body character concept, anim e,",
+        "date_added": "2026-05-21T12:44:15.926162",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "detective girl, young fem ale, ennui, light blue hair, full body character concept, anim e",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "detective girl, young fem ale, ennui, light blue hair, full body character concept, anim e",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00035",
+      "concept": "m an in a black suit co ee",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "m an in a black suit, co\ufb00ee, surreal dream , artwork , --ar 9:10 --seed 1985 --test --creative -",
+        "date_added": "2026-05-21T12:44:15.927569",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 35,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "m an in a black suit, co\ufb00ee, surreal dream, artwork, eed 1985 --test reative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "m an in a black suit, co\ufb00ee, surreal dream, artwork, eed 1985 --test reative",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00036",
+      "concept": "No M idjourney prom pt cat in bushes",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.083-084 / M idjourney / prom pt : cat in bushes, watercolor, Illustration, bright --ar 16:9",
+        "date_added": "2026-05-21T12:44:15.927849",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 36,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.083-084 / M idjourney / prom pt : cat in bushes, watercolor, Illustration, bright",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.083-084 / M idjourney / prom pt : cat in bushes, watercolor, Illustration, bright",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00037",
+      "concept": "No Stable Di usion M em eplex prom",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.085-088 / Stable Di\ufb00usion (M em eplex) / prom pt : scandinavian anim als, illustration,",
+        "date_added": "2026-05-21T12:44:15.927998",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 37,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.085-088 / Stable Di\ufb00usion (M em eplex) / prom pt : scandinavian anim als, illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.085-088 / Stable Di\ufb00usion (M em eplex) / prom pt : scandinavian anim als, illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00038",
+      "concept": "No M idjourney prom pt landscape of beautiful",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "No.103 / M idjourney / prom pt : landscape of beautiful forest, lush foliage and water falls,",
+        "date_added": "2026-05-21T12:44:15.928895",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 38,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "No.103 / M idjourney / prom pt : landscape of beautiful forest, lush foliage and water falls",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "No.103 / M idjourney / prom pt : landscape of beautiful forest, lush foliage and water falls",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li_00039",
+      "concept": "crystal clear lake fire flies twinkling lights rococo",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_artificial_images_midjourney_stable_diffusion_ai_nextpublishing_852_z_li",
+        "original_prompt": "crystal clear lake, fire flies, twinkling lights , rococo, art nouveau, --ar 16:9",
+        "date_added": "2026-05-21T12:44:15.929026",
+        "source_file": "Artificial Images Midjourney Stable Diffusion\u306b\u3088\u308bAI\u30a2\u30fc\u30c8\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (NextPublishing) (852\u8a71) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 39,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "crystal clear lake, fire flies, twinkling lights, rococo, art nouveau",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "crystal clear lake, fire flies, twinkling lights, rococo, art nouveau",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

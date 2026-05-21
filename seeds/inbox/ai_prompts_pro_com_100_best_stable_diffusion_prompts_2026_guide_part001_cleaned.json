@@ -1,0 +1,2659 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00000",
+      "concept": "Whether you re a beginner or a seasoned",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "Whether you're a beginner or a seasoned artist, the right stable diffusion prompts can make",
+        "date_added": "2026-05-21T12:44:16.499774",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Whether you're a beginner or a seasoned artist, the right stable diffusion prompts can make",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Whether you're a beginner or a seasoned artist, the right stable diffusion prompts can make",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00001",
+      "concept": "the difference between a mediocre output and a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "the difference between a mediocre output and a stunning image. This guide gives you 100",
+        "date_added": "2026-05-21T12:44:16.499888",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "the difference between a mediocre output and a stunning image. This guide gives you 100",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "the difference between a mediocre output and a stunning image. This guide gives you 100",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00002",
+      "concept": "knowledge to customize them for your workflow For",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "knowledge to customize them for your workflow. For more AI image prompts, see our",
+        "date_added": "2026-05-21T12:44:16.500097",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "knowledge to customize them for your workflow. For more AI image prompts, see our",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "knowledge to customize them for your workflow. For more AI image prompts, see our",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "knowledge to customize them for your workflow. For more AI image prompts, see our",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00003",
+      "concept": "A positive prompt is a comma separated description",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "A positive prompt is a comma-separated description of everything you want in your image.",
+        "date_added": "2026-05-21T12:44:16.500313",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A positive prompt is a comma-separated description of everything you want in your image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A positive prompt is a comma-separated description of everything you want in your image",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00004",
+      "concept": "A negative prompt tells the model what to",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "A negative prompt tells the model what to actively avoid. Without a good negative prompt,",
+        "date_added": "2026-05-21T12:44:16.500572",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A negative prompt tells the model what to actively avoid. Without a good negative prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A negative prompt tells the model what to actively avoid. Without a good negative prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00005",
+      "concept": "Photography RAW photo DSLR sharp focus photorealistic film",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "Photography: RAW photo, DSLR, sharp focus, photorealistic, film grain",
+        "date_added": "2026-05-21T12:44:16.500912",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Photography: RAW photo, DSLR, sharp focus, photorealistic, film grain",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Photography: RAW photo, DSLR, sharp focus, photorealistic, film grain",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00006",
+      "concept": "Illustration detailed illustration concept art trending on ArtStation",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "Illustration: detailed illustration, concept art, trending on ArtStation, digital",
+        "date_added": "2026-05-21T12:44:16.501028",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Illustration: detailed illustration, concept art, trending on ArtStation, digital",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Illustration: detailed illustration, concept art, trending on ArtStation, digital",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00007",
+      "concept": "SDXL specific high resolution cinematic professional award winning",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "SDXL specific: high resolution, cinematic, professional, award-winning",
+        "date_added": "2026-05-21T12:44:16.501100",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "SDXL specific: high resolution, cinematic, professional, award-winning",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "SDXL specific: high resolution, cinematic, professional, award-winning",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00008",
+      "concept": "Lighting dramatic lighting golden hour soft diffused light",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "Lighting: dramatic lighting, golden hour, soft diffused light, studio lighting,",
+        "date_added": "2026-05-21T12:44:16.501175",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Lighting: dramatic lighting, golden hour, soft diffused light, studio lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Lighting: dramatic lighting, golden hour, soft diffused light, studio lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00009",
+      "concept": "Camera shallow depth of field bokeh wide angle",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "Camera: shallow depth of field, bokeh, wide-angle lens, 85mm portrait lens,",
+        "date_added": "2026-05-21T12:44:16.501258",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Camera: shallow depth of field, bokeh, wide-angle lens, 85mm portrait lens",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Camera: shallow depth of field, bokeh, wide-angle lens, 85mm portrait lens",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00010",
+      "concept": "RAW photo close up portrait of a year",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "RAW photo, close-up portrait of a 30-year-old woman with green eyes, freckles, auburn hair, natural makeup, soft window light, shallow depth of field, 85mm lens, masterpiece, best quality",
+        "date_added": "2026-05-21T12:44:16.501517",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "RAW photo, close-up portrait of a 30-year-old woman with green eyes, freckles, auburn hair, natural makeup, soft window light, shallow depth of field, 85mm lens, masterpiece, best quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "RAW photo, close-up portrait of a 30-year-old woman with green eyes, freckles, auburn hair, natural makeup, soft window light, shallow depth of field, 85mm lens, masterpiece, best quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00011",
+      "concept": "cinematic portrait of an elderly Japanese fisherman weathered",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "cinematic portrait of an elderly Japanese fisherman, weathered face, deep wrinkles, strong jawline, warm golden hour backlight, bokeh background, film grain, ultra- detailed",
+        "date_added": "2026-05-21T12:44:16.501665",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic portrait of an elderly Japanese fisherman, weathered face, deep wrinkles, strong jawline, warm golden hour backlight, bokeh background, film grain, ultra- detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic portrait of an elderly Japanese fisherman, weathered face, deep wrinkles, strong jawline, warm golden hour backlight, bokeh background, film grain, ultra- detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00012",
+      "concept": "studio portrait of a young Black man in",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "studio portrait of a young Black man in a white t-shirt, confident expression, Rembrandt lighting, dark background, sharp focus, photorealistic, 8k",
+        "date_added": "2026-05-21T12:44:16.501847",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "studio portrait of a young Black man in a white t-shirt, confident expression, Rembrandt lighting, dark background, sharp focus, photorealistic, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "studio portrait of a young Black man in a white t-shirt, confident expression, Rembrandt lighting, dark background, sharp focus, photorealistic, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00013",
+      "concept": "RAW photo beauty shot of a South Asian",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "RAW photo, beauty shot of a South Asian woman, elaborate gold jewelry, silk sari, soft studio lighting, clean background, high resolution, professional photography",
+        "date_added": "2026-05-21T12:44:16.502054",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "RAW photo, beauty shot of a South Asian woman, elaborate gold jewelry, silk sari, soft studio lighting, clean background, high resolution, professional photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "RAW photo, beauty shot of a South Asian woman, elaborate gold jewelry, silk sari, soft studio lighting, clean background, high resolution, professional photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00014",
+      "concept": "candid street portrait middle aged Latino man laughing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "candid street portrait, middle-aged Latino man laughing, urban background blurred, natural daylight, Fujifilm aesthetic, film grain, photojournalism style",
+        "date_added": "2026-05-21T12:44:16.502180",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "candid street portrait, middle-aged Latino man laughing, urban background blurred, natural daylight, Fujifilm aesthetic, film grain, photojournalism style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "candid street portrait, middle-aged Latino man laughing, urban background blurred, natural daylight, Fujifilm aesthetic, film grain, photojournalism style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00015",
+      "concept": "close up of bright blue eyes with long",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "close-up of bright blue eyes with long lashes, macro photography, catch light reflections, ultra-detailed iris texture, soft skin, shallow depth of field, 8k",
+        "date_added": "2026-05-21T12:44:16.502314",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "close-up of bright blue eyes with long lashes, macro photography, catch light reflections, ultra-detailed iris texture, soft skin, shallow depth of field, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "close-up of bright blue eyes with long lashes, macro photography, catch light reflections, ultra-detailed iris texture, soft skin, shallow depth of field, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00016",
+      "concept": "half body portrait of a female athlete short",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "half-body portrait of a female athlete, short natural hair, sports jersey, stadium lights background, dynamic pose, sharp focus, cinematic grade",
+        "date_added": "2026-05-21T12:44:16.502439",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "half-body portrait of a female athlete, short natural hair, sports jersey, stadium lights background, dynamic pose, sharp focus, cinematic grade",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "half-body portrait of a female athlete, short natural hair, sports jersey, stadium lights background, dynamic pose, sharp focus, cinematic grade",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00017",
+      "concept": "dramatic low key portrait of a man chiaroscuro",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "dramatic low-key portrait of a man, chiaroscuro lighting, deep shadows, stubble, intense gaze, black background, fine art photography, masterpiece",
+        "date_added": "2026-05-21T12:44:16.502559",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "dramatic low-key portrait of a man, chiaroscuro lighting, deep shadows, stubble, intense gaze, black background, fine art photography, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "dramatic low-key portrait of a man, chiaroscuro lighting, deep shadows, stubble, intense gaze, black background, fine art photography, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00018",
+      "concept": "RAW photo editorial portrait of a year old",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "RAW photo, editorial portrait of a 50-year-old businesswoman, power suit, neutral expression, corporate background, professional lighting, high resolution",
+        "date_added": "2026-05-21T12:44:16.502678",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "RAW photo, editorial portrait of a 50-year-old businesswoman, power suit, neutral expression, corporate background, professional lighting, high resolution",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "RAW photo, editorial portrait of a 50-year-old businesswoman, power suit, neutral expression, corporate background, professional lighting, high resolution",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00019",
+      "concept": "artistic portrait of twins mirror composition identical outfits",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "artistic portrait of twins, mirror composition, identical outfits, soft pastel tones, dreamy bokeh, high-fashion editorial style, ultra-detailed",
+        "date_added": "2026-05-21T12:44:16.502795",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "artistic portrait of twins, mirror composition, identical outfits, soft pastel tones, dreamy bokeh, high-fashion editorial style, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "artistic portrait of twins, mirror composition, identical outfits, soft pastel tones, dreamy bokeh, high-fashion editorial style, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00020",
+      "concept": "environmental portrait of a chef in a kitchen",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "environmental portrait of a chef in a kitchen, motion blur on hands, steam rising, warm tungsten light, authentic, documentary photography 2/9",
+        "date_added": "2026-05-21T12:44:16.502914",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "environmental portrait of a chef in a kitchen, motion blur on hands, steam rising, warm tungsten light, authentic, documentary photography 2/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "environmental portrait of a chef in a kitchen, motion blur on hands, steam rising, warm tungsten light, authentic, documentary photography 2/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00021",
+      "concept": "RAW photo golden hour portrait of a teenage",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "RAW photo, golden hour portrait of a teenage girl on a rooftop, wind-blown hair, city skyline background, warm orange tones, shallow depth of field, cinematic \ud83e\uddd9 Fantasy & Sci-Fi (12 Prompts)",
+        "date_added": "2026-05-21T12:44:16.503182",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "RAW photo, golden hour portrait of a teenage girl on a rooftop, wind-blown hair, city skyline background, warm orange tones, shallow depth of field, cinematic \ud83e\uddd9 Fantasy & Sci-Fi (12 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "RAW photo, golden hour portrait of a teenage girl on a rooftop, wind-blown hair, city skyline background, warm orange tones, shallow depth of field, cinematic \ud83e\uddd9 Fantasy & Sci-Fi (12 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00022",
+      "concept": "epic fantasy warrior queen in ornate silver armor",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "epic fantasy warrior queen in ornate silver armor, glowing runes, windswept white hair, dark stormy sky, dramatic lighting, digital painting, trending on ArtStation, ultra- detailed",
+        "date_added": "2026-05-21T12:44:16.503359",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "epic fantasy warrior queen in ornate silver armor, glowing runes, windswept white hair, dark stormy sky, dramatic lighting, digital painting, trending on ArtStation, ultra- detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "epic fantasy warrior queen in ornate silver armor, glowing runes, windswept white hair, dark stormy sky, dramatic lighting, digital painting, trending on ArtStation, ultra- detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00023",
+      "concept": "cyberpunk street samurai neon lit rain soaked alley",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "cyberpunk street samurai, neon-lit rain-soaked alley, holographic tattoos, katana dripping with light, Tokyo 2077, cinematic, 8k",
+        "date_added": "2026-05-21T12:44:16.503495",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cyberpunk street samurai, neon-lit rain-soaked alley, holographic tattoos, katana dripping with light, Tokyo 2077, cinematic, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cyberpunk street samurai, neon-lit rain-soaked alley, holographic tattoos, katana dripping with light, Tokyo 2077, cinematic, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00024",
+      "concept": "ancient dragon perched on a mountain peak scales",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "ancient dragon perched on a mountain peak, scales like volcanic rock, glowing amber eyes, sunrise light, epic composition, fantasy art, masterpiece",
+        "date_added": "2026-05-21T12:44:16.503626",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ancient dragon perched on a mountain peak, scales like volcanic rock, glowing amber eyes, sunrise light, epic composition, fantasy art, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ancient dragon perched on a mountain peak, scales like volcanic rock, glowing amber eyes, sunrise light, epic composition, fantasy art, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00025",
+      "concept": "elven mage casting a spell swirling blue arcane",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "elven mage casting a spell, swirling blue arcane energy, forest temple ruins, god rays through canopy, Tolkien aesthetic, concept art, best quality",
+        "date_added": "2026-05-21T12:44:16.503761",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "elven mage casting a spell, swirling blue arcane energy, forest temple ruins, god rays through canopy, Tolkien aesthetic, concept art, best quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "elven mage casting a spell, swirling blue arcane energy, forest temple ruins, god rays through canopy, Tolkien aesthetic, concept art, best quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00026",
+      "concept": "space explorer in a cracked helmet floating above",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "space explorer in a cracked helmet floating above a purple nebula planet, distant binary stars, highly detailed sci-fi illustration, cinematic lighting",
+        "date_added": "2026-05-21T12:44:16.503897",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "space explorer in a cracked helmet floating above a purple nebula planet, distant binary stars, highly detailed sci-fi illustration, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "space explorer in a cracked helmet floating above a purple nebula planet, distant binary stars, highly detailed sci-fi illustration, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00027",
+      "concept": "steampunk inventor s workshop brass gears glowing tubes",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "steampunk inventor's workshop, brass gears, glowing tubes, floating blueprints, warm amber light, intricate detail, digital oil painting",
+        "date_added": "2026-05-21T12:44:16.504070",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "steampunk inventor's workshop, brass gears, glowing tubes, floating blueprints, warm amber light, intricate detail, digital oil painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "steampunk inventor's workshop, brass gears, glowing tubes, floating blueprints, warm amber light, intricate detail, digital oil painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00028",
+      "concept": "underwater alien civilization bioluminescent architecture tall humanoid aliens",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "underwater alien civilization, bioluminescent architecture, tall humanoid aliens, coral and crystal towers, epic sci-fi, concept art, 8k",
+        "date_added": "2026-05-21T12:44:16.504226",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "underwater alien civilization, bioluminescent architecture, tall humanoid aliens, coral and crystal towers, epic sci-fi, concept art, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "underwater alien civilization, bioluminescent architecture, tall humanoid aliens, coral and crystal towers, epic sci-fi, concept art, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00029",
+      "concept": "necromancer raising an army of skeletons from a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "necromancer raising an army of skeletons from a graveyard, green necrotic light, dark gothic atmosphere, moonlit fog, detailed digital art",
+        "date_added": "2026-05-21T12:44:16.504353",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "necromancer raising an army of skeletons from a graveyard, green necrotic light, dark gothic atmosphere, moonlit fog, detailed digital art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "necromancer raising an army of skeletons from a graveyard, green necrotic light, dark gothic atmosphere, moonlit fog, detailed digital art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00030",
+      "concept": "futuristic megacity at night flying vehicles mile high",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "futuristic megacity at night, flying vehicles, mile-high neon towers, rain-soaked streets below, Blade Runner aesthetic, hyper-detailed, cinematic",
+        "date_added": "2026-05-21T12:44:16.504480",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "futuristic megacity at night, flying vehicles, mile-high neon towers, rain-soaked streets below, Blade Runner aesthetic, hyper-detailed, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "futuristic megacity at night, flying vehicles, mile-high neon towers, rain-soaked streets below, Blade Runner aesthetic, hyper-detailed, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00031",
+      "concept": "paladin of light versus demon lord clash of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "paladin of light versus demon lord, clash of holy and shadow energy, shattered battlefield, epic fantasy illustration, dynamic composition, masterpiece",
+        "date_added": "2026-05-21T12:44:16.504608",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "paladin of light versus demon lord, clash of holy and shadow energy, shattered battlefield, epic fantasy illustration, dynamic composition, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "paladin of light versus demon lord, clash of holy and shadow energy, shattered battlefield, epic fantasy illustration, dynamic composition, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00032",
+      "concept": "forest witch s cottage overgrown with vines glowing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "forest witch's cottage, overgrown with vines, glowing potion bottles in windows, fireflies, magical mist, storybook illustration style",
+        "date_added": "2026-05-21T12:44:16.504733",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "forest witch's cottage, overgrown with vines, glowing potion bottles in windows, fireflies, magical mist, storybook illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "forest witch's cottage, overgrown with vines, glowing potion bottles in windows, fireflies, magical mist, storybook illustration style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00033",
+      "concept": "giant mech rising from the ocean sparks and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "giant mech rising from the ocean, sparks and sea spray, stormy sky, Pacific Rim aesthetic, cinematic composition, ultra-detailed concept art \ud83c\udf04 Landscapes (12 Prompts)",
+        "date_added": "2026-05-21T12:44:16.504876",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "giant mech rising from the ocean, sparks and sea spray, stormy sky, Pacific Rim aesthetic, cinematic composition, ultra-detailed concept art \ud83c\udf04 Landscapes (12 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "giant mech rising from the ocean, sparks and sea spray, stormy sky, Pacific Rim aesthetic, cinematic composition, ultra-detailed concept art \ud83c\udf04 Landscapes (12 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00034",
+      "concept": "aerial view of the Scottish Highlands rolling green",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "aerial view of the Scottish Highlands, rolling green hills, scattered lochs, dramatic storm clouds, golden light breaking through, landscape photography, 8k",
+        "date_added": "2026-05-21T12:44:16.505104",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "aerial view of the Scottish Highlands, rolling green hills, scattered lochs, dramatic storm clouds, golden light breaking through, landscape photography, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "aerial view of the Scottish Highlands, rolling green hills, scattered lochs, dramatic storm clouds, golden light breaking through, landscape photography, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00035",
+      "concept": "alien desert planet twin moons in purple sky",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "alien desert planet, twin moons in purple sky, crystalline rock formations, lone explorer silhouette, cinematic sci-fi landscape, ultra-detailed",
+        "date_added": "2026-05-21T12:44:16.505275",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 35,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "alien desert planet, twin moons in purple sky, crystalline rock formations, lone explorer silhouette, cinematic sci-fi landscape, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "alien desert planet, twin moons in purple sky, crystalline rock formations, lone explorer silhouette, cinematic sci-fi landscape, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00036",
+      "concept": "misty bamboo forest at dawn soft diffused light",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "misty bamboo forest at dawn, soft diffused light, winding stone path, traditional Japanese aesthetic, serene, landscape photography, masterpiece",
+        "date_added": "2026-05-21T12:44:16.505398",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 36,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "misty bamboo forest at dawn, soft diffused light, winding stone path, traditional Japanese aesthetic, serene, landscape photography, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "misty bamboo forest at dawn, soft diffused light, winding stone path, traditional Japanese aesthetic, serene, landscape photography, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00037",
+      "concept": "surreal floating islands with waterfalls cascading into clouds",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "surreal floating islands with waterfalls cascading into clouds, lush tropical vegetation, Avatar-inspired, digital painting, trending on ArtStation",
+        "date_added": "2026-05-21T12:44:16.505634",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 37,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "surreal floating islands with waterfalls cascading into clouds, lush tropical vegetation, Avatar-inspired, digital painting, trending on ArtStation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "surreal floating islands with waterfalls cascading into clouds, lush tropical vegetation, Avatar-inspired, digital painting, trending on ArtStation",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00038",
+      "concept": "canyon landscape at sunset layered red rock formations",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "canyon landscape at sunset, layered red rock formations, hoodoos, dramatic cloud shadows, American Southwest, landscape photography, 8k",
+        "date_added": "2026-05-21T12:44:16.505908",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 38,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "canyon landscape at sunset, layered red rock formations, hoodoos, dramatic cloud shadows, American Southwest, landscape photography, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "canyon landscape at sunset, layered red rock formations, hoodoos, dramatic cloud shadows, American Southwest, landscape photography, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00039",
+      "concept": "volcanic eruption at night lava flowing into the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "volcanic eruption at night, lava flowing into the sea, steam clouds, long exposure, dramatic red glow, fine art photography \ud83c\udfdb Architecture (10 Prompts)",
+        "date_added": "2026-05-21T12:44:16.506166",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 39,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "volcanic eruption at night, lava flowing into the sea, steam clouds, long exposure, dramatic red glow, fine art photography \ud83c\udfdb Architecture (10 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "volcanic eruption at night, lava flowing into the sea, steam clouds, long exposure, dramatic red glow, fine art photography \ud83c\udfdb Architecture (10 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00040",
+      "concept": "traditional Japanese temple in autumn red maple trees",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "traditional Japanese temple in autumn, red maple trees, stone lanterns, misty morning, landscape architecture photography, masterpiece",
+        "date_added": "2026-05-21T12:44:16.506441",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 40,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "traditional Japanese temple in autumn, red maple trees, stone lanterns, misty morning, landscape architecture photography, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "traditional Japanese temple in autumn, red maple trees, stone lanterns, misty morning, landscape architecture photography, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00041",
+      "concept": "brutalist concrete residential tower dramatic shadows urban landscape",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "brutalist concrete residential tower, dramatic shadows, urban landscape, black and white architectural photography, fine art",
+        "date_added": "2026-05-21T12:44:16.506551",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 41,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "brutalist concrete residential tower, dramatic shadows, urban landscape, black and white architectural photography, fine art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "brutalist concrete residential tower, dramatic shadows, urban landscape, black and white architectural photography, fine art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00042",
+      "concept": "abandoned industrial warehouse shafts of light through broken",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "abandoned industrial warehouse, shafts of light through broken roof, moss-covered walls, urban exploration photography, cinematic",
+        "date_added": "2026-05-21T12:44:16.506768",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 42,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "abandoned industrial warehouse, shafts of light through broken roof, moss-covered walls, urban exploration photography, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "abandoned industrial warehouse, shafts of light through broken roof, moss-covered walls, urban exploration photography, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00043",
+      "concept": "hyper futuristic city intersection glass skyscrapers sky bridges",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "hyper-futuristic city intersection, glass skyscrapers, sky bridges, flying drones, pedestrians below, concept art, cinematic, 8k \ud83c\udf8c Anime (12 Prompts)",
+        "date_added": "2026-05-21T12:44:16.507054",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 43,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "hyper-futuristic city intersection, glass skyscrapers, sky bridges, flying drones, pedestrians below, concept art, cinematic, 8k \ud83c\udf8c Anime (12 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "hyper-futuristic city intersection, glass skyscrapers, sky bridges, flying drones, pedestrians below, concept art, cinematic, 8k \ud83c\udf8c Anime (12 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00044",
+      "concept": "anime girl with silver hair and violet eyes",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "anime girl with silver hair and violet eyes, school uniform, cherry blossoms falling, soft wind, detailed illustration, Kyoto Animation style, best quality 4/9",
+        "date_added": "2026-05-21T12:44:16.507195",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 44,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anime girl with silver hair and violet eyes, school uniform, cherry blossoms falling, soft wind, detailed illustration, Kyoto Animation style, best quality 4/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anime girl with silver hair and violet eyes, school uniform, cherry blossoms falling, soft wind, detailed illustration, Kyoto Animation style, best quality 4/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00045",
+      "concept": "shonen protagonist power up scene glowing golden aura",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "shonen protagonist power-up scene, glowing golden aura, torn clothes, determined expression, dramatic sky, dynamic composition, ultra-detailed anime art",
+        "date_added": "2026-05-21T12:44:16.507326",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 45,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "shonen protagonist power-up scene, glowing golden aura, torn clothes, determined expression, dramatic sky, dynamic composition, ultra-detailed anime art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "shonen protagonist power-up scene, glowing golden aura, torn clothes, determined expression, dramatic sky, dynamic composition, ultra-detailed anime art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00046",
+      "concept": "cozy anime scene girl reading by a rainy",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "cozy anime scene, girl reading by a rainy window, warm cafe interior, steaming tea, soft lighting, slice-of-life aesthetic, detailed background",
+        "date_added": "2026-05-21T12:44:16.507494",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 46,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cozy anime scene, girl reading by a rainy window, warm cafe interior, steaming tea, soft lighting, slice-of-life aesthetic, detailed background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cozy anime scene, girl reading by a rainy window, warm cafe interior, steaming tea, soft lighting, slice-of-life aesthetic, detailed background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00047",
+      "concept": "anime mecha pilot sleek sci fi cockpit neon",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "anime mecha pilot, sleek sci-fi cockpit, neon displays, focused expression, visor reflection, Evangelion aesthetic, ultra-detailed",
+        "date_added": "2026-05-21T12:44:16.507610",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 47,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anime mecha pilot, sleek sci-fi cockpit, neon displays, focused expression, visor reflection, Evangelion aesthetic, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anime mecha pilot, sleek sci-fi cockpit, neon displays, focused expression, visor reflection, Evangelion aesthetic, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00048",
+      "concept": "beautiful anime sorceress long silver hair elaborate robe",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "beautiful anime sorceress, long silver hair, elaborate robe, casting fire spell, dark fantasy background, detailed, trending on pixiv",
+        "date_added": "2026-05-21T12:44:16.507725",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 48,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "beautiful anime sorceress, long silver hair, elaborate robe, casting fire spell, dark fantasy background, detailed, trending on pixiv",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "beautiful anime sorceress, long silver hair, elaborate robe, casting fire spell, dark fantasy background, detailed, trending on pixiv",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00049",
+      "concept": "anime beach episode group of friends playing volleyball",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "anime beach episode, group of friends playing volleyball at sunset, dynamic poses, colorful summer outfits, vibrant colors, best quality",
+        "date_added": "2026-05-21T12:44:16.507842",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 49,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anime beach episode, group of friends playing volleyball at sunset, dynamic poses, colorful summer outfits, vibrant colors, best quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anime beach episode, group of friends playing volleyball at sunset, dynamic poses, colorful summer outfits, vibrant colors, best quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00050",
+      "concept": "solitary samurai on a cliff overlooking fog covered",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "solitary samurai on a cliff overlooking fog-covered valley, traditional armor, cherry blossoms, Demon Slayer art style, cinematic composition",
+        "date_added": "2026-05-21T12:44:16.508018",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 50,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "solitary samurai on a cliff overlooking fog-covered valley, traditional armor, cherry blossoms, Demon Slayer art style, cinematic composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "solitary samurai on a cliff overlooking fog-covered valley, traditional armor, cherry blossoms, Demon Slayer art style, cinematic composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00051",
+      "concept": "anime cityscape at night neon signs rain soaked",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "anime cityscape at night, neon signs, rain-soaked streets, lone figure with umbrella, cyberpunk aesthetic, detailed environment art",
+        "date_added": "2026-05-21T12:44:16.508148",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 51,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anime cityscape at night, neon signs, rain-soaked streets, lone figure with umbrella, cyberpunk aesthetic, detailed environment art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anime cityscape at night, neon signs, rain-soaked streets, lone figure with umbrella, cyberpunk aesthetic, detailed environment art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00052",
+      "concept": "anime landscape rolling hills at dawn a small",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "anime landscape, rolling hills at dawn, a small village below, Miyazaki / Studio Ghibli aesthetic, painterly, warm colors, masterpiece",
+        "date_added": "2026-05-21T12:44:16.508310",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 52,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anime landscape, rolling hills at dawn, a small village below, Miyazaki / Studio Ghibli aesthetic, painterly, warm colors, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anime landscape, rolling hills at dawn, a small village below, Miyazaki / Studio Ghibli aesthetic, painterly, warm colors, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00053",
+      "concept": "dark fantasy anime villain pale skin red eyes",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "dark fantasy anime villain, pale skin, red eyes, flowing black cape, gothic throne room, dramatic backlight, ultra-detailed illustration",
+        "date_added": "2026-05-21T12:44:16.508424",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 53,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "dark fantasy anime villain, pale skin, red eyes, flowing black cape, gothic throne room, dramatic backlight, ultra-detailed illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "dark fantasy anime villain, pale skin, red eyes, flowing black cape, gothic throne room, dramatic backlight, ultra-detailed illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00054",
+      "concept": "anime idol on stage concert lights glitter crowd",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "anime idol on stage, concert lights, glitter, crowd below, sparkles, colorful idol outfit, dynamic pose, detailed illustration \ud83c\udfa8 Abstract (12 Prompts)",
+        "date_added": "2026-05-21T12:44:16.508584",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 54,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "anime idol on stage, concert lights, glitter, crowd below, sparkles, colorful idol outfit, dynamic pose, detailed illustration \ud83c\udfa8 Abstract (12 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "anime idol on stage, concert lights, glitter, crowd below, sparkles, colorful idol outfit, dynamic pose, detailed illustration \ud83c\udfa8 Abstract (12 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00055",
+      "concept": "abstract fluid art swirling electric blue and gold",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "abstract fluid art, swirling electric blue and gold paint, marble texture, macro photography, ultra-detailed, high resolution",
+        "date_added": "2026-05-21T12:44:16.508712",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 55,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "abstract fluid art, swirling electric blue and gold paint, marble texture, macro photography, ultra-detailed, high resolution",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "abstract fluid art, swirling electric blue and gold paint, marble texture, macro photography, ultra-detailed, high resolution",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00056",
+      "concept": "geometric sacred geometry mandala intricate glowing lines black",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "geometric sacred geometry mandala, intricate glowing lines, black background, neon violet and cyan, symmetrical, 8k digital art",
+        "date_added": "2026-05-21T12:44:16.508830",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 56,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "geometric sacred geometry mandala, intricate glowing lines, black background, neon violet and cyan, symmetrical, 8k digital art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "geometric sacred geometry mandala, intricate glowing lines, black background, neon violet and cyan, symmetrical, 8k digital art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00057",
+      "concept": "abstract expressionism painting bold red and black brushstrokes",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "abstract expressionism painting, bold red and black brushstrokes, impasto texture, Rothko-inspired, fine art, museum quality",
+        "date_added": "2026-05-21T12:44:16.508934",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 57,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "abstract expressionism painting, bold red and black brushstrokes, impasto texture, Rothko-inspired, fine art, museum quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "abstract expressionism painting, bold red and black brushstrokes, impasto texture, Rothko-inspired, fine art, museum quality",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00058",
+      "concept": "abstract glitch art fragmented human face pixel displacement",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "abstract glitch art, fragmented human face, pixel displacement, neon colors, digital corruption aesthetic, high impact",
+        "date_added": "2026-05-21T12:44:16.509163",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 58,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "abstract glitch art, fragmented human face, pixel displacement, neon colors, digital corruption aesthetic, high impact",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "abstract glitch art, fragmented human face, pixel displacement, neon colors, digital corruption aesthetic, high impact",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00059",
+      "concept": "nebula inspired abstract deep space colors gas cloud",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "nebula-inspired abstract, deep space colors, gas cloud swirls, star clusters, purple and teal, ultra-detailed digital painting",
+        "date_added": "2026-05-21T12:44:16.509278",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 59,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "nebula-inspired abstract, deep space colors, gas cloud swirls, star clusters, purple and teal, ultra-detailed digital painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "nebula-inspired abstract, deep space colors, gas cloud swirls, star clusters, purple and teal, ultra-detailed digital painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00060",
+      "concept": "abstract liquid metal sculpture chrome and gold molten",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "abstract liquid metal sculpture, chrome and gold, molten drips, reflections, studio lighting, product photography style",
+        "date_added": "2026-05-21T12:44:16.509387",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 60,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "abstract liquid metal sculpture, chrome and gold, molten drips, reflections, studio lighting, product photography style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "abstract liquid metal sculpture, chrome and gold, molten drips, reflections, studio lighting, product photography style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00061",
+      "concept": "generative art style abstract recursive fractal patterns warm",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "generative art style abstract, recursive fractal patterns, warm orange and crimson, mathematically precise, digital art, 8k 5/9",
+        "date_added": "2026-05-21T12:44:16.509489",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 61,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "generative art style abstract, recursive fractal patterns, warm orange and crimson, mathematically precise, digital art, 8k 5/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "generative art style abstract, recursive fractal patterns, warm orange and crimson, mathematically precise, digital art, 8k 5/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00062",
+      "concept": "watercolor abstract landscape loose brushwork wet on wet",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "watercolor abstract landscape, loose brushwork, wet on wet blending, pastel sky, horizon line, fine art painting",
+        "date_added": "2026-05-21T12:44:16.509629",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 62,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "watercolor abstract landscape, loose brushwork, wet on wet blending, pastel sky, horizon line, fine art painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "watercolor abstract landscape, loose brushwork, wet on wet blending, pastel sky, horizon line, fine art painting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00063",
+      "concept": "neon wireframe abstract cityscape dark background glowing grid",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "neon wireframe abstract cityscape, dark background, glowing grid lines, isometric perspective, retrowave aesthetic",
+        "date_added": "2026-05-21T12:44:16.509722",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 63,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "neon wireframe abstract cityscape, dark background, glowing grid lines, isometric perspective, retrowave aesthetic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "neon wireframe abstract cityscape, dark background, glowing grid lines, isometric perspective, retrowave aesthetic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00064",
+      "concept": "abstract portrait made of flowers petals forming features",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "abstract portrait made of flowers, petals forming features, soft pastel colors, botanical art, double exposure effect, ultra-detailed",
+        "date_added": "2026-05-21T12:44:16.509823",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 64,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "abstract portrait made of flowers, petals forming features, soft pastel colors, botanical art, double exposure effect, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "abstract portrait made of flowers, petals forming features, soft pastel colors, botanical art, double exposure effect, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00065",
+      "concept": "dark abstract void tendrils of white energy breaking",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "dark abstract void, tendrils of white energy breaking through, minimalist composition, high contrast, dramatic, award-winning digital art \ud83d\udecd Products (10 Prompts)",
+        "date_added": "2026-05-21T12:44:16.509988",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 65,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "dark abstract void, tendrils of white energy breaking through, minimalist composition, high contrast, dramatic, award-winning digital art \ud83d\udecd Products (10 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "dark abstract void, tendrils of white energy breaking through, minimalist composition, high contrast, dramatic, award-winning digital art \ud83d\udecd Products (10 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00066",
+      "concept": "luxury perfume bottle on white marble water droplets",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "luxury perfume bottle on white marble, water droplets, soft studio light, clean background, commercial product photography, 8k",
+        "date_added": "2026-05-21T12:44:16.510140",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 66,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "luxury perfume bottle on white marble, water droplets, soft studio light, clean background, commercial product photography, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "luxury perfume bottle on white marble, water droplets, soft studio light, clean background, commercial product photography, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00067",
+      "concept": "artisan coffee cup with latte art steam rising",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "artisan coffee cup with latte art, steam rising, dark wood surface, warm bokeh background, lifestyle product photography",
+        "date_added": "2026-05-21T12:44:16.510302",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 67,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "artisan coffee cup with latte art, steam rising, dark wood surface, warm bokeh background, lifestyle product photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "artisan coffee cup with latte art, steam rising, dark wood surface, warm bokeh background, lifestyle product photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00068",
+      "concept": "luxury watch on dark slate macro lens gear",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "luxury watch on dark slate, macro lens, gear reflection, dramatic rim light, Swiss watchmaking aesthetic, commercial photography",
+        "date_added": "2026-05-21T12:44:16.510466",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 68,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "luxury watch on dark slate, macro lens, gear reflection, dramatic rim light, Swiss watchmaking aesthetic, commercial photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "luxury watch on dark slate, macro lens, gear reflection, dramatic rim light, Swiss watchmaking aesthetic, commercial photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00069",
+      "concept": "Victorian era portrait of a noblewoman elaborate dress",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "Victorian-era portrait of a noblewoman, elaborate dress, brooch, sepia tone, daguerreotype aesthetic, antique photograph style",
+        "date_added": "2026-05-21T12:44:16.510924",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 69,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Victorian-era portrait of a noblewoman, elaborate dress, brooch, sepia tone, daguerreotype aesthetic, antique photograph style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Victorian-era portrait of a noblewoman, elaborate dress, brooch, sepia tone, daguerreotype aesthetic, antique photograph style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00070",
+      "concept": "old Paris street scene s fashion cobblestones gas",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "old Paris street scene, 1920s fashion, cobblestones, gas lamps, black and white photography, fine art, timeless 6/9",
+        "date_added": "2026-05-21T12:44:16.511158",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 70,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "old Paris street scene, 1920s fashion, cobblestones, gas lamps, black and white photography, fine art, timeless 6/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "old Paris street scene, 1920s fashion, cobblestones, gas lamps, black and white photography, fine art, timeless 6/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00071",
+      "concept": "World War II era pinup illustration bold lines",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "World War II-era pinup illustration, bold lines, flat colors, nose art style, vintage Americana, retro illustration",
+        "date_added": "2026-05-21T12:44:16.511267",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 71,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "World War II-era pinup illustration, bold lines, flat colors, nose art style, vintage Americana, retro illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "World War II-era pinup illustration, bold lines, flat colors, nose art style, vintage Americana, retro illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00072",
+      "concept": "vintage botanical illustration of exotic flowers hand drawn",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "vintage botanical illustration of exotic flowers, hand-drawn, ink and watercolor, aged paper texture, scientific naturalist style",
+        "date_added": "2026-05-21T12:44:16.511431",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 72,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "vintage botanical illustration of exotic flowers, hand-drawn, ink and watercolor, aged paper texture, scientific naturalist style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "vintage botanical illustration of exotic flowers, hand-drawn, ink and watercolor, aged paper texture, scientific naturalist style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00073",
+      "concept": "Prohibition era speakeasy jazz band flapper dresses dim",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "Prohibition-era speakeasy, jazz band, flapper dresses, dim amber light, cigarette smoke, Art Deco interior, cinematic",
+        "date_added": "2026-05-21T12:44:16.511592",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 73,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Prohibition-era speakeasy, jazz band, flapper dresses, dim amber light, cigarette smoke, Art Deco interior, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Prohibition-era speakeasy, jazz band, flapper dresses, dim amber light, cigarette smoke, Art Deco interior, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00074",
+      "concept": "vintage travel poster style illustration French Riviera bold",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "vintage travel poster style illustration, French Riviera, bold flat colors, retro typography, mid-century modern design \u2b50 Bonus Extras (10 Prompts)",
+        "date_added": "2026-05-21T12:44:16.511739",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 74,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "vintage travel poster style illustration, French Riviera, bold flat colors, retro typography, mid-century modern design \u2b50 Bonus Extras (10 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "vintage travel poster style illustration, French Riviera, bold flat colors, retro typography, mid-century modern design \u2b50 Bonus Extras (10 Prompts)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00075",
+      "concept": "macro photograph of a morpho butterfly wing iridescent",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "macro photograph of a morpho butterfly wing, iridescent blue scales, perfect symmetry, water droplets, ultra-detailed, 8k nature photography",
+        "date_added": "2026-05-21T12:44:16.511884",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 75,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "macro photograph of a morpho butterfly wing, iridescent blue scales, perfect symmetry, water droplets, ultra-detailed, 8k nature photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "macro photograph of a morpho butterfly wing, iridescent blue scales, perfect symmetry, water droplets, ultra-detailed, 8k nature photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00076",
+      "concept": "time lapse long exposure of a highway at",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "time-lapse long exposure of a highway at night, light trails, urban canyon, deep blue sky, landscape photography, masterpiece",
+        "date_added": "2026-05-21T12:44:16.512081",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 76,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "time-lapse long exposure of a highway at night, light trails, urban canyon, deep blue sky, landscape photography, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "time-lapse long exposure of a highway at night, light trails, urban canyon, deep blue sky, landscape photography, masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00077",
+      "concept": "hyperrealistic still life of tropical fruit sliced papaya",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "hyperrealistic still life of tropical fruit, sliced papaya and mangoes, dramatic side lighting, fine art photography",
+        "date_added": "2026-05-21T12:44:16.512196",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 77,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "hyperrealistic still life of tropical fruit, sliced papaya and mangoes, dramatic side lighting, fine art photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "hyperrealistic still life of tropical fruit, sliced papaya and mangoes, dramatic side lighting, fine art photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00078",
+      "concept": "ominous thunderstorm over a wheat field dramatic cumulonimbus",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "ominous thunderstorm over a wheat field, dramatic cumulonimbus, lightning strike, golden light break, epic landscape, 8k",
+        "date_added": "2026-05-21T12:44:16.512303",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 78,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ominous thunderstorm over a wheat field, dramatic cumulonimbus, lightning strike, golden light break, epic landscape, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ominous thunderstorm over a wheat field, dramatic cumulonimbus, lightning strike, golden light break, epic landscape, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00079",
+      "concept": "miniature photography tiny house in a spoon macro",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "miniature photography, tiny house in a spoon, macro lens, selective focus, creative concept photography",
+        "date_added": "2026-05-21T12:44:16.512403",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 79,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "miniature photography, tiny house in a spoon, macro lens, selective focus, creative concept photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "miniature photography, tiny house in a spoon, macro lens, selective focus, creative concept photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00080",
+      "concept": "underwater portrait of a woman long flowing hair",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "underwater portrait of a woman, long flowing hair, bubbles, sunlight from above, serene, professional underwater photography",
+        "date_added": "2026-05-21T12:44:16.512498",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 80,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "underwater portrait of a woman, long flowing hair, bubbles, sunlight from above, serene, professional underwater photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "underwater portrait of a woman, long flowing hair, bubbles, sunlight from above, serene, professional underwater photography",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00081",
+      "concept": "hyperdetailed robotic hand reaching toward a human hand",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "hyperdetailed robotic hand reaching toward a human hand, Michelangelo-inspired composition, soft studio light, AI and humanity concept art",
+        "date_added": "2026-05-21T12:44:16.512614",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 81,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "hyperdetailed robotic hand reaching toward a human hand, Michelangelo-inspired composition, soft studio light, AI and humanity concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "hyperdetailed robotic hand reaching toward a human hand, Michelangelo-inspired composition, soft studio light, AI and humanity concept art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00082",
+      "concept": "golden ratio spiral visualization nautilus shell sacred geometry",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "golden ratio spiral visualization, nautilus shell, sacred geometry, macro photography, soft natural light, ultra-detailed",
+        "date_added": "2026-05-21T12:44:16.512721",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 82,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "golden ratio spiral visualization, nautilus shell, sacred geometry, macro photography, soft natural light, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "golden ratio spiral visualization, nautilus shell, sacred geometry, macro photography, soft natural light, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00083",
+      "concept": "extreme macro of a dewdrop on a spider",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "extreme macro of a dewdrop on a spider web, rainbow refraction, early morning light, nature photography, ultra-detailed, 8k",
+        "date_added": "2026-05-21T12:44:16.512845",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 83,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "extreme macro of a dewdrop on a spider web, rainbow refraction, early morning light, nature photography, ultra-detailed, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "extreme macro of a dewdrop on a spider web, rainbow refraction, early morning light, nature photography, ultra-detailed, 8k",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00084",
+      "concept": "cinematic still of an empty train station at",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "cinematic still of an empty train station at night, foggy platform, single lantern, melancholy atmosphere, moody, fine art photography Universal Negative Prompt Paste this into the negative prompt field for every generation. It covers anatomy issues, quality degradation, and common artifacts: 7/9",
+        "date_added": "2026-05-21T12:44:16.513070",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 84,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic still of an empty train station at night, foggy platform, single lantern, melancholy atmosphere, moody, fine art photography Universal Negative Prompt Paste this into the negative prompt field for every generation. It covers anatomy issues, quality degradation, and common artifacts: 7/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "cinematic still of an empty train station at night, foggy platform, single lantern, melancholy atmosphere, moody, fine art photography Universal Negative Prompt Paste this into the negative prompt field for every generation. It covers anatomy issues, quality degradation, and common artifacts: 7/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic still of an empty train station at night, foggy platform, single lantern, melancholy atmosphere, moody, fine art photography Universal Negative Prompt Paste this into the negative prompt field for every generation. It covers anatomy issues, quality degradation, and common artifacts: 7/9",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00085",
+      "concept": "disconnected limbs disfigured clone face poorly drawn bad",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "disconnected limbs, disfigured, clone face, poorly drawn, bad art, amateur, sketch,",
+        "date_added": "2026-05-21T12:44:16.513449",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 85,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "disconnected limbs, disfigured, clone face, poorly drawn, bad art, amateur, sketch",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "disconnected limbs, disfigured, clone face, poorly drawn, bad art, amateur, sketch",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00086",
+      "concept": "cartoon if photorealistic is desired painting if photo",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "cartoon (if photorealistic is desired), painting (if photo is desired)",
+        "date_added": "2026-05-21T12:44:16.513529",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 86,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cartoon (if photorealistic is desired), painting (if photo is desired)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cartoon (if photorealistic is desired), painting (if photo is desired)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide_00087",
+      "concept": "This guide covers stable diffusion prompts our premium",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_prompts_pro_com_100_best_stable_diffusion_prompts_2026_guide",
+        "original_prompt": "This guide covers 100 stable diffusion prompts - our premium library has over 10,000",
+        "date_added": "2026-05-21T12:44:16.513896",
+        "source_file": "ai-prompts-pro.com-100 Best Stable Diffusion Prompts 2026 Guide.txt",
+        "source_index": 87,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "This guide covers 100 stable diffusion prompts - our premium library has over 10, 000",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "This guide covers 100 stable diffusion prompts - our premium library has over 10, 000",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

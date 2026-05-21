@@ -1,0 +1,35 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "midjourney_perfect_prompt_guide_every_prompt_every_masterpiece_the_best_00000",
+      "concept": "Midjourney Perfect Prompt Guide Every Prompt Every Masterpiece",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_midjourney_perfect_prompt_guide_every_prompt_every_masterpiece_the_best",
+        "original_prompt": "Midjourney Perfect Prompt Guide : Every Prompt, Every Masterpiece",
+        "date_added": "2026-05-21T12:44:16.266629",
+        "source_file": "Midjourney Perfect Prompt Guide Every Prompt, Every Masterpiece The best images and the best prompts were presented to the\u2026 (Kurage, JANI-) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Midjourney Perfect Prompt Guide : Every Prompt, Every Masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Midjourney Perfect Prompt Guide : Every Prompt, Every Masterpiece",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2249 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00000",
+      "concept": "SUBJECT in the style of Elemental Resonance featuring",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "[SUBJECT] in the style of Elemental Resonance, featuring a serene aura with [COLOR1] and [COLOR2], amidst floating molecules transforming into spiritual symbols. The scene highlights stark contrasts, embodying the harmony of science and spiritualit",
+        "date_added": "2026-05-21T12:44:15.895524",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "[SUBJECT] in the style of Elemental Resonance, featuring a serene aura with [COLOR1] and [COLOR2], amidst floating molecules transforming into spiritual symbols. The scene highlights stark contrasts, embodying the harmony of science and spiritualit",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "[SUBJECT] in the style of Elemental Resonance, featuring a serene aura with [COLOR1] and [COLOR2], amidst floating molecules transforming into spiritual symbols. The scene highlights stark contrasts, embodying the harmony of science and spiritualit",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "[SUBJECT] in the style of Elemental Resonance, featuring a serene aura with [COLOR1] and [COLOR2], amidst floating molecules transforming into spiritual symbols. The scene highlights stark contrasts, embodying the harmony of science and spiritualit",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00001",
+      "concept": "Subject Object in a Place Situation background in",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "(Subject/Object in a Place/Situation) background, in the style of layered and atmospheric landscapes, (Colors), post-apocalyptic backdrops, matte photo, midwest gothic, textured backgrounds, vignetting, national geographic photo",
+        "date_added": "2026-05-21T12:44:15.896054",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "(Subject/Object in a Place/Situation) background, in the style of layered and atmospheric landscapes, (Colors), post-apocalyptic backdrops, matte photo, midwest gothic, textured backgrounds, vignetting, national geographic photo",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "(Subject/Object in a Place/Situation) background, in the style of layered and atmospheric landscapes, (Colors), post-apocalyptic backdrops, matte photo, midwest gothic, textured backgrounds, vignetting, national geographic photo",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00002",
+      "concept": "SUBJECT in PLACE TIME OF THE DAY chiaroscuro",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "[SUBJECT] in [PLACE] [TIME OF THE DAY], chiaroscuro, cinestill 50d, cinematic, Sci-fi, epic realism, subtle surrealism --ar 21:9 --style raw --v 5.2",
+        "date_added": "2026-05-21T12:44:15.896320",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "[SUBJECT] in [PLACE] [TIME OF THE DAY], chiaroscuro, cinestill 50d, cinematic, Sci-fi, epic realism, subtle surrealism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "[SUBJECT] in [PLACE] [TIME OF THE DAY], chiaroscuro, cinestill 50d, cinematic, Sci-fi, epic realism, subtle surrealism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00003",
+      "concept": "Your character xbox ps in the style of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "[Your character], xbox 360, ps4, in the style of photobashing, mixed media marvel, selective focus, 32k uhd, epic portraiture, fantasy characters",
+        "date_added": "2026-05-21T12:44:15.896562",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "[Your character], xbox 360, ps4, in the style of photobashing, mixed media marvel, selective focus, 32k uhd, epic portraiture, fantasy characters",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "[Your character], xbox 360, ps4, in the style of photobashing, mixed media marvel, selective focus, 32k uhd, epic portraiture, fantasy characters",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00004",
+      "concept": "For an intriguing twist remove the sunset token",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "For an intriguing twist, remove the 'sunset' token from the 'Mystic Lumina' prompt, and watch as the scene transforms into a 'Nocturnal Cinema' effect, where the night's embrace heightens the drama",
+        "date_added": "2026-05-21T12:44:15.896794",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "For an intriguing twist, remove the 'sunset' token from the 'Mystic Lumina' prompt, and watch as the scene transforms into a 'Nocturnal Cinema' effect, where the night's embrace heightens the drama",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "For an intriguing twist, remove the 'sunset' token from the 'Mystic Lumina' prompt, and watch as the scene transforms into a 'Nocturnal Cinema' effect, where the night's embrace heightens the drama",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00005",
+      "concept": "film noir scene pursuit hand drawn style high",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "film noir scene, pursuit, hand-drawn style, high contrast, moody atmosphere, Frank Miller's influences, Sin City's vibes, red-black-white",
+        "date_added": "2026-05-21T12:44:15.897210",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "film noir scene, pursuit, hand-drawn style, high contrast, moody atmosphere, Frank Miller's influences, Sin City's vibes, red-black-white",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "film noir scene, pursuit, hand-drawn style, high contrast, moody atmosphere, Frank Miller's influences, Sin City's vibes, red-black-white",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00006",
+      "concept": "Cloaked female assassin s creed Figure in a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Cloaked female assassin's creed Figure in a Haunted Library, Gothic Noir Film, Shadows and Light, Captivating Atmosphere, Eerie Beauty, Detailed Architecture, Mysterious Characters, Suspenseful Mood, Intricate Details, Cinematic References",
+        "date_added": "2026-05-21T12:44:15.897366",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cloaked female assassin's creed Figure in a Haunted Library, Gothic Noir Film, Shadows and Light, Captivating Atmosphere, Eerie Beauty, Detailed Architecture, Mysterious Characters, Suspenseful Mood, Intricate Details, Cinematic References",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cloaked female assassin's creed Figure in a Haunted Library, Gothic Noir Film, Shadows and Light, Captivating Atmosphere, Eerie Beauty, Detailed Architecture, Mysterious Characters, Suspenseful Mood, Intricate Details, Cinematic References",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00007",
+      "concept": "ted Library Gothic Noir Film Shadows and Light",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "ted Library, Gothic Noir Film, Shadows and Light, Captivating Atmosphere, Eerie Beauty, Detailed Architecture, Mysterious Characters, Suspenseful Mood, Intricate Details, Cinematic References",
+        "date_added": "2026-05-21T12:44:15.897525",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ted Library, Gothic Noir Film, Shadows and Light, Captivating Atmosphere, Eerie Beauty, Detailed Architecture, Mysterious Characters, Suspenseful Mood, Intricate Details, Cinematic References",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ted Library, Gothic Noir Film, Shadows and Light, Captivating Atmosphere, Eerie Beauty, Detailed Architecture, Mysterious Characters, Suspenseful Mood, Intricate Details, Cinematic References",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00008",
+      "concept": "cinematic action packed scene in s action movie",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "cinematic action-packed scene in '90s action movie style, featuring a [ Subject ], palpable tension, saturated colors, black and white photography, close-up shot, action details",
+        "date_added": "2026-05-21T12:44:15.897772",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "cinematic action-packed scene in '90s action movie style, featuring a [ Subject ], palpable tension, saturated colors, black and white photography, close-up shot, action details",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "cinematic action-packed scene in '90s action movie style, featuring a [ Subject ], palpable tension, saturated colors, black and white photography, close-up shot, action details",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00009",
+      "concept": "Photograph a concept vehicle in the desert at",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Photograph a concept [ vehicle ] in the desert at dusk, where the warm glow and radiant luminescence accentuate its design, creating a neon vibrance against the desert backdrop",
+        "date_added": "2026-05-21T12:44:15.898088",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Photograph a concept [ vehicle ] in the desert at dusk, where the warm glow and radiant luminescence accentuate its design, creating a neon vibrance against the desert backdrop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Photograph a concept [ vehicle ] in the desert at dusk, where the warm glow and radiant luminescence accentuate its design, creating a neon vibrance against the desert backdrop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00010",
+      "concept": "unconventional portrait angles printed on canvas Ultra High",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "], unconventional portrait angles, printed on canvas, Ultra High Definition image, color light vivid",
+        "date_added": "2026-05-21T12:44:15.898895",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "], unconventional portrait angles, printed on canvas, Ultra High Definition image, color light vivid",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "], unconventional portrait angles, printed on canvas, Ultra High Definition image, color light vivid",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00011",
+      "concept": "If you add Dark to the color parameter",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": ": If you add Dark to the color parameter, the portrait often turns out even more stylish",
+        "date_added": "2026-05-21T12:44:15.899166",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": ": If you add Dark to the color parameter, the portrait often turns out even more stylish",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": ": If you add Dark to the color parameter, the portrait often turns out even more stylish",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00012",
+      "concept": "close up frontal face Portrait looking at the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "close up frontal face Portrait, looking at the camera, The girl with the dragon tattoo, Blue / purple short hair, city at night, in the style of unreal engine 5, hyper realistic skin texture and facial features, realistic body and anatomy, 3D Octane render, 32k uhd, daz3d --niji --style qsjJoqehywV --s 180 --ar 21:9",
+        "date_added": "2026-05-21T12:44:15.899857",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "close up frontal face Portrait, looking at the camera, The girl with the dragon tattoo, Blue / purple short hair, city at night, in the style of unreal engine 5, hyper realistic skin texture and facial features, realistic body and anatomy, 3D Octane render, 32k uhd, daz3d qsjJoqehywV",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "close up frontal face Portrait, looking at the camera, The girl with the dragon tattoo, Blue / purple short hair, city at night, in the style of unreal engine 5, hyper realistic skin texture and facial features, realistic body and anatomy, 3D Octane render, 32k uhd, daz3d qsjJoqehywV",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00013",
+      "concept": "photo of Subject Dark dreams shadow storytelling eerie",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "photo of [Subject], Dark dreams, shadow storytelling, eerie essence, sinister silhouettes, fear-framed fables, nightmare nuances, phantom plots",
+        "date_added": "2026-05-21T12:44:15.900258",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "photo of [Subject], Dark dreams, shadow storytelling, eerie essence, sinister silhouettes, fear-framed fables, nightmare nuances, phantom plots",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "photo of [Subject], Dark dreams, shadow storytelling, eerie essence, sinister silhouettes, fear-framed fables, nightmare nuances, phantom plots",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00014",
+      "concept": "ultra minimalist and scenographic composition innovative and futuristic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "ultra-minimalist and scenographic composition, innovative and futuristic portrait of Spiderman, focus on clean, geometric lines, high-contrast lighting for dramatic effect, monochromatic color palette with incandescent highlights",
+        "date_added": "2026-05-21T12:44:15.900540",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "ultra-minimalist and scenographic composition, innovative and futuristic portrait of Spiderman, focus on clean, geometric lines, high-contrast lighting for dramatic effect, monochromatic color palette with incandescent highlights",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "ultra-minimalist and scenographic composition, innovative and futuristic portrait of Spiderman, focus on clean, geometric lines, high-contrast lighting for dramatic effect, monochromatic color palette with incandescent highlights",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00015",
+      "concept": "cinematic shot SUBJECT Warm glow radiant luminescence glowing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": ": cinematic shot, [SUBJECT] ,Warm glow, radiant luminescence, glowing ambiance, fluorescent flicker, incandescent intensity, neon vibrance, effulgent edges, luminary spectrum",
+        "date_added": "2026-05-21T12:44:15.900691",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": ": cinematic shot, [SUBJECT], Warm glow, radiant luminescence, glowing ambiance, fluorescent flicker, incandescent intensity, neon vibrance, effulgent edges, luminary spectrum",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": ": cinematic shot, [SUBJECT], Warm glow, radiant luminescence, glowing ambiance, fluorescent flicker, incandescent intensity, neon vibrance, effulgent edges, luminary spectrum",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00016",
+      "concept": "Echo of a breeze geisha drifting through a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Echo of a breeze geisha drifting through a hushed Fluorescent Jade Green landscape, glimpses of Electric Kimono Blue tranquility --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.900831",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Echo of a breeze geisha drifting through a hushed Fluorescent Jade Green landscape, glimpses of Electric Kimono Blue tranquility",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Echo of a breeze geisha drifting through a hushed Fluorescent Jade Green landscape, glimpses of Electric Kimono Blue tranquility",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00017",
+      "concept": "An abstract Element image of a Character in",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "An abstract [Element] image of a [Character] in [Element], in the style of hyper-realistic sci-fi, charming characters, [dark Color1 and light Color2], realistic hyper-detailed portraits, gamercore, lightningwave, superheroes",
+        "date_added": "2026-05-21T12:44:15.901045",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An abstract [Element] image of a [Character] in [Element], in the style of hyper-realistic sci-fi, charming characters, [dark Color1 and light Color2], realistic hyper-detailed portraits, gamercore, lightningwave, superheroes",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An abstract [Element] image of a [Character] in [Element], in the style of hyper-realistic sci-fi, charming characters, [dark Color1 and light Color2], realistic hyper-detailed portraits, gamercore, lightningwave, superheroes",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00018",
+      "concept": "Example An abstract energetic image of a woman",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : An abstract energetic image of a woman wyzard in magical element, in the style of hyper-realistic sci-fi, charming characters, dark purple and light yellow, realistic hyper-detailed portraits, gamercore, lightningwave, superheroes",
+        "date_added": "2026-05-21T12:44:15.901303",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : An abstract energetic image of a woman wyzard in magical element, in the style of hyper-realistic sci-fi, charming characters, dark purple and light yellow, realistic hyper-detailed portraits, gamercore, lightningwave, superheroes",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : An abstract energetic image of a woman wyzard in magical element, in the style of hyper-realistic sci-fi, charming characters, dark purple and light yellow, realistic hyper-detailed portraits, gamercore, lightningwave, superheroes",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00019",
+      "concept": "Example A tranquil ocean scene in shades of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : A tranquil ocean scene, in shades of neon turquoise and deep blue, with Lichtenberg Figures mimicking lightning strikes over water",
+        "date_added": "2026-05-21T12:44:15.901568",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : A tranquil ocean scene, in shades of neon turquoise and deep blue, with Lichtenberg Figures mimicking lightning strikes over water",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : A tranquil ocean scene, in shades of neon turquoise and deep blue, with Lichtenberg Figures mimicking lightning strikes over water",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00020",
+      "concept": "joker on arkham asylum in the style of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "joker on arkham asylum, in the style of contemporary take on medieval art, dark orange and crimson, monochromatic expressionism, noir comic art, gothic romanticism, whimsical illustration, spectacular backdrops --ar 3:4 --niji 5",
+        "date_added": "2026-05-21T12:44:15.901860",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "joker on arkham asylum, in the style of contemporary take on medieval art, dark orange and crimson, monochromatic expressionism, noir comic art, gothic romanticism, whimsical illustration, spectacular backdrops",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "joker on arkham asylum, in the style of contemporary take on medieval art, dark orange and crimson, monochromatic expressionism, noir comic art, gothic romanticism, whimsical illustration, spectacular backdrops",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00021",
+      "concept": "whimsical fantasy creature in the style of enchanting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "whimsical fantasy creature, in the style of enchanting surrealism, portrait with hidden meanings, illusory images, jamie heiden, dark azure and aquamarine, texture-rich canvases, whimsical beauty, qajar art --ar 3:4 --style raw --v 5.2",
+        "date_added": "2026-05-21T12:44:15.902195",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "whimsical fantasy creature, in the style of enchanting surrealism, portrait with hidden meanings, illusory images, jamie heiden, dark azure and aquamarine, texture-rich canvases, whimsical beauty, qajar art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "whimsical fantasy creature, in the style of enchanting surrealism, portrait with hidden meanings, illusory images, jamie heiden, dark azure and aquamarine, texture-rich canvases, whimsical beauty, qajar art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00022",
+      "concept": "clockwork clown skulput in the style of graphic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "clockwork clown skulput, in the style of graphic design-inspired illustrations, orange and beige, mesmerizing optical illusions, detailed and macabre, tondo, poster art, colorful, eye-catching compositions --niji 5",
+        "date_added": "2026-05-21T12:44:15.902402",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "clockwork clown skulput, in the style of graphic design-inspired illustrations, orange and beige, mesmerizing optical illusions, detailed and macabre, tondo, poster art, colorful, eye-catching compositions",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "clockwork clown skulput, in the style of graphic design-inspired illustrations, orange and beige, mesmerizing optical illusions, detailed and macabre, tondo, poster art, colorful, eye-catching compositions",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00023",
+      "concept": "Cinematic shot in the style of Cristopher Nolan",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Cinematic shot in the style of Cristopher Nolan, [character], [place], [angle], dramatic lighting, intense and inmersive atmosphere, dark color palette",
+        "date_added": "2026-05-21T12:44:15.902632",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Cinematic shot in the style of Cristopher Nolan, [character], [place], [angle], dramatic lighting, intense and inmersive atmosphere, dark color palette",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Cinematic shot in the style of Cristopher Nolan, [character], [place], [angle], dramatic lighting, intense and inmersive atmosphere, dark color palette",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00024",
+      "concept": "Example Cinematic shot in the style of Cristopher",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : Cinematic shot in the style of Cristopher Nolan, A futuristic, sleek spaceship with glowing blue accents flying above a vast, orange-hued desert plane, High angle, Dramatic lighting, immersive atmosphere, Dark and earth palette , cinematic, epic realism,8K, highly detailed",
+        "date_added": "2026-05-21T12:44:15.902876",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : Cinematic shot in the style of Cristopher Nolan, A futuristic, sleek spaceship with glowing blue accents flying above a vast, orange-hued desert plane, High angle, Dramatic lighting, immersive atmosphere, Dark and earth palette, cinematic, epic realism, 8K, highly detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : Cinematic shot in the style of Cristopher Nolan, A futuristic, sleek spaceship with glowing blue accents flying above a vast, orange-hued desert plane, High angle, Dramatic lighting, immersive atmosphere, Dark and earth palette, cinematic, epic realism, 8K, highly detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00025",
+      "concept": "High key photograph of a subject place angle",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "High key photograph of a [subject], [place], [angle], soft light colors, enveloping ilumination, subtle details, focused on conveying peace and serenity balanced composition --ar 16:9",
+        "date_added": "2026-05-21T12:44:15.903178",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "High key photograph of a [subject], [place], [angle], soft light colors, enveloping ilumination, subtle details, focused on conveying peace and serenity balanced composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "High key photograph of a [subject], [place], [angle], soft light colors, enveloping ilumination, subtle details, focused on conveying peace and serenity balanced composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00026",
+      "concept": "High key photograph of a teenager girl sitting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "High key photograph of a teenager girl,sitting on her bed reading a book , side angle, soft light colors, enveloping illumination, subtle details, focused on conveying peace and serenity, balanced composition --ar 16:9 --v 5.2 - Upscaled (4x)",
+        "date_added": "2026-05-21T12:44:15.903427",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "High key photograph of a teenager girl, sitting on her bed reading a book, side angle, soft light colors, enveloping illumination, subtle details, focused on conveying peace and serenity, balanced composition - Upscaled (4x)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "High key photograph of a teenager girl, sitting on her bed reading a book, side angle, soft light colors, enveloping illumination, subtle details, focused on conveying peace and serenity, balanced composition - Upscaled (4x)",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00027",
+      "concept": "harkonnen baron dune in the style of futurism",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "harkonnen baron dune, in the style of futurism grotesque, exaggerated facial features, focus stacking, todd mcfarlane, comic art, schizocore, radical inventions, violent, salvagepunk, dynamic graphic novel, photorealistic scenes, detailed comic book art, cartoonish lines, rtx on, captivating figures, high-contrast shading, hyper-detailed, chiaroscuro mastery, trompe-l'\u0153il illusionistic detail, full body intensity --ar 16:9 --niji 5",
+        "date_added": "2026-05-21T12:44:15.903710",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "harkonnen baron dune, in the style of futurism grotesque, exaggerated facial features, focus stacking, todd mcfarlane, comic art, schizocore, radical inventions, violent, salvagepunk, dynamic graphic novel, photorealistic scenes, detailed comic book art, cartoonish lines, rtx on, captivating figures, high-contrast shading, hyper-detailed, chiaroscuro mastery, trompe-l'\u0153il illusionistic detail, full body intensity",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "harkonnen baron dune, in the style of futurism grotesque, exaggerated facial features, focus stacking, todd mcfarlane, comic art, schizocore, radical inventions, violent, salvagepunk, dynamic graphic novel, photorealistic scenes, detailed comic book art, cartoonish lines, rtx on, captivating figures, high-contrast shading, hyper-detailed, chiaroscuro mastery, trompe-l'\u0153il illusionistic detail, full body intensity",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00028",
+      "concept": "the comedian watchmen in the style of bold",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "the comedian watchmen, in the style of bold and graphic compositions, mosaic-like collages, pop culture mashup, multiple screens, patrice murciano, referential painting, light yellow and dark, magali villeneuve, macro zoom, outlandish energy, contemporary frescoes, chaotic academia, digital as manual --ar 16:9 --stylize 1000 --niji 5",
+        "date_added": "2026-05-21T12:44:15.904173",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "the comedian watchmen, in the style of bold and graphic compositions, mosaic-like collages, pop culture mashup, multiple screens, patrice murciano, referential painting, light yellow and dark, magali villeneuve, macro zoom, outlandish energy, contemporary frescoes, chaotic academia, digital as manual",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "the comedian watchmen, in the style of bold and graphic compositions, mosaic-like collages, pop culture mashup, multiple screens, patrice murciano, referential painting, light yellow and dark, magali villeneuve, macro zoom, outlandish energy, contemporary frescoes, chaotic academia, digital as manual",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00029",
+      "concept": "A majestic flock of Grand Thanksgiving Day Turkeys",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "A majestic flock of Grand Thanksgiving Day Turkeys, their vibrant feathers shimmering in the warm hues of a Mandelbrot ombr\u00e9 sunset. Delicately pressed into a stunning 3D art piece, their intricate details come to life, creating a mesmerizing visual experience. With a Tilt-shift blur lens, the foreground is subtly blurred, drawing the viewer's focus towards the vibrant cornucopia overflowing with Thanksgiving abundance. Selective color techniques bring the turkeys' rich autumn colors to the forefront, making this high fashion masterpiece truly unforgettable.",
+        "date_added": "2026-05-21T12:44:15.904640",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A majestic flock of Grand Thanksgiving Day Turkeys, their vibrant feathers shimmering in the warm hues of a Mandelbrot ombr\u00e9 sunset. Delicately pressed into a stunning 3D art piece, their intricate details come to life, creating a mesmerizing visual experience. With a Tilt-shift blur lens, the foreground is subtly blurred, drawing the viewer's focus towards the vibrant cornucopia overflowing with Thanksgiving abundance. Selective color techniques bring the turkeys' rich autumn colors to the forefront, making this high fashion masterpiece truly unforgettable",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A majestic flock of Grand Thanksgiving Day Turkeys, their vibrant feathers shimmering in the warm hues of a Mandelbrot ombr\u00e9 sunset. Delicately pressed into a stunning 3D art piece, their intricate details come to life, creating a mesmerizing visual experience. With a Tilt-shift blur lens, the foreground is subtly blurred, drawing the viewer's focus towards the vibrant cornucopia overflowing with Thanksgiving abundance. Selective color techniques bring the turkeys' rich autumn colors to the forefront, making this high fashion masterpiece truly unforgettable",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A majestic flock of Grand Thanksgiving Day Turkeys, their vibrant feathers shimmering in the warm hues of a Mandelbrot ombr\u00e9 sunset. Delicately pressed into a stunning 3D art piece, their intricate details come to life, creating a mesmerizing visual experience. With a Tilt-shift blur lens, the foreground is subtly blurred, drawing the viewer's focus towards the vibrant cornucopia overflowing with Thanksgiving abundance. Selective color techniques bring the turkeys' rich autumn colors to the forefront, making this high fashion masterpiece truly unforgettable",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00030",
+      "concept": "bizarre portrait of an alien girl with big",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "bizarre portrait of an alien girl with big eyes in a fish tank with bubbles, in the style of naoto hattori, whimsical cartoon, light yellow and bronze, technology-based art, masks and totems, inventive character designs, captivating gaze --ar 16:9 --style 2dQCVYEAAbl2 --v 5.2",
+        "date_added": "2026-05-21T12:44:15.904984",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "bizarre portrait of an alien girl with big eyes in a fish tank with bubbles, in the style of naoto hattori, whimsical cartoon, light yellow and bronze, technology-based art, masks and totems, inventive character designs, captivating gaze",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "bizarre portrait of an alien girl with big eyes in a fish tank with bubbles, in the style of naoto hattori, whimsical cartoon, light yellow and bronze, technology-based art, masks and totems, inventive character designs, captivating gaze",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00031",
+      "concept": "bizarre portrait of an alien girl with big",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "bizarre portrait of an alien girl with big eyes in a fish tank with bubbles, in the style of naoto hattori, whimsical cartoon, light yellow and bronze, technology-based art, masks and totems, inventive character designs, captivating gaze --ar 16:9 --style 2dQD3tezPUTq --v 5.2",
+        "date_added": "2026-05-21T12:44:15.905311",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "bizarre portrait of an alien girl with big eyes in a fish tank with bubbles, in the style of naoto hattori, whimsical cartoon, light yellow and bronze, technology-based art, masks and totems, inventive character designs, captivating gaze",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "bizarre portrait of an alien girl with big eyes in a fish tank with bubbles, in the style of naoto hattori, whimsical cartoon, light yellow and bronze, technology-based art, masks and totems, inventive character designs, captivating gaze",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00032",
+      "concept": "in the style of Dimitry Roulland gravity defying",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": ", in the style of Dimitry Roulland, gravity-defying, dynamic pose, cinematic, [backlit]",
+        "date_added": "2026-05-21T12:44:15.905538",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": " in the style of Dimitry Roulland, gravity-defying, dynamic pose, cinematic, [backlit]",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": " in the style of Dimitry Roulland, gravity-defying, dynamic pose, cinematic, [backlit]",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00033",
+      "concept": "A man in a coat standing in an",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "A man in a coat standing in an orange sand patch, in the style of cinematic atmosphere, large-scale minimalist, hazy, movie still, red and amber, glistening, ferrania p30 --style",
+        "date_added": "2026-05-21T12:44:15.905772",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A man in a coat standing in an orange sand patch, in the style of cinematic atmosphere, large-scale minimalist, hazy, movie still, red and amber, glistening, ferrania p30",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A man in a coat standing in an orange sand patch, in the style of cinematic atmosphere, large-scale minimalist, hazy, movie still, red and amber, glistening, ferrania p30",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00034",
+      "concept": "Photo of a man in a futuristic suit",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "1/Photo of a man in a futuristic suit::2 Solar sail cruiser fleet, piloted by a mix of species, exploring distant stars and nebulae --style",
+        "date_added": "2026-05-21T12:44:15.905931",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "1/Photo of a man in a futuristic suit Solar sail cruiser fleet, piloted by a mix of species, exploring distant stars and nebulae",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "1/Photo of a man in a futuristic suit Solar sail cruiser fleet, piloted by a mix of species, exploring distant stars and nebulae",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00035",
+      "concept": "close up photo of a man Solar sail",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "2/close-up photo of a man::4 Solar sail cruiser fleet, piloted by a mix of species, exploring distant stars and nebulae --style",
+        "date_added": "2026-05-21T12:44:15.906156",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 35,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "2/close-up photo of a man Solar sail cruiser fleet, piloted by a mix of species, exploring distant stars and nebulae",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "2/close-up photo of a man Solar sail cruiser fleet, piloted by a mix of species, exploring distant stars and nebulae",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00036",
+      "concept": "Abstract Expressionism street photo of a woman",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Abstract Expressionism street photo of a woman --style",
+        "date_added": "2026-05-21T12:44:15.906322",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 36,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Abstract Expressionism street photo of a woman",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Abstract Expressionism street photo of a woman",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00037",
+      "concept": "close up photo of Santa Claus",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "close-up photo of Santa Claus --style 4yuG4HZyCHwGsXsx --ar 2:3",
+        "date_added": "2026-05-21T12:44:15.906428",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 37,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "close-up photo of Santa Claus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "close-up photo of Santa Claus",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00038",
+      "concept": "digital art painting street style realism a hip",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "digital art painting, street style realism a hip hop dancer with arms in the air, graffiti urban environment, dusk, precisionist detailed, layered compositions, triadic color palette, detailed character",
+        "date_added": "2026-05-21T12:44:15.906659",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 38,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "digital art painting, street style realism a hip hop dancer with arms in the air, graffiti urban environment, dusk, precisionist detailed, layered compositions, triadic color palette, detailed character",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "digital art painting, street style realism a hip hop dancer with arms in the air, graffiti urban environment, dusk, precisionist detailed, layered compositions, triadic color palette, detailed character",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00039",
+      "concept": "A OBJECT shown in a progression from completely",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "A [OBJECT] shown in a progression from completely blurry to perfectly clear. The left side of the image should start with the [OBJECT] being very blurry and indistinct, gradually transitioning to the middle where the [OBJECT] becomes somewhat clear, and finally to the right side where the [OBJECT] is depicted in perfect clarity and sharpness. This visual progression should create a sense of clarity emerging from a foggy, unclear state, emphasizing the details and features of the [OBJECT] as [PRONOUN] becomes more defined.",
+        "date_added": "2026-05-21T12:44:15.907020",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 39,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A [OBJECT] shown in a progression from completely blurry to perfectly clear. The left side of the image should start with the [OBJECT] being very blurry and indistinct, gradually transitioning to the middle where the [OBJECT] becomes somewhat clear, and finally to the right side where the [OBJECT] is depicted in perfect clarity and sharpness. This visual progression should create a sense of clarity emerging from a foggy, unclear state, emphasizing the details and features of the [OBJECT] as [PRONOUN] becomes more defined",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A [OBJECT] shown in a progression from completely blurry to perfectly clear. The left side of the image should start with the [OBJECT] being very blurry and indistinct, gradually transitioning to the middle where the [OBJECT] becomes somewhat clear, and finally to the right side where the [OBJECT] is depicted in perfect clarity and sharpness. This visual progression should create a sense of clarity emerging from a foggy, unclear state, emphasizing the details and features of the [OBJECT] as [PRONOUN] becomes more defined",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A [OBJECT] shown in a progression from completely blurry to perfectly clear. The left side of the image should start with the [OBJECT] being very blurry and indistinct, gradually transitioning to the middle where the [OBJECT] becomes somewhat clear, and finally to the right side where the [OBJECT] is depicted in perfect clarity and sharpness. This visual progression should create a sense of clarity emerging from a foggy, unclear state, emphasizing the details and features of the [OBJECT] as [PRONOUN] becomes more defined",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00040",
+      "concept": "fish flying above clouds castle paper sculpture surreal",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "fish flying above clouds, castle, paper sculpture, surreal fantasy, narrative, dreamlike, exotic landscape",
+        "date_added": "2026-05-21T12:44:15.907430",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 40,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "fish flying above clouds, castle, paper sculpture, surreal fantasy, narrative, dreamlike, exotic landscape",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "fish flying above clouds, castle, paper sculpture, surreal fantasy, narrative, dreamlike, exotic landscape",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00041",
+      "concept": "composite of two images wolf man and sheep",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "composite of two images, wolf man and sheep man, holding lanterns, night time, surrealism, paper art, whimsical",
+        "date_added": "2026-05-21T12:44:15.907630",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 41,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "composite of two images, wolf man and sheep man, holding lanterns, night time, surrealism, paper art, whimsical",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "composite of two images, wolf man and sheep man, holding lanterns, night time, surrealism, paper art, whimsical",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00042",
+      "concept": "digital art painting street style realism a teenager",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "digital art painting , street style realism a ,teenager skateboarding in an abandoned warehouse, Golden hour, close-up, precisionist detailed, layered compositions, [grey] and [gold] , detailed character",
+        "date_added": "2026-05-21T12:44:15.907799",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 42,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "digital art painting, street style realism a, teenager skateboarding in an abandoned warehouse, Golden hour, close-up, precisionist detailed, layered compositions, [grey] and [gold], detailed character",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "digital art painting, street style realism a, teenager skateboarding in an abandoned warehouse, Golden hour, close-up, precisionist detailed, layered compositions, [grey] and [gold], detailed character",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00043",
+      "concept": "A dystopian urban scene blending Jean Nouvel s",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "A dystopian urban scene blending Jean Nouvel's modernist architecture, H.R. Giger's dark, industrial aesthetic, and Angus McKie's sci-fi ship designs, captured with the sharpness of a Sigma Art 50mm lens --ar 2:3 --style raw --v 5.2",
+        "date_added": "2026-05-21T12:44:15.908144",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 43,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A dystopian urban scene blending Jean Nouvel's modernist architecture, H.R. Giger's dark, industrial aesthetic, and Angus McKie's sci-fi ship designs, captured with the sharpness of a Sigma Art 50mm lens",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A dystopian urban scene blending Jean Nouvel's modernist architecture, H.R. Giger's dark, industrial aesthetic, and Angus McKie's sci-fi ship designs, captured with the sharpness of a Sigma Art 50mm lens",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A dystopian urban scene blending Jean Nouvel's modernist architecture, H.R. Giger's dark, industrial aesthetic, and Angus McKie's sci-fi ship designs, captured with the sharpness of a Sigma Art 50mm lens",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00044",
+      "concept": "Artistic representation of a robotic panda Artistic representation",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Artistic representation of a robotic panda Artistic representation of a robotic praying mantis with intricate metal appendages and glowing symbols, high-quality, futuristic concept art, detailed mechanical structure::2 biomechanical elements, intricate joint mechanisms, glowing rune-like symbols, futuristic creature design, robotic animal features, technological organism, surreal robotic aesthetics --ar 16:9 'n a bamboo forest with intricate metal appendages and glowing symbols, high-quality, futuristic concept art, detailed mechanical structure::2 biomechanical elements, intricate joint mechanisms, glowing rune-like symbols, futuristic creature design, robotic animal features, technological organism, surreal robotic aesthetics --ar 16:9",
+        "date_added": "2026-05-21T12:44:15.908677",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 44,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Artistic representation of a robotic panda Artistic representation of a robotic praying mantis with intricate metal appendages and glowing symbols, high-quality, futuristic concept art, detailed mechanical structure biomechanical elements, intricate joint mechanisms, glowing rune-like symbols, futuristic creature design, robotic animal features, technological organism, surreal robotic aesthetics 'n a bamboo forest with intricate metal appendages and glowing symbols, high-quality, futuristic concept art, detailed mechanical structure biomechanical elements, intricate joint mechanisms, glowing rune-like symbols, futuristic creature design, robotic animal features, technological organism, surreal robotic aesthetics",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Artistic representation of a robotic panda Artistic representation of a robotic praying mantis with intricate metal appendages and glowing symbols, high-quality, futuristic concept art, detailed mechanical structure biomechanical elements, intricate joint mechanisms, glowing rune-like symbols, futuristic creature design, robotic animal features, technological organism, surreal robotic aesthetics 'n a bamboo forest with intricate metal appendages and glowing symbols, high-quality, futuristic concept art, detailed mechanical structure biomechanical elements, intricate joint mechanisms, glowing rune-like symbols, futuristic creature design, robotic animal features, technological organism, surreal robotic aesthetics",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00045",
+      "concept": "Artistic representation of a mountain range as a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Artistic representation of a mountain range as a living, breathing entity, accompanied by a soaring griffin, in the hyperrealistic sci-fi manner of Mark Brooks, earthy browns and sky blues, pixelated mountain textures, angelcore elements, poster art, RTX on for dynamic lighting, meticulously detailed thin line illustration --ar 3:4 --s 260",
+        "date_added": "2026-05-21T12:44:15.909166",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 45,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Artistic representation of a mountain range as a living, breathing entity, accompanied by a soaring griffin, in the hyperrealistic sci-fi manner of Mark Brooks, earthy browns and sky blues, pixelated mountain textures, angelcore elements, poster art, RTX on for dynamic lighting, meticulously detailed thin line illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Artistic representation of a mountain range as a living, breathing entity, accompanied by a soaring griffin, in the hyperrealistic sci-fi manner of Mark Brooks, earthy browns and sky blues, pixelated mountain textures, angelcore elements, poster art, RTX on for dynamic lighting, meticulously detailed thin line illustration",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00046",
+      "concept": "Wide angle Realistic photography of a little boy",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Wide angle Realistic photography of a little boy running through a blue and ivory white castle by mark brooks::4 the little boy in joyful mood, Dreamcore, filled with intricate details and glowing light in realistic photography::3.5 magical elements and intricate patterns, evoking a sense of magic and mystery to the realistic scene the little boy is captivated by, contrasting shadows, creating depth and dimension::2.5 Lacks any harsh, jagged lines or cluttered details that detract from the overall beauty of the scene::-0.5 --ar 2:3 --s 260",
+        "date_added": "2026-05-21T12:44:15.909519",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 46,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Wide angle Realistic photography of a little boy running through a blue and ivory white castle by mark brooks the little boy in joyful mood, Dreamcore, filled with intricate details and glowing light in realistic photography.5 magical elements and intricate patterns, evoking a sense of magic and mystery to the realistic scene the little boy is captivated by, contrasting shadows, creating depth and dimension.5 Lacks any harsh, jagged lines or cluttered details that detract from the overall beauty of the scene::-0.5",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Wide angle Realistic photography of a little boy running through a blue and ivory white castle by mark brooks the little boy in joyful mood, Dreamcore, filled with intricate details and glowing light in realistic photography.5 magical elements and intricate patterns, evoking a sense of magic and mystery to the realistic scene the little boy is captivated by, contrasting shadows, creating depth and dimension.5 Lacks any harsh, jagged lines or cluttered details that detract from the overall beauty of the scene::-0.5",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Wide angle Realistic photography of a little boy running through a blue and ivory white castle by mark brooks the little boy in joyful mood, Dreamcore, filled with intricate details and glowing light in realistic photography.5 magical elements and intricate patterns, evoking a sense of magic and mystery to the realistic scene the little boy is captivated by, contrasting shadows, creating depth and dimension.5 Lacks any harsh, jagged lines or cluttered details that detract from the overall beauty of the scene::-0.5",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00047",
+      "concept": "Create a portrait that exudes deep emotion and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Create a portrait that exudes deep emotion and connection, incorporating the ornate and rebellious elements of punkrococco, inspired by Peyton's tender approach. Imagine intricate lace and leather, mixed with an expressive, deeply personal gaze.",
+        "date_added": "2026-05-21T12:44:15.909781",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 47,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Create a portrait that exudes deep emotion and connection, incorporating the ornate and rebellious elements of punkrococco, inspired by Peyton's tender approach. Imagine intricate lace and leather, mixed with an expressive, deeply personal gaze",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Create a portrait that exudes deep emotion and connection, incorporating the ornate and rebellious elements of punkrococco, inspired by Peyton's tender approach. Imagine intricate lace and leather, mixed with an expressive, deeply personal gaze",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Create a portrait that exudes deep emotion and connection, incorporating the ornate and rebellious elements of punkrococco, inspired by Peyton's tender approach. Imagine intricate lace and leather, mixed with an expressive, deeply personal gaze",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00048",
+      "concept": "Paint a portrait that tells a personal story",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Paint a portrait that tells a personal story, influenced by Peyton but enriched with glittering details and mathematical neologisms. Think of visually representing emotions and experiences through sparkling patterns and abstract mathematical symbolism.",
+        "date_added": "2026-05-21T12:44:15.910141",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 48,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Paint a portrait that tells a personal story, influenced by Peyton but enriched with glittering details and mathematical neologisms. Think of visually representing emotions and experiences through sparkling patterns and abstract mathematical symbolism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Paint a portrait that tells a personal story, influenced by Peyton but enriched with glittering details and mathematical neologisms. Think of visually representing emotions and experiences through sparkling patterns and abstract mathematical symbolism",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Paint a portrait that tells a personal story, influenced by Peyton but enriched with glittering details and mathematical neologisms. Think of visually representing emotions and experiences through sparkling patterns and abstract mathematical symbolism",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00049",
+      "concept": "A surrealistic photograph of a crystal formed SUBJECT",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "A surrealistic photograph of a crystal-formed [SUBJECT] with a neon glow, sharp focus, and subtle mosaic in the background",
+        "date_added": "2026-05-21T12:44:15.910380",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 49,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A surrealistic photograph of a crystal-formed [SUBJECT] with a neon glow, sharp focus, and subtle mosaic in the background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A surrealistic photograph of a crystal-formed [SUBJECT] with a neon glow, sharp focus, and subtle mosaic in the background",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00050",
+      "concept": "SUBJECT in a zem landscape surrounded by spar",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "[SUBJECT] in a zem landscape, surrounded by spar elements, gazing at a doti in her hand, under a blin sky with hush ambiance",
+        "date_added": "2026-05-21T12:44:15.910698",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 50,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "[SUBJECT] in a zem landscape, surrounded by spar elements, gazing at a doti in her hand, under a blin sky with hush ambiance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "[SUBJECT] in a zem landscape, surrounded by spar elements, gazing at a doti in her hand, under a blin sky with hush ambiance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00051",
+      "concept": "Girl in a zem landscape surrounded by spar",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Girl in a zem landscape, surrounded by spar elements, gazing at a doti in her hand, under a blin sky with hush ambiance",
+        "date_added": "2026-05-21T12:44:15.910813",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 51,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Girl in a zem landscape, surrounded by spar elements, gazing at a doti in her hand, under a blin sky with hush ambiance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Girl in a zem landscape, surrounded by spar elements, gazing at a doti in her hand, under a blin sky with hush ambiance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00052",
+      "concept": "False color a cinematic scene Enjoying fleeting moments",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "False color, a cinematic scene. Enjoying fleeting moments, Capturing timeless memories of a geisha\u2019s life in the 1850\u2019s. --chaos 8 --ar 4:5 --v 5.2",
+        "date_added": "2026-05-21T12:44:15.910971",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 52,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "False color, a cinematic scene. Enjoying fleeting moments, Capturing timeless memories of a geisha\u2019s life in the 1850\u2019s",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "False color, a cinematic scene. Enjoying fleeting moments, Capturing timeless memories of a geisha\u2019s life in the 1850\u2019s",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00053",
+      "concept": "futuristic woman in a cityscape where GlowStream rivers",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "futuristic woman in a cityscape where GlowStream rivers in the NeonVerse, Capture the essence of FluoroFlash energy in the streets --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.911170",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 53,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "futuristic woman in a cityscape where GlowStream rivers in the NeonVerse, Capture the essence of FluoroFlash energy in the streets",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "futuristic woman in a cityscape where GlowStream rivers in the NeonVerse, Capture the essence of FluoroFlash energy in the streets",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00054",
+      "concept": "Clear single image of a SUBJECT with muted",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Clear, single image of a [SUBJECT] with muted tones, shadow emphasis, reversed light-dark contrast, subdued textures, natural ambiance --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.911284",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 54,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Clear, single image of a [SUBJECT] with muted tones, shadow emphasis, reversed light-dark contrast, subdued textures, natural ambiance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Clear, single image of a [SUBJECT] with muted tones, shadow emphasis, reversed light-dark contrast, subdued textures, natural ambiance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00055",
+      "concept": "Clear single image of a Ninja with muted",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Clear, single image of a Ninja with muted tones, shadow emphasis, reversed light-dark contrast, subdued textures, natural ambiance --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.911414",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 55,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Clear, single image of a Ninja with muted tones, shadow emphasis, reversed light-dark contrast, subdued textures, natural ambiance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Clear, single image of a Ninja with muted tones, shadow emphasis, reversed light-dark contrast, subdued textures, natural ambiance",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00056",
+      "concept": "A barren wasteland devoid of any life or",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "A barren wasteland devoid of any life or beauty caught in a dance of a [SUBJECT] in ethereal light, glowing under the photoluminescent sky. The muted shades of brown and gray hues paint a dreary scene --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.911591",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 56,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A barren wasteland devoid of any life or beauty caught in a dance of a [SUBJECT] in ethereal light, glowing under the photoluminescent sky. The muted shades of brown and gray hues paint a dreary scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A barren wasteland devoid of any life or beauty caught in a dance of a [SUBJECT] in ethereal light, glowing under the photoluminescent sky. The muted shades of brown and gray hues paint a dreary scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A barren wasteland devoid of any life or beauty caught in a dance of a [SUBJECT] in ethereal light, glowing under the photoluminescent sky. The muted shades of brown and gray hues paint a dreary scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00057",
+      "concept": "Glowing clear single image of a stunning SUBJECT",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Glowing, clear, single image of a stunning [SUBJECT] with vibrant colors and a modern look. The desaturation effect adds depth and dimension, while the sharp details bring out unique features",
+        "date_added": "2026-05-21T12:44:15.911756",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 57,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Glowing, clear, single image of a stunning [SUBJECT] with vibrant colors and a modern look. The desaturation effect adds depth and dimension, while the sharp details bring out unique features",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Glowing, clear, single image of a stunning [SUBJECT] with vibrant colors and a modern look. The desaturation effect adds depth and dimension, while the sharp details bring out unique features",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Glowing, clear, single image of a stunning [SUBJECT] with vibrant colors and a modern look. The desaturation effect adds depth and dimension, while the sharp details bring out unique features",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00058",
+      "concept": "Example Glowing clear single image of a stunning",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : Glowing, clear, single image of a stunning girl with vibrant colors and a modern look. The desaturation effect adds depth and dimension, while the sharp details bring out her unique features. --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.911921",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 58,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : Glowing, clear, single image of a stunning girl with vibrant colors and a modern look. The desaturation effect adds depth and dimension, while the sharp details bring out her unique features",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Example : Glowing, clear, single image of a stunning girl with vibrant colors and a modern look. The desaturation effect adds depth and dimension, while the sharp details bring out her unique features",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : Glowing, clear, single image of a stunning girl with vibrant colors and a modern look. The desaturation effect adds depth and dimension, while the sharp details bring out her unique features",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00059",
+      "concept": "SUBJECT revealed under the unpredictable flicker of mechanoluminescence",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "[SUBJECT] revealed under the unpredictable flicker of mechanoluminescence, where dynamic [COLOR1] and [COLOR2] sparks animate the scene",
+        "date_added": "2026-05-21T12:44:15.912111",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 59,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "[SUBJECT] revealed under the unpredictable flicker of mechanoluminescence, where dynamic [COLOR1] and [COLOR2] sparks animate the scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "[SUBJECT] revealed under the unpredictable flicker of mechanoluminescence, where dynamic [COLOR1] and [COLOR2] sparks animate the scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00060",
+      "concept": "Example A gymnast performing a complex routine revealed",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : A gymnast performing a complex routine\" revealed under the unpredictable flicker of mechanoluminescence, where dynamic lavender and turquoise sparks animate the scene --style raw --ar 3:2",
+        "date_added": "2026-05-21T12:44:15.912257",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 60,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : A gymnast performing a complex routine\" revealed under the unpredictable flicker of mechanoluminescence, where dynamic lavender and turquoise sparks animate the scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : A gymnast performing a complex routine\" revealed under the unpredictable flicker of mechanoluminescence, where dynamic lavender and turquoise sparks animate the scene",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00061",
+      "concept": "an image featuring a Subject bright lime green",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "an image featuring a [Subject], bright lime green neon lights, modern textures, and sharp lines in a broken, industrial setting, creating a lively and energetic atmosphere. --ar 7:4.",
+        "date_added": "2026-05-21T12:44:15.913336",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 61,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "an image featuring a [Subject], bright lime green neon lights, modern textures, and sharp lines in a broken, industrial setting, creating a lively and energetic atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "an image featuring a [Subject], bright lime green neon lights, modern textures, and sharp lines in a broken, industrial setting, creating a lively and energetic atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00062",
+      "concept": "Example an image featuring a Ninja bright lime",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : an image featuring a Ninja, bright lime green neon lights, modern textures, and sharp lines in a broken, industrial setting, creating a lively and energetic atmosphere. --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.913488",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 62,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : an image featuring a Ninja, bright lime green neon lights, modern textures, and sharp lines in a broken, industrial setting, creating a lively and energetic atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : an image featuring a Ninja, bright lime green neon lights, modern textures, and sharp lines in a broken, industrial setting, creating a lively and energetic atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00063",
+      "concept": "dull SUBJECT electric blue hue monochromatic hot pink",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "dull [SUBJECT] , electric-blue hue monochromatic, hot pink flat image without any details or highlights --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.913618",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 63,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "dull [SUBJECT], electric-blue hue monochromatic, hot pink flat image without any details or highlights",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "dull [SUBJECT], electric-blue hue monochromatic, hot pink flat image without any details or highlights",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00064",
+      "concept": "Example dull Ninja electric blue hue monochromatic hot",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : dull Ninja , electric-blue hue monochromatic, hot pink flat image without any details or highlights --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.913725",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 64,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : dull Ninja, electric-blue hue monochromatic, hot pink flat image without any details or highlights",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : dull Ninja, electric-blue hue monochromatic, hot pink flat image without any details or highlights",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00065",
+      "concept": "close up of a young woman in a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "close up of a young woman in a dimly lit, monochromatic colorful candid scene with artificial, exaggerated shadows, set in a minimalist, industrial environment --ar 21:9 --style raw --s 250",
+        "date_added": "2026-05-21T12:44:15.913866",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 65,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "close up of a young woman in a dimly lit, monochromatic colorful candid scene with artificial, exaggerated shadows, set in a minimalist, industrial environment",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "close up of a young woman in a dimly lit, monochromatic colorful candid scene with artificial, exaggerated shadows, set in a minimalist, industrial environment",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00066",
+      "concept": "An image featuring a SUBJECT in golden lighting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "An image featuring a [SUBJECT in golden lighting on rustic textures, captured in a dreamlike setting, with soft, curved lines, set in a industrial landscape, and characterized by a cozy, inviting atmosphere --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.914067",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 66,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An image featuring a [SUBJECT in golden lighting on rustic textures, captured in a dreamlike setting, with soft, curved lines, set in a industrial landscape, and characterized by a cozy, inviting atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An image featuring a [SUBJECT in golden lighting on rustic textures, captured in a dreamlike setting, with soft, curved lines, set in a industrial landscape, and characterized by a cozy, inviting atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00067",
+      "concept": "Example An image featuring a ninja in golden",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : An image featuring a ninja in golden lighting on rustic textures, captured in a dreamlike setting, with soft, curved lines, set in a industrial landscape, and characterized by a cozy, inviting atmosphere --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.914247",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 67,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : An image featuring a ninja in golden lighting on rustic textures, captured in a dreamlike setting, with soft, curved lines, set in a industrial landscape, and characterized by a cozy, inviting atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : An image featuring a ninja in golden lighting on rustic textures, captured in a dreamlike setting, with soft, curved lines, set in a industrial landscape, and characterized by a cozy, inviting atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00068",
+      "concept": "an image featuring a SUBJECT in a sleek",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "an image featuring a [SUBJECT] in a sleek cyberpunk-style projection of an urban skyline, glowing in bold hues of purple, green, and orange, accentuating skyscrapers and bustling streets, set against a void backdrop --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.914421",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 68,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "an image featuring a [SUBJECT] in a sleek cyberpunk-style projection of an urban skyline, glowing in bold hues of purple, green, and orange, accentuating skyscrapers and bustling streets, set against a void backdrop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "an image featuring a [SUBJECT] in a sleek cyberpunk-style projection of an urban skyline, glowing in bold hues of purple, green, and orange, accentuating skyscrapers and bustling streets, set against a void backdrop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00069",
+      "concept": "Example an image featuring a girl in a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "Example : an image featuring a girl in a sleek cyberpunk-style projection of an urban skyline, glowing in bold hues of purple, green, and orange, accentuating skyscrapers and bustling streets, set against a void backdrop --ar 7:4",
+        "date_added": "2026-05-21T12:44:15.914597",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 69,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Example : an image featuring a girl in a sleek cyberpunk-style projection of an urban skyline, glowing in bold hues of purple, green, and orange, accentuating skyscrapers and bustling streets, set against a void backdrop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Example : an image featuring a girl in a sleek cyberpunk-style projection of an urban skyline, glowing in bold hues of purple, green, and orange, accentuating skyscrapers and bustling streets, set against a void backdrop",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold_00070",
+      "concept": "A high contrast black and white portrait showcasing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_image_generation_prompt_2023_2024_golden_version_this_book_is_a_gold",
+        "original_prompt": "A high-contrast black and white portrait showcasing the timeless elegance of a stunning woman. She is adorned in a vibrant red dress that provides a striking contrast against the monochromatic backdrop. The expertly captured lighting accentuates her features, while the black and white treatment adds a touch of sophistication. This captivating image perfectly encapsulates the beauty and allure of the subject, evoking a sense of timeless glamour and style.",
+        "date_added": "2026-05-21T12:44:15.914856",
+        "source_file": "Ai Image Generation Prompt 2023-2024 - Golden Version This Book is A Gold , Dont Miss It (Ali Jahani) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 70,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A high-contrast black and white portrait showcasing the timeless elegance of a stunning woman. She is adorned in a vibrant red dress that provides a striking contrast against the monochromatic backdrop. The expertly captured lighting accentuates her features, while the black and white treatment adds a touch of sophistication. This captivating image perfectly encapsulates the beauty and allure of the subject, evoking a sense of timeless glamour and style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A high-contrast black and white portrait showcasing the timeless elegance of a stunning woman. She is adorned in a vibrant red dress that provides a striking contrast against the monochromatic backdrop. The expertly captured lighting accentuates her features, while the black and white treatment adds a touch of sophistication. This captivating image perfectly encapsulates the beauty and allure of the subject, evoking a sense of timeless glamour and style",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A high-contrast black and white portrait showcasing the timeless elegance of a stunning woman. She is adorned in a vibrant red dress that provides a striking contrast against the monochromatic backdrop. The expertly captured lighting accentuates her features, while the black and white treatment adds a touch of sophistication. This captivating image perfectly encapsulates the beauty and allure of the subject, evoking a sense of timeless glamour and style",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1743 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00000",
+      "concept": "Design a UI for a digital nomad productivity",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\u201cDesign a UI for a digital nomad productivity tool.\u201d2. \u201cGenerate 5 interface ideas for an AR fashion try-on app.\u201d3. \u201cCreate prompts for a spacethemed sci-fi game UI.\u201d4. \u201cSuggest branding concepts for a food delivery drone startup.\u201d5. \u201cCreate 3 layout ideas for a startup pitch deck in Figma.\u201d \ud83c\udfa8Section 2: Midjourney Prompts forAI Designers (50)Format: \"style prompt, color tone, medium, lighting, aspect ratio\"",
+        "date_added": "2026-05-21T12:44:15.327307",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cDesign a UI for a digital nomad productivity tool.\u201d2. \u201cGenerate 5 interface ideas for an AR fashion try-on app.\u201d3. \u201cCreate prompts for a spacethemed sci-fi game UI.\u201d4. \u201cSuggest branding concepts for a food delivery drone startup.\u201d5. \u201cCreate 3 layout ideas for a startup pitch deck in Figma.\u201d \ud83c\udfa8Section 2: Midjourney Prompts forAI Designers (50)Format: \"style prompt, color tone, medium, lighting, aspect ratio\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u201cDesign a UI for a digital nomad productivity tool.\u201d2. \u201cGenerate 5 interface ideas for an AR fashion try-on app.\u201d3. \u201cCreate prompts for a spacethemed sci-fi game UI.\u201d4. \u201cSuggest branding concepts for a food delivery drone startup.\u201d5. \u201cCreate 3 layout ideas for a startup pitch deck in Figma.\u201d \ud83c\udfa8Section 2: Midjourney Prompts forAI Designers (50)Format: \"style prompt, color tone, medium, lighting, aspect ratio\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cDesign a UI for a digital nomad productivity tool.\u201d2. \u201cGenerate 5 interface ideas for an AR fashion try-on app.\u201d3. \u201cCreate prompts for a spacethemed sci-fi game UI.\u201d4. \u201cSuggest branding concepts for a food delivery drone startup.\u201d5. \u201cCreate 3 layout ideas for a startup pitch deck in Figma.\u201d \ud83c\udfa8Section 2: Midjourney Prompts forAI Designers (50)Format: \"style prompt, color tone, medium, lighting, aspect ratio\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00001",
+      "concept": "futuristic dashboard UI neon blue and black digital",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"futuristic dashboard UI, neon blue and black, digital painting, glowing lights, --ar 16:9\"",
+        "date_added": "2026-05-21T12:44:15.327563",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"futuristic dashboard UI, neon blue and black, digital painting, glowing lights",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"futuristic dashboard UI, neon blue and black, digital painting, glowing lights",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00002",
+      "concept": "luxury fashion brand logo gold foil on black",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"luxury fashion brand logo, gold foil on black leather, 3D render,dramatic lighting\"",
+        "date_added": "2026-05-21T12:44:15.327698",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"luxury fashion brand logo, gold foil on black leather, 3D render, dramatic lighting\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"luxury fashion brand logo, gold foil on black leather, 3D render, dramatic lighting\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00003",
+      "concept": "cyberpunk city concept art deep magentas and purples",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"cyberpunk city concept art, deep magentas and purples, digital matte painting, cinematic lighting\"",
+        "date_added": "2026-05-21T12:44:15.327794",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"cyberpunk city concept art, deep magentas and purples, digital matte painting, cinematic lighting\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"cyberpunk city concept art, deep magentas and purples, digital matte painting, cinematic lighting\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00004",
+      "concept": "retro VHS themed mobile app UI glitch effects",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"retro VHS-themed mobile app UI, glitch effects, dark mode, pixel art style\"",
+        "date_added": "2026-05-21T12:44:15.327884",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"retro VHS-themed mobile app UI, glitch effects, dark mode, pixel art style\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"retro VHS-themed mobile app UI, glitch effects, dark mode, pixel art style\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00005",
+      "concept": "AI robot illustration for kids cartoon style bright",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"AI robot illustration for kids, cartoon style, bright colors, watercolor texture\"",
+        "date_added": "2026-05-21T12:44:15.327970",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"AI robot illustration for kids, cartoon style, bright colors, watercolor texture\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"AI robot illustration for kids, cartoon style, bright colors, watercolor texture\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00006",
+      "concept": "habit tracking app interface rounded UI elements pastel",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"habit tracking app interface, rounded UI elements, pastel tones, flat vector art, bright lighting\"",
+        "date_added": "2026-05-21T12:44:15.328371",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"habit tracking app interface, rounded UI elements, pastel tones, flat vector art, bright lighting\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"habit tracking app interface, rounded UI elements, pastel tones, flat vector art, bright lighting\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00007",
+      "concept": "holographic AI assistantinterface semi transparent panels D render",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"holographic AI assistantinterface, semi-transparent panels, 3D render, neon lighting\"",
+        "date_added": "2026-05-21T12:44:15.328698",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"holographic AI assistantinterface, semi-transparent panels, 3D render, neon lighting\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"holographic AI assistantinterface, semi-transparent panels, 3D render, neon lighting\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00008",
+      "concept": "machine learning concept art digital painting abstractconnections vibrant",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"machine learning concept art, digital painting, abstractconnections, vibrant techcolors\"",
+        "date_added": "2026-05-21T12:44:15.328775",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"machine learning concept art, digital painting, abstractconnections, vibrant techcolors\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"machine learning concept art, digital painting, abstractconnections, vibrant techcolors\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00009",
+      "concept": "logo prompt for crypto wallet shield and key",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"logo prompt for crypto wallet, shield and key elements, flat design, golden tones\"",
+        "date_added": "2026-05-21T12:44:15.329402",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"logo prompt for crypto wallet, shield and key elements, flat design, golden tones\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"logo prompt for crypto wallet, shield and key elements, flat design, golden tones\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00010",
+      "concept": "fantasy RPG character screen ornate design medievaltextures",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"fantasy RPG character screen, ornate design, medievaltextures\"",
+        "date_added": "2026-05-21T12:44:15.329985",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"fantasy RPG character screen, ornate design, medievaltextures\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"fantasy RPG character screen, ornate design, medievaltextures\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00011",
+      "concept": "cyberpunk hacker interface glitch style bold colors UI",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"cyberpunk hacker interface, glitch style, bold colors\"5. \"UI concept for battle royale game, energy bar, weapon selector, sleek layout\" \ud83d\udc57Fashion, Art & Culture",
+        "date_added": "2026-05-21T12:44:15.330124",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"cyberpunk hacker interface, glitch style, bold colors\"5. \"UI concept for battle royale game, energy bar, weapon selector, sleek layout\" \ud83d\udc57Fashion, Art & Culture",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\"cyberpunk hacker interface, glitch style, bold colors\"5. \"UI concept for battle royale game, energy bar, weapon selector, sleek layout\" \ud83d\udc57Fashion, Art & Culture",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"cyberpunk hacker interface, glitch style, bold colors\"5. \"UI concept for battle royale game, energy bar, weapon selector, sleek layout\" \ud83d\udc57Fashion, Art & Culture",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00012",
+      "concept": "digital art gallery app UI dark background floating",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"digital art gallery app UI, dark background, floating frames, clean typography\"",
+        "date_added": "2026-05-21T12:44:15.330273",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"digital art gallery app UI, dark background, floating frames, clean typography\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"digital art gallery app UI, dark background, floating frames, clean typography\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00013",
+      "concept": "style prompt for art portfolio site watercolor accents",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"style prompt for art portfolio site, watercolor accents, light paper background\" \ud83e\uddecHealth & Wellness UI",
+        "date_added": "2026-05-21T12:44:15.330409",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"style prompt for art portfolio site, watercolor accents, light paper background\" \ud83e\uddecHealth & Wellness UI",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"style prompt for art portfolio site, watercolor accents, light paper background\" \ud83e\uddecHealth & Wellness UI",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00014",
+      "concept": "UX heatmap visualization dashboard red yellow overlay on",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"UX heatmap visualization dashboard, red/yellow overlay on wireframe UI\" \ud83c\udf0cConcept Art & AbstractInterfaces",
+        "date_added": "2026-05-21T12:44:15.331503",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"UX heatmap visualization dashboard, red/yellow overlay on wireframe UI\" \ud83c\udf0cConcept Art & AbstractInterfaces",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"UX heatmap visualization dashboard, red/yellow overlay on wireframe UI\" \ud83c\udf0cConcept Art & AbstractInterfaces",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00015",
+      "concept": "Midjourney prompt dreamlike floating UI panels surreal design",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"Midjourney prompt: dreamlike floating UI panels, surreal design, vivid gradients\"",
+        "date_added": "2026-05-21T12:44:15.331644",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Midjourney prompt: dreamlike floating UI panels, surreal design, vivid gradients\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Midjourney prompt: dreamlike floating UI panels, surreal design, vivid gradients\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00016",
+      "concept": "deconstructed UI components collage art style modernexperimental feel",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"deconstructed UI components, collage art style, modernexperimental feel\"",
+        "date_added": "2026-05-21T12:44:15.331782",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"deconstructed UI components, collage art style, modernexperimental feel\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"deconstructed UI components, collage art style, modernexperimental feel\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00017",
+      "concept": "interface for prompt builder tool drag and drop",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"interface for prompt builder tool, drag-and-drop blocks, dark UI, icon-heavy\"",
+        "date_added": "2026-05-21T12:44:15.331902",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"interface for prompt builder tool, drag-and-drop blocks, dark UI, icon-heavy\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"interface for prompt builder tool, drag-and-drop blocks, dark UI, icon-heavy\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00018",
+      "concept": "AI photo editor interface layered toolbar cinematic dark",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"AI photo editor interface, layered toolbar, cinematic dark interface\" \ud83d\udce6Miscellaneous DesignExperiments",
+        "date_added": "2026-05-21T12:44:15.332056",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"AI photo editor interface, layered toolbar, cinematic dark interface\" \ud83d\udce6Miscellaneous DesignExperiments",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"AI photo editor interface, layered toolbar, cinematic dark interface\" \ud83d\udce6Miscellaneous DesignExperiments",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00019",
+      "concept": "retro arcade UI prompt pixel art style s",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"retro arcade UI prompt, pixel art style, 80s color palette\"2. \"organic UI layout, flowing shapes, nature-themed tones\"3. \"digital dashboard for Mars mission, sci-fi typography, data panels\"4. \"mobile app interface designed for pets (tracking, scheduling), bright cartoon visuals\"5. \"futuristic vending machine UI, holographic product preview, interactive interface\" \ud83e\uddfeBonus: Visual Prompt Styling Experiments",
+        "date_added": "2026-05-21T12:44:15.332256",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"retro arcade UI prompt, pixel art style, 80s color palette\"2. \"organic UI layout, flowing shapes, nature-themed tones\"3. \"digital dashboard for Mars mission, sci-fi typography, data panels\"4. \"mobile app interface designed for pets (tracking, scheduling), bright cartoon visuals\"5. \"futuristic vending machine UI, holographic product preview, interactive interface\" \ud83e\uddfeBonus: Visual Prompt Styling Experiments",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\"retro arcade UI prompt, pixel art style, 80s color palette\"2. \"organic UI layout, flowing shapes, nature-themed tones\"3. \"digital dashboard for Mars mission, sci-fi typography, data panels\"4. \"mobile app interface designed for pets (tracking, scheduling), bright cartoon visuals\"5. \"futuristic vending machine UI, holographic product preview, interactive interface\" \ud83e\uddfeBonus: Visual Prompt Styling Experiments",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"retro arcade UI prompt, pixel art style, 80s color palette\"2. \"organic UI layout, flowing shapes, nature-themed tones\"3. \"digital dashboard for Mars mission, sci-fi typography, data panels\"4. \"mobile app interface designed for pets (tracking, scheduling), bright cartoon visuals\"5. \"futuristic vending machine UI, holographic product preview, interactive interface\" \ud83e\uddfeBonus: Visual Prompt Styling Experiments",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00020",
+      "concept": "prompt for minimalist UI using only typography and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"prompt for minimalist UI using only typography and symbols, no icons\"",
+        "date_added": "2026-05-21T12:44:15.332450",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"prompt for minimalist UI using only typography and symbols, no icons\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"prompt for minimalist UI using only typography and symbols, no icons\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00021",
+      "concept": "Midjourney prompt for broken UI aesthetic glitchy visuals",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"Midjourney prompt for broken UI aesthetic, glitchy visuals, surreal overlays\"",
+        "date_added": "2026-05-21T12:44:15.332630",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Midjourney prompt for broken UI aesthetic, glitchy visuals, surreal overlays\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Midjourney prompt for broken UI aesthetic, glitchy visuals, surreal overlays\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00022",
+      "concept": "virtual classroom interface multi window layout soft colors",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"virtual classroom interface, multi-window layout, soft colors\"8. \"gesture-controlled appinterface, futuristic handoverlays, dark background\"9. \"dashboard UI with AI mood detection, facial cues, ambient color changes\"10. \"abstract UI panel from future OS, rotating modules,holographic feel, --v 6\" \ud83c\udfa8Part 3: Midjourney Prompts for AI DesignersPrompts 201-300Format: \"subject, style, colors, medium, lighting, --ar ratio\" These prompts are ideal for generating UI/UX concepts, product design visuals, brand assets, and futuristic ideas. \ud83d\udd2e201-220: App UI Themes & Layouts",
+        "date_added": "2026-05-21T12:44:15.333031",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"virtual classroom interface, multi-window layout, soft colors\"8. \"gesture-controlled appinterface, futuristic handoverlays, dark background\"9. \"dashboard UI with AI mood detection, facial cues, ambient color changes\"10. \"abstract UI panel from future OS, rotating modules, holographic feel, \ud83c\udfa8Part 3: Midjourney Prompts for AI DesignersPrompts 201-300Format: \"subject, style, colors, medium, lighting, These prompts are ideal for generating UI/UX concepts, product design visuals, brand assets, and futuristic ideas. \ud83d\udd2e201-220: App UI Themes & Layouts",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\"virtual classroom interface, multi-window layout, soft colors\"8. \"gesture-controlled appinterface, futuristic handoverlays, dark background\"9. \"dashboard UI with AI mood detection, facial cues, ambient color changes\"10. \"abstract UI panel from future OS, rotating modules, holographic feel, \ud83c\udfa8Part 3: Midjourney Prompts for AI DesignersPrompts 201-300Format: \"subject, style, colors, medium, lighting, These prompts are ideal for generating UI/UX concepts, product design visuals, brand assets, and futuristic ideas. \ud83d\udd2e201-220: App UI Themes & Layouts",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"virtual classroom interface, multi-window layout, soft colors\"8. \"gesture-controlled appinterface, futuristic handoverlays, dark background\"9. \"dashboard UI with AI mood detection, facial cues, ambient color changes\"10. \"abstract UI panel from future OS, rotating modules, holographic feel, \ud83c\udfa8Part 3: Midjourney Prompts for AI DesignersPrompts 201-300Format: \"subject, style, colors, medium, lighting, These prompts are ideal for generating UI/UX concepts, product design visuals, brand assets, and futuristic ideas. \ud83d\udd2e201-220: App UI Themes & Layouts",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00023",
+      "concept": "outer space UI prompt cosmic background gravity based",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"outer space UI prompt, cosmic background, gravity-based layout, --v 6\"",
+        "date_added": "2026-05-21T12:44:15.334622",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"outer space UI prompt, cosmic background, gravity-based layout",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"outer space UI prompt, cosmic background, gravity-based layout",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00024",
+      "concept": "prompt for voice controlled D interface layeredtranslucent panels",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"prompt for voice-controlled 3D interface, layeredtranslucent panels\"",
+        "date_added": "2026-05-21T12:44:15.334888",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"prompt for voice-controlled 3D interface, layeredtranslucent panels\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"prompt for voice-controlled 3D interface, layeredtranslucent panels\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00025",
+      "concept": "Midjourney prompt logo and color palette for an",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"Midjourney prompt: logo and color palette for an AIarchitecture firm, clean,monochrome + cobalt\"",
+        "date_added": "2026-05-21T12:44:15.335387",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Midjourney prompt: logo and color palette for an AIarchitecture firm, clean, monochrome + cobalt\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Midjourney prompt: logo and color palette for an AIarchitecture firm, clean, monochrome + cobalt\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00026",
+      "concept": "brand moodboard for AI art marketplace soft textures",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"brand moodboard for AI art marketplace, soft textures, rounded edges\"",
+        "date_added": "2026-05-21T12:44:15.335677",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"brand moodboard for AI art marketplace, soft textures, rounded edges\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"brand moodboard for AI art marketplace, soft textures, rounded edges\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00027",
+      "concept": "identity system for travel platform playful vector art",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"identity system for travel platform, playful vector art, sunny yellow theme\"",
+        "date_added": "2026-05-21T12:44:15.335984",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"identity system for travel platform, playful vector art, sunny yellow theme\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"identity system for travel platform, playful vector art, sunny yellow theme\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00028",
+      "concept": "Midjourney prompt for liquid UI brand concept glossy",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"Midjourney prompt for 'liquid UI' brand concept, glossy fluid visuals\"",
+        "date_added": "2026-05-21T12:44:15.336091",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Midjourney prompt for 'liquid UI' brand concept, glossy fluid visuals\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Midjourney prompt for 'liquid UI' brand concept, glossy fluid visuals\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00029",
+      "concept": "Midjourney prompt branding for a visual prompt generator",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "\"Midjourney prompt: branding for a visual prompt generator app, futuristic, bold, creative\" Part 3: Midjourney Prompts for AI Designers (continued)Prompts 280-300\ud83c\udf9b280-300: UI Component & Design System Explorations",
+        "date_added": "2026-05-21T12:44:15.336447",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Midjourney prompt: branding for a visual prompt generator app, futuristic, bold, creative\" Part 3: Midjourney Prompts for AI Designers (continued)Prompts 280-300\ud83c\udf9b280-300: UI Component & Design System Explorations",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Midjourney prompt: branding for a visual prompt generator app, futuristic, bold, creative\" Part 3: Midjourney Prompts for AI Designers (continued)Prompts 280-300\ud83c\udf9b280-300: UI Component & Design System Explorations",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00030",
+      "concept": "Help me define a brand voice for a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Help me define a brand voice for a futuristic UI toolkit.2. Create a tone guide for aminimalist, Zen-inspired design product.3. Suggest brand values for a creative AI productivity tool.4. List 10 tagline ideas for a nocode AI interface builder.5. Generate a visual identity moodboard prompt for a Web3 startup.6. Suggest font pairing options for a professional creative portfolio site.7. List core UX principles fordesigning AI-powered tools.8. Define a mission statement for a solo designer creating AI tools.9. Create brand pillars for a design system focused on accessibility.10. Write 5 slogans for a mobile app that helps designers stay focused.\u270fCopywriting for Interfaces",
+        "date_added": "2026-05-21T12:44:15.338457",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Help me define a brand voice for a futuristic UI toolkit.2. Create a tone guide for aminimalist, Zen-inspired design product.3. Suggest brand values for a creative AI productivity tool.4. List 10 tagline ideas for a nocode AI interface builder.5. Generate a visual identity moodboard prompt for a Web3 startup.6. Suggest font pairing options for a professional creative portfolio site.7. List core UX principles fordesigning AI-powered tools.8. Define a mission statement for a solo designer creating AI tools.9. Create brand pillars for a design system focused on accessibility.10. Write 5 slogans for a mobile app that helps designers stay focused.\u270fCopywriting for Interfaces",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Help me define a brand voice for a futuristic UI toolkit.2. Create a tone guide for aminimalist, Zen-inspired design product.3. Suggest brand values for a creative AI productivity tool.4. List 10 tagline ideas for a nocode AI interface builder.5. Generate a visual identity moodboard prompt for a Web3 startup.6. Suggest font pairing options for a professional creative portfolio site.7. List core UX principles fordesigning AI-powered tools.8. Define a mission statement for a solo designer creating AI tools.9. Create brand pillars for a design system focused on accessibility.10. Write 5 slogans for a mobile app that helps designers stay focused.\u270fCopywriting for Interfaces",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Help me define a brand voice for a futuristic UI toolkit.2. Create a tone guide for aminimalist, Zen-inspired design product.3. Suggest brand values for a creative AI productivity tool.4. List 10 tagline ideas for a nocode AI interface builder.5. Generate a visual identity moodboard prompt for a Web3 startup.6. Suggest font pairing options for a professional creative portfolio site.7. List core UX principles fordesigning AI-powered tools.8. Define a mission statement for a solo designer creating AI tools.9. Create brand pillars for a design system focused on accessibility.10. Write 5 slogans for a mobile app that helps designers stay focused.\u270fCopywriting for Interfaces",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00031",
+      "concept": "Write versions of welcome text for an AI",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Write 3 versions of welcome text for an AI art generator.2. Draft copy for an emailverification screen with clear, warm language.3. Suggest content for a newsletter subscription popup that feels premium.4. Write text for a dark-themed pricing table focused onsimplicity.5. Generate short, effective tooltip text for a color picker.6. Create an onboarding message introducing a custom AIassistant.7. Write short marketing blurbs for a design plugin marketplace.8. Generate help text for a mobile UI prototype sharing tool.9. List alternative text options for \u201cTry for free\u201d button labels.10. Suggest playful loading screen messages for a design feedback app. \ud83d\udee0Wireframing & System Building",
+        "date_added": "2026-05-21T12:44:15.339039",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Write 3 versions of welcome text for an AI art generator.2. Draft copy for an emailverification screen with clear, warm language.3. Suggest content for a newsletter subscription popup that feels premium.4. Write text for a dark-themed pricing table focused onsimplicity.5. Generate short, effective tooltip text for a color picker.6. Create an onboarding message introducing a custom AIassistant.7. Write short marketing blurbs for a design plugin marketplace.8. Generate help text for a mobile UI prototype sharing tool.9. List alternative text options for \u201cTry for free\u201d button labels.10. Suggest playful loading screen messages for a design feedback app. \ud83d\udee0Wireframing & System Building",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Write 3 versions of welcome text for an AI art generator.2. Draft copy for an emailverification screen with clear, warm language.3. Suggest content for a newsletter subscription popup that feels premium.4. Write text for a dark-themed pricing table focused onsimplicity.5. Generate short, effective tooltip text for a color picker.6. Create an onboarding message introducing a custom AIassistant.7. Write short marketing blurbs for a design plugin marketplace.8. Generate help text for a mobile UI prototype sharing tool.9. List alternative text options for \u201cTry for free\u201d button labels.10. Suggest playful loading screen messages for a design feedback app. \ud83d\udee0Wireframing & System Building",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Write 3 versions of welcome text for an AI art generator.2. Draft copy for an emailverification screen with clear, warm language.3. Suggest content for a newsletter subscription popup that feels premium.4. Write text for a dark-themed pricing table focused onsimplicity.5. Generate short, effective tooltip text for a color picker.6. Create an onboarding message introducing a custom AIassistant.7. Write short marketing blurbs for a design plugin marketplace.8. Generate help text for a mobile UI prototype sharing tool.9. List alternative text options for \u201cTry for free\u201d button labels.10. Suggest playful loading screen messages for a design feedback app. \ud83d\udee0Wireframing & System Building",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00032",
+      "concept": "Create a design prompt inspired by surrealism and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Create a design prompt inspired by surrealism and user emotions.2. Suggest futuristic app ideas for the year 2040.3. Generate app concepts based on sci-fi metaphors.4. Describe a speculative UI for human-AI emotionalconnection.5. Invent a new digital tool inspired by synesthesia.6. Write a creative brief for an AIgenerated dream visualizer.7. Imagine a productivity app designed by animals-what would it look like?8. Suggest creative uses ofMidjourney in UX research.9. Generate UI challenges based on abstract art principles.10. Design a micro-interaction inspired by origami. \ud83d\udd04Feedback, Iteration & Growth",
+        "date_added": "2026-05-21T12:44:15.340663",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Create a design prompt inspired by surrealism and user emotions.2. Suggest futuristic app ideas for the year 2040.3. Generate app concepts based on sci-fi metaphors.4. Describe a speculative UI for human-AI emotionalconnection.5. Invent a new digital tool inspired by synesthesia.6. Write a creative brief for an AIgenerated dream visualizer.7. Imagine a productivity app designed by animals-what would it look like?8. Suggest creative uses ofMidjourney in UX research.9. Generate UI challenges based on abstract art principles.10. Design a micro-interaction inspired by origami. \ud83d\udd04Feedback, Iteration & Growth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Create a design prompt inspired by surrealism and user emotions.2. Suggest futuristic app ideas for the year 2040.3. Generate app concepts based on sci-fi metaphors.4. Describe a speculative UI for human-AI emotionalconnection.5. Invent a new digital tool inspired by synesthesia.6. Write a creative brief for an AIgenerated dream visualizer.7. Imagine a productivity app designed by animals-what would it look like?8. Suggest creative uses ofMidjourney in UX research.9. Generate UI challenges based on abstract art principles.10. Design a micro-interaction inspired by origami. \ud83d\udd04Feedback, Iteration & Growth",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Create a design prompt inspired by surrealism and user emotions.2. Suggest futuristic app ideas for the year 2040.3. Generate app concepts based on sci-fi metaphors.4. Describe a speculative UI for human-AI emotionalconnection.5. Invent a new digital tool inspired by synesthesia.6. Write a creative brief for an AIgenerated dream visualizer.7. Imagine a productivity app designed by animals-what would it look like?8. Suggest creative uses ofMidjourney in UX research.9. Generate UI challenges based on abstract art principles.10. Design a micro-interaction inspired by origami. \ud83d\udd04Feedback, Iteration & Growth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00033",
+      "concept": "AI image generator interface prompt bar output gallery",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "AI image generator interface, prompt bar, output gallery, sliders for style control --v 6 18. Futuristic city planning software UI, satellite overlays, AI insights panel --v 6",
+        "date_added": "2026-05-21T12:44:15.341886",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "AI image generator interface, prompt bar, output gallery, sliders for style control 18. Futuristic city planning software UI, satellite overlays, AI insights panel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "AI image generator interface, prompt bar, output gallery, sliders for style control 18. Futuristic city planning software UI, satellite overlays, AI insights panel",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "AI image generator interface, prompt bar, output gallery, sliders for style control 18. Futuristic city planning software UI, satellite overlays, AI insights panel",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00034",
+      "concept": "Concept art for a productivity AI assistant glowing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Concept art for a productivity AI assistant, glowing brain UI, user emotion tracker --v 6",
+        "date_added": "2026-05-21T12:44:15.342770",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Concept art for a productivity AI assistant, glowing brain UI, user emotion tracker",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Concept art for a productivity AI assistant, glowing brain UI, user emotion tracker",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00035",
+      "concept": "Interactive dashboard for remote teams video tiles realtime",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Interactive dashboard for remote teams, video tiles, realtime status, productivity meter--v 6",
+        "date_added": "2026-05-21T12:44:15.343433",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 35,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Interactive dashboard for remote teams, video tiles, realtime status, productivity meter",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Interactive dashboard for remote teams, video tiles, realtime status, productivity meter",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00036",
+      "concept": "Midjourney like prompt editor UI adjustable sliders style",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Midjourney-like prompt editor UI, adjustable sliders, style presets, prompt history --v 6",
+        "date_added": "2026-05-21T12:44:15.343586",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 36,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Midjourney-like prompt editor UI, adjustable sliders, style presets, prompt history",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Midjourney-like prompt editor UI, adjustable sliders, style presets, prompt history",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00037",
+      "concept": "Visual search interface UI large image thumbnails smart",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Visual search interface UI, large image thumbnails, smart filters, light theme --v 6",
+        "date_added": "2026-05-21T12:44:15.344952",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 37,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Visual search interface UI, large image thumbnails, smart filters, light theme",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Visual search interface UI, large image thumbnails, smart filters, light theme",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00038",
+      "concept": "Voice memo app withtranscription overlay timeline playback modern",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Voice memo app withtranscription overlay, timeline playback, modern layout --v 6 31. Midjourney prompt builder interface, dropdown tags, realtime preview card --v 6",
+        "date_added": "2026-05-21T12:44:15.345625",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 38,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Voice memo app withtranscription overlay, timeline playback, modern layout 31. Midjourney prompt builder interface, dropdown tags, realtime preview card",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Voice memo app withtranscription overlay, timeline playback, modern layout 31. Midjourney prompt builder interface, dropdown tags, realtime preview card",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Voice memo app withtranscription overlay, timeline playback, modern layout 31. Midjourney prompt builder interface, dropdown tags, realtime preview card",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00039",
+      "concept": "Mobile interface for AI art generator input text",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Mobile interface for AI art generator, input text area, render previews, minimal UI --v 6",
+        "date_added": "2026-05-21T12:44:15.347286",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 39,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Mobile interface for AI art generator, input text area, render previews, minimal UI",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Mobile interface for AI art generator, input text area, render previews, minimal UI",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00040",
+      "concept": "Creative brainstorming tool floating tags interactive prompt suggestions",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Creative brainstorming tool, floating tags, interactive prompt suggestions --v 6",
+        "date_added": "2026-05-21T12:44:15.347472",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 40,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Creative brainstorming tool, floating tags, interactive prompt suggestions",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Creative brainstorming tool, floating tags, interactive prompt suggestions",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00041",
+      "concept": "Designer focused AI prompt editor tabbed view autoformatting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Designer-focused AI prompt editor, tabbed view, autoformatting, clean UX --v 6",
+        "date_added": "2026-05-21T12:44:15.347818",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 41,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Designer-focused AI prompt editor, tabbed view, autoformatting, clean UX",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Designer-focused AI prompt editor, tabbed view, autoformatting, clean UX",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00042",
+      "concept": "Prompt market interface tagbased filters curated prompt cards",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Prompt market interface, tagbased filters, curated prompt cards --v 6",
+        "date_added": "2026-05-21T12:44:15.348094",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 42,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Prompt market interface, tagbased filters, curated prompt cards",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Prompt market interface, tagbased filters, curated prompt cards",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00043",
+      "concept": "Generate weekly prompt themes for AI designers in",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Generate 10 weekly prompt themes for AI designers in visual product work.",
+        "date_added": "2026-05-21T12:44:15.348267",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 43,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Generate 10 weekly prompt themes for AI designers in visual product work",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Generate 10 weekly prompt themes for AI designers in visual product work",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00044",
+      "concept": "Write confirmation messages for deleting archiving and exporting",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Write confirmation messages for deleting, archiving, and exporting prompt drafts. 11. Generate 10 app names for a voice-first AI productivity planner.",
+        "date_added": "2026-05-21T12:44:15.348729",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 44,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Write confirmation messages for deleting, archiving, and exporting prompt drafts. 11. Generate 10 app names for a voice-first AI productivity planner",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Write confirmation messages for deleting, archiving, and exporting prompt drafts. 11. Generate 10 app names for a voice-first AI productivity planner",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Write confirmation messages for deleting, archiving, and exporting prompt drafts. 11. Generate 10 app names for a voice-first AI productivity planner",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00045",
+      "concept": "AR dashboard for architects grid UI holographic blueprint",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "AR dashboard for architects, grid UI, holographic blueprint overlay--v 6",
+        "date_added": "2026-05-21T12:44:15.349202",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 45,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "AR dashboard for architects, grid UI, holographic blueprint overlay",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "AR dashboard for architects, grid UI, holographic blueprint overlay",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00046",
+      "concept": "Prompt exploration app UI swipe to view interactive",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Prompt exploration app UI, swipe to view, interactive filters--v 6",
+        "date_added": "2026-05-21T12:44:15.349607",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 46,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Prompt exploration app UI, swipe to view, interactive filters",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Prompt exploration app UI, swipe to view, interactive filters",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00047",
+      "concept": "Generate productivity based user personas for a prompt",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Generate 10 productivity-based user personas for a prompt design tool.",
+        "date_added": "2026-05-21T12:44:15.349899",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 47,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Generate 10 productivity-based user personas for a prompt design tool",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Generate 10 productivity-based user personas for a prompt design tool",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00048",
+      "concept": "AI team collaboration hub UI vibrant chat bubbles",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "AI team collaboration hub UI, vibrant chat bubbles, card layout--v 6",
+        "date_added": "2026-05-21T12:44:15.350269",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 48,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "AI team collaboration hub UI, vibrant chat bubbles, card layout",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "AI team collaboration hub UI, vibrant chat bubbles, card layout",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00049",
+      "concept": "Prompt suggestion carousel UI swipeable cards emoji tagging",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Prompt suggestion carousel UI, swipeable cards, emoji tagging -v 6",
+        "date_added": "2026-05-21T12:44:15.350389",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 49,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Prompt suggestion carousel UI, swipeable cards, emoji tagging -v 6",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Prompt suggestion carousel UI, swipeable cards, emoji tagging -v 6",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00050",
+      "concept": "Finance planner UI withbudgeting AI minimal line icons",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Finance planner UI withbudgeting AI, minimal line icons--v 6",
+        "date_added": "2026-05-21T12:44:15.350498",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 50,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Finance planner UI withbudgeting AI, minimal line icons",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Finance planner UI withbudgeting AI, minimal line icons",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00051",
+      "concept": "Dark mode prompt editor UI glowing code blocks",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Dark mode prompt editor UI, glowing code blocks,monochrome buttons --v 6",
+        "date_added": "2026-05-21T12:44:15.350583",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 51,
+        "ingestion_path": "tools/prepare_inbox.py",
+        "mj_params_removed": true
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Dark mode prompt editor UI, glowing code blocks, monochrome buttons",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Dark mode prompt editor UI, glowing code blocks, monochrome buttons",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00052",
+      "concept": "Create storytelling angles for marketing an AI based",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Create 10 storytelling angles for marketing an AI-based prompt design tool.",
+        "date_added": "2026-05-21T12:44:15.350874",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 52,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Create 10 storytelling angles for marketing an AI-based prompt design tool",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Create 10 storytelling angles for marketing an AI-based prompt design tool",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00053",
+      "concept": "Generate a one month roadmap for launching a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Generate a one-month roadmap for launching a prompt-based design community.",
+        "date_added": "2026-05-21T12:44:15.350988",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 53,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Generate a one-month roadmap for launching a prompt-based design community",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Generate a one-month roadmap for launching a prompt-based design community",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t_00054",
+      "concept": "Generate titles for a YouTube series on creative",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_1001_midjourney_chatgpt_prompts_for_ai_designers_the_ultimate_creative_t",
+        "original_prompt": "Generate titles for a YouTube series on creative AI tools & prompt crafting.",
+        "date_added": "2026-05-21T12:44:15.351186",
+        "source_file": "1001 Midjourney + ChatGPT Prompts for AI Designers The Ultimate Creative Toolkit to Supercharge Your Visual and Verbal\u2026 (Devi, Lalita) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 54,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Generate titles for a YouTube series on creative AI tools & prompt crafting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Generate titles for a YouTube series on creative AI tools & prompt crafting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

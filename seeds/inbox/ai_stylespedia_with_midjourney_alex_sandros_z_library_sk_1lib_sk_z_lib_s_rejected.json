@@ -1,0 +1,15 @@
+[
+  {
+    "index": 12,
+    "reason": "too few words after cleaning (2 words)",
+    "original": "Portrait: https://cdn.midjourney.com/01d6e647-6472-49a3-9d34-1ee1f7aff7e1/0_1.png",
+    "metadata": {
+      "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+      "original_prompt": "Portrait: https://cdn.midjourney.com/01d6e647-6472-49a3-9d34-1ee1f7aff7e1/0_1.png",
+      "date_added": "2026-05-21T12:44:15.876385",
+      "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+      "source_index": 12,
+      "ingestion_path": "tools/prepare_inbox.py"
+    }
+  }
+]

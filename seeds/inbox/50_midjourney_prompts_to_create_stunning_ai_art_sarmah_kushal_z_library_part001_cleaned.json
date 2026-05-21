@@ -1,0 +1,867 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00000",
+      "concept": "Midjourney is a brand new tool that uses",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "Midjourney is a brand new tool that uses artificial intelligence (AI) to make beautiful and creative images based on simple text prompts. Even though it's still in beta, this tool has already gained popularity among artists, designers, and anyone else interested in creating one-of-a-kind AI art.",
+        "date_added": "2026-05-21T12:44:15.465217",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Midjourney is a brand new tool that uses artificial intelligence (AI) to make beautiful and creative images based on simple text prompts. Even though it's still in beta, this tool has already gained popularity among artists, designers, and anyone else interested in creating one-of-a-kind AI art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Midjourney is a brand new tool that uses artificial intelligence (AI) to make beautiful and creative images based on simple text prompts. Even though it's still in beta, this tool has already gained popularity among artists, designers, and anyone else interested in creating one-of-a-kind AI art",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Midjourney is a brand new tool that uses artificial intelligence (AI) to make beautiful and creative images based on simple text prompts. Even though it's still in beta, this tool has already gained popularity among artists, designers, and anyone else interested in creating one-of-a-kind AI art",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00001",
+      "concept": "MidJourney is not like other AI art generators",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "MidJourney is not like other AI art generators. It has some unique features that set it apart. First, the AI is taught using large sets of images and text, which helps it create images that look more real and have more details. Additionally, MidJourney has the ability to create images in different styles, including realistic and abstract. Additionally, MidJourney offers a range of settings and options that allow users to personalize the images they create.",
+        "date_added": "2026-05-21T12:44:15.465614",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "MidJourney is not like other AI art generators. It has some unique features that set it apart. First, the AI is taught using large sets of images and text, which helps it create images that look more real and have more details. Additionally, MidJourney has the ability to create images in different styles, including realistic and abstract. Additionally, MidJourney offers a range of settings and options that allow users to personalize the images they create",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "MidJourney is not like other AI art generators. It has some unique features that set it apart. First, the AI is taught using large sets of images and text, which helps it create images that look more real and have more details. Additionally, MidJourney has the ability to create images in different styles, including realistic and abstract. Additionally, MidJourney offers a range of settings and options that allow users to personalize the images they create",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "MidJourney is not like other AI art generators. It has some unique features that set it apart. First, the AI is taught using large sets of images and text, which helps it create images that look more real and have more details. Additionally, MidJourney has the ability to create images in different styles, including realistic and abstract. Additionally, MidJourney offers a range of settings and options that allow users to personalize the images they create",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00002",
+      "concept": "AI art prompts are short descriptions of the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "AI art prompts are short descriptions of the images you want the AI to create. For instance, you can ask MidJourney to create a picture of a \"Realistic mountain range during sunset\" or \"A painting of a forest in Van Gogh's style.\"",
+        "date_added": "2026-05-21T12:44:15.465878",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "AI art prompts are short descriptions of the images you want the AI to create. For instance, you can ask MidJourney to create a picture of a \"Realistic mountain range during sunset\" or \"A painting of a forest in Van Gogh's style.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "AI art prompts are short descriptions of the images you want the AI to create. For instance, you can ask MidJourney to create a picture of a \"Realistic mountain range during sunset\" or \"A painting of a forest in Van Gogh's style.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "AI art prompts are short descriptions of the images you want the AI to create. For instance, you can ask MidJourney to create a picture of a \"Realistic mountain range during sunset\" or \"A painting of a forest in Van Gogh's style.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00003",
+      "concept": "AI art prompts can range from very simple",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "AI art prompts can range from very simple to very complex, depending on your preference. If you provide a detailed prompt, the AI will have a better understanding of what you want. You can use keywords to help the AI find more specific information.",
+        "date_added": "2026-05-21T12:44:15.466134",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "AI art prompts can range from very simple to very complex, depending on your preference. If you provide a detailed prompt, the AI will have a better understanding of what you want. You can use keywords to help the AI find more specific information",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "AI art prompts can range from very simple to very complex, depending on your preference. If you provide a detailed prompt, the AI will have a better understanding of what you want. You can use keywords to help the AI find more specific information",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "AI art prompts can range from very simple to very complex, depending on your preference. If you provide a detailed prompt, the AI will have a better understanding of what you want. You can use keywords to help the AI find more specific information",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00004",
+      "concept": "To use the prompt just type it into",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "To use the prompt, just type it into MidJourney and the AI will create an image based on what you describe. After that, you can try out various settings and options to produce various effects.",
+        "date_added": "2026-05-21T12:44:15.466328",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "To use the prompt, just type it into MidJourney and the AI will create an image based on what you describe. After that, you can try out various settings and options to produce various effects",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "To use the prompt, just type it into MidJourney and the AI will create an image based on what you describe. After that, you can try out various settings and options to produce various effects",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "To use the prompt, just type it into MidJourney and the AI will create an image based on what you describe. After that, you can try out various settings and options to produce various effects",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00005",
+      "concept": "There are many ways that AI art can",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "There are many ways that AI art can be used, such as:",
+        "date_added": "2026-05-21T12:44:15.467038",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "There are many ways that AI art can be used, such as:",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "There are many ways that AI art can be used, such as:",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00006",
+      "concept": "You can also use AI art to try",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "You can also use AI art to try out new ideas and concepts. To give you an idea, MidJourney can make a picture of a \"utopian city\" or a \"dystopian future.\"",
+        "date_added": "2026-05-21T12:44:15.467375",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "You can also use AI art to try out new ideas and concepts. To give you an idea, MidJourney can make a picture of a \"utopian city\" or a \"dystopian future.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "You can also use AI art to try out new ideas and concepts. To give you an idea, MidJourney can make a picture of a \"utopian city\" or a \"dystopian future.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "You can also use AI art to try out new ideas and concepts. To give you an idea, MidJourney can make a picture of a \"utopian city\" or a \"dystopian future.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00007",
+      "concept": "The field of AI art is growing quickly",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "The field of AI art is growing quickly and has a lot of potential. As AI technology gets better, we can look forward to seeing even more amazing and creative AI art in the future.",
+        "date_added": "2026-05-21T12:44:15.467828",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The field of AI art is growing quickly and has a lot of potential. As AI technology gets better, we can look forward to seeing even more amazing and creative AI art in the future",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "The field of AI art is growing quickly and has a lot of potential. As AI technology gets better, we can look forward to seeing even more amazing and creative AI art in the future",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The field of AI art is growing quickly and has a lot of potential. As AI technology gets better, we can look forward to seeing even more amazing and creative AI art in the future",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00008",
+      "concept": "Artificial intelligence generated art is becoming increasingly available",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "Artificial intelligence-generated art is becoming increasingly available to a wider audience. Using tools like MidJourney, anyone can make AI art, even if they don't have artistic abilities.",
+        "date_added": "2026-05-21T12:44:15.468188",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Artificial intelligence-generated art is becoming increasingly available to a wider audience. Using tools like MidJourney, anyone can make AI art, even if they don't have artistic abilities",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Artificial intelligence-generated art is becoming increasingly available to a wider audience. Using tools like MidJourney, anyone can make AI art, even if they don't have artistic abilities",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Artificial intelligence-generated art is becoming increasingly available to a wider audience. Using tools like MidJourney, anyone can make AI art, even if they don't have artistic abilities",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00009",
+      "concept": "Butterfly delicate colorful garden film camera macro lens",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cButterfly, delicate, colorful, garden, film camera, macro lens, sunny day, macro, color, low realism level, natural lighting, best aspect ratio: 1:1\u201d",
+        "date_added": "2026-05-21T12:44:15.468641",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cButterfly, delicate, colorful, garden, film camera, macro lens, sunny day, macro, color, low realism level, natural lighting, best aspect ratio: 1:1\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cButterfly, delicate, colorful, garden, film camera, macro lens, sunny day, macro, color, low realism level, natural lighting, best aspect ratio: 1:1\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00010",
+      "concept": "Orangutan intelligent expressive rainforest film camera prime lens",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cOrangutan, intelligent, expressive, rainforest, film camera, prime lens, morning light, fine art, black and white, high realism level, soft diffused lighting, best aspect ratio: 4:3\u201d",
+        "date_added": "2026-05-21T12:44:15.469088",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cOrangutan, intelligent, expressive, rainforest, film camera, prime lens, morning light, fine art, black and white, high realism level, soft diffused lighting, best aspect ratio: 4:3\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cOrangutan, intelligent, expressive, rainforest, film camera, prime lens, morning light, fine art, black and white, high realism level, soft diffused lighting, best aspect ratio: 4:3\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00011",
+      "concept": "Pristine Alpine Lake crystal clear breathtaking smartphone camera",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cPristine Alpine Lake: crystal-clear, breathtaking, smartphone camera, wide-angle lens, early morning, landscape photography, digital, High Realism Level, calm reflections, aspect ratio - 16:9.\u201d",
+        "date_added": "2026-05-21T12:44:15.470058",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cPristine Alpine Lake: crystal-clear, breathtaking, smartphone camera, wide-angle lens, early morning, landscape photography, digital, High Realism Level, calm reflections, aspect ratio - 16:9.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cPristine Alpine Lake: crystal-clear, breathtaking, smartphone camera, wide-angle lens, early morning, landscape photography, digital, High Realism Level, calm reflections, aspect ratio - 16:9.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00012",
+      "concept": "Blustery Autumn Leaves windy colorful natural DSLR wide",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cBlustery Autumn Leaves,\" windy, colorful, natural, DSLR, wide-angle lens, afternoon, landscape photography, digital, High Realism Level, natural sunlight, aspect ratio: 16:9.\u201d",
+        "date_added": "2026-05-21T12:44:15.470248",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cBlustery Autumn Leaves, \" windy, colorful, natural, DSLR, wide-angle lens, afternoon, landscape photography, digital, High Realism Level, natural sunlight, aspect ratio: 16:9.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cBlustery Autumn Leaves, \" windy, colorful, natural, DSLR, wide-angle lens, afternoon, landscape photography, digital, High Realism Level, natural sunlight, aspect ratio: 16:9.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00013",
+      "concept": "A t shirt design with a political style",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cA t-shirt design with a political style statement of your beliefs. T-shirt design graphic, political style artwork, thought-provoking mood, dramatic lighting style, vector, contour, white background.\u201d",
+        "date_added": "2026-05-21T12:44:15.470692",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cA t-shirt design with a political style statement of your beliefs. T-shirt design graphic, political style artwork, thought-provoking mood, dramatic lighting style, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u201cA t-shirt design with a political style statement of your beliefs. T-shirt design graphic, political style artwork, thought-provoking mood, dramatic lighting style, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cA t-shirt design with a political style statement of your beliefs. T-shirt design graphic, political style artwork, thought-provoking mood, dramatic lighting style, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00014",
+      "concept": "An image of the Earth held gently in",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cAn image of the Earth held gently in hands, conveying the importance of environmental stewardship and sustainability. Style: Surreal. Mood: Caring. Lighting style: Soft and ethereal. T-shirt design graphic, vector, contour, white background.\u201d",
+        "date_added": "2026-05-21T12:44:15.471284",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cAn image of the Earth held gently in hands, conveying the importance of environmental stewardship and sustainability. Style: Surreal. Mood: Caring. Lighting style: Soft and ethereal. T-shirt design graphic, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u201cAn image of the Earth held gently in hands, conveying the importance of environmental stewardship and sustainability. Style: Surreal. Mood: Caring. Lighting style: Soft and ethereal. T-shirt design graphic, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cAn image of the Earth held gently in hands, conveying the importance of environmental stewardship and sustainability. Style: Surreal. Mood: Caring. Lighting style: Soft and ethereal. T-shirt design graphic, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00015",
+      "concept": "A t shirt design with a retro vibe",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cA t-shirt design with a retro vibe featuring a rocket ship and a moon landing. T-shirt design graphic, retro style artwork, nostalgic mood, soft lighting style, vector, contour, white background.\u201d",
+        "date_added": "2026-05-21T12:44:15.471653",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cA t-shirt design with a retro vibe featuring a rocket ship and a moon landing. T-shirt design graphic, retro style artwork, nostalgic mood, soft lighting style, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u201cA t-shirt design with a retro vibe featuring a rocket ship and a moon landing. T-shirt design graphic, retro style artwork, nostalgic mood, soft lighting style, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cA t-shirt design with a retro vibe featuring a rocket ship and a moon landing. T-shirt design graphic, retro style artwork, nostalgic mood, soft lighting style, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00016",
+      "concept": "Cyclist on a mountain path digital painting adventurous",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cCyclist on a mountain path, digital painting, adventurous and thrilling, golden hour illumination, T-shirt design graphic, vector, contour, white background.\u201d",
+        "date_added": "2026-05-21T12:44:15.471909",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cCyclist on a mountain path, digital painting, adventurous and thrilling, golden hour illumination, T-shirt design graphic, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cCyclist on a mountain path, digital painting, adventurous and thrilling, golden hour illumination, T-shirt design graphic, vector, contour, white background.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00017",
+      "concept": "Children playing hide and seek in an overgrown",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cChildren playing hide and seek in an overgrown, magical garden. Medium: Illustration. Style: Playful\u201d",
+        "date_added": "2026-05-21T12:44:15.473179",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cChildren playing hide and seek in an overgrown, magical garden. Medium: Illustration. Style: Playful\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cChildren playing hide and seek in an overgrown, magical garden. Medium: Illustration. Style: Playful\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00018",
+      "concept": "Mischievous dragon illustration in a cartoony style stealing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cMischievous dragon illustration in a cartoony style, stealing apples from an orchard with a farmer chasing him.\u201d",
+        "date_added": "2026-05-21T12:44:15.473472",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cMischievous dragon illustration in a cartoony style, stealing apples from an orchard with a farmer chasing him.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cMischievous dragon illustration in a cartoony style, stealing apples from an orchard with a farmer chasing him.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00019",
+      "concept": "Young girl illustration in a whimsical style reading",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u201cYoung girl illustration in a whimsical style, reading in an enchanted forest with glowing fireflies around.\u201d",
+        "date_added": "2026-05-21T12:44:15.473592",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u201cYoung girl illustration in a whimsical style, reading in an enchanted forest with glowing fireflies around.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u201cYoung girl illustration in a whimsical style, reading in an enchanted forest with glowing fireflies around.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00020",
+      "concept": "Nature AI art prompts can get a lot",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u25cf Nature: AI art prompts can get a lot of ideas from nature. Take a moment to notice the different shapes, colors, and textures you see. All of these can be used to make AI art prompts that are interesting and one-of-a-kind.",
+        "date_added": "2026-05-21T12:44:15.477467",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u25cf Nature: AI art prompts can get a lot of ideas from nature. Take a moment to notice the different shapes, colors, and textures you see. All of these can be used to make AI art prompts that are interesting and one-of-a-kind",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u25cf Nature: AI art prompts can get a lot of ideas from nature. Take a moment to notice the different shapes, colors, and textures you see. All of these can be used to make AI art prompts that are interesting and one-of-a-kind",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u25cf Nature: AI art prompts can get a lot of ideas from nature. Take a moment to notice the different shapes, colors, and textures you see. All of these can be used to make AI art prompts that are interesting and one-of-a-kind",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00021",
+      "concept": "You and Your Dreams Your dreams can give",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u25cf You and Your Dreams: Your dreams can give you ideas for AI art prompts. When you wake up, write down your dreams. Then, use them to come up with an AI art prompt.",
+        "date_added": "2026-05-21T12:44:15.477687",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u25cf You and Your Dreams: Your dreams can give you ideas for AI art prompts. When you wake up, write down your dreams. Then, use them to come up with an AI art prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u25cf You and Your Dreams: Your dreams can give you ideas for AI art prompts. When you wake up, write down your dreams. Then, use them to come up with an AI art prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u25cf You and Your Dreams: Your dreams can give you ideas for AI art prompts. When you wake up, write down your dreams. Then, use them to come up with an AI art prompt",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00022",
+      "concept": "Other creative fields AI art prompts can also",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u25cf Other creative fields: AI art prompts can also get ideas from other creative fields, like music, literature, and film. To make AI art prompts, think about your favorite pieces of art that are set in these parts of the world.",
+        "date_added": "2026-05-21T12:44:15.477890",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u25cf Other creative fields: AI art prompts can also get ideas from other creative fields, like music, literature, and film. To make AI art prompts, think about your favorite pieces of art that are set in these parts of the world",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u25cf Other creative fields: AI art prompts can also get ideas from other creative fields, like music, literature, and film. To make AI art prompts, think about your favorite pieces of art that are set in these parts of the world",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u25cf Other creative fields: AI art prompts can also get ideas from other creative fields, like music, literature, and film. To make AI art prompts, think about your favorite pieces of art that are set in these parts of the world",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00023",
+      "concept": "Type in keywords AI can understand what you",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u25cf Type in keywords: AI can understand what you want if you use keywords. You can use the words \"Van Gogh\" and \"Post-Impressionist\" to make an image in the style of Van Gogh, for example.",
+        "date_added": "2026-05-21T12:44:15.478435",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u25cf Type in keywords: AI can understand what you want if you use keywords. You can use the words \"Van Gogh\" and \"Post-Impressionist\" to make an image in the style of Van Gogh, for example",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u25cf Type in keywords: AI can understand what you want if you use keywords. You can use the words \"Van Gogh\" and \"Post-Impressionist\" to make an image in the style of Van Gogh, for example",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u25cf Type in keywords: AI can understand what you want if you use keywords. You can use the words \"Van Gogh\" and \"Post-Impressionist\" to make an image in the style of Van Gogh, for example",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library_00024",
+      "concept": "Use negative keywords You can leave out parts",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_50_midjourney_prompts_to_create_stunning_ai_art_sarmah_kushal_z_library",
+        "original_prompt": "\u25cf Use negative keywords: You can leave out parts of your image by using negative keywords. To make a picture of a cat without a tail, for instance, you can use the negative keyword \"tail.\"",
+        "date_added": "2026-05-21T12:44:15.478639",
+        "source_file": "50 Midjourney Prompts to Create Stunning Ai Art (Sarmah, Kushal) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\u25cf Use negative keywords: You can leave out parts of your image by using negative keywords. To make a picture of a cat without a tail, for instance, you can use the negative keyword \"tail.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "\u25cf Use negative keywords: You can leave out parts of your image by using negative keywords. To make a picture of a cat without a tail, for instance, you can use the negative keyword \"tail.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\u25cf Use negative keywords: You can leave out parts of your image by using negative keywords. To make a picture of a cat without a tail, for instance, you can use the negative keyword \"tail.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

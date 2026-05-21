@@ -1,0 +1,812 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00000",
+      "concept": "AI Art Prompts Mid Journey",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "AI Art Prompts: 500+ Mid Journey,",
+        "date_added": "2026-05-21T12:44:15.628171",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "AI Art Prompts: 500+ Mid Journey",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "AI Art Prompts: 500+ Mid Journey",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00001",
+      "concept": "An ancient temple lost within a bioluminescent jungle",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "An ancient temple lost within a bioluminescent jungle, its stone walls covered in glowing runes that pulse with forgotten power. Massive tree roots have intertwined with the architecture, forming natural archways and bridges. Floating lanterns, imbued with spiritual energy, illuminate the pathways, while ethereal wisps of blue fire hover above the ground. A lone explorer, clad in enchanted armor, stands before a monolithic door, their torchlight flickering against the stone-carved murals depicting gods long lost to time. - Style: Cinematic fantasy, intricate details, mystical atmosphere",
+        "date_added": "2026-05-21T12:44:15.629354",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "An ancient temple lost within a bioluminescent jungle, its stone walls covered in glowing runes that pulse with forgotten power. Massive tree roots have intertwined with the architecture, forming natural archways and bridges. Floating lanterns, imbued with spiritual energy, illuminate the pathways, while ethereal wisps of blue fire hover above the ground. A lone explorer, clad in enchanted armor, stands before a monolithic door, their torchlight flickering against the stone-carved murals depicting gods long lost to time. - Style: Cinematic fantasy, intricate details, mystical atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "An ancient temple lost within a bioluminescent jungle, its stone walls covered in glowing runes that pulse with forgotten power. Massive tree roots have intertwined with the architecture, forming natural archways and bridges. Floating lanterns, imbued with spiritual energy, illuminate the pathways, while ethereal wisps of blue fire hover above the ground. A lone explorer, clad in enchanted armor, stands before a monolithic door, their torchlight flickering against the stone-carved murals depicting gods long lost to time. - Style: Cinematic fantasy, intricate details, mystical atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "An ancient temple lost within a bioluminescent jungle, its stone walls covered in glowing runes that pulse with forgotten power. Massive tree roots have intertwined with the architecture, forming natural archways and bridges. Floating lanterns, imbued with spiritual energy, illuminate the pathways, while ethereal wisps of blue fire hover above the ground. A lone explorer, clad in enchanted armor, stands before a monolithic door, their torchlight flickering against the stone-carved murals depicting gods long lost to time. - Style: Cinematic fantasy, intricate details, mystical atmosphere",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00002",
+      "concept": "A warrior with a celestial blade forged from",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A warrior with a celestial blade forged from condensed stardust, standing against a towering colossus with molten lava coursing through its stone veins. The battlefield is a shattered landscape of obsidian and fire, with rivers of molten gold flowing beneath. Thunderous clouds swirl overhead, crackling with arcane lightning, as the warrior\u2019s armor gleams with sacred inscriptions. Sparks fly as the blade makes contact with the titan\u2019s armored hide, sending shockwaves through the air. - Style: Dark fantasy, oil painting, high-contrast lighting",
+        "date_added": "2026-05-21T12:44:15.629858",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A warrior with a celestial blade forged from condensed stardust, standing against a towering colossus with molten lava coursing through its stone veins. The battlefield is a shattered landscape of obsidian and fire, with rivers of molten gold flowing beneath. Thunderous clouds swirl overhead, crackling with arcane lightning, as the warrior\u2019s armor gleams with sacred inscriptions. Sparks fly as the blade makes contact with the titan\u2019s armored hide, sending shockwaves through the air. - Style: Dark fantasy, oil painting, high-contrast lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A warrior with a celestial blade forged from condensed stardust, standing against a towering colossus with molten lava coursing through its stone veins. The battlefield is a shattered landscape of obsidian and fire, with rivers of molten gold flowing beneath. Thunderous clouds swirl overhead, crackling with arcane lightning, as the warrior\u2019s armor gleams with sacred inscriptions. Sparks fly as the blade makes contact with the titan\u2019s armored hide, sending shockwaves through the air. - Style: Dark fantasy, oil painting, high-contrast lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A warrior with a celestial blade forged from condensed stardust, standing against a towering colossus with molten lava coursing through its stone veins. The battlefield is a shattered landscape of obsidian and fire, with rivers of molten gold flowing beneath. Thunderous clouds swirl overhead, crackling with arcane lightning, as the warrior\u2019s armor gleams with sacred inscriptions. Sparks fly as the blade makes contact with the titan\u2019s armored hide, sending shockwaves through the air. - Style: Dark fantasy, oil painting, high-contrast lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00003",
+      "concept": "A neon lit metropolis at midnight its streets",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A neon-lit metropolis at midnight, its streets alive with glowing holograms, towering skyscrapers, and bustling crowds of cybernetically enhanced citizens. Rain pours onto the reflective pavement, creating a kaleidoscope of neon blues, pinks, and purples. A lone figure in a sleek black trench coat walks through the city, their augmented eyes scanning digital advertisements flickering in the air. Hover cars zoom past, leaving behind electric trails, while distant thunder rumbles across the skyline. - Style: Cyberpunk noir, ultra-HD, cinematic lighting",
+        "date_added": "2026-05-21T12:44:15.630685",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A neon-lit metropolis at midnight, its streets alive with glowing holograms, towering skyscrapers, and bustling crowds of cybernetically enhanced citizens. Rain pours onto the reflective pavement, creating a kaleidoscope of neon blues, pinks, and purples. A lone figure in a sleek black trench coat walks through the city, their augmented eyes scanning digital advertisements flickering in the air. Hover cars zoom past, leaving behind electric trails, while distant thunder rumbles across the skyline. - Style: Cyberpunk noir, ultra-HD, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A neon-lit metropolis at midnight, its streets alive with glowing holograms, towering skyscrapers, and bustling crowds of cybernetically enhanced citizens. Rain pours onto the reflective pavement, creating a kaleidoscope of neon blues, pinks, and purples. A lone figure in a sleek black trench coat walks through the city, their augmented eyes scanning digital advertisements flickering in the air. Hover cars zoom past, leaving behind electric trails, while distant thunder rumbles across the skyline. - Style: Cyberpunk noir, ultra-HD, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A neon-lit metropolis at midnight, its streets alive with glowing holograms, towering skyscrapers, and bustling crowds of cybernetically enhanced citizens. Rain pours onto the reflective pavement, creating a kaleidoscope of neon blues, pinks, and purples. A lone figure in a sleek black trench coat walks through the city, their augmented eyes scanning digital advertisements flickering in the air. Hover cars zoom past, leaving behind electric trails, while distant thunder rumbles across the skyline. - Style: Cyberpunk noir, ultra-HD, cinematic lighting",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00004",
+      "concept": "A futuristic Tokyo at dawn its skyline dominated",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A futuristic Tokyo at dawn, its skyline dominated by colossal digital billboards displaying hyper-realistic advertisements for AI companions and cybernetic enhancements. Elevated highways weave through the skyscrapers, while monorails glide soundlessly above the streets. A masked mercenary perches on a rooftop, their cybernetic arm gripping a sniper rifle infused with nanotech. The air is thick with fog, partially obscuring the robotic sentinels patrolling below. - Style: Futuristic cyberpunk, hyperrealistic, cinematic depth",
+        "date_added": "2026-05-21T12:44:15.631392",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A futuristic Tokyo at dawn, its skyline dominated by colossal digital billboards displaying hyper-realistic advertisements for AI companions and cybernetic enhancements. Elevated highways weave through the skyscrapers, while monorails glide soundlessly above the streets. A masked mercenary perches on a rooftop, their cybernetic arm gripping a sniper rifle infused with nanotech. The air is thick with fog, partially obscuring the robotic sentinels patrolling below. - Style: Futuristic cyberpunk, hyperrealistic, cinematic depth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A futuristic Tokyo at dawn, its skyline dominated by colossal digital billboards displaying hyper-realistic advertisements for AI companions and cybernetic enhancements. Elevated highways weave through the skyscrapers, while monorails glide soundlessly above the streets. A masked mercenary perches on a rooftop, their cybernetic arm gripping a sniper rifle infused with nanotech. The air is thick with fog, partially obscuring the robotic sentinels patrolling below. - Style: Futuristic cyberpunk, hyperrealistic, cinematic depth",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A futuristic Tokyo at dawn, its skyline dominated by colossal digital billboards displaying hyper-realistic advertisements for AI companions and cybernetic enhancements. Elevated highways weave through the skyscrapers, while monorails glide soundlessly above the streets. A masked mercenary perches on a rooftop, their cybernetic arm gripping a sniper rifle infused with nanotech. The air is thick with fog, partially obscuring the robotic sentinels patrolling below. - Style: Futuristic cyberpunk, hyperrealistic, cinematic depth",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00005",
+      "concept": "A high speed hover bike chase through a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A high-speed hover bike chase through a cybernetic highway, neon streaks of blue and pink illuminating the scene as two riders clad in sleek, armored suits dodge laser fire. Their bikes leave electric trails as they maneuver through dense traffic, past towering holographic billboards advertising AI dreamscapes. The city below is a glowing labyrinth of interconnected circuits and sprawling digital networks. - Style: High-action cyberpunk, dynamic lighting, ultra-detailed",
+        "date_added": "2026-05-21T12:44:15.632054",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A high-speed hover bike chase through a cybernetic highway, neon streaks of blue and pink illuminating the scene as two riders clad in sleek, armored suits dodge laser fire. Their bikes leave electric trails as they maneuver through dense traffic, past towering holographic billboards advertising AI dreamscapes. The city below is a glowing labyrinth of interconnected circuits and sprawling digital networks. - Style: High-action cyberpunk, dynamic lighting, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A high-speed hover bike chase through a cybernetic highway, neon streaks of blue and pink illuminating the scene as two riders clad in sleek, armored suits dodge laser fire. Their bikes leave electric trails as they maneuver through dense traffic, past towering holographic billboards advertising AI dreamscapes. The city below is a glowing labyrinth of interconnected circuits and sprawling digital networks. - Style: High-action cyberpunk, dynamic lighting, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A high-speed hover bike chase through a cybernetic highway, neon streaks of blue and pink illuminating the scene as two riders clad in sleek, armored suits dodge laser fire. Their bikes leave electric trails as they maneuver through dense traffic, past towering holographic billboards advertising AI dreamscapes. The city below is a glowing labyrinth of interconnected circuits and sprawling digital networks. - Style: High-action cyberpunk, dynamic lighting, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00006",
+      "concept": "A dreamlike landscape where giant jellyfish float gracefully",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A dreamlike landscape where giant jellyfish float gracefully through a sky made of shifting fractals. The ground is composed of liquid mirrors, reflecting endless versions of reality. In the distance, a lone figure walks towards a colossal eye that blinks slowly, revealing entire galaxies within its iris. - Style: Surrealism, dreamlike, Salvador Dal\u00ed-inspired",
+        "date_added": "2026-05-21T12:44:15.632510",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A dreamlike landscape where giant jellyfish float gracefully through a sky made of shifting fractals. The ground is composed of liquid mirrors, reflecting endless versions of reality. In the distance, a lone figure walks towards a colossal eye that blinks slowly, revealing entire galaxies within its iris. - Style: Surrealism, dreamlike, Salvador Dal\u00ed-inspired",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A dreamlike landscape where giant jellyfish float gracefully through a sky made of shifting fractals. The ground is composed of liquid mirrors, reflecting endless versions of reality. In the distance, a lone figure walks towards a colossal eye that blinks slowly, revealing entire galaxies within its iris. - Style: Surrealism, dreamlike, Salvador Dal\u00ed-inspired",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A dreamlike landscape where giant jellyfish float gracefully through a sky made of shifting fractals. The ground is composed of liquid mirrors, reflecting endless versions of reality. In the distance, a lone figure walks towards a colossal eye that blinks slowly, revealing entire galaxies within its iris. - Style: Surrealism, dreamlike, Salvador Dal\u00ed-inspired",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00007",
+      "concept": "A massive tree with roots reaching into the",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A massive tree with roots reaching into the sky and branches buried in the ground. Strange creatures with elongated limbs and shifting colors crawl along its bark, whispering forgotten words. The sun is an enormous clock, its hands spinning erratically, casting shadows that warp time itself. - Style: Mystical surrealism, oil painting, high detail",
+        "date_added": "2026-05-21T12:44:15.633165",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A massive tree with roots reaching into the sky and branches buried in the ground. Strange creatures with elongated limbs and shifting colors crawl along its bark, whispering forgotten words. The sun is an enormous clock, its hands spinning erratically, casting shadows that warp time itself. - Style: Mystical surrealism, oil painting, high detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A massive tree with roots reaching into the sky and branches buried in the ground. Strange creatures with elongated limbs and shifting colors crawl along its bark, whispering forgotten words. The sun is an enormous clock, its hands spinning erratically, casting shadows that warp time itself. - Style: Mystical surrealism, oil painting, high detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A massive tree with roots reaching into the sky and branches buried in the ground. Strange creatures with elongated limbs and shifting colors crawl along its bark, whispering forgotten words. The sun is an enormous clock, its hands spinning erratically, casting shadows that warp time itself. - Style: Mystical surrealism, oil painting, high detail",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00008",
+      "concept": "A mystical blacksmith forging a sword from a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A mystical blacksmith forging a sword from a fallen star, the molten metal swirling with hues of cosmic blue and gold. The forge is powered by dragon fire, and spectral ancestors whisper ancient enchantments into the blade. Sparks fly in the dimly lit chamber, illuminating walls lined with legendary weapons and arcane symbols. - Style: Fantasy realism, dynamic lighting, cinematic composition",
+        "date_added": "2026-05-21T12:44:15.634138",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A mystical blacksmith forging a sword from a fallen star, the molten metal swirling with hues of cosmic blue and gold. The forge is powered by dragon fire, and spectral ancestors whisper ancient enchantments into the blade. Sparks fly in the dimly lit chamber, illuminating walls lined with legendary weapons and arcane symbols. - Style: Fantasy realism, dynamic lighting, cinematic composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A mystical blacksmith forging a sword from a fallen star, the molten metal swirling with hues of cosmic blue and gold. The forge is powered by dragon fire, and spectral ancestors whisper ancient enchantments into the blade. Sparks fly in the dimly lit chamber, illuminating walls lined with legendary weapons and arcane symbols. - Style: Fantasy realism, dynamic lighting, cinematic composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A mystical blacksmith forging a sword from a fallen star, the molten metal swirling with hues of cosmic blue and gold. The forge is powered by dragon fire, and spectral ancestors whisper ancient enchantments into the blade. Sparks fly in the dimly lit chamber, illuminating walls lined with legendary weapons and arcane symbols. - Style: Fantasy realism, dynamic lighting, cinematic composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00009",
+      "concept": "A warrior priest standing at the gates of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A warrior-priest standing at the gates of a floating monastery above the clouds. The monastery, built on an island of levitating rock, has cascading waterfalls that disappear into the mist below. Massive golden bells hover midair, resonating with celestial energy as monks in red robes chant in unison, their voices harmonizing with the wind. - Style: Cinematic fantasy, atmospheric, ultra-HD",
+        "date_added": "2026-05-21T12:44:15.634826",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A warrior-priest standing at the gates of a floating monastery above the clouds. The monastery, built on an island of levitating rock, has cascading waterfalls that disappear into the mist below. Massive golden bells hover midair, resonating with celestial energy as monks in red robes chant in unison, their voices harmonizing with the wind. - Style: Cinematic fantasy, atmospheric, ultra-HD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A warrior-priest standing at the gates of a floating monastery above the clouds. The monastery, built on an island of levitating rock, has cascading waterfalls that disappear into the mist below. Massive golden bells hover midair, resonating with celestial energy as monks in red robes chant in unison, their voices harmonizing with the wind. - Style: Cinematic fantasy, atmospheric, ultra-HD",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A warrior-priest standing at the gates of a floating monastery above the clouds. The monastery, built on an island of levitating rock, has cascading waterfalls that disappear into the mist below. Massive golden bells hover midair, resonating with celestial energy as monks in red robes chant in unison, their voices harmonizing with the wind. - Style: Cinematic fantasy, atmospheric, ultra-HD",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00010",
+      "concept": "A cybernetic samurai standing on the edge of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A cybernetic samurai standing on the edge of a towering skyscraper, his armor reflecting the neon skyline. The city below pulsates with electric hues, hovercars zipping between massive holographic billboards. His katana, infused with AI intelligence, whispers combat strategies as he prepares to leap into the fray. - Style: Sci-fi cyberpunk, dynamic action, cinematic",
+        "date_added": "2026-05-21T12:44:15.635417",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A cybernetic samurai standing on the edge of a towering skyscraper, his armor reflecting the neon skyline. The city below pulsates with electric hues, hovercars zipping between massive holographic billboards. His katana, infused with AI intelligence, whispers combat strategies as he prepares to leap into the fray. - Style: Sci-fi cyberpunk, dynamic action, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A cybernetic samurai standing on the edge of a towering skyscraper, his armor reflecting the neon skyline. The city below pulsates with electric hues, hovercars zipping between massive holographic billboards. His katana, infused with AI intelligence, whispers combat strategies as he prepares to leap into the fray. - Style: Sci-fi cyberpunk, dynamic action, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A cybernetic samurai standing on the edge of a towering skyscraper, his armor reflecting the neon skyline. The city below pulsates with electric hues, hovercars zipping between massive holographic billboards. His katana, infused with AI intelligence, whispers combat strategies as he prepares to leap into the fray. - Style: Sci-fi cyberpunk, dynamic action, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00011",
+      "concept": "A cyborg opera singer performing on a floating",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A cyborg opera singer performing on a floating stage in a futuristic cityscape. Her synthetic vocal cords generate hauntingly beautiful harmonics, while her dress, made of liquid metal, shimmers in response to the music. A crowd of cyber-enhanced spectators watches, their glowing visors synchronizing with the rhythm. - Style: Surreal cyberpunk, ethereal, cinematic",
+        "date_added": "2026-05-21T12:44:15.635842",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A cyborg opera singer performing on a floating stage in a futuristic cityscape. Her synthetic vocal cords generate hauntingly beautiful harmonics, while her dress, made of liquid metal, shimmers in response to the music. A crowd of cyber-enhanced spectators watches, their glowing visors synchronizing with the rhythm. - Style: Surreal cyberpunk, ethereal, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A cyborg opera singer performing on a floating stage in a futuristic cityscape. Her synthetic vocal cords generate hauntingly beautiful harmonics, while her dress, made of liquid metal, shimmers in response to the music. A crowd of cyber-enhanced spectators watches, their glowing visors synchronizing with the rhythm. - Style: Surreal cyberpunk, ethereal, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A cyborg opera singer performing on a floating stage in a futuristic cityscape. Her synthetic vocal cords generate hauntingly beautiful harmonics, while her dress, made of liquid metal, shimmers in response to the music. A crowd of cyber-enhanced spectators watches, their glowing visors synchronizing with the rhythm. - Style: Surreal cyberpunk, ethereal, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00012",
+      "concept": "A colossal dragon carved from living crystal its",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A colossal dragon carved from living crystal, its translucent body refracting the light into mesmerizing rainbows. It slumbers deep in a cavern, resting atop a hoard of enchanted gemstones that whisper secrets from lost ages. The cavern walls shimmer with ancient carvings, depicting the history of forgotten empires. - Style: High fantasy, cinematic lighting, ultra-detailed",
+        "date_added": "2026-05-21T12:44:15.638629",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A colossal dragon carved from living crystal, its translucent body refracting the light into mesmerizing rainbows. It slumbers deep in a cavern, resting atop a hoard of enchanted gemstones that whisper secrets from lost ages. The cavern walls shimmer with ancient carvings, depicting the history of forgotten empires. - Style: High fantasy, cinematic lighting, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A colossal dragon carved from living crystal, its translucent body refracting the light into mesmerizing rainbows. It slumbers deep in a cavern, resting atop a hoard of enchanted gemstones that whisper secrets from lost ages. The cavern walls shimmer with ancient carvings, depicting the history of forgotten empires. - Style: High fantasy, cinematic lighting, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A colossal dragon carved from living crystal, its translucent body refracting the light into mesmerizing rainbows. It slumbers deep in a cavern, resting atop a hoard of enchanted gemstones that whisper secrets from lost ages. The cavern walls shimmer with ancient carvings, depicting the history of forgotten empires. - Style: High fantasy, cinematic lighting, ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00013",
+      "concept": "A holographic nightclub deep in the heart of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A holographic nightclub deep in the heart of a futuristic neon city, where dancers are AI-generated illusions and the music is controlled by an organic supercomputer. The DJ, a cybernetic entity with wires woven like hair, manipulates energy waves with their hands, turning sound into pure light. - Style: Cyberpunk neon, cinematic, high-energy",
+        "date_added": "2026-05-21T12:44:15.639027",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A holographic nightclub deep in the heart of a futuristic neon city, where dancers are AI-generated illusions and the music is controlled by an organic supercomputer. The DJ, a cybernetic entity with wires woven like hair, manipulates energy waves with their hands, turning sound into pure light. - Style: Cyberpunk neon, cinematic, high-energy",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A holographic nightclub deep in the heart of a futuristic neon city, where dancers are AI-generated illusions and the music is controlled by an organic supercomputer. The DJ, a cybernetic entity with wires woven like hair, manipulates energy waves with their hands, turning sound into pure light. - Style: Cyberpunk neon, cinematic, high-energy",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A holographic nightclub deep in the heart of a futuristic neon city, where dancers are AI-generated illusions and the music is controlled by an organic supercomputer. The DJ, a cybernetic entity with wires woven like hair, manipulates energy waves with their hands, turning sound into pure light. - Style: Cyberpunk neon, cinematic, high-energy",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00014",
+      "concept": "A massive cybernetic whale swims through a polluted",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A massive cybernetic whale swims through a polluted city, its metallic skin covered in neon graffiti. It moves gracefully, a relic of a past age when technology and nature coexisted. Below, scavengers race across rooftops, trying to extract valuable data from the whale\u2019s biomechanical core. - Style: Dystopian cyberpunk, cinematic, detailed",
+        "date_added": "2026-05-21T12:44:15.639552",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A massive cybernetic whale swims through a polluted city, its metallic skin covered in neon graffiti. It moves gracefully, a relic of a past age when technology and nature coexisted. Below, scavengers race across rooftops, trying to extract valuable data from the whale\u2019s biomechanical core. - Style: Dystopian cyberpunk, cinematic, detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A massive cybernetic whale swims through a polluted city, its metallic skin covered in neon graffiti. It moves gracefully, a relic of a past age when technology and nature coexisted. Below, scavengers race across rooftops, trying to extract valuable data from the whale\u2019s biomechanical core. - Style: Dystopian cyberpunk, cinematic, detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A massive cybernetic whale swims through a polluted city, its metallic skin covered in neon graffiti. It moves gracefully, a relic of a past age when technology and nature coexisted. Below, scavengers race across rooftops, trying to extract valuable data from the whale\u2019s biomechanical core. - Style: Dystopian cyberpunk, cinematic, detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00015",
+      "concept": "A floating city built atop enormous slow moving",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A floating city built atop enormous, slow-moving airships, each vessel designed as a different architectural wonder-one resembling an ancient temple, another a crystalline palace. Sky bridges made of light connect the ships, while glowing birds weave between the towers, leaving trails of stardust in their wake. Below, an endless sea of clouds swirls, revealing glimpses of a hidden world beneath. - Style: Steampunk fantasy, cinematic, 8K ultra-detailed",
+        "date_added": "2026-05-21T12:44:15.641378",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A floating city built atop enormous, slow-moving airships, each vessel designed as a different architectural wonder-one resembling an ancient temple, another a crystalline palace. Sky bridges made of light connect the ships, while glowing birds weave between the towers, leaving trails of stardust in their wake. Below, an endless sea of clouds swirls, revealing glimpses of a hidden world beneath. - Style: Steampunk fantasy, cinematic, 8K ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A floating city built atop enormous, slow-moving airships, each vessel designed as a different architectural wonder-one resembling an ancient temple, another a crystalline palace. Sky bridges made of light connect the ships, while glowing birds weave between the towers, leaving trails of stardust in their wake. Below, an endless sea of clouds swirls, revealing glimpses of a hidden world beneath. - Style: Steampunk fantasy, cinematic, 8K ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A floating city built atop enormous, slow-moving airships, each vessel designed as a different architectural wonder-one resembling an ancient temple, another a crystalline palace. Sky bridges made of light connect the ships, while glowing birds weave between the towers, leaving trails of stardust in their wake. Below, an endless sea of clouds swirls, revealing glimpses of a hidden world beneath. - Style: Steampunk fantasy, cinematic, 8K ultra-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00016",
+      "concept": "A sacred temple floating in the middle of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A sacred temple floating in the middle of a vast ocean, its golden spires reaching towards a sky filled with celestial constellations. A circular waterfall cascades down the edges of the temple, disappearing into the mist below. Monks dressed in deep crimson robes walk silently across glowing bridges made of light, their chants resonating with the rhythm of the waves. - Style: Mystical fantasy, photorealistic, cinematic composition",
+        "date_added": "2026-05-21T12:44:15.642292",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A sacred temple floating in the middle of a vast ocean, its golden spires reaching towards a sky filled with celestial constellations. A circular waterfall cascades down the edges of the temple, disappearing into the mist below. Monks dressed in deep crimson robes walk silently across glowing bridges made of light, their chants resonating with the rhythm of the waves. - Style: Mystical fantasy, photorealistic, cinematic composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A sacred temple floating in the middle of a vast ocean, its golden spires reaching towards a sky filled with celestial constellations. A circular waterfall cascades down the edges of the temple, disappearing into the mist below. Monks dressed in deep crimson robes walk silently across glowing bridges made of light, their chants resonating with the rhythm of the waves. - Style: Mystical fantasy, photorealistic, cinematic composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A sacred temple floating in the middle of a vast ocean, its golden spires reaching towards a sky filled with celestial constellations. A circular waterfall cascades down the edges of the temple, disappearing into the mist below. Monks dressed in deep crimson robes walk silently across glowing bridges made of light, their chants resonating with the rhythm of the waves. - Style: Mystical fantasy, photorealistic, cinematic composition",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00017",
+      "concept": "A cybernetic assassin standing on the rooftop of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A cybernetic assassin standing on the rooftop of a towering megacity, rain pouring down as glowing billboards flicker around them. Their sleek, black bodysuit is lined with crimson circuitry, and their mechanical eye scans the streets below, locking onto a high-value target. The city's skyline stretches endlessly, disappearing into a haze of electric smog. - Style: Cyberpunk action, cinematic, hyperrealistic textures",
+        "date_added": "2026-05-21T12:44:15.642864",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A cybernetic assassin standing on the rooftop of a towering megacity, rain pouring down as glowing billboards flicker around them. Their sleek, black bodysuit is lined with crimson circuitry, and their mechanical eye scans the streets below, locking onto a high-value target. The city's skyline stretches endlessly, disappearing into a haze of electric smog. - Style: Cyberpunk action, cinematic, hyperrealistic textures",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A cybernetic assassin standing on the rooftop of a towering megacity, rain pouring down as glowing billboards flicker around them. Their sleek, black bodysuit is lined with crimson circuitry, and their mechanical eye scans the streets below, locking onto a high-value target. The city's skyline stretches endlessly, disappearing into a haze of electric smog. - Style: Cyberpunk action, cinematic, hyperrealistic textures",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A cybernetic assassin standing on the rooftop of a towering megacity, rain pouring down as glowing billboards flicker around them. Their sleek, black bodysuit is lined with crimson circuitry, and their mechanical eye scans the streets below, locking onto a high-value target. The city's skyline stretches endlessly, disappearing into a haze of electric smog. - Style: Cyberpunk action, cinematic, hyperrealistic textures",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00018",
+      "concept": "A colossal spaceship drifting through an asteroid field",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A colossal spaceship drifting through an asteroid field, its hull covered in intricate golden patterns resembling an ancient civilization's scripture. Inside, a crew of humanoid androids navigate a glowing control panel that resembles a celestial map of the universe. - Style: Sci-fi epic, ultra-detailed, cinematic",
+        "date_added": "2026-05-21T12:44:15.644699",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A colossal spaceship drifting through an asteroid field, its hull covered in intricate golden patterns resembling an ancient civilization's scripture. Inside, a crew of humanoid androids navigate a glowing control panel that resembles a celestial map of the universe. - Style: Sci-fi epic, ultra-detailed, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A colossal spaceship drifting through an asteroid field, its hull covered in intricate golden patterns resembling an ancient civilization's scripture. Inside, a crew of humanoid androids navigate a glowing control panel that resembles a celestial map of the universe. - Style: Sci-fi epic, ultra-detailed, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A colossal spaceship drifting through an asteroid field, its hull covered in intricate golden patterns resembling an ancient civilization's scripture. Inside, a crew of humanoid androids navigate a glowing control panel that resembles a celestial map of the universe. - Style: Sci-fi epic, ultra-detailed, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00019",
+      "concept": "A colony on a distant exoplanet where bioluminescent",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A colony on a distant exoplanet, where bioluminescent plants thrive under a sky with three suns. Towering crystalline formations rise from the landscape, pulsating with energy. Scientists in advanced exosuits study the native life forms-creatures with translucent wings and iridescent skin. - Style: Space exploration, hyperrealistic textures, vibrant colors",
+        "date_added": "2026-05-21T12:44:15.645049",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A colony on a distant exoplanet, where bioluminescent plants thrive under a sky with three suns. Towering crystalline formations rise from the landscape, pulsating with energy. Scientists in advanced exosuits study the native life forms-creatures with translucent wings and iridescent skin. - Style: Space exploration, hyperrealistic textures, vibrant colors",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A colony on a distant exoplanet, where bioluminescent plants thrive under a sky with three suns. Towering crystalline formations rise from the landscape, pulsating with energy. Scientists in advanced exosuits study the native life forms-creatures with translucent wings and iridescent skin. - Style: Space exploration, hyperrealistic textures, vibrant colors",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A colony on a distant exoplanet, where bioluminescent plants thrive under a sky with three suns. Towering crystalline formations rise from the landscape, pulsating with energy. Scientists in advanced exosuits study the native life forms-creatures with translucent wings and iridescent skin. - Style: Space exploration, hyperrealistic textures, vibrant colors",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00020",
+      "concept": "A grand spaceship port where travelers from multiple",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A grand spaceship port where travelers from multiple galaxies gather, their outfits reflecting the cultures of countless alien worlds. Spaceships of various designs hover in designated landing zones, while an enormous transparent dome showcases the swirling cosmos beyond. - Style: Sci-fi concept art, photorealistic, hyper-detailed",
+        "date_added": "2026-05-21T12:44:15.645469",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A grand spaceship port where travelers from multiple galaxies gather, their outfits reflecting the cultures of countless alien worlds. Spaceships of various designs hover in designated landing zones, while an enormous transparent dome showcases the swirling cosmos beyond. - Style: Sci-fi concept art, photorealistic, hyper-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A grand spaceship port where travelers from multiple galaxies gather, their outfits reflecting the cultures of countless alien worlds. Spaceships of various designs hover in designated landing zones, while an enormous transparent dome showcases the swirling cosmos beyond. - Style: Sci-fi concept art, photorealistic, hyper-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A grand spaceship port where travelers from multiple galaxies gather, their outfits reflecting the cultures of countless alien worlds. Spaceships of various designs hover in designated landing zones, while an enormous transparent dome showcases the swirling cosmos beyond. - Style: Sci-fi concept art, photorealistic, hyper-detailed",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn_00021",
+      "concept": "A scientist inside a zero gravity research station",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_art_prompts_500_midjourney_dall_e_stable_diffusion_prompts_for_beginn",
+        "original_prompt": "A scientist inside a zero-gravity research station orbiting Saturn, their holographic notes floating mid-air as they observe a microscopic black hole contained within a magnetic field. The station\u2019s large observation window reveals Saturn\u2019s rings in breathtaking clarity. - Style: Scientific realism, futuristic aesthetic, cinematic",
+        "date_added": "2026-05-21T12:44:15.645767",
+        "source_file": "AI Art Prompts 500+ MidJourney, DALL-E Stable Diffusion Prompts for Beginners (2025) Ultimate Prompt Engineering Guide for\u2026 (Hayes, Cipher) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A scientist inside a zero-gravity research station orbiting Saturn, their holographic notes floating mid-air as they observe a microscopic black hole contained within a magnetic field. The station\u2019s large observation window reveals Saturn\u2019s rings in breathtaking clarity. - Style: Scientific realism, futuristic aesthetic, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "A scientist inside a zero-gravity research station orbiting Saturn, their holographic notes floating mid-air as they observe a microscopic black hole contained within a magnetic field. The station\u2019s large observation window reveals Saturn\u2019s rings in breathtaking clarity. - Style: Scientific realism, futuristic aesthetic, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A scientist inside a zero-gravity research station orbiting Saturn, their holographic notes floating mid-air as they observe a microscopic black hole contained within a magnetic field. The station\u2019s large observation window reveals Saturn\u2019s rings in breathtaking clarity. - Style: Scientific realism, futuristic aesthetic, cinematic",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00000",
+      "concept": "Landscape",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "Landscape 38, 47, 71, 110, 120, 126,",
+        "date_added": "2026-05-21T12:44:15.856894",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Landscape 38, 47, 71, 110, 120, 126",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Landscape 38, 47, 71, 110, 120, 126",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00001",
+      "concept": "Naturalistic illustration",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "Naturalistic illustration 149,",
+        "date_added": "2026-05-21T12:44:15.857304",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Naturalistic illustration 149",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Naturalistic illustration 149",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00002",
+      "concept": "Macro shot https cdn midjourney com f fb",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "Macro shot: https://cdn.midjourney.com/f47989fb-a7a8-4a5f-8e89-6ebfacfbec5c/0_3.png",
+        "date_added": "2026-05-21T12:44:15.859307",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Macro shot: https://cdn.midjourney.com/f47989fb-a7a8-4a5f-8e89-6ebfacfbec5c/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Macro shot: https://cdn.midjourney.com/f47989fb-a7a8-4a5f-8e89-6ebfacfbec5c/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00003",
+      "concept": "The Alps https cdn midjourney com ff c",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "The Alps: https://cdn.midjourney.com/72ff940c-cae1-4aa1-8f78-7990bdc658f1/0_2.png",
+        "date_added": "2026-05-21T12:44:15.869256",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The Alps: https://cdn.midjourney.com/72ff940c-cae1-4aa1-8f78-7990bdc658f1/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The Alps: https://cdn.midjourney.com/72ff940c-cae1-4aa1-8f78-7990bdc658f1/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00004",
+      "concept": "The Scottish Highlands Skye Island https cdn midjourney",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "The Scottish Highlands Skye Island: https://cdn.midjourney.com/c990e807-beae-45b0-b1a7-78b55555d269/0_1.png",
+        "date_added": "2026-05-21T12:44:15.869734",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The Scottish Highlands Skye Island: https://cdn.midjourney.com/c990e807-beae-45b0-b1a7-78b55555d269/0_1.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "The Scottish Highlands Skye Island: https://cdn.midjourney.com/c990e807-beae-45b0-b1a7-78b55555d269/0_1.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The Scottish Highlands Skye Island: https://cdn.midjourney.com/c990e807-beae-45b0-b1a7-78b55555d269/0_1.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00005",
+      "concept": "The Pyrenees https cdn midjourney com c a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "The Pyrenees: https://cdn.midjourney.com/c254927a-932b-4494-9a1d-31445e78c61e/0_2.png",
+        "date_added": "2026-05-21T12:44:15.869871",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The Pyrenees: https://cdn.midjourney.com/c254927a-932b-4494-9a1d-31445e78c61e/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The Pyrenees: https://cdn.midjourney.com/c254927a-932b-4494-9a1d-31445e78c61e/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00006",
+      "concept": "The Sierra Madre https cdn midjourney com d",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "The Sierra Madre: https://cdn.midjourney.com/188d8192-7c70-45b2-b84a-3da6454d02cc/0_2.png",
+        "date_added": "2026-05-21T12:44:15.870169",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The Sierra Madre: https://cdn.midjourney.com/188d8192-7c70-45b2-b84a-3da6454d02cc/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The Sierra Madre: https://cdn.midjourney.com/188d8192-7c70-45b2-b84a-3da6454d02cc/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00007",
+      "concept": "The Bialowieza Forest https cdn midjourney com e",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "The Bialowieza Forest: https://cdn.midjourney.com/55e1adae-a90f-40e1-a595-16e4ccd05c92/0_2.png",
+        "date_added": "2026-05-21T12:44:15.870824",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The Bialowieza Forest: https://cdn.midjourney.com/55e1adae-a90f-40e1-a595-16e4ccd05c92/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "The Bialowieza Forest: https://cdn.midjourney.com/55e1adae-a90f-40e1-a595-16e4ccd05c92/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The Bialowieza Forest: https://cdn.midjourney.com/55e1adae-a90f-40e1-a595-16e4ccd05c92/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00008",
+      "concept": "Taiheiyo Montane Forest pink trails of trees https",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "Taiheiyo Montane Forest, pink trails of trees: https://cdn.midjourney.com/79816478-90e5-48e5-abf8-5b67e8385bf5/0_2.png",
+        "date_added": "2026-05-21T12:44:15.870949",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Taiheiyo Montane Forest, pink trails of trees: https://cdn.midjourney.com/79816478-90e5-48e5-abf8-5b67e8385bf5/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Taiheiyo Montane Forest, pink trails of trees: https://cdn.midjourney.com/79816478-90e5-48e5-abf8-5b67e8385bf5/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Taiheiyo Montane Forest, pink trails of trees: https://cdn.midjourney.com/79816478-90e5-48e5-abf8-5b67e8385bf5/0_2.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00009",
+      "concept": "The Pantanal https cdn midjourney com bdd eed",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "The Pantanal: https://cdn.midjourney.com/17bdd151-1560-4eed-8862-70164eeaf641/0_3.png",
+        "date_added": "2026-05-21T12:44:15.871307",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The Pantanal: https://cdn.midjourney.com/17bdd151-1560-4eed-8862-70164eeaf641/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The Pantanal: https://cdn.midjourney.com/17bdd151-1560-4eed-8862-70164eeaf641/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00010",
+      "concept": "The Great Blue Hole https cdn midjourney com",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "The Great Blue Hole: https://cdn.midjourney.com/e817369f-dfcd-44b1-a6b7-1965068517e4/0_0.png",
+        "date_added": "2026-05-21T12:44:15.871832",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "The Great Blue Hole: https://cdn.midjourney.com/e817369f-dfcd-44b1-a6b7-1965068517e4/0_0.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "The Great Blue Hole: https://cdn.midjourney.com/e817369f-dfcd-44b1-a6b7-1965068517e4/0_0.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "The Great Blue Hole: https://cdn.midjourney.com/e817369f-dfcd-44b1-a6b7-1965068517e4/0_0.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00011",
+      "concept": "A Fairy https cdn midjourney com a ac",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "A Fairy: https://cdn.midjourney.com/552a26ac-9f58-44a4-82a1-13aa5af27e14/0_0.png",
+        "date_added": "2026-05-21T12:44:15.875991",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A Fairy: https://cdn.midjourney.com/552a26ac-9f58-44a4-82a1-13aa5af27e14/0_0.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A Fairy: https://cdn.midjourney.com/552a26ac-9f58-44a4-82a1-13aa5af27e14/0_0.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00012",
+      "concept": "Portrait on a sketchbook https cdn midjourney com",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "Portrait on a sketchbook: https://cdn.midjourney.com/dd2c27e0-9f4d-4a5a-9141-85105c011044/0_3.png",
+        "date_added": "2026-05-21T12:44:15.877107",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Portrait on a sketchbook: https://cdn.midjourney.com/dd2c27e0-9f4d-4a5a-9141-85105c011044/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Portrait on a sketchbook: https://cdn.midjourney.com/dd2c27e0-9f4d-4a5a-9141-85105c011044/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Portrait on a sketchbook: https://cdn.midjourney.com/dd2c27e0-9f4d-4a5a-9141-85105c011044/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00013",
+      "concept": "A plan https cdn midjourney com a e",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "A plan: https://cdn.midjourney.com/49a7e885-39e2-41a8-bd27-663c1097ff8b/0_1.png",
+        "date_added": "2026-05-21T12:44:15.878023",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "A plan: https://cdn.midjourney.com/49a7e885-39e2-41a8-bd27-663c1097ff8b/0_1.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "A plan: https://cdn.midjourney.com/49a7e885-39e2-41a8-bd27-663c1097ff8b/0_1.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00014",
+      "concept": "Brush pen thick and thin brushes https cdn",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "Brush pen, thick and thin brushes: https://cdn.midjourney.com/db1078f8-eec4-4ba4-b8a7-d42a32e0f1e9/0_0.png",
+        "date_added": "2026-05-21T12:44:15.878467",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Brush pen, thick and thin brushes: https://cdn.midjourney.com/db1078f8-eec4-4ba4-b8a7-d42a32e0f1e9/0_0.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Brush pen, thick and thin brushes: https://cdn.midjourney.com/db1078f8-eec4-4ba4-b8a7-d42a32e0f1e9/0_0.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Brush pen, thick and thin brushes: https://cdn.midjourney.com/db1078f8-eec4-4ba4-b8a7-d42a32e0f1e9/0_0.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s_00015",
+      "concept": "Abstract cyberpunk style https cdn midjourney com d",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_ai_stylespedia_with_midjourney_alex_sandros_z_library_sk_1lib_sk_z_lib_s",
+        "original_prompt": "Abstract cyberpunk style: https://cdn.midjourney.com/d25ac621-e72b-4171-99a5-bb699bbc3366/0_3.png",
+        "date_added": "2026-05-21T12:44:15.887198",
+        "source_file": "AI Stylespedia with Midjourney (Alex Sandros) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "Abstract cyberpunk style: https://cdn.midjourney.com/d25ac621-e72b-4171-99a5-bb699bbc3366/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "Abstract cyberpunk style: https://cdn.midjourney.com/d25ac621-e72b-4171-99a5-bb699bbc3366/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "Abstract cyberpunk style: https://cdn.midjourney.com/d25ac621-e72b-4171-99a5-bb699bbc3366/0_3.png",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

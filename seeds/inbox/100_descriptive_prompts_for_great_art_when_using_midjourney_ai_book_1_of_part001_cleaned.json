@@ -1,0 +1,1212 @@
+{
+  "wildcard_library": {},
+  "prompt_identifiers": [
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00000",
+      "concept": "So take a deep breath open your mind",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "So, take a deep breath, open your mind to the possibilities, and prepare to embark on an exhilarating adventure with Midjourney AI. Let your creativity soar as you explore the intersection of your personal artistic ability and artificial intelligence. Welcome to a world where the boundaries of imagination are limitless, and the journey is just beginning.",
+        "date_added": "2026-05-21T12:44:15.092322",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 0,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "So, take a deep breath, open your mind to the possibilities, and prepare to embark on an exhilarating adventure with Midjourney AI. Let your creativity soar as you explore the intersection of your personal artistic ability and artificial intelligence. Welcome to a world where the boundaries of imagination are limitless, and the journey is just beginning",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "everyday-speech",
+          "syntax_family": "everyday-speech",
+          "positive_template": "So, take a deep breath, open your mind to the possibilities, and prepare to embark on an exhilarating adventure with Midjourney AI. Let your creativity soar as you explore the intersection of your personal artistic ability and artificial intelligence. Welcome to a world where the boundaries of imagination are limitless, and the journey is just beginning",
+          "negative_template": "",
+          "negative_prompt_strategy": "minimal"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "So, take a deep breath, open your mind to the possibilities, and prepare to embark on an exhilarating adventure with Midjourney AI. Let your creativity soar as you explore the intersection of your personal artistic ability and artificial intelligence. Welcome to a world where the boundaries of imagination are limitless, and the journey is just beginning",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00001",
+      "concept": "These prompts cover a wide range of artistic",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "These prompts cover a wide range of artistic styles and themes, allowing MidJourney AI to explore various creative possibilities.",
+        "date_added": "2026-05-21T12:44:15.092525",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 1,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "These prompts cover a wide range of artistic styles and themes, allowing MidJourney AI to explore various creative possibilities",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "These prompts cover a wide range of artistic styles and themes, allowing MidJourney AI to explore various creative possibilities",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00002",
+      "concept": "Paint a realistic portrait of a loved one",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Paint a realistic portrait of a loved one, capturing their unique personality.\"",
+        "date_added": "2026-05-21T12:44:15.093072",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 2,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Paint a realistic portrait of a loved one, capturing their unique personality.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Paint a realistic portrait of a loved one, capturing their unique personality.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00003",
+      "concept": "Compose a mixed media artwork combining acrylic paints",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Compose a mixed media artwork combining acrylic paints, textiles, and found objects.\"",
+        "date_added": "2026-05-21T12:44:15.093335",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 3,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Compose a mixed media artwork combining acrylic paints, textiles, and found objects.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Compose a mixed media artwork combining acrylic paints, textiles, and found objects.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00004",
+      "concept": "Imagine a collage artwork made entirely of recycled",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Imagine a collage artwork made entirely of recycled magazines, exploring themes of sustainability.\"",
+        "date_added": "2026-05-21T12:44:15.093938",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 4,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Imagine a collage artwork made entirely of recycled magazines, exploring themes of sustainability.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Imagine a collage artwork made entirely of recycled magazines, exploring themes of sustainability.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00005",
+      "concept": "Craft a mixed media artwork combining watercolor ink",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Craft a mixed media artwork combining watercolor, ink, and collage elements to portray a dreamy landscape.\"",
+        "date_added": "2026-05-21T12:44:15.094444",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 5,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Craft a mixed media artwork combining watercolor, ink, and collage elements to portray a dreamy landscape.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Craft a mixed media artwork combining watercolor, ink, and collage elements to portray a dreamy landscape.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00006",
+      "concept": "Design an Art Deco inspired pattern for a",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Design an Art Deco-inspired pattern for a luxurious textile, evoking a sense of elegance and glamour.\"",
+        "date_added": "2026-05-21T12:44:15.094626",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 6,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Design an Art Deco-inspired pattern for a luxurious textile, evoking a sense of elegance and glamour.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Design an Art Deco-inspired pattern for a luxurious textile, evoking a sense of elegance and glamour.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00007",
+      "concept": "Create a digital illustration of a futuristic cityscape",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Create a digital illustration of a futuristic cityscape at night, with neon lights and flying cars.\"",
+        "date_added": "2026-05-21T12:44:15.094758",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 7,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a digital illustration of a futuristic cityscape at night, with neon lights and flying cars.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a digital illustration of a futuristic cityscape at night, with neon lights and flying cars.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00008",
+      "concept": "Paint a portrait of a historical figure capturing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Paint a portrait of a historical figure, capturing their essence and significance in a specific era.\"",
+        "date_added": "2026-05-21T12:44:15.094849",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 8,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Paint a portrait of a historical figure, capturing their essence and significance in a specific era.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Paint a portrait of a historical figure, capturing their essence and significance in a specific era.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00009",
+      "concept": "Compose a mixed media artwork using sand shells",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Compose a mixed media artwork using sand, shells, and other natural materials to depict a beach scene.\"",
+        "date_added": "2026-05-21T12:44:15.094978",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 9,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Compose a mixed media artwork using sand, shells, and other natural materials to depict a beach scene.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Compose a mixed media artwork using sand, shells, and other natural materials to depict a beach scene.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00010",
+      "concept": "Craft a pointillism artwork inspired by a starry",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Craft a pointillism artwork inspired by a starry night sky, using small dots of paint to create depth and texture.\"",
+        "date_added": "2026-05-21T12:44:15.095276",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 10,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Craft a pointillism artwork inspired by a starry night sky, using small dots of paint to create depth and texture.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Craft a pointillism artwork inspired by a starry night sky, using small dots of paint to create depth and texture.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00011",
+      "concept": "Paint a landscape inspired by the beauty of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Paint a landscape inspired by the beauty of autumn, with vibrant hues of red, orange, and yellow.\"",
+        "date_added": "2026-05-21T12:44:15.095594",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 11,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Paint a landscape inspired by the beauty of autumn, with vibrant hues of red, orange, and yellow.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Paint a landscape inspired by the beauty of autumn, with vibrant hues of red, orange, and yellow.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00012",
+      "concept": "Illustrate a scene from a favorite book capturing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Illustrate a scene from a favorite book, capturing the essence of the story and its characters.\"",
+        "date_added": "2026-05-21T12:44:15.095796",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 12,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Illustrate a scene from a favorite book, capturing the essence of the story and its characters.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Illustrate a scene from a favorite book, capturing the essence of the story and its characters.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00013",
+      "concept": "Compose a mixed media artwork combining acrylic paint",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Compose a mixed media artwork combining acrylic paint, fabric, and embroidery, exploring themes of identity.\"",
+        "date_added": "2026-05-21T12:44:15.096349",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 13,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Compose a mixed media artwork combining acrylic paint, fabric, and embroidery, exploring themes of identity.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Compose a mixed media artwork combining acrylic paint, fabric, and embroidery, exploring themes of identity.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00014",
+      "concept": "Produce a minimalist photograph of a single object",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Produce a minimalist photograph of a single object, focusing on its shape, texture, and negative space.\"",
+        "date_added": "2026-05-21T12:44:15.096468",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 14,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Produce a minimalist photograph of a single object, focusing on its shape, texture, and negative space.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Produce a minimalist photograph of a single object, focusing on its shape, texture, and negative space.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00015",
+      "concept": "Design a mosaic artwork using colorful tiles capturing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Design a mosaic artwork using colorful tiles, capturing the essence of a bustling marketplace.\"",
+        "date_added": "2026-05-21T12:44:15.096595",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 15,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Design a mosaic artwork using colorful tiles, capturing the essence of a bustling marketplace.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Design a mosaic artwork using colorful tiles, capturing the essence of a bustling marketplace.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00016",
+      "concept": "Paint a portrait of a loved one in",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Paint a portrait of a loved one in a classical Renaissance style, capturing their grace and dignity.\"",
+        "date_added": "2026-05-21T12:44:15.096743",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 16,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Paint a portrait of a loved one in a classical Renaissance style, capturing their grace and dignity.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Paint a portrait of a loved one in a classical Renaissance style, capturing their grace and dignity.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00017",
+      "concept": "Create a digital illustration inspired by the cosmos",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Create a digital illustration inspired by the cosmos, featuring swirling galaxies and celestial bodies.\"",
+        "date_added": "2026-05-21T12:44:15.096969",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 17,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a digital illustration inspired by the cosmos, featuring swirling galaxies and celestial bodies.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a digital illustration inspired by the cosmos, featuring swirling galaxies and celestial bodies.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00018",
+      "concept": "Compose an abstract artwork using unconventional materials like",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Compose an abstract artwork using unconventional materials like coffee grounds, exploring texture and earthy tones.\"",
+        "date_added": "2026-05-21T12:44:15.097166",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 18,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Compose an abstract artwork using unconventional materials like coffee grounds, exploring texture and earthy tones.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Compose an abstract artwork using unconventional materials like coffee grounds, exploring texture and earthy tones.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00019",
+      "concept": "Produce a mixed media artwork combining photography and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Produce a mixed media artwork combining photography and painting techniques, blurring the line between reality and imagination.\"",
+        "date_added": "2026-05-21T12:44:15.097265",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 19,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Produce a mixed media artwork combining photography and painting techniques, blurring the line between reality and imagination.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Produce a mixed media artwork combining photography and painting techniques, blurring the line between reality and imagination.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00020",
+      "concept": "Illustrate a scene from a favorite movie capturing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Illustrate a scene from a favorite movie, capturing the essence of its characters and capturing a key moment.\"",
+        "date_added": "2026-05-21T12:44:15.097434",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 20,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Illustrate a scene from a favorite movie, capturing the essence of its characters and capturing a key moment.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Illustrate a scene from a favorite movie, capturing the essence of its characters and capturing a key moment.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00021",
+      "concept": "Create a digital painting of a bustling street",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Create a digital painting of a bustling street scene in a vibrant, urban neighborhood.\"",
+        "date_added": "2026-05-21T12:44:15.097578",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 21,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a digital painting of a bustling street scene in a vibrant, urban neighborhood.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a digital painting of a bustling street scene in a vibrant, urban neighborhood.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00022",
+      "concept": "Paint a portrait of an influential historical figure",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Paint a portrait of an influential historical figure, using bold and expressive brushstrokes to convey their impact.\"",
+        "date_added": "2026-05-21T12:44:15.097668",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 22,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Paint a portrait of an influential historical figure, using bold and expressive brushstrokes to convey their impact.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Paint a portrait of an influential historical figure, using bold and expressive brushstrokes to convey their impact.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00023",
+      "concept": "Craft a collage artwork using old photographs and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Craft a collage artwork using old photographs and handwritten letters, exploring themes of memory and nostalgia.\"",
+        "date_added": "2026-05-21T12:44:15.097810",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 23,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Craft a collage artwork using old photographs and handwritten letters, exploring themes of memory and nostalgia.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Craft a collage artwork using old photographs and handwritten letters, exploring themes of memory and nostalgia.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00024",
+      "concept": "Illustrate a whimsical underwater scene filled with colorful",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Illustrate a whimsical underwater scene filled with colorful fish, coral reefs, and hidden treasures.\"",
+        "date_added": "2026-05-21T12:44:15.097935",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 24,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Illustrate a whimsical underwater scene filled with colorful fish, coral reefs, and hidden treasures.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Illustrate a whimsical underwater scene filled with colorful fish, coral reefs, and hidden treasures.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00025",
+      "concept": "Compose a mixed media artwork combining watercolor and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Compose a mixed media artwork combining watercolor and ink, capturing the essence of a rainy day in a city.\"",
+        "date_added": "2026-05-21T12:44:15.098124",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 25,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Compose a mixed media artwork combining watercolor and ink, capturing the essence of a rainy day in a city.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Compose a mixed media artwork combining watercolor and ink, capturing the essence of a rainy day in a city.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00026",
+      "concept": "Paint a landscape inspired by the beauty of",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Paint a landscape inspired by the beauty of spring, capturing the blooming flowers and vibrant colors.\"",
+        "date_added": "2026-05-21T12:44:15.098250",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 26,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Paint a landscape inspired by the beauty of spring, capturing the blooming flowers and vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Paint a landscape inspired by the beauty of spring, capturing the blooming flowers and vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00027",
+      "concept": "Design a graphic artwork inspired by the energy",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Design a graphic artwork inspired by the energy and rhythm of music, using bold lines and dynamic shapes.\"",
+        "date_added": "2026-05-21T12:44:15.098435",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 27,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Design a graphic artwork inspired by the energy and rhythm of music, using bold lines and dynamic shapes.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Design a graphic artwork inspired by the energy and rhythm of music, using bold lines and dynamic shapes.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00028",
+      "concept": "Produce a mixed media artwork combining acrylic paint",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Produce a mixed media artwork combining acrylic paint and embroidery, exploring themes of femininity and empowerment.\"",
+        "date_added": "2026-05-21T12:44:15.098617",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 28,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Produce a mixed media artwork combining acrylic paint and embroidery, exploring themes of femininity and empowerment.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Produce a mixed media artwork combining acrylic paint and embroidery, exploring themes of femininity and empowerment.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00029",
+      "concept": "Illustrate a scene from a fairy tale capturing",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Illustrate a scene from a fairy tale, capturing the enchantment and whimsy of the story.\"",
+        "date_added": "2026-05-21T12:44:15.098708",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 29,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Illustrate a scene from a fairy tale, capturing the enchantment and whimsy of the story.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Illustrate a scene from a fairy tale, capturing the enchantment and whimsy of the story.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00030",
+      "concept": "Compose an abstract artwork using encaustic wax creating",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Compose an abstract artwork using encaustic wax, creating layers of texture and vibrant colors.\"",
+        "date_added": "2026-05-21T12:44:15.098791",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 30,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Compose an abstract artwork using encaustic wax, creating layers of texture and vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Compose an abstract artwork using encaustic wax, creating layers of texture and vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00031",
+      "concept": "Create a digital painting of an otherworldly landscape",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Create a digital painting of an otherworldly landscape, featuring floating islands and mystical creatures.\"",
+        "date_added": "2026-05-21T12:44:15.098875",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 31,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a digital painting of an otherworldly landscape, featuring floating islands and mystical creatures.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a digital painting of an otherworldly landscape, featuring floating islands and mystical creatures.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00032",
+      "concept": "Paint a portrait of a musician capturing their",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Paint a portrait of a musician, capturing their passion and connection to their instrument.\"",
+        "date_added": "2026-05-21T12:44:15.099025",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 32,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Paint a portrait of a musician, capturing their passion and connection to their instrument.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Paint a portrait of a musician, capturing their passion and connection to their instrument.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00033",
+      "concept": "Design a pattern inspired by the intricate geometry",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Design a pattern inspired by the intricate geometry of Islamic art, with repetitive motifs and vibrant colors.\"",
+        "date_added": "2026-05-21T12:44:15.099137",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 33,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Design a pattern inspired by the intricate geometry of Islamic art, with repetitive motifs and vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Design a pattern inspired by the intricate geometry of Islamic art, with repetitive motifs and vibrant colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00034",
+      "concept": "Produce a mixed media artwork combining photography and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Produce a mixed media artwork combining photography and digital manipulation, creating a surreal and dreamlike composition.\"",
+        "date_added": "2026-05-21T12:44:15.099271",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 34,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Produce a mixed media artwork combining photography and digital manipulation, creating a surreal and dreamlike composition.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Produce a mixed media artwork combining photography and digital manipulation, creating a surreal and dreamlike composition.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00035",
+      "concept": "Illustrate a scene from a favorite mythological story",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Illustrate a scene from a favorite mythological story, capturing the epic battles and mythical creatures.\"",
+        "date_added": "2026-05-21T12:44:15.099362",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 35,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Illustrate a scene from a favorite mythological story, capturing the epic battles and mythical creatures.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Illustrate a scene from a favorite mythological story, capturing the epic battles and mythical creatures.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00036",
+      "concept": "Compose a still life composition featuring vintage cameras",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Compose a still life composition featuring vintage cameras and photography equipment, celebrating the art of capturing moments.\"",
+        "date_added": "2026-05-21T12:44:15.099511",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 36,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Compose a still life composition featuring vintage cameras and photography equipment, celebrating the art of capturing moments.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Compose a still life composition featuring vintage cameras and photography equipment, celebrating the art of capturing moments.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00037",
+      "concept": "Create a digital illustration of a futuristic cityscape",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Create a digital illustration of a futuristic cityscape at dawn, with a blend of natural and technological elements.\"",
+        "date_added": "2026-05-21T12:44:15.099632",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 37,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Create a digital illustration of a futuristic cityscape at dawn, with a blend of natural and technological elements.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Create a digital illustration of a futuristic cityscape at dawn, with a blend of natural and technological elements.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00038",
+      "concept": "Paint an abstract artwork inspired by the beauty",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Paint an abstract artwork inspired by the beauty and movement of dance, using expressive brushstrokes and bold colors.\"",
+        "date_added": "2026-05-21T12:44:15.099730",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 38,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Paint an abstract artwork inspired by the beauty and movement of dance, using expressive brushstrokes and bold colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Paint an abstract artwork inspired by the beauty and movement of dance, using expressive brushstrokes and bold colors.\"",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    },
+    {
+      "identifier": "100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of_00039",
+      "concept": "Craft a mixed media artwork combining printmaking and",
+      "status": "active",
+      "metadata": {
+        "original_source": "inbox_100_descriptive_prompts_for_great_art_when_using_midjourney_ai_book_1_of",
+        "original_prompt": "\"Craft a mixed media artwork combining printmaking and collage, exploring Art Neveaux.\u201d",
+        "date_added": "2026-05-21T12:44:15.099908",
+        "source_file": "100 Descriptive Prompts for Great Art When Using Midjourney AI Book 1 of the A.I. Prompts Series (Acedo, Steven) (z-library.sk, 1lib.sk, z-lib.sk).txt",
+        "source_index": 39,
+        "ingestion_path": "tools/prepare_inbox.py"
+      },
+      "wildcard_refs": [],
+      "style_variations": [
+        {
+          "identifier": "comma-separated",
+          "syntax_family": "comma-separated",
+          "positive_template": "\"Craft a mixed media artwork combining printmaking and collage, exploring Art Neveaux.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        },
+        {
+          "identifier": "structured-fields",
+          "syntax_family": "structured-fields",
+          "positive_template": "\"Craft a mixed media artwork combining printmaking and collage, exploring Art Neveaux.\u201d",
+          "negative_template": "",
+          "negative_prompt_strategy": "standard"
+        }
+      ]
+    }
+  ]
+}

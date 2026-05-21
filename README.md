@@ -106,6 +106,30 @@ Then import the cleaned file into SQLite:
 python -m prompt_library.cli import seeds/source_name_cleaned.json
 ```
 
+## Preparing Inbox Files
+
+Raw prompt books and OCR exports belong in `inbox/`, which is ignored by Git.
+Prepare the top-level `.txt` files into chunked seed files:
+
+```bash
+python tools/prepare_inbox.py
+```
+
+This writes `seeds/inbox/*_cleaned.json` files with up to 500 prompts each and
+stable source-prefixed identifiers. Preview first with:
+
+```bash
+python tools/prepare_inbox.py --dry-run
+```
+
+Import prepared chunks:
+
+```bash
+for file in seeds/inbox/*_cleaned.json; do
+  python -m prompt_library.cli import "$file"
+done
+```
+
 ## JSON Import Shape
 
 ```json
