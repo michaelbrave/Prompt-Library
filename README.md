@@ -130,6 +130,16 @@ for file in seeds/inbox/*_cleaned.json; do
 done
 ```
 
+Large zipped `.prompts` packs can be imported without creating intermediate
+JSON files:
+
+```bash
+python tools/import_prompt_zip.py inbox/kkwprompt.zip
+```
+
+`data/prompts.db` is tracked with Git LFS because full prompt-pack imports can
+push the SQLite database beyond GitHub's normal file-size limit.
+
 ## JSON Import Shape
 
 ```json

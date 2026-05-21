@@ -9,6 +9,7 @@ dependencies = []
 prompt-library = "prompt_library.cli:main"
 clean-prompts = "clean_prompts:main"
 prepare-inbox = "tools.prepare_inbox:main"
+import-prompt-zip = "tools.import_prompt_zip:main"
 
 [build-system]
 requires = ["setuptools>=68.0"]
