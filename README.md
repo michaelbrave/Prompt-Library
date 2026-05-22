@@ -44,6 +44,24 @@ Validate wildcard bindings:
 python -m prompt_library.cli validate
 ```
 
+Build benchmark prompt sets:
+
+```bash
+python tools/build_eval_sets.py --target 100 --specialized-target 25
+```
+
+This creates `eval-core-100` plus domain-focused evaluation sets in SQLite and
+writes a selection report to `docs/eval-core-100.md`.
+
+Generate missing style variants with an external LLM worker:
+
+```bash
+python tools/generate_missing_styles.py --prompt-set eval-core-100 --limit 25 --llm-cmd "YOUR_LLM_WORKER_COMMAND"
+```
+
+See `docs/style-variation-generation-plan.md` for the worker contract and
+rollout plan.
+
 ## Database Workflow
 
 Initialize an empty database:

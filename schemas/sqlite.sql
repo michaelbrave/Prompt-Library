@@ -116,6 +116,23 @@ CREATE TABLE IF NOT EXISTS prompt_set_members (
     UNIQUE(prompt_set_id, prompt_id)
 );
 
+-- Tracks LLM-backed generation of missing prompt style variants
+CREATE TABLE IF NOT EXISTS style_generation_jobs (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    prompt_id INTEGER NOT NULL REFERENCES prompts(id),
+    style_profile_id INTEGER NOT NULL REFERENCES prompt_style_profiles(id),
+    status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'running', 'completed', 'failed', 'skipped')),
+    source_template_id INTEGER REFERENCES prompt_templates(id),
+    task_payload TEXT NOT NULL DEFAULT '{}',
+    response_payload TEXT,
+    error_log TEXT,
+    attempt_count INTEGER NOT NULL DEFAULT 0,
+    created_at TEXT NOT NULL DEFAULT (datetime('now')),
+    updated_at TEXT NOT NULL DEFAULT (datetime('now')),
+    completed_at TEXT,
+    UNIQUE(prompt_id, style_profile_id)
+);
+
 -- Imports (track import jobs)
 CREATE TABLE IF NOT EXISTS imports (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -148,3 +165,5 @@ CREATE INDEX IF NOT EXISTS idx_wildcard_values_definition ON wildcard_values(wil
 CREATE INDEX IF NOT EXISTS idx_prompt_versions_prompt ON prompt_versions(prompt_id);
 CREATE INDEX IF NOT EXISTS idx_prompt_set_members_set ON prompt_set_members(prompt_set_id);
 CREATE INDEX IF NOT EXISTS idx_prompt_set_members_position ON prompt_set_members(prompt_set_id, position);
+CREATE INDEX IF NOT EXISTS idx_style_generation_jobs_status ON style_generation_jobs(status);
+CREATE INDEX IF NOT EXISTS idx_style_generation_jobs_prompt ON style_generation_jobs(prompt_id);

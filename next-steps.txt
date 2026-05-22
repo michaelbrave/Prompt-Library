@@ -1,0 +1,173 @@
+› in the inbox/ there is a txt file that represents the most common english words, my plan it to use these somehow to filter the wildcards, or rather highlight the most common of them to be used as sort of default prompts,
+  the idea being that of the 700k prompts I want to find 100 that is a good spread of diverse ideas and styles that can be used as an evaluation layer of an image generation model, but we still use wildcards to keep it
+  flexible, but we should build that sort of default evaluation layer but I may need to constrain it further into other more specialized styles for example realistic/photographry vs anime/cartoon vs illustration vs painting
+  vs cgi etc, because I will be splitting the aesthetic scorers that will be part of this future process by topic similarly for future stages of the project. your thoughts on what we should do or how we should approach this?
+
+
+• Yes, that direction makes sense, but I would not use “most common English words” as a direct source of prompt defaults. I’d use it as a filtering and scoring aid.
+
+  The goal should be: build a curated evaluation layer that is small, diverse, wildcard-flexible, and stratified by visual domain.
+
+  Recommended Approach
+
+  1. Create evaluation prompt sets
+     Use prompt_sets / prompt_set_members for stable evaluation groups instead of creating a separate ad hoc file.
+
+  Initial sets:
+
+  - eval-core-100
+  - eval-photography-25
+  - eval-anime-cartoon-25
+  - eval-illustration-painting-25
+  - eval-cgi-render-25
+
+  Later:
+
+  - eval-character
+  - eval-landscape
+  - eval-product
+  - eval-architecture
+  - eval-abstract
+  - eval-style-transfer
+  - eval-hard-anatomy
+  - eval-textures-materials
+
+  2. Use common English words as a noise filter
+     The common-word list is useful for identifying phrases that are too generic.
+
+  For example, wildcard values like:
+
+  - good
+  - beautiful
+  - large
+  - person
+  - thing
+  - image
+  - style
+
+  are probably poor wildcard anchors by themselves.
+
+  But values like:
+
+  - cinematic lighting
+  - studio portrait
+  - digital painting
+  - watercolor painting
+  - full body
+  - golden hour
+  - cyberpunk city
+  - anime girl
+  - oil painting
+
+  are much more useful.
+
+  So the common English list should help calculate a “specificity score”:
+
+  - Penalize phrases made mostly of common words.
+  - Reward visual/domain terms.
+  - Reward multi-word phrases.
+  - Reward terms that map to useful categories: style, medium, lighting, subject, composition, environment.
+
+  3. Score prompts for evaluation usefulness
+     For each prompt/template, compute features like:
+
+  - Wildcard coverage: does it contain useful {style_medium}, {lighting}, {camera_angle}, {location_environment}, {person_subject}, etc.?
+  - Category coverage: does it exercise subject, style, composition, lighting, and environment?
+  - Length sanity: not too short, not huge.
+  - Diversity: avoid near-duplicates.
+  - Renderable clarity: prompt describes something visual and concrete.
+  - Specialization tag: photography/anime/painting/cgi/etc.
+  - Aesthetic difficulty: anatomy, hands, lighting, reflections, fabric, perspective, motion, multi-subject, etc.
+
+  4. Cluster before selecting
+     Do not just take top 100 by score. That will over-select similar prompts.
+
+  Better:
+
+  - Embed or approximate cluster by tags/categories.
+  - Select representatives from clusters.
+  - Enforce quotas:
+      - 20 photography/realistic
+      - 20 anime/cartoon
+      - 20 illustration/painting
+      - 20 CGI/3D/render/product
+      - 20 mixed/hard/general
+
+  Within each group, force diversity across:
+
+  - subject type
+  - environment
+  - lighting
+  - composition
+  - color palette
+  - action/pose
+  - style medium
+
+  5. Keep prompts wildcarded but bounded
+     For evaluation, too much random wildcard freedom can make comparisons noisy. I’d use controlled wildcard strategies:
+
+  - For each evaluation prompt, bind only 2-5 wildcard categories.
+  - Store fixed render seeds for benchmark runs.
+  - Allow “variation runs” separately.
+
+  Example:
+
+  A {person_subject} in a {location_environment}, {lighting}, {camera_angle}, {style_medium}
+
+  But avoid prompts where every important noun is random. The evaluation prompt should preserve intent while varying enough to test robustness.
+
+  6. Build two layers
+     I’d split this into:
+
+  Core benchmark layer
+  Stable, fixed, comparable:
+
+  - 100 prompts
+  - fixed wildcard seeds
+  - fixed prompt versions
+  - used for model-to-model scoring
+
+  Exploration layer
+  Larger, flexible:
+
+  - 500-1000 prompts
+  - broader wildcard randomization
+  - used to discover weaknesses, train scorers, or sample aesthetics
+
+  7. Store selection reasoning
+     Every eval prompt should have metadata like:
+
+  {
+    "eval_domain": "photography",
+    "eval_tags": ["portrait", "lighting", "realism", "skin", "composition"],
+    "selection_reason": "High clarity portrait prompt with lighting and camera wildcard coverage",
+    "difficulty": ["face", "skin texture", "studio lighting"],
+    "default_render_seed": 12345
+  }
+
+  What I Would Do Next
+  I’d add a tool like:
+
+  python tools/build_eval_sets.py --target 100
+
+  It would:
+
+  - load the common English word list from inbox/
+  - score wildcard values for specificity
+  - score prompts for benchmark usefulness
+  - classify prompts into broad domains
+  - pick a diverse eval-core-100
+  - insert it into prompt_sets / prompt_set_members
+  - write a report to docs/eval-core-100.md with selected prompts and reasons
+
+  The important part: don’t let the common-word file drive the selection directly. Use it to suppress generic terms and highlight visually meaningful wildcard values. The actual eval set should be selected by diversity,
+  visual specificity, wildcard coverage, and domain quotas.
+
+
+
+  also add a note to the plan about removing prompts that are too similar, and another note that we still need to transcribe
+  all the prompts into different prompt-styles but that should be done once we pair them down significantly
+
+Implementation note:
+- Evaluation selection should include approximate similarity pruning so near-duplicate prompts do not crowd out the core benchmark.
+- Prompt-style transcription remains a later pass. First narrow and review the evaluation pool, then convert the survivors into the different prompt-style variants.
