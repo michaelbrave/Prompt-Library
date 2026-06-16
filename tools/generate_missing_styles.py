@@ -9,6 +9,7 @@ import shlex
 import sqlite3
 import subprocess
 import sys
+from datetime import datetime, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -111,8 +112,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--task-dir", type=Path, help="Write task JSON files here instead of calling an LLM.")
     parser.add_argument("--dry-run", action="store_true", help="Print selected missing jobs without writing templates.")
     parser.add_argument("--retry-failed", action="store_true", help="Retry failed jobs as well as pending jobs.")
+    parser.add_argument("--failed-only", action="store_true", help="Only retry failed jobs. Useful for cleanup runs with a different model.")
+    parser.add_argument("--retry-stale-running-minutes", type=int, default=120, help="Treat running jobs older than this many minutes as retryable. Use 0 to disable.")
     parser.add_argument("--allow-wildcard-drop", action="store_true", help="Allow generated positive templates to omit source wildcards.")
     parser.add_argument("--include-existing", action="store_true", help="Regenerate even when an enabled template already exists.")
+    parser.add_argument("--strip-extra-wildcards", action="store_true", help="Strip unknown wildcards from generated templates instead of failing.")
+    parser.add_argument("--stats", action="store_true", help="Print completion stats and exit.")
     return parser.parse_args()
 
 
@@ -225,6 +230,8 @@ def missing_jobs(
     prompt_set: str | None,
     include_existing: bool,
     retry_failed: bool,
+    failed_only: bool,
+    retry_stale_running_minutes: int,
     limit: int,
 ):
     cursor = conn.cursor()
@@ -246,9 +253,29 @@ def missing_jobs(
             if not include_existing and enabled_template_exists(cursor, prompt["id"], style_id):
                 continue
             status = job_status(cursor, prompt["id"], style_id)
-            if status == "failed" and not retry_failed:
+            if failed_only and status != "failed":
                 continue
-            if status in {"running", "completed", "skipped"}:
+            if status == "failed" and not (retry_failed or failed_only):
+                continue
+            if status == "running" and retry_stale_running_minutes > 0:
+                cursor.execute(
+                    """
+                    SELECT updated_at
+                    FROM style_generation_jobs
+                    WHERE prompt_id = ? AND style_profile_id = ?
+                    """,
+                    (prompt["id"], style_id),
+                )
+                running_row = cursor.fetchone()
+                updated_at = running_row["updated_at"] if running_row else None
+                stale_before = datetime.utcnow() - timedelta(minutes=retry_stale_running_minutes)
+                try:
+                    is_stale = updated_at and datetime.fromisoformat(updated_at) < stale_before
+                except ValueError:
+                    is_stale = False
+                if not is_stale:
+                    continue
+            elif status in {"running", "completed", "skipped"}:
                 continue
             source = select_source_template(cursor, prompt["id"], style_id)
             if source is None:
@@ -349,6 +376,15 @@ def validate_response(response: dict, required_wildcards: list[str], allow_wildc
             raise ValueError(f"Generated positive template omitted required wildcards: {sorted(missing)}")
 
 
+def strip_extra_wildcards(text: str, allowed: set[str]) -> str:
+    """Remove unknown wildcard placeholders from a template string."""
+    allowed = allowed | {"concept"}
+    for key in extract_wildcard_keys(text):
+        if key not in allowed:
+            text = text.replace("{" + key + "}", key.replace("_", " "))
+    return text
+
+
 def upsert_template(cursor, prompt_id: int, style_id: int, response: dict) -> None:
     positive = response["positive_template"]
     negative = response["negative_template"]
@@ -427,8 +463,76 @@ def write_task_file(task_dir: Path, prompt_identifier: str, style_name: str, tas
     return path
 
 
+def print_stats(conn, style_names: list[str], prompt_set: str | None = None) -> None:
+    cursor = conn.cursor()
+    style_placeholders = ",".join("?" for _ in style_names)
+    scope_sql, scope_params = prompt_scope_sql(prompt_set)
+
+    cursor.execute(f"SELECT COUNT(*) AS cnt FROM prompts p WHERE {scope_sql}", scope_params)
+    active_prompts = cursor.fetchone()["cnt"]
+
+    cursor.execute(f"""
+        SELECT psp.identifier, COUNT(p.id) AS done
+        FROM prompt_style_profiles psp
+        LEFT JOIN prompt_templates pt ON pt.style_profile_id = psp.id AND pt.enabled = 1
+        LEFT JOIN prompts p ON p.id = pt.prompt_id AND {scope_sql}
+        WHERE psp.identifier IN ({style_placeholders})
+        GROUP BY psp.identifier
+    """, [*scope_params, *style_names])
+    template_counts = {row["identifier"]: row["done"] or 0 for row in cursor.fetchall()}
+
+    cursor.execute(f"""
+        SELECT psp.identifier, sgj.status, COUNT(*) AS cnt
+        FROM prompt_style_profiles psp
+        LEFT JOIN style_generation_jobs sgj ON sgj.style_profile_id = psp.id
+        LEFT JOIN prompts p ON p.id = sgj.prompt_id
+        WHERE psp.identifier IN ({style_placeholders})
+          AND (sgj.id IS NULL OR {scope_sql})
+        GROUP BY psp.identifier, sgj.status
+    """, [*style_names, *scope_params])
+    job_counts: dict[str, dict[str, int]] = {name: {} for name in style_names}
+    for row in cursor.fetchall():
+        if row["status"] is not None:
+            job_counts.setdefault(row["identifier"], {})[row["status"]] = row["cnt"] or 0
+
+    needed_all = active_prompts * len(style_names)
+    done_all = 0
+    failed_all = 0
+    running_all = 0
+    print()
+    print(f"{'Style':<22} {'Needed':>9} {'Done':>9} {'Left':>9} {'Failed':>7} {'Run':>5} {'Done%':>7} {'Left%':>7}")
+    print("-" * 82)
+    for name in sorted(style_names):
+        needed = active_prompts
+        done = template_counts.get(name, 0)
+        left = max(needed - done, 0)
+        failed = job_counts.get(name, {}).get("failed", 0)
+        running = job_counts.get(name, {}).get("running", 0)
+        done_pct = 100 * done / needed if needed else 0
+        left_pct = 100 * left / needed if needed else 0
+        print(f"{name:<22} {needed:>9} {done:>9} {left:>9} {failed:>7} {running:>5} {done_pct:>6.2f}% {left_pct:>6.2f}%")
+        done_all += done
+        failed_all += failed
+        running_all += running
+    left_all = max(needed_all - done_all, 0)
+    done_pct_all = 100 * done_all / needed_all if needed_all else 0
+    left_pct_all = 100 * left_all / needed_all if needed_all else 0
+    print("-" * 82)
+    print(f"{'ALL':<22} {needed_all:>9} {done_all:>9} {left_all:>9} {failed_all:>7} {running_all:>5} {done_pct_all:>6.2f}% {left_pct_all:>6.2f}%")
+    scope_label = prompt_set or "all active prompts"
+    print(f"\nScope: {scope_label}")
+    print(f"Active prompts: {active_prompts}  |  Styles per prompt: {len(style_names)}")
+    print(f"Total style slots: {needed_all}  |  Done: {done_all}  |  Left: {left_all}")
+    print(f"Failed jobs available for cleanup retry: {failed_all}")
+
+
 def main() -> None:
     args = parse_args()
+    if args.stats:
+        conn = get_connection(args.db)
+        style_names = args.style or list(TARGET_STYLES)
+        print_stats(conn, style_names, args.prompt_set)
+        return
     if args.limit <= 0:
         raise SystemExit("--limit must be positive")
     if not args.dry_run and not args.task_dir and not args.llm_cmd:
@@ -439,7 +543,16 @@ def main() -> None:
     if not args.dry_run:
         ensure_schema(conn)
     style_ids = ensure_style_profiles(conn, style_names, args.dry_run)
-    jobs = missing_jobs(conn, style_ids, args.prompt_set, args.include_existing, args.retry_failed, args.limit)
+    jobs = missing_jobs(
+        conn,
+        style_ids,
+        args.prompt_set,
+        args.include_existing,
+        args.retry_failed,
+        args.failed_only,
+        args.retry_stale_running_minutes,
+        args.limit,
+    )
 
     cursor = conn.cursor()
     processed = 0
@@ -462,7 +575,18 @@ def main() -> None:
             mark_job(cursor, job_id, "running")
             conn.commit()
             response = call_llm(args.llm_cmd, task)
-            validate_response(response, task["required_wildcards"], args.allow_wildcard_drop)
+            try:
+                validate_response(response, task["required_wildcards"], args.allow_wildcard_drop)
+            except ValueError as exc:
+                estr = str(exc)
+                if args.strip_extra_wildcards and "introduced unbound wildcards" in estr:
+                    allowed = set(task["required_wildcards"])
+                    for key in ["positive_template", "negative_template"]:
+                        response[key] = strip_extra_wildcards(response.get(key, ""), allowed)
+                    validate_response(response, task["required_wildcards"], args.allow_wildcard_drop)
+                    print(f"  (stripped extra wildcards from {label})")
+                else:
+                    raise
             upsert_template(cursor, prompt["id"], style_id, response)
             mark_job(cursor, job_id, "completed", response=response)
             conn.commit()
@@ -473,6 +597,8 @@ def main() -> None:
             conn.commit()
             print(f"Failed {label}: {exc}", file=sys.stderr)
 
+    if not args.dry_run:
+        print_stats(conn, style_names, args.prompt_set)
     if not jobs:
         print("No missing style variants found for the selected scope.")
     else:
